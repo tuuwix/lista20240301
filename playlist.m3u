@@ -2819,8 +2819,6 @@ http://elitex.me:80/82422w1258/w94824313619/10054337
 http://elitex.me:80/82422w1258/w94824313619/17333
 #EXTINF:-1 tvg-id="Syfy.br" tvg-name="USA  FHD H265*" tvg-logo="https://i.postimg.cc/nrJ5wYGR/USA-Network-Symbol.png" group-title="GLOBOSAT FILMES",USA  FHD H265*
 http://elitex.me:80/82422w1258/w94824313619/10054336
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="USA HD*" tvg-logo="https://i.postimg.cc/nrJ5wYGR/USA-Network-Symbol.png" group-title="GLOBOSAT FILMES",USA HD*
-http://elitex.me:80/82422w1258/w94824313619/10054335
 #EXTINF:-1 tvg-id="Syfy.br" tvg-name="USA  HDᴮᴿ" tvg-logo="https://i.postimg.cc/nrJ5wYGR/USA-Network-Symbol.png" group-title="GLOBOSAT FILMES",USA  HDᴮᴿ
 http://elitex.me:80/82422w1258/w94824313619/17046
 #EXTINF:-1 tvg-id="Syfy.br" tvg-name="USA  SD" tvg-logo="https://i.postimg.cc/nrJ5wYGR/USA-Network-Symbol.png" group-title="GLOBOSAT FILMES",USA  SD
@@ -3005,6 +3003,352 @@ http://elitex.me:80/82422w1258/w94824313619/10055058
 http://elitex.me:80/82422w1258/w94824313619/9532
 #EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY SD [LEG]*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/210.png" group-title="CANAIS LEGENDADOS",CANAL SONY SD [LEG]*
 http://elitex.me:80/82422w1258/w94824313619/10054932
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="USA HD*" tvg-logo="https://i.postimg.cc/nrJ5wYGR/USA-Network-Symbol.png" group-title="ESTADOS UNIDOS",USA HD*
+http://elitex.me:80/82422w1258/w94824313619/10054335
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: ABC-WCVB" tvg-logo="http://elitex.ddns.me:80/images/a151f846dedaaa2c80a5c5f249cbf442.png" group-title="ESTADOS UNIDOS",EUA: ABC-WCVB
+http://elitex.me:80/82422w1258/w94824313619/10119419
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: ABC-WSB" tvg-logo="http://elitex.ddns.me:80/images/3fcb344874398ec3980bd48e44f92024.png" group-title="ESTADOS UNIDOS",EUA: ABC-WSB
+http://elitex.me:80/82422w1258/w94824313619/10119418
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US ABC (WABC) NEW YORK (D)" tvg-logo="" group-title="ESTADOS UNIDOS",US ABC (WABC) NEW YORK (D)
+http://elitex.me:80/82422w1258/w94824313619/10117736
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US ABC 10 (WPLG) MIAMI (A)" tvg-logo="" group-title="ESTADOS UNIDOS",US ABC 10 (WPLG) MIAMI (A)
+http://elitex.me:80/82422w1258/w94824313619/10117735
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US CBS (WBZ) BOSTON (D)" tvg-logo="" group-title="ESTADOS UNIDOS",US CBS (WBZ) BOSTON (D)
+http://elitex.me:80/82422w1258/w94824313619/10117734
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US CBS 2 (WCBS) NEW YORK (A)" tvg-logo="" group-title="ESTADOS UNIDOS",US CBS 2 (WCBS) NEW YORK (A)
+http://elitex.me:80/82422w1258/w94824313619/10117733
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US CBS 4 (WFOR) MIAMI (A)" tvg-logo="" group-title="ESTADOS UNIDOS",US CBS 4 (WFOR) MIAMI (A)
+http://elitex.me:80/82422w1258/w94824313619/10117732
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US CW 56 (WLVI) BOSTON (H)" tvg-logo="" group-title="ESTADOS UNIDOS",US CW 56 (WLVI) BOSTON (H)
+http://elitex.me:80/82422w1258/w94824313619/10117731
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US CW PIX11 (WPIX) NEW YORK (L)" tvg-logo="" group-title="ESTADOS UNIDOS",US CW PIX11 (WPIX) NEW YORK (L)
+http://elitex.me:80/82422w1258/w94824313619/10117730
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US FOX (WFXT) BOSTON (F)" tvg-logo="" group-title="ESTADOS UNIDOS",US FOX (WFXT) BOSTON (F)
+http://elitex.me:80/82422w1258/w94824313619/10117729
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US FOX 5 (WNYW) NEW YORK (A)" tvg-logo="" group-title="ESTADOS UNIDOS",US FOX 5 (WNYW) NEW YORK (A)
+http://elitex.me:80/82422w1258/w94824313619/10117728
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US FOX 7 (WSVN) MIAMI (A)" tvg-logo="" group-title="ESTADOS UNIDOS",US FOX 7 (WSVN) MIAMI (A)
+http://elitex.me:80/82422w1258/w94824313619/10117727
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US NBC 10 (WBTS) BOSTON (S)" tvg-logo="" group-title="ESTADOS UNIDOS",US NBC 10 (WBTS) BOSTON (S)
+http://elitex.me:80/82422w1258/w94824313619/10117726
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US NBC 4 (WNBC) NEW YORK (A)" tvg-logo="" group-title="ESTADOS UNIDOS",US NBC 4 (WNBC) NEW YORK (A)
+http://elitex.me:80/82422w1258/w94824313619/10117725
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US NBC 6 (WTVJ) MIAMI (A)" tvg-logo="" group-title="ESTADOS UNIDOS",US NBC 6 (WTVJ) MIAMI (A)
+http://elitex.me:80/82422w1258/w94824313619/10117724
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US UNIMAS 27 (WUTF) BOSTON (S)" tvg-logo="" group-title="ESTADOS UNIDOS",US UNIMAS 27 (WUTF) BOSTON (S)
+http://elitex.me:80/82422w1258/w94824313619/10117723
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US UNIMAS 68 (WFUT) NEW YORK (Y)" tvg-logo="" group-title="ESTADOS UNIDOS",US UNIMAS 68 (WFUT) NEW YORK (Y)
+http://elitex.me:80/82422w1258/w94824313619/10117722
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US UNIMAS 68 (WFUT) NEWARK   (F)" tvg-logo="" group-title="ESTADOS UNIDOS",US UNIMAS 68 (WFUT) NEWARK   (F)
+http://elitex.me:80/82422w1258/w94824313619/10117721
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US NEWS 12 NEW JERSEY" tvg-logo="" group-title="ESTADOS UNIDOS",US NEWS 12 NEW JERSEY
+http://elitex.me:80/82422w1258/w94824313619/10117720
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: A&E" tvg-logo="http://elitex.ddns.me:80/images/0344d9238ba4ae5e410487ba4c3e8240.png" group-title="ESTADOS UNIDOS",EUA: A&E
+http://elitex.me:80/82422w1258/w94824313619/10116350
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: ABC BOSTON" tvg-logo="http://elitex.ddns.me:80/images/3fcb344874398ec3980bd48e44f92024.png" group-title="ESTADOS UNIDOS",EUA: ABC BOSTON
+http://elitex.me:80/82422w1258/w94824313619/10116349
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: ABC MIAMI" tvg-logo="http://elitex.ddns.me:80/images/a151f846dedaaa2c80a5c5f249cbf442.png" group-title="ESTADOS UNIDOS",EUA: ABC MIAMI
+http://elitex.me:80/82422w1258/w94824313619/10116348
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: ABC NEWS" tvg-logo="http://elitex.ddns.me:80/images/ba76ba34225b5c82c6c8b7b7d803da3e.png" group-title="ESTADOS UNIDOS",EUA: ABC NEWS
+http://elitex.me:80/82422w1258/w94824313619/10116325
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: ABC NY" tvg-logo="http://elitex.ddns.me:80/images/ae947b80c743140e312a9990d2e542aa.png" group-title="ESTADOS UNIDOS",EUA: ABC NY
+http://elitex.me:80/82422w1258/w94824313619/10116338
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: ACC NETWORK" tvg-logo="http://elitex.ddns.me:80/images/3918aebc533fd04f420f6e6f93426393.png" group-title="ESTADOS UNIDOS",EUA: ACC NETWORK
+http://elitex.me:80/82422w1258/w94824313619/10116344
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: ACCUWEATHER" tvg-logo="http://elitex.ddns.me:80/images/2daa91cc53f6fce5d425706c74642306.png" group-title="ESTADOS UNIDOS",EUA: ACCUWEATHER
+http://elitex.me:80/82422w1258/w94824313619/10116340
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: AMC" tvg-logo="http://elitex.ddns.me:80/images/970fd4a37554c8e2229b0e660999c7dc.png" group-title="ESTADOS UNIDOS",EUA: AMC
+http://elitex.me:80/82422w1258/w94824313619/10116343
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: ANIMAL PLANET" tvg-logo="http://elitex.ddns.me:80/images/54ff766e3973bd56b2c8dd85f31acfaa.png" group-title="ESTADOS UNIDOS",EUA: ANIMAL PLANET
+http://elitex.me:80/82422w1258/w94824313619/10116337
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: AXS TV" tvg-logo="http://elitex.ddns.me:80/images/7f3dd8e716b3827af270670ed837be1d.png" group-title="ESTADOS UNIDOS",EUA: AXS TV
+http://elitex.me:80/82422w1258/w94824313619/10116341
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: BABY FIRST" tvg-logo="http://elitex.ddns.me:80/images/f893e39c872a603b1ba6a1c220030dbd.png" group-title="ESTADOS UNIDOS",EUA: BABY FIRST
+http://elitex.me:80/82422w1258/w94824313619/10116330
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: BBC AMERICA" tvg-logo="http://elitex.ddns.me:80/images/3c5ea44dac439ca35831736fbd694ca0.png" group-title="ESTADOS UNIDOS",EUA: BBC AMERICA
+http://elitex.me:80/82422w1258/w94824313619/10116336
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: BET" tvg-logo="http://elitex.ddns.me:80/images/1568cc4b2a712feca7b806e5832cfbd2.png" group-title="ESTADOS UNIDOS",EUA: BET
+http://elitex.me:80/82422w1258/w94824313619/10116334
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: BLOOMBERG TV" tvg-logo="http://elitex.ddns.me:80/images/556a887a4d1a629b64692fadd01bce04.png" group-title="ESTADOS UNIDOS",EUA: BLOOMBERG TV
+http://elitex.me:80/82422w1258/w94824313619/10116329
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: BNC" tvg-logo="http://elitex.ddns.me:80/images/be6f48306cf18928fc0201dc78f326e4.png" group-title="ESTADOS UNIDOS",EUA: BNC
+http://elitex.me:80/82422w1258/w94824313619/10116332
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: BOOMERANG" tvg-logo="http://elitex.ddns.me:80/images/d508fe67b4f662d029fa5e3047f30f20.png" group-title="ESTADOS UNIDOS",EUA: BOOMERANG
+http://elitex.me:80/82422w1258/w94824313619/10116328
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: BRAVO" tvg-logo="http://elitex.ddns.me:80/images/197c82a638b849311f4856aa54bfc104.png" group-title="ESTADOS UNIDOS",EUA: BRAVO
+http://elitex.me:80/82422w1258/w94824313619/10116327
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: BTN" tvg-logo="" group-title="ESTADOS UNIDOS",EUA: BTN
+http://elitex.me:80/82422w1258/w94824313619/10116331
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: C-SPAN" tvg-logo="http://elitex.ddns.me:80/images/b5dfcc103e65ee249268418888d3f4ca.png" group-title="ESTADOS UNIDOS",EUA: C-SPAN
+http://elitex.me:80/82422w1258/w94824313619/10116326
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: CARTOON NETWORK" tvg-logo="http://elitex.ddns.me:80/images/f0a7fd017be1114baa97a8fa2bbc3482.png" group-title="ESTADOS UNIDOS",EUA: CARTOON NETWORK
+http://elitex.me:80/82422w1258/w94824313619/10116306
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: CBS BOSTON" tvg-logo="http://elitex.ddns.me:80/images/91a7127e361c74d1b15d5fa3d0350d5a.png" group-title="ESTADOS UNIDOS",EUA: CBS BOSTON
+http://elitex.me:80/82422w1258/w94824313619/10116323
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: CBS NEW YORK" tvg-logo="http://elitex.ddns.me:80/images/19c7fc14094a2bcfcf81c4e42cd1c653.png" group-title="ESTADOS UNIDOS",EUA: CBS NEW YORK
+http://elitex.me:80/82422w1258/w94824313619/10116335
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: CBS ORLANDO" tvg-logo="http://elitex.ddns.me:80/images/91a7127e361c74d1b15d5fa3d0350d5a.png" group-title="ESTADOS UNIDOS",EUA: CBS ORLANDO
+http://elitex.me:80/82422w1258/w94824313619/10116316
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: CBS-WGCL" tvg-logo="http://elitex.ddns.me:80/images/91a7127e361c74d1b15d5fa3d0350d5a.png" group-title="ESTADOS UNIDOS",EUA: CBS-WGCL
+http://elitex.me:80/82422w1258/w94824313619/10116322
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: CHEDDAR BUSINESS" tvg-logo="http://elitex.ddns.me:80/images/47a53aa335d07c5415a92547caea7484.png" group-title="ESTADOS UNIDOS",EUA: CHEDDAR BUSINESS
+http://elitex.me:80/82422w1258/w94824313619/10116305
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: CINEMAX" tvg-logo="http://elitex.ddns.me:80/images/e8007a45bc092239f0c79d0f2cfd9c55.png" group-title="ESTADOS UNIDOS",EUA: CINEMAX
+http://elitex.me:80/82422w1258/w94824313619/10116304
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: CMT" tvg-logo="http://elitex.ddns.me:80/images/2b29e41bec9d1b4e206c3900284d505e.png" group-title="ESTADOS UNIDOS",EUA: CMT
+http://elitex.me:80/82422w1258/w94824313619/10116313
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: CNBC" tvg-logo="http://elitex.ddns.me:80/images/c7808644eda4e181fbae1ba268d14bb3.png" group-title="ESTADOS UNIDOS",EUA: CNBC
+http://elitex.me:80/82422w1258/w94824313619/10116312
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: CNN" tvg-logo="http://elitex.ddns.me:80/images/69282d2c98cf6111e2bdb88dc781c609.png" group-title="ESTADOS UNIDOS",EUA: CNN
+http://elitex.me:80/82422w1258/w94824313619/10116310
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: CNN EN ESPANOL" tvg-logo="http://elitex.ddns.me:80/images/1abcbc8a5a983f90b55899d27dbed473.png" group-title="ESTADOS UNIDOS",EUA: CNN EN ESPANOL
+http://elitex.me:80/82422w1258/w94824313619/10116309
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: COMEDY CENTRAL" tvg-logo="http://elitex.ddns.me:80/images/473eb1e3d198b731bb9dcbd428a36112.png" group-title="ESTADOS UNIDOS",EUA: COMEDY CENTRAL
+http://elitex.me:80/82422w1258/w94824313619/10116303
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: COOKING CHANNEL" tvg-logo="http://elitex.ddns.me:80/images/1a4d6e72075567f09bd6d69a08f88376.png" group-title="ESTADOS UNIDOS",EUA: COOKING CHANNEL
+http://elitex.me:80/82422w1258/w94824313619/10116301
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: DISCOVERY" tvg-logo="http://elitex.ddns.me:80/images/cc75dba5a0b8052ebb931fe594bbcd1f.png" group-title="ESTADOS UNIDOS",EUA: DISCOVERY
+http://elitex.me:80/82422w1258/w94824313619/10116298
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: DISCOVERY FAMILY CHANNEL" tvg-logo="http://elitex.ddns.me:80/images/b27f7b413fc399567b42291bbb66fc1f.png" group-title="ESTADOS UNIDOS",EUA: DISCOVERY FAMILY CHANNEL
+http://elitex.me:80/82422w1258/w94824313619/10116297
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: DISCOVERY ID" tvg-logo="http://elitex.ddns.me:80/images/a5c870245607a54b074b2c9291fd66c6.png" group-title="ESTADOS UNIDOS",EUA: DISCOVERY ID
+http://elitex.me:80/82422w1258/w94824313619/10116296
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: DISNEY CHANNEL" tvg-logo="http://elitex.ddns.me:80/images/e58470e011326713b342bad59e42e8b1.png" group-title="ESTADOS UNIDOS",EUA: DISNEY CHANNEL
+http://elitex.me:80/82422w1258/w94824313619/10116295
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: DISNEY JUNIOR" tvg-logo="http://elitex.ddns.me:80/images/930ce580a02936bdd20b02e8b222bf5a.png" group-title="ESTADOS UNIDOS",EUA: DISNEY JUNIOR
+http://elitex.me:80/82422w1258/w94824313619/10116294
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: DISNEY XD" tvg-logo="http://elitex.ddns.me:80/images/9a5eacf0ef7151010f22251a7e95f1cf.png" group-title="ESTADOS UNIDOS",EUA: DISNEY XD
+http://elitex.me:80/82422w1258/w94824313619/10116293
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: E!" tvg-logo="http://elitex.ddns.me:80/images/ca0320e73392a031faf3cf622f30b5b6.png" group-title="ESTADOS UNIDOS",EUA: E!
+http://elitex.me:80/82422w1258/w94824313619/10116292
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: EPIX 2" tvg-logo="http://elitex.ddns.me:80/images/64739ea3572869b25b5d23192314f971.png" group-title="ESTADOS UNIDOS",EUA: EPIX 2
+http://elitex.me:80/82422w1258/w94824313619/10116286
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: EPIX HITS" tvg-logo="http://elitex.ddns.me:80/images/f1bb8fa45d1c0c4862ab7418d73d676e.png" group-title="ESTADOS UNIDOS",EUA: EPIX HITS
+http://elitex.me:80/82422w1258/w94824313619/10116285
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: ESPN" tvg-logo="http://elitex.ddns.me:80/images/8a263672cefc5ac7c4c3669d76cbb401.png" group-title="ESTADOS UNIDOS",EUA: ESPN
+http://elitex.me:80/82422w1258/w94824313619/10116291
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: ESPN2" tvg-logo="http://elitex.ddns.me:80/images/12374bf25a17ee6ba4c74ef03ed2cbdd.png" group-title="ESTADOS UNIDOS",EUA: ESPN2
+http://elitex.me:80/82422w1258/w94824313619/10116290
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: ESPNEWS" tvg-logo="http://elitex.ddns.me:80/images/1f3fe1d0c0cd6b437fe75adcea37a37f.png" group-title="ESTADOS UNIDOS",EUA: ESPNEWS
+http://elitex.me:80/82422w1258/w94824313619/10116288
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: ESPNU" tvg-logo="http://elitex.ddns.me:80/images/bd28aafa6340bf87e61ca182d117871a.png" group-title="ESTADOS UNIDOS",EUA: ESPNU
+http://elitex.me:80/82422w1258/w94824313619/10116289
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: FOOD NETWORK" tvg-logo="http://elitex.ddns.me:80/images/39aa52e6f38da5b30649fd9901de2140.png" group-title="ESTADOS UNIDOS",EUA: FOOD NETWORK
+http://elitex.me:80/82422w1258/w94824313619/10116276
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: FOX 5 NY" tvg-logo="http://elitex.ddns.me:80/images/7436b64a56ac8b536b754220b85cf13f.png" group-title="ESTADOS UNIDOS",EUA: FOX 5 NY
+http://elitex.me:80/82422w1258/w94824313619/10116333
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: FOX BOSTON" tvg-logo="http://elitex.ddns.me:80/images/3a897a99b5b23878c65bee08e0774230.png" group-title="ESTADOS UNIDOS",EUA: FOX BOSTON
+http://elitex.me:80/82422w1258/w94824313619/10116284
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: FOX BUSINESS NETWORK" tvg-logo="http://elitex.ddns.me:80/images/912a0234221989a96eb2691da73bdf88.png" group-title="ESTADOS UNIDOS",EUA: FOX BUSINESS NETWORK
+http://elitex.me:80/82422w1258/w94824313619/10116275
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: FOX NEWS CHANNEL" tvg-logo="http://elitex.ddns.me:80/images/6944560e795b7052e2f9c6c11cdcf161.png" group-title="ESTADOS UNIDOS",EUA: FOX NEWS CHANNEL
+http://elitex.me:80/82422w1258/w94824313619/10116274
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: FOX SPORTS" tvg-logo="http://elitex.ddns.me:80/images/51cb8ddd2d35ea7808ace57882fecfa5.png" group-title="ESTADOS UNIDOS",EUA: FOX SPORTS
+http://elitex.me:80/82422w1258/w94824313619/10116283
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: FOX SPORTS 2" tvg-logo="http://elitex.ddns.me:80/images/ba4e4a0dc1fc9232a46006ddd59f57ad.png" group-title="ESTADOS UNIDOS",EUA: FOX SPORTS 2
+http://elitex.me:80/82422w1258/w94824313619/10116282
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: FOX-WAGA" tvg-logo="http://elitex.ddns.me:80/images/461934d5de588259f89472a9e49b5fad.png" group-title="ESTADOS UNIDOS",EUA: FOX-WAGA
+http://elitex.me:80/82422w1258/w94824313619/10116281
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: FREEFORM" tvg-logo="http://elitex.ddns.me:80/images/a63e06208ab5cb65131353aa7fde20ed.png" group-title="ESTADOS UNIDOS",EUA: FREEFORM
+http://elitex.me:80/82422w1258/w94824313619/10116273
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: FX" tvg-logo="http://elitex.ddns.me:80/images/30318a2847b7702901fdd0cc6259f5ed.png" group-title="ESTADOS UNIDOS",EUA: FX
+http://elitex.me:80/82422w1258/w94824313619/10116280
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: FXX" tvg-logo="http://elitex.ddns.me:80/images/85d3a6401513ca96dee0c9cbea2a1f51.png" group-title="ESTADOS UNIDOS",EUA: FXX
+http://elitex.me:80/82422w1258/w94824313619/10116278
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: GALAVISION" tvg-logo="http://elitex.ddns.me:80/images/c709c5cc4bec3c11813bb69c8f1adfca.png" group-title="ESTADOS UNIDOS",EUA: GALAVISION
+http://elitex.me:80/82422w1258/w94824313619/10116271
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: GOLF CHANNEL" tvg-logo="http://elitex.ddns.me:80/images/b9fe1eb076b20a55c43660a25afbbb83.png" group-title="ESTADOS UNIDOS",EUA: GOLF CHANNEL
+http://elitex.me:80/82422w1258/w94824313619/10116270
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: GSN" tvg-logo="http://elitex.ddns.me:80/images/efa26fd55b1349884cfd0cc7208228e6.png" group-title="ESTADOS UNIDOS",EUA: GSN
+http://elitex.me:80/82422w1258/w94824313619/10116272
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: HALLMARK CHANNEL" tvg-logo="http://elitex.ddns.me:80/images/4213e199f29e2b4dc0e525dc573dd4f7.png" group-title="ESTADOS UNIDOS",EUA: HALLMARK CHANNEL
+http://elitex.me:80/82422w1258/w94824313619/10116261
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: HBO" tvg-logo="http://elitex.ddns.me:80/images/c59db57e4398473aef4c2c3c7bdafb86.png" group-title="ESTADOS UNIDOS",EUA: HBO
+http://elitex.me:80/82422w1258/w94824313619/10116268
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: HBO 2" tvg-logo="http://elitex.ddns.me:80/images/031544b2eefae172962dd7434a1ab2da.png" group-title="ESTADOS UNIDOS",EUA: HBO 2
+http://elitex.me:80/82422w1258/w94824313619/10116267
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: HBO FAMILY" tvg-logo="http://elitex.ddns.me:80/images/8e6e837f45e098e193038260685cb3e3.png" group-title="ESTADOS UNIDOS",EUA: HBO FAMILY
+http://elitex.me:80/82422w1258/w94824313619/10116266
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: HGTV" tvg-logo="http://elitex.ddns.me:80/images/4a7cfa994af5952a0ac8079920ec0e30.png" group-title="ESTADOS UNIDOS",EUA: HGTV
+http://elitex.me:80/82422w1258/w94824313619/10116264
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: HISTORY" tvg-logo="http://elitex.ddns.me:80/images/c301e449bcb6c1fa8cdabad918d6a74f.png" group-title="ESTADOS UNIDOS",EUA: HISTORY
+http://elitex.me:80/82422w1258/w94824313619/10116263
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: HLN" tvg-logo="http://elitex.ddns.me:80/images/b6da118414c80bbaca40accc135bc346.png" group-title="ESTADOS UNIDOS",EUA: HLN
+http://elitex.me:80/82422w1258/w94824313619/10116262
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: HOME SHOPPING NETWORK" tvg-logo="http://elitex.ddns.me:80/images/78960b16218f53c32329b71e1b8c3bfb.png" group-title="ESTADOS UNIDOS",EUA: HOME SHOPPING NETWORK
+http://elitex.me:80/82422w1258/w94824313619/10116259
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: IFC" tvg-logo="http://elitex.ddns.me:80/images/67c66b7adaf62bd0ce9181dc0b718274.png" group-title="ESTADOS UNIDOS",EUA: IFC
+http://elitex.me:80/82422w1258/w94824313619/10116258
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: INVESTIGATION DISCOVERY" tvg-logo="http://elitex.ddns.me:80/images/5e092c7563bd6677dde72381dd021c00.png" group-title="ESTADOS UNIDOS",EUA: INVESTIGATION DISCOVERY
+http://elitex.me:80/82422w1258/w94824313619/10116257
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: JEWELRY TV" tvg-logo="http://elitex.ddns.me:80/images/6f2b386e1c45db9b49f637ba83c7a4f8.png" group-title="ESTADOS UNIDOS",EUA: JEWELRY TV
+http://elitex.me:80/82422w1258/w94824313619/10116256
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: JUSTICE CENTRAL" tvg-logo="http://elitex.ddns.me:80/images/055e248478b5f5938a0bc19e3bf4427e.png" group-title="ESTADOS UNIDOS",EUA: JUSTICE CENTRAL
+http://elitex.me:80/82422w1258/w94824313619/10116255
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: LIFETIME" tvg-logo="http://elitex.ddns.me:80/images/903ba0b324c1dfa5c64ab043f327adc3.png" group-title="ESTADOS UNIDOS",EUA: LIFETIME
+http://elitex.me:80/82422w1258/w94824313619/10116253
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: MLB NETWORK" tvg-logo="http://elitex.ddns.me:80/images/3538ab9a7f8ec18e736aac0e088329d8.png" group-title="ESTADOS UNIDOS",EUA: MLB NETWORK
+http://elitex.me:80/82422w1258/w94824313619/10116251
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: MOTORTREND" tvg-logo="http://elitex.ddns.me:80/images/04d99b1cb971a5dd2dfba5795148951c.png" group-title="ESTADOS UNIDOS",EUA: MOTORTREND
+http://elitex.me:80/82422w1258/w94824313619/10116247
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: MSNBC" tvg-logo="http://elitex.ddns.me:80/images/5de8453ce50c33cf42f084c7abdb8980.png" group-title="ESTADOS UNIDOS",EUA: MSNBC
+http://elitex.me:80/82422w1258/w94824313619/10116250
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: MTV" tvg-logo="http://elitex.ddns.me:80/images/0b11779d38d34a54fac5ef2e2150a67f.png" group-title="ESTADOS UNIDOS",EUA: MTV
+http://elitex.me:80/82422w1258/w94824313619/10116249
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: MTV2" tvg-logo="http://elitex.ddns.me:80/images/d6f7a360db60e823b659181d7cc8476b.png" group-title="ESTADOS UNIDOS",EUA: MTV2
+http://elitex.me:80/82422w1258/w94824313619/10116248
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: NAT GEO WILD" tvg-logo="http://elitex.ddns.me:80/images/ad81d96ed631b6b7337b5e20dbe01f8f.png" group-title="ESTADOS UNIDOS",EUA: NAT GEO WILD
+http://elitex.me:80/82422w1258/w94824313619/10116209
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: NATIONAL GEOGRAPHIC CHANNEL" tvg-logo="http://elitex.ddns.me:80/images/73d74e6bb1abdff5f3575b29738aeddf.png" group-title="ESTADOS UNIDOS",EUA: NATIONAL GEOGRAPHIC CHANNEL
+http://elitex.me:80/82422w1258/w94824313619/10116208
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: NBA TV" tvg-logo="http://elitex.ddns.me:80/images/f41951675122d5377e7bdc528808809b.png" group-title="ESTADOS UNIDOS",EUA: NBA TV
+http://elitex.me:80/82422w1258/w94824313619/10116246
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: NBC NEW YORK" tvg-logo="http://elitex.ddns.me:80/images/de699b76d10e450ddc28c7385979567b.png" group-title="ESTADOS UNIDOS",EUA: NBC NEW YORK
+http://elitex.me:80/82422w1258/w94824313619/10116244
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: NBC ORLANDO" tvg-logo="http://elitex.ddns.me:80/images/a0bcd813d4cc9080589316dd89e4b254.png" group-title="ESTADOS UNIDOS",EUA: NBC ORLANDO
+http://elitex.me:80/82422w1258/w94824313619/10116240
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: NBC-WVLA" tvg-logo="http://elitex.ddns.me:80/images/a0bcd813d4cc9080589316dd89e4b254.png" group-title="ESTADOS UNIDOS",EUA: NBC-WVLA
+http://elitex.me:80/82422w1258/w94824313619/10116213
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: NBC-WWBT" tvg-logo="http://elitex.ddns.me:80/images/a0bcd813d4cc9080589316dd89e4b254.png" group-title="ESTADOS UNIDOS",EUA: NBC-WWBT
+http://elitex.me:80/82422w1258/w94824313619/10116212
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: NBC-WXIA" tvg-logo="http://elitex.ddns.me:80/images/a0bcd813d4cc9080589316dd89e4b254.png" group-title="ESTADOS UNIDOS",EUA: NBC-WXIA
+http://elitex.me:80/82422w1258/w94824313619/10116211
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: NBCSN BOSTON" tvg-logo="http://elitex.ddns.me:80/images/f47ae2c2d4eed217e348aeeffd038f14.png" group-title="ESTADOS UNIDOS",EUA: NBCSN BOSTON
+http://elitex.me:80/82422w1258/w94824313619/10116245
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: NHL NETWORK HD" tvg-logo="http://elitex.ddns.me:80/images/299f3eb8a5d66c2600301853eedda652.png" group-title="ESTADOS UNIDOS",EUA: NHL NETWORK HD
+http://elitex.me:80/82422w1258/w94824313619/10116210
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: NICK JR." tvg-logo="http://elitex.ddns.me:80/images/675706283c2ae2262f60f063da45ad1e.png" group-title="ESTADOS UNIDOS",EUA: NICK JR.
+http://elitex.me:80/82422w1258/w94824313619/10116207
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: NICKELODEON EAST HD" tvg-logo="http://elitex.ddns.me:80/images/1c63fcbe6244ac36494bf8927db61477.png" group-title="ESTADOS UNIDOS",EUA: NICKELODEON EAST HD
+http://elitex.me:80/82422w1258/w94824313619/10116206
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: NICKTOONS" tvg-logo="http://elitex.ddns.me:80/images/34f3871befb6d5478be4b91120331a7a.png" group-title="ESTADOS UNIDOS",EUA: NICKTOONS
+http://elitex.me:80/82422w1258/w94824313619/10116205
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: OWN" tvg-logo="http://elitex.ddns.me:80/images/9a0932de900110b31665b47b02edbcd5.png" group-title="ESTADOS UNIDOS",EUA: OWN
+http://elitex.me:80/82422w1258/w94824313619/10116204
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: OXYGEN" tvg-logo="http://elitex.ddns.me:80/images/b026d2758ea148210219ba848441b87c.png" group-title="ESTADOS UNIDOS",EUA: OXYGEN
+http://elitex.me:80/82422w1258/w94824313619/10116201
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: PARAMOUNT TV" tvg-logo="http://elitex.ddns.me:80/images/a875e9c90485fc8bb32469f75213e1b0.png" group-title="ESTADOS UNIDOS",EUA: PARAMOUNT TV
+http://elitex.me:80/82422w1258/w94824313619/10116176
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: PBS-WLIW NEW YORK" tvg-logo="http://elitex.ddns.me:80/images/909efa1c964dfd1f3e0af97b6a1ec17c.png" group-title="ESTADOS UNIDOS",EUA: PBS-WLIW NEW YORK
+http://elitex.me:80/82422w1258/w94824313619/10116200
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: PBS-WLRN MIAMI" tvg-logo="http://elitex.ddns.me:80/images/909efa1c964dfd1f3e0af97b6a1ec17c.png" group-title="ESTADOS UNIDOS",EUA: PBS-WLRN MIAMI
+http://elitex.me:80/82422w1258/w94824313619/10116199
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: PBS-WCVE" tvg-logo="http://elitex.ddns.me:80/images/460015acfb6c06fbd307631b5bb160d5.png" group-title="ESTADOS UNIDOS",EUA: PBS-WCVE
+http://elitex.me:80/82422w1258/w94824313619/10116181
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: PBS-WHYY PHILADELPHIA" tvg-logo="http://elitex.ddns.me:80/images/460015acfb6c06fbd307631b5bb160d5.png" group-title="ESTADOS UNIDOS",EUA: PBS-WHYY PHILADELPHIA
+http://elitex.me:80/82422w1258/w94824313619/10116178
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: POP HD" tvg-logo="http://elitex.ddns.me:80/images/8d8de8dabd474f9a4bad9bad67da3c40.png" group-title="ESTADOS UNIDOS",EUA: POP HD
+http://elitex.me:80/82422w1258/w94824313619/10116177
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: SCIENCE" tvg-logo="http://elitex.ddns.me:80/images/99ef0aa2785f9f32159379fe21f92db5.png" group-title="ESTADOS UNIDOS",EUA: SCIENCE
+http://elitex.me:80/82422w1258/w94824313619/10116172
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: SEC NETWORK" tvg-logo="http://elitex.ddns.me:80/images/3dab3ac63cfb08b3d83b5fea723aca56.png" group-title="ESTADOS UNIDOS",EUA: SEC NETWORK
+http://elitex.me:80/82422w1258/w94824313619/10116173
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: SHORTS TV HD" tvg-logo="http://elitex.ddns.me:80/images/6d16f2370a06ce91716d4918697b550f.png" group-title="ESTADOS UNIDOS",EUA: SHORTS TV HD
+http://elitex.me:80/82422w1258/w94824313619/10116170
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: SHOWTIME" tvg-logo="http://elitex.ddns.me:80/images/cd50bba7c133c920dffdc85743d26b0e.png" group-title="ESTADOS UNIDOS",EUA: SHOWTIME
+http://elitex.me:80/82422w1258/w94824313619/10116169
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: SHOWTIME 2" tvg-logo="http://elitex.ddns.me:80/images/921be18cd585474d652f9ad8922b355c.png" group-title="ESTADOS UNIDOS",EUA: SHOWTIME 2
+http://elitex.me:80/82422w1258/w94824313619/10116168
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: SMITHSONIAN CHANNEL HD" tvg-logo="http://elitex.ddns.me:80/images/463b0dad5a2a46fa1b6662e4d84f0947.png" group-title="ESTADOS UNIDOS",EUA: SMITHSONIAN CHANNEL HD
+http://elitex.me:80/82422w1258/w94824313619/10116166
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: STARZ ENCORE HD" tvg-logo="http://elitex.ddns.me:80/images/003caf1741e79662ea8cb73e50d586b9.png" group-title="ESTADOS UNIDOS",EUA: STARZ ENCORE HD
+http://elitex.me:80/82422w1258/w94824313619/10116160
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: STARZ HD" tvg-logo="http://elitex.ddns.me:80/images/85c5f5ffb6f6f3dec97501947c4abf79.png" group-title="ESTADOS UNIDOS",EUA: STARZ HD
+http://elitex.me:80/82422w1258/w94824313619/10116158
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: SUNDANCE TV" tvg-logo="http://elitex.ddns.me:80/images/0ffb97844759ac7c234772d3fba781d6.png" group-title="ESTADOS UNIDOS",EUA: SUNDANCE TV
+http://elitex.me:80/82422w1258/w94824313619/10116157
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: SYFY" tvg-logo="http://elitex.ddns.me:80/images/85470b41c4778a801cfc1c17387e9fd7.png" group-title="ESTADOS UNIDOS",EUA: SYFY
+http://elitex.me:80/82422w1258/w94824313619/10116156
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: TASTEMADE" tvg-logo="http://elitex.ddns.me:80/images/0eaeb8a8c9715537b6bcb91b8399ffc0.png" group-title="ESTADOS UNIDOS",EUA: TASTEMADE
+http://elitex.me:80/82422w1258/w94824313619/10116148
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: TBS" tvg-logo="http://elitex.ddns.me:80/images/456b0ffe67a8668b93e82046a0607f88.png" group-title="ESTADOS UNIDOS",EUA: TBS
+http://elitex.me:80/82422w1258/w94824313619/10116155
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: TCM" tvg-logo="http://elitex.ddns.me:80/images/94f68ad1468ebfc8d0effa90f6a4f4c0.png" group-title="ESTADOS UNIDOS",EUA: TCM
+http://elitex.me:80/82422w1258/w94824313619/10116154
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: TEENNICK" tvg-logo="http://elitex.ddns.me:80/images/f320ec94debc7fc1c2a8fd5fb9d3bb10.png" group-title="ESTADOS UNIDOS",EUA: TEENNICK
+http://elitex.me:80/82422w1258/w94824313619/10116147
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: TENNIS CHANNEL HD" tvg-logo="http://elitex.ddns.me:80/images/783daf3d56f2fcbd83deb1eebe5eabb8.png" group-title="ESTADOS UNIDOS",EUA: TENNIS CHANNEL HD
+http://elitex.me:80/82422w1258/w94824313619/10116146
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: THE WEATHER CHANNEL HD" tvg-logo="http://elitex.ddns.me:80/images/5ec5bdfa1fcd0ecb8a860c2a865985ac.png" group-title="ESTADOS UNIDOS",EUA: THE WEATHER CHANNEL HD
+http://elitex.me:80/82422w1258/w94824313619/10116145
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: TLC" tvg-logo="http://elitex.ddns.me:80/images/30fdf594eb592b1e59c1b8e12f2e62af.png" group-title="ESTADOS UNIDOS",EUA: TLC
+http://elitex.me:80/82422w1258/w94824313619/10116153
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: TNT" tvg-logo="http://elitex.ddns.me:80/images/eca105f548690a061aa8e2beb22a0b63.png" group-title="ESTADOS UNIDOS",EUA: TNT
+http://elitex.me:80/82422w1258/w94824313619/10116152
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: TRUTV" tvg-logo="http://elitex.ddns.me:80/images/56d44e0b7e928687665b01f537116d4f.png" group-title="ESTADOS UNIDOS",EUA: TRUTV
+http://elitex.me:80/82422w1258/w94824313619/10116133
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: TUDN" tvg-logo="http://elitex.ddns.me:80/images/f54b2056b0ef8ef8a05fc64732a3b615.png" group-title="ESTADOS UNIDOS",EUA: TUDN
+http://elitex.me:80/82422w1258/w94824313619/10116151
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: TV LAND" tvg-logo="http://elitex.ddns.me:80/images/5895aaff0a24691e76161e1450318a3b.png" group-title="ESTADOS UNIDOS",EUA: TV LAND
+http://elitex.me:80/82422w1258/w94824313619/10116150
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: TV ONE" tvg-logo="http://elitex.ddns.me:80/images/9e96d3b4a3e15f8d58b9327d0c24df33.png" group-title="ESTADOS UNIDOS",EUA: TV ONE
+http://elitex.me:80/82422w1258/w94824313619/10116149
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: UNIMAS WEST HD" tvg-logo="http://elitex.ddns.me:80/images/702132cbafc6a26f189d4ad7607a9911.png" group-title="ESTADOS UNIDOS",EUA: UNIMAS WEST HD
+http://elitex.me:80/82422w1258/w94824313619/10116142
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: UNIVERSAL KIDS" tvg-logo="http://elitex.ddns.me:80/images/36769bc7098015224af1dc7569eee4f3.png" group-title="ESTADOS UNIDOS",EUA: UNIVERSAL KIDS
+http://elitex.me:80/82422w1258/w94824313619/10116141
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: UNIVISION EAST HD" tvg-logo="http://elitex.ddns.me:80/images/a9c945e99defadcee2c41bbb4594ccd3.png" group-title="ESTADOS UNIDOS",EUA: UNIVISION EAST HD
+http://elitex.me:80/82422w1258/w94824313619/10116140
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: UP" tvg-logo="http://elitex.ddns.me:80/images/9517acbc71aeb5988bf8b4b95b9cbc5e.png" group-title="ESTADOS UNIDOS",EUA: UP
+http://elitex.me:80/82422w1258/w94824313619/10116144
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: USA NETWORK" tvg-logo="http://elitex.ddns.me:80/images/82545508ab61be62132664cb701ae80d.png" group-title="ESTADOS UNIDOS",EUA: USA NETWORK
+http://elitex.me:80/82422w1258/w94824313619/10116143
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: VH1" tvg-logo="http://elitex.ddns.me:80/images/6df53d5c255193ed40ae82986fa2a7f6.png" group-title="ESTADOS UNIDOS",EUA: VH1
+http://elitex.me:80/82422w1258/w94824313619/10116138
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: VICE" tvg-logo="http://elitex.ddns.me:80/images/38eb863959e00a9533d544c7fbf11aff.png" group-title="ESTADOS UNIDOS",EUA: VICE
+http://elitex.me:80/82422w1258/w94824313619/10116137
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: WE TV" tvg-logo="http://elitex.ddns.me:80/images/37dfc5c88c918c31c24cbaab5eaec982.png" group-title="ESTADOS UNIDOS",EUA: WE TV
+http://elitex.me:80/82422w1258/w94824313619/10116136
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: WGN AMERICA" tvg-logo="http://elitex.ddns.me:80/images/46eb49a3cefdaaff65342a99800c0c46.png" group-title="ESTADOS UNIDOS",EUA: WGN AMERICA
+http://elitex.me:80/82422w1258/w94824313619/10116135
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL GAME PASS 01" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/nfl_gamepass.png" group-title="ESTADOS UNIDOS",NFL GAME PASS 01
+http://elitex.me:80/82422w1258/w94824313619/10116122
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL GAME PASS 02" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/nfl_gamepass.png" group-title="ESTADOS UNIDOS",NFL GAME PASS 02
+http://elitex.me:80/82422w1258/w94824313619/10116121
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL GAME PASS 03" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/nfl_gamepass.png" group-title="ESTADOS UNIDOS",NFL GAME PASS 03
+http://elitex.me:80/82422w1258/w94824313619/10116120
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL GAME PASS 04" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/nfl_gamepass.png" group-title="ESTADOS UNIDOS",NFL GAME PASS 04
+http://elitex.me:80/82422w1258/w94824313619/10116119
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL GAME PASS 05" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/nfl_gamepass.png" group-title="ESTADOS UNIDOS",NFL GAME PASS 05
+http://elitex.me:80/82422w1258/w94824313619/10116118
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL GAME PASS 06" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/nfl_gamepass.png" group-title="ESTADOS UNIDOS",NFL GAME PASS 06
+http://elitex.me:80/82422w1258/w94824313619/10116117
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL GAME PASS 07" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/nfl_gamepass.png" group-title="ESTADOS UNIDOS",NFL GAME PASS 07
+http://elitex.me:80/82422w1258/w94824313619/10116116
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL GAME PASS 08" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/nfl_gamepass.png" group-title="ESTADOS UNIDOS",NFL GAME PASS 08
+http://elitex.me:80/82422w1258/w94824313619/10116115
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL GAME PASS 09" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/nfl_gamepass.png" group-title="ESTADOS UNIDOS",NFL GAME PASS 09
+http://elitex.me:80/82422w1258/w94824313619/10116114
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL GAME PASS 10" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/nfl_gamepass.png" group-title="ESTADOS UNIDOS",NFL GAME PASS 10
+http://elitex.me:80/82422w1258/w94824313619/10116113
+#EXTINF:-1 tvg-id="Epg.br" tvg-name="US NFL NETWORK" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/iScreen%20Shoter%20-%20Google%20Chrome%20-%20230628221811.jpg" group-title="ESTADOS UNIDOS",US NFL NETWORK
+http://elitex.me:80/82422w1258/w94824313619/10035236
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA LEAGUE PASS 01" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/nba.png" group-title="ESTADOS UNIDOS",NBA LEAGUE PASS 01
+http://elitex.me:80/82422w1258/w94824313619/10116132
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA LEAGUE PASS 02" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/nba.png" group-title="ESTADOS UNIDOS",NBA LEAGUE PASS 02
+http://elitex.me:80/82422w1258/w94824313619/10116131
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA LEAGUE PASS 03" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/nba.png" group-title="ESTADOS UNIDOS",NBA LEAGUE PASS 03
+http://elitex.me:80/82422w1258/w94824313619/10116130
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA LEAGUE PASS 04" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/nba.png" group-title="ESTADOS UNIDOS",NBA LEAGUE PASS 04
+http://elitex.me:80/82422w1258/w94824313619/10116129
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA LEAGUE PASS 05" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/nba.png" group-title="ESTADOS UNIDOS",NBA LEAGUE PASS 05
+http://elitex.me:80/82422w1258/w94824313619/10116128
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA LEAGUE PASS 06" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/nba.png" group-title="ESTADOS UNIDOS",NBA LEAGUE PASS 06
+http://elitex.me:80/82422w1258/w94824313619/10116127
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA LEAGUE PASS 07" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/nba.png" group-title="ESTADOS UNIDOS",NBA LEAGUE PASS 07
+http://elitex.me:80/82422w1258/w94824313619/10116126
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA LEAGUE PASS 08" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/nba.png" group-title="ESTADOS UNIDOS",NBA LEAGUE PASS 08
+http://elitex.me:80/82422w1258/w94824313619/10116125
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA LEAGUE PASS 09" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/nba.png" group-title="ESTADOS UNIDOS",NBA LEAGUE PASS 09
+http://elitex.me:80/82422w1258/w94824313619/10116124
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA LEAGUE PASS 10" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/nba.png" group-title="ESTADOS UNIDOS",NBA LEAGUE PASS 10
+http://elitex.me:80/82422w1258/w94824313619/10116123
+#EXTINF:-1 tvg-id="FXNWS" tvg-name="US FOX NEWS ²" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/3d03ac52-fad9-44af-528e-d205e9d7f900/public" group-title="ESTADOS UNIDOS",US FOX NEWS ²
+http://elitex.me:80/82422w1258/w94824313619/10068453
+#EXTINF:-1 tvg-id="Epg.br" tvg-name="US GOLF CHANNEL USA" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/iScreen%20Shoter%20-%20Google%20Chrome%20-%20230628221811.jpg" group-title="ESTADOS UNIDOS",US GOLF CHANNEL USA
+http://elitex.me:80/82422w1258/w94824313619/10035226
+#EXTINF:-1 tvg-id="Epg.br" tvg-name="US THE GOLF CHANNEL" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/iScreen%20Shoter%20-%20Google%20Chrome%20-%20230628221811.jpg" group-title="ESTADOS UNIDOS",US THE GOLF CHANNEL
+http://elitex.me:80/82422w1258/w94824313619/10045400
 #EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD" tvg-logo="https://i.imgur.com/6gT9iNo.png" group-title="REDE HBO",HBO FHD
 http://elitex.me:80/82422w1258/w94824313619/5541
 #EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD*" tvg-logo="https://i.imgur.com/6gT9iNo.png" group-title="REDE HBO",HBO FHD*
@@ -5373,350 +5717,6 @@ http://elitex.me:80/82422w1258/w94824313619/10053104
 http://elitex.me:80/82422w1258/w94824313619/10053095
 #EXTINF:-1 tvg-id="Epg.br" tvg-name="PT ZAP VIVA FHD" tvg-logo="http://dstr.ddns.net:80/images/c46bbc299ebce9f234772a9b3ce8f185.png" group-title="PORTUGAL",PT ZAP VIVA FHD
 http://elitex.me:80/82422w1258/w94824313619/10052882
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: ABC-WCVB" tvg-logo="http://elitex.ddns.me:80/images/a151f846dedaaa2c80a5c5f249cbf442.png" group-title="ESTADOS UNIDOS",EUA: ABC-WCVB
-http://elitex.me:80/82422w1258/w94824313619/10119419
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: ABC-WSB" tvg-logo="http://elitex.ddns.me:80/images/3fcb344874398ec3980bd48e44f92024.png" group-title="ESTADOS UNIDOS",EUA: ABC-WSB
-http://elitex.me:80/82422w1258/w94824313619/10119418
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US ABC (WABC) NEW YORK (D)" tvg-logo="" group-title="ESTADOS UNIDOS",US ABC (WABC) NEW YORK (D)
-http://elitex.me:80/82422w1258/w94824313619/10117736
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US ABC 10 (WPLG) MIAMI (A)" tvg-logo="" group-title="ESTADOS UNIDOS",US ABC 10 (WPLG) MIAMI (A)
-http://elitex.me:80/82422w1258/w94824313619/10117735
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US CBS (WBZ) BOSTON (D)" tvg-logo="" group-title="ESTADOS UNIDOS",US CBS (WBZ) BOSTON (D)
-http://elitex.me:80/82422w1258/w94824313619/10117734
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US CBS 2 (WCBS) NEW YORK (A)" tvg-logo="" group-title="ESTADOS UNIDOS",US CBS 2 (WCBS) NEW YORK (A)
-http://elitex.me:80/82422w1258/w94824313619/10117733
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US CBS 4 (WFOR) MIAMI (A)" tvg-logo="" group-title="ESTADOS UNIDOS",US CBS 4 (WFOR) MIAMI (A)
-http://elitex.me:80/82422w1258/w94824313619/10117732
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US CW 56 (WLVI) BOSTON (H)" tvg-logo="" group-title="ESTADOS UNIDOS",US CW 56 (WLVI) BOSTON (H)
-http://elitex.me:80/82422w1258/w94824313619/10117731
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US CW PIX11 (WPIX) NEW YORK (L)" tvg-logo="" group-title="ESTADOS UNIDOS",US CW PIX11 (WPIX) NEW YORK (L)
-http://elitex.me:80/82422w1258/w94824313619/10117730
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US FOX (WFXT) BOSTON (F)" tvg-logo="" group-title="ESTADOS UNIDOS",US FOX (WFXT) BOSTON (F)
-http://elitex.me:80/82422w1258/w94824313619/10117729
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US FOX 5 (WNYW) NEW YORK (A)" tvg-logo="" group-title="ESTADOS UNIDOS",US FOX 5 (WNYW) NEW YORK (A)
-http://elitex.me:80/82422w1258/w94824313619/10117728
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US FOX 7 (WSVN) MIAMI (A)" tvg-logo="" group-title="ESTADOS UNIDOS",US FOX 7 (WSVN) MIAMI (A)
-http://elitex.me:80/82422w1258/w94824313619/10117727
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US NBC 10 (WBTS) BOSTON (S)" tvg-logo="" group-title="ESTADOS UNIDOS",US NBC 10 (WBTS) BOSTON (S)
-http://elitex.me:80/82422w1258/w94824313619/10117726
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US NBC 4 (WNBC) NEW YORK (A)" tvg-logo="" group-title="ESTADOS UNIDOS",US NBC 4 (WNBC) NEW YORK (A)
-http://elitex.me:80/82422w1258/w94824313619/10117725
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US NBC 6 (WTVJ) MIAMI (A)" tvg-logo="" group-title="ESTADOS UNIDOS",US NBC 6 (WTVJ) MIAMI (A)
-http://elitex.me:80/82422w1258/w94824313619/10117724
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US UNIMAS 27 (WUTF) BOSTON (S)" tvg-logo="" group-title="ESTADOS UNIDOS",US UNIMAS 27 (WUTF) BOSTON (S)
-http://elitex.me:80/82422w1258/w94824313619/10117723
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US UNIMAS 68 (WFUT) NEW YORK (Y)" tvg-logo="" group-title="ESTADOS UNIDOS",US UNIMAS 68 (WFUT) NEW YORK (Y)
-http://elitex.me:80/82422w1258/w94824313619/10117722
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US UNIMAS 68 (WFUT) NEWARK   (F)" tvg-logo="" group-title="ESTADOS UNIDOS",US UNIMAS 68 (WFUT) NEWARK   (F)
-http://elitex.me:80/82422w1258/w94824313619/10117721
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US NEWS 12 NEW JERSEY" tvg-logo="" group-title="ESTADOS UNIDOS",US NEWS 12 NEW JERSEY
-http://elitex.me:80/82422w1258/w94824313619/10117720
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: A&E" tvg-logo="http://elitex.ddns.me:80/images/0344d9238ba4ae5e410487ba4c3e8240.png" group-title="ESTADOS UNIDOS",EUA: A&E
-http://elitex.me:80/82422w1258/w94824313619/10116350
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: ABC BOSTON" tvg-logo="http://elitex.ddns.me:80/images/3fcb344874398ec3980bd48e44f92024.png" group-title="ESTADOS UNIDOS",EUA: ABC BOSTON
-http://elitex.me:80/82422w1258/w94824313619/10116349
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: ABC MIAMI" tvg-logo="http://elitex.ddns.me:80/images/a151f846dedaaa2c80a5c5f249cbf442.png" group-title="ESTADOS UNIDOS",EUA: ABC MIAMI
-http://elitex.me:80/82422w1258/w94824313619/10116348
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: ABC NEWS" tvg-logo="http://elitex.ddns.me:80/images/ba76ba34225b5c82c6c8b7b7d803da3e.png" group-title="ESTADOS UNIDOS",EUA: ABC NEWS
-http://elitex.me:80/82422w1258/w94824313619/10116325
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: ABC NY" tvg-logo="http://elitex.ddns.me:80/images/ae947b80c743140e312a9990d2e542aa.png" group-title="ESTADOS UNIDOS",EUA: ABC NY
-http://elitex.me:80/82422w1258/w94824313619/10116338
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: ACC NETWORK" tvg-logo="http://elitex.ddns.me:80/images/3918aebc533fd04f420f6e6f93426393.png" group-title="ESTADOS UNIDOS",EUA: ACC NETWORK
-http://elitex.me:80/82422w1258/w94824313619/10116344
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: ACCUWEATHER" tvg-logo="http://elitex.ddns.me:80/images/2daa91cc53f6fce5d425706c74642306.png" group-title="ESTADOS UNIDOS",EUA: ACCUWEATHER
-http://elitex.me:80/82422w1258/w94824313619/10116340
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: AMC" tvg-logo="http://elitex.ddns.me:80/images/970fd4a37554c8e2229b0e660999c7dc.png" group-title="ESTADOS UNIDOS",EUA: AMC
-http://elitex.me:80/82422w1258/w94824313619/10116343
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: ANIMAL PLANET" tvg-logo="http://elitex.ddns.me:80/images/54ff766e3973bd56b2c8dd85f31acfaa.png" group-title="ESTADOS UNIDOS",EUA: ANIMAL PLANET
-http://elitex.me:80/82422w1258/w94824313619/10116337
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: AXS TV" tvg-logo="http://elitex.ddns.me:80/images/7f3dd8e716b3827af270670ed837be1d.png" group-title="ESTADOS UNIDOS",EUA: AXS TV
-http://elitex.me:80/82422w1258/w94824313619/10116341
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: BABY FIRST" tvg-logo="http://elitex.ddns.me:80/images/f893e39c872a603b1ba6a1c220030dbd.png" group-title="ESTADOS UNIDOS",EUA: BABY FIRST
-http://elitex.me:80/82422w1258/w94824313619/10116330
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: BBC AMERICA" tvg-logo="http://elitex.ddns.me:80/images/3c5ea44dac439ca35831736fbd694ca0.png" group-title="ESTADOS UNIDOS",EUA: BBC AMERICA
-http://elitex.me:80/82422w1258/w94824313619/10116336
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: BET" tvg-logo="http://elitex.ddns.me:80/images/1568cc4b2a712feca7b806e5832cfbd2.png" group-title="ESTADOS UNIDOS",EUA: BET
-http://elitex.me:80/82422w1258/w94824313619/10116334
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: BLOOMBERG TV" tvg-logo="http://elitex.ddns.me:80/images/556a887a4d1a629b64692fadd01bce04.png" group-title="ESTADOS UNIDOS",EUA: BLOOMBERG TV
-http://elitex.me:80/82422w1258/w94824313619/10116329
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: BNC" tvg-logo="http://elitex.ddns.me:80/images/be6f48306cf18928fc0201dc78f326e4.png" group-title="ESTADOS UNIDOS",EUA: BNC
-http://elitex.me:80/82422w1258/w94824313619/10116332
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: BOOMERANG" tvg-logo="http://elitex.ddns.me:80/images/d508fe67b4f662d029fa5e3047f30f20.png" group-title="ESTADOS UNIDOS",EUA: BOOMERANG
-http://elitex.me:80/82422w1258/w94824313619/10116328
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: BRAVO" tvg-logo="http://elitex.ddns.me:80/images/197c82a638b849311f4856aa54bfc104.png" group-title="ESTADOS UNIDOS",EUA: BRAVO
-http://elitex.me:80/82422w1258/w94824313619/10116327
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: BTN" tvg-logo="" group-title="ESTADOS UNIDOS",EUA: BTN
-http://elitex.me:80/82422w1258/w94824313619/10116331
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: C-SPAN" tvg-logo="http://elitex.ddns.me:80/images/b5dfcc103e65ee249268418888d3f4ca.png" group-title="ESTADOS UNIDOS",EUA: C-SPAN
-http://elitex.me:80/82422w1258/w94824313619/10116326
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: CARTOON NETWORK" tvg-logo="http://elitex.ddns.me:80/images/f0a7fd017be1114baa97a8fa2bbc3482.png" group-title="ESTADOS UNIDOS",EUA: CARTOON NETWORK
-http://elitex.me:80/82422w1258/w94824313619/10116306
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: CBS BOSTON" tvg-logo="http://elitex.ddns.me:80/images/91a7127e361c74d1b15d5fa3d0350d5a.png" group-title="ESTADOS UNIDOS",EUA: CBS BOSTON
-http://elitex.me:80/82422w1258/w94824313619/10116323
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: CBS NEW YORK" tvg-logo="http://elitex.ddns.me:80/images/19c7fc14094a2bcfcf81c4e42cd1c653.png" group-title="ESTADOS UNIDOS",EUA: CBS NEW YORK
-http://elitex.me:80/82422w1258/w94824313619/10116335
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: CBS ORLANDO" tvg-logo="http://elitex.ddns.me:80/images/91a7127e361c74d1b15d5fa3d0350d5a.png" group-title="ESTADOS UNIDOS",EUA: CBS ORLANDO
-http://elitex.me:80/82422w1258/w94824313619/10116316
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: CBS-WGCL" tvg-logo="http://elitex.ddns.me:80/images/91a7127e361c74d1b15d5fa3d0350d5a.png" group-title="ESTADOS UNIDOS",EUA: CBS-WGCL
-http://elitex.me:80/82422w1258/w94824313619/10116322
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: CHEDDAR BUSINESS" tvg-logo="http://elitex.ddns.me:80/images/47a53aa335d07c5415a92547caea7484.png" group-title="ESTADOS UNIDOS",EUA: CHEDDAR BUSINESS
-http://elitex.me:80/82422w1258/w94824313619/10116305
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: CINEMAX" tvg-logo="http://elitex.ddns.me:80/images/e8007a45bc092239f0c79d0f2cfd9c55.png" group-title="ESTADOS UNIDOS",EUA: CINEMAX
-http://elitex.me:80/82422w1258/w94824313619/10116304
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: CMT" tvg-logo="http://elitex.ddns.me:80/images/2b29e41bec9d1b4e206c3900284d505e.png" group-title="ESTADOS UNIDOS",EUA: CMT
-http://elitex.me:80/82422w1258/w94824313619/10116313
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: CNBC" tvg-logo="http://elitex.ddns.me:80/images/c7808644eda4e181fbae1ba268d14bb3.png" group-title="ESTADOS UNIDOS",EUA: CNBC
-http://elitex.me:80/82422w1258/w94824313619/10116312
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: CNN" tvg-logo="http://elitex.ddns.me:80/images/69282d2c98cf6111e2bdb88dc781c609.png" group-title="ESTADOS UNIDOS",EUA: CNN
-http://elitex.me:80/82422w1258/w94824313619/10116310
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: CNN EN ESPANOL" tvg-logo="http://elitex.ddns.me:80/images/1abcbc8a5a983f90b55899d27dbed473.png" group-title="ESTADOS UNIDOS",EUA: CNN EN ESPANOL
-http://elitex.me:80/82422w1258/w94824313619/10116309
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: COMEDY CENTRAL" tvg-logo="http://elitex.ddns.me:80/images/473eb1e3d198b731bb9dcbd428a36112.png" group-title="ESTADOS UNIDOS",EUA: COMEDY CENTRAL
-http://elitex.me:80/82422w1258/w94824313619/10116303
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: COOKING CHANNEL" tvg-logo="http://elitex.ddns.me:80/images/1a4d6e72075567f09bd6d69a08f88376.png" group-title="ESTADOS UNIDOS",EUA: COOKING CHANNEL
-http://elitex.me:80/82422w1258/w94824313619/10116301
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: DISCOVERY" tvg-logo="http://elitex.ddns.me:80/images/cc75dba5a0b8052ebb931fe594bbcd1f.png" group-title="ESTADOS UNIDOS",EUA: DISCOVERY
-http://elitex.me:80/82422w1258/w94824313619/10116298
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: DISCOVERY FAMILY CHANNEL" tvg-logo="http://elitex.ddns.me:80/images/b27f7b413fc399567b42291bbb66fc1f.png" group-title="ESTADOS UNIDOS",EUA: DISCOVERY FAMILY CHANNEL
-http://elitex.me:80/82422w1258/w94824313619/10116297
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: DISCOVERY ID" tvg-logo="http://elitex.ddns.me:80/images/a5c870245607a54b074b2c9291fd66c6.png" group-title="ESTADOS UNIDOS",EUA: DISCOVERY ID
-http://elitex.me:80/82422w1258/w94824313619/10116296
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: DISNEY CHANNEL" tvg-logo="http://elitex.ddns.me:80/images/e58470e011326713b342bad59e42e8b1.png" group-title="ESTADOS UNIDOS",EUA: DISNEY CHANNEL
-http://elitex.me:80/82422w1258/w94824313619/10116295
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: DISNEY JUNIOR" tvg-logo="http://elitex.ddns.me:80/images/930ce580a02936bdd20b02e8b222bf5a.png" group-title="ESTADOS UNIDOS",EUA: DISNEY JUNIOR
-http://elitex.me:80/82422w1258/w94824313619/10116294
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: DISNEY XD" tvg-logo="http://elitex.ddns.me:80/images/9a5eacf0ef7151010f22251a7e95f1cf.png" group-title="ESTADOS UNIDOS",EUA: DISNEY XD
-http://elitex.me:80/82422w1258/w94824313619/10116293
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: E!" tvg-logo="http://elitex.ddns.me:80/images/ca0320e73392a031faf3cf622f30b5b6.png" group-title="ESTADOS UNIDOS",EUA: E!
-http://elitex.me:80/82422w1258/w94824313619/10116292
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: EPIX 2" tvg-logo="http://elitex.ddns.me:80/images/64739ea3572869b25b5d23192314f971.png" group-title="ESTADOS UNIDOS",EUA: EPIX 2
-http://elitex.me:80/82422w1258/w94824313619/10116286
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: EPIX HITS" tvg-logo="http://elitex.ddns.me:80/images/f1bb8fa45d1c0c4862ab7418d73d676e.png" group-title="ESTADOS UNIDOS",EUA: EPIX HITS
-http://elitex.me:80/82422w1258/w94824313619/10116285
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: ESPN" tvg-logo="http://elitex.ddns.me:80/images/8a263672cefc5ac7c4c3669d76cbb401.png" group-title="ESTADOS UNIDOS",EUA: ESPN
-http://elitex.me:80/82422w1258/w94824313619/10116291
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: ESPN2" tvg-logo="http://elitex.ddns.me:80/images/12374bf25a17ee6ba4c74ef03ed2cbdd.png" group-title="ESTADOS UNIDOS",EUA: ESPN2
-http://elitex.me:80/82422w1258/w94824313619/10116290
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: ESPNEWS" tvg-logo="http://elitex.ddns.me:80/images/1f3fe1d0c0cd6b437fe75adcea37a37f.png" group-title="ESTADOS UNIDOS",EUA: ESPNEWS
-http://elitex.me:80/82422w1258/w94824313619/10116288
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: ESPNU" tvg-logo="http://elitex.ddns.me:80/images/bd28aafa6340bf87e61ca182d117871a.png" group-title="ESTADOS UNIDOS",EUA: ESPNU
-http://elitex.me:80/82422w1258/w94824313619/10116289
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: FOOD NETWORK" tvg-logo="http://elitex.ddns.me:80/images/39aa52e6f38da5b30649fd9901de2140.png" group-title="ESTADOS UNIDOS",EUA: FOOD NETWORK
-http://elitex.me:80/82422w1258/w94824313619/10116276
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: FOX 5 NY" tvg-logo="http://elitex.ddns.me:80/images/7436b64a56ac8b536b754220b85cf13f.png" group-title="ESTADOS UNIDOS",EUA: FOX 5 NY
-http://elitex.me:80/82422w1258/w94824313619/10116333
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: FOX BOSTON" tvg-logo="http://elitex.ddns.me:80/images/3a897a99b5b23878c65bee08e0774230.png" group-title="ESTADOS UNIDOS",EUA: FOX BOSTON
-http://elitex.me:80/82422w1258/w94824313619/10116284
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: FOX BUSINESS NETWORK" tvg-logo="http://elitex.ddns.me:80/images/912a0234221989a96eb2691da73bdf88.png" group-title="ESTADOS UNIDOS",EUA: FOX BUSINESS NETWORK
-http://elitex.me:80/82422w1258/w94824313619/10116275
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: FOX NEWS CHANNEL" tvg-logo="http://elitex.ddns.me:80/images/6944560e795b7052e2f9c6c11cdcf161.png" group-title="ESTADOS UNIDOS",EUA: FOX NEWS CHANNEL
-http://elitex.me:80/82422w1258/w94824313619/10116274
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: FOX SPORTS" tvg-logo="http://elitex.ddns.me:80/images/51cb8ddd2d35ea7808ace57882fecfa5.png" group-title="ESTADOS UNIDOS",EUA: FOX SPORTS
-http://elitex.me:80/82422w1258/w94824313619/10116283
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: FOX SPORTS 2" tvg-logo="http://elitex.ddns.me:80/images/ba4e4a0dc1fc9232a46006ddd59f57ad.png" group-title="ESTADOS UNIDOS",EUA: FOX SPORTS 2
-http://elitex.me:80/82422w1258/w94824313619/10116282
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: FOX-WAGA" tvg-logo="http://elitex.ddns.me:80/images/461934d5de588259f89472a9e49b5fad.png" group-title="ESTADOS UNIDOS",EUA: FOX-WAGA
-http://elitex.me:80/82422w1258/w94824313619/10116281
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: FREEFORM" tvg-logo="http://elitex.ddns.me:80/images/a63e06208ab5cb65131353aa7fde20ed.png" group-title="ESTADOS UNIDOS",EUA: FREEFORM
-http://elitex.me:80/82422w1258/w94824313619/10116273
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: FX" tvg-logo="http://elitex.ddns.me:80/images/30318a2847b7702901fdd0cc6259f5ed.png" group-title="ESTADOS UNIDOS",EUA: FX
-http://elitex.me:80/82422w1258/w94824313619/10116280
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: FXX" tvg-logo="http://elitex.ddns.me:80/images/85d3a6401513ca96dee0c9cbea2a1f51.png" group-title="ESTADOS UNIDOS",EUA: FXX
-http://elitex.me:80/82422w1258/w94824313619/10116278
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: GALAVISION" tvg-logo="http://elitex.ddns.me:80/images/c709c5cc4bec3c11813bb69c8f1adfca.png" group-title="ESTADOS UNIDOS",EUA: GALAVISION
-http://elitex.me:80/82422w1258/w94824313619/10116271
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: GOLF CHANNEL" tvg-logo="http://elitex.ddns.me:80/images/b9fe1eb076b20a55c43660a25afbbb83.png" group-title="ESTADOS UNIDOS",EUA: GOLF CHANNEL
-http://elitex.me:80/82422w1258/w94824313619/10116270
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: GSN" tvg-logo="http://elitex.ddns.me:80/images/efa26fd55b1349884cfd0cc7208228e6.png" group-title="ESTADOS UNIDOS",EUA: GSN
-http://elitex.me:80/82422w1258/w94824313619/10116272
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: HALLMARK CHANNEL" tvg-logo="http://elitex.ddns.me:80/images/4213e199f29e2b4dc0e525dc573dd4f7.png" group-title="ESTADOS UNIDOS",EUA: HALLMARK CHANNEL
-http://elitex.me:80/82422w1258/w94824313619/10116261
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: HBO" tvg-logo="http://elitex.ddns.me:80/images/c59db57e4398473aef4c2c3c7bdafb86.png" group-title="ESTADOS UNIDOS",EUA: HBO
-http://elitex.me:80/82422w1258/w94824313619/10116268
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: HBO 2" tvg-logo="http://elitex.ddns.me:80/images/031544b2eefae172962dd7434a1ab2da.png" group-title="ESTADOS UNIDOS",EUA: HBO 2
-http://elitex.me:80/82422w1258/w94824313619/10116267
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: HBO FAMILY" tvg-logo="http://elitex.ddns.me:80/images/8e6e837f45e098e193038260685cb3e3.png" group-title="ESTADOS UNIDOS",EUA: HBO FAMILY
-http://elitex.me:80/82422w1258/w94824313619/10116266
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: HGTV" tvg-logo="http://elitex.ddns.me:80/images/4a7cfa994af5952a0ac8079920ec0e30.png" group-title="ESTADOS UNIDOS",EUA: HGTV
-http://elitex.me:80/82422w1258/w94824313619/10116264
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: HISTORY" tvg-logo="http://elitex.ddns.me:80/images/c301e449bcb6c1fa8cdabad918d6a74f.png" group-title="ESTADOS UNIDOS",EUA: HISTORY
-http://elitex.me:80/82422w1258/w94824313619/10116263
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: HLN" tvg-logo="http://elitex.ddns.me:80/images/b6da118414c80bbaca40accc135bc346.png" group-title="ESTADOS UNIDOS",EUA: HLN
-http://elitex.me:80/82422w1258/w94824313619/10116262
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: HOME SHOPPING NETWORK" tvg-logo="http://elitex.ddns.me:80/images/78960b16218f53c32329b71e1b8c3bfb.png" group-title="ESTADOS UNIDOS",EUA: HOME SHOPPING NETWORK
-http://elitex.me:80/82422w1258/w94824313619/10116259
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: IFC" tvg-logo="http://elitex.ddns.me:80/images/67c66b7adaf62bd0ce9181dc0b718274.png" group-title="ESTADOS UNIDOS",EUA: IFC
-http://elitex.me:80/82422w1258/w94824313619/10116258
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: INVESTIGATION DISCOVERY" tvg-logo="http://elitex.ddns.me:80/images/5e092c7563bd6677dde72381dd021c00.png" group-title="ESTADOS UNIDOS",EUA: INVESTIGATION DISCOVERY
-http://elitex.me:80/82422w1258/w94824313619/10116257
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: JEWELRY TV" tvg-logo="http://elitex.ddns.me:80/images/6f2b386e1c45db9b49f637ba83c7a4f8.png" group-title="ESTADOS UNIDOS",EUA: JEWELRY TV
-http://elitex.me:80/82422w1258/w94824313619/10116256
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: JUSTICE CENTRAL" tvg-logo="http://elitex.ddns.me:80/images/055e248478b5f5938a0bc19e3bf4427e.png" group-title="ESTADOS UNIDOS",EUA: JUSTICE CENTRAL
-http://elitex.me:80/82422w1258/w94824313619/10116255
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: LIFETIME" tvg-logo="http://elitex.ddns.me:80/images/903ba0b324c1dfa5c64ab043f327adc3.png" group-title="ESTADOS UNIDOS",EUA: LIFETIME
-http://elitex.me:80/82422w1258/w94824313619/10116253
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: MLB NETWORK" tvg-logo="http://elitex.ddns.me:80/images/3538ab9a7f8ec18e736aac0e088329d8.png" group-title="ESTADOS UNIDOS",EUA: MLB NETWORK
-http://elitex.me:80/82422w1258/w94824313619/10116251
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: MOTORTREND" tvg-logo="http://elitex.ddns.me:80/images/04d99b1cb971a5dd2dfba5795148951c.png" group-title="ESTADOS UNIDOS",EUA: MOTORTREND
-http://elitex.me:80/82422w1258/w94824313619/10116247
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: MSNBC" tvg-logo="http://elitex.ddns.me:80/images/5de8453ce50c33cf42f084c7abdb8980.png" group-title="ESTADOS UNIDOS",EUA: MSNBC
-http://elitex.me:80/82422w1258/w94824313619/10116250
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: MTV" tvg-logo="http://elitex.ddns.me:80/images/0b11779d38d34a54fac5ef2e2150a67f.png" group-title="ESTADOS UNIDOS",EUA: MTV
-http://elitex.me:80/82422w1258/w94824313619/10116249
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: MTV2" tvg-logo="http://elitex.ddns.me:80/images/d6f7a360db60e823b659181d7cc8476b.png" group-title="ESTADOS UNIDOS",EUA: MTV2
-http://elitex.me:80/82422w1258/w94824313619/10116248
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: NAT GEO WILD" tvg-logo="http://elitex.ddns.me:80/images/ad81d96ed631b6b7337b5e20dbe01f8f.png" group-title="ESTADOS UNIDOS",EUA: NAT GEO WILD
-http://elitex.me:80/82422w1258/w94824313619/10116209
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: NATIONAL GEOGRAPHIC CHANNEL" tvg-logo="http://elitex.ddns.me:80/images/73d74e6bb1abdff5f3575b29738aeddf.png" group-title="ESTADOS UNIDOS",EUA: NATIONAL GEOGRAPHIC CHANNEL
-http://elitex.me:80/82422w1258/w94824313619/10116208
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: NBA TV" tvg-logo="http://elitex.ddns.me:80/images/f41951675122d5377e7bdc528808809b.png" group-title="ESTADOS UNIDOS",EUA: NBA TV
-http://elitex.me:80/82422w1258/w94824313619/10116246
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: NBC NEW YORK" tvg-logo="http://elitex.ddns.me:80/images/de699b76d10e450ddc28c7385979567b.png" group-title="ESTADOS UNIDOS",EUA: NBC NEW YORK
-http://elitex.me:80/82422w1258/w94824313619/10116244
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: NBC ORLANDO" tvg-logo="http://elitex.ddns.me:80/images/a0bcd813d4cc9080589316dd89e4b254.png" group-title="ESTADOS UNIDOS",EUA: NBC ORLANDO
-http://elitex.me:80/82422w1258/w94824313619/10116240
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: NBC-WVLA" tvg-logo="http://elitex.ddns.me:80/images/a0bcd813d4cc9080589316dd89e4b254.png" group-title="ESTADOS UNIDOS",EUA: NBC-WVLA
-http://elitex.me:80/82422w1258/w94824313619/10116213
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: NBC-WWBT" tvg-logo="http://elitex.ddns.me:80/images/a0bcd813d4cc9080589316dd89e4b254.png" group-title="ESTADOS UNIDOS",EUA: NBC-WWBT
-http://elitex.me:80/82422w1258/w94824313619/10116212
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: NBC-WXIA" tvg-logo="http://elitex.ddns.me:80/images/a0bcd813d4cc9080589316dd89e4b254.png" group-title="ESTADOS UNIDOS",EUA: NBC-WXIA
-http://elitex.me:80/82422w1258/w94824313619/10116211
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: NBCSN BOSTON" tvg-logo="http://elitex.ddns.me:80/images/f47ae2c2d4eed217e348aeeffd038f14.png" group-title="ESTADOS UNIDOS",EUA: NBCSN BOSTON
-http://elitex.me:80/82422w1258/w94824313619/10116245
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: NHL NETWORK HD" tvg-logo="http://elitex.ddns.me:80/images/299f3eb8a5d66c2600301853eedda652.png" group-title="ESTADOS UNIDOS",EUA: NHL NETWORK HD
-http://elitex.me:80/82422w1258/w94824313619/10116210
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: NICK JR." tvg-logo="http://elitex.ddns.me:80/images/675706283c2ae2262f60f063da45ad1e.png" group-title="ESTADOS UNIDOS",EUA: NICK JR.
-http://elitex.me:80/82422w1258/w94824313619/10116207
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: NICKELODEON EAST HD" tvg-logo="http://elitex.ddns.me:80/images/1c63fcbe6244ac36494bf8927db61477.png" group-title="ESTADOS UNIDOS",EUA: NICKELODEON EAST HD
-http://elitex.me:80/82422w1258/w94824313619/10116206
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: NICKTOONS" tvg-logo="http://elitex.ddns.me:80/images/34f3871befb6d5478be4b91120331a7a.png" group-title="ESTADOS UNIDOS",EUA: NICKTOONS
-http://elitex.me:80/82422w1258/w94824313619/10116205
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: OWN" tvg-logo="http://elitex.ddns.me:80/images/9a0932de900110b31665b47b02edbcd5.png" group-title="ESTADOS UNIDOS",EUA: OWN
-http://elitex.me:80/82422w1258/w94824313619/10116204
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: OXYGEN" tvg-logo="http://elitex.ddns.me:80/images/b026d2758ea148210219ba848441b87c.png" group-title="ESTADOS UNIDOS",EUA: OXYGEN
-http://elitex.me:80/82422w1258/w94824313619/10116201
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: PARAMOUNT TV" tvg-logo="http://elitex.ddns.me:80/images/a875e9c90485fc8bb32469f75213e1b0.png" group-title="ESTADOS UNIDOS",EUA: PARAMOUNT TV
-http://elitex.me:80/82422w1258/w94824313619/10116176
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: PBS-WLIW NEW YORK" tvg-logo="http://elitex.ddns.me:80/images/909efa1c964dfd1f3e0af97b6a1ec17c.png" group-title="ESTADOS UNIDOS",EUA: PBS-WLIW NEW YORK
-http://elitex.me:80/82422w1258/w94824313619/10116200
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: PBS-WLRN MIAMI" tvg-logo="http://elitex.ddns.me:80/images/909efa1c964dfd1f3e0af97b6a1ec17c.png" group-title="ESTADOS UNIDOS",EUA: PBS-WLRN MIAMI
-http://elitex.me:80/82422w1258/w94824313619/10116199
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: PBS-WCVE" tvg-logo="http://elitex.ddns.me:80/images/460015acfb6c06fbd307631b5bb160d5.png" group-title="ESTADOS UNIDOS",EUA: PBS-WCVE
-http://elitex.me:80/82422w1258/w94824313619/10116181
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: PBS-WHYY PHILADELPHIA" tvg-logo="http://elitex.ddns.me:80/images/460015acfb6c06fbd307631b5bb160d5.png" group-title="ESTADOS UNIDOS",EUA: PBS-WHYY PHILADELPHIA
-http://elitex.me:80/82422w1258/w94824313619/10116178
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: POP HD" tvg-logo="http://elitex.ddns.me:80/images/8d8de8dabd474f9a4bad9bad67da3c40.png" group-title="ESTADOS UNIDOS",EUA: POP HD
-http://elitex.me:80/82422w1258/w94824313619/10116177
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: SCIENCE" tvg-logo="http://elitex.ddns.me:80/images/99ef0aa2785f9f32159379fe21f92db5.png" group-title="ESTADOS UNIDOS",EUA: SCIENCE
-http://elitex.me:80/82422w1258/w94824313619/10116172
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: SEC NETWORK" tvg-logo="http://elitex.ddns.me:80/images/3dab3ac63cfb08b3d83b5fea723aca56.png" group-title="ESTADOS UNIDOS",EUA: SEC NETWORK
-http://elitex.me:80/82422w1258/w94824313619/10116173
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: SHORTS TV HD" tvg-logo="http://elitex.ddns.me:80/images/6d16f2370a06ce91716d4918697b550f.png" group-title="ESTADOS UNIDOS",EUA: SHORTS TV HD
-http://elitex.me:80/82422w1258/w94824313619/10116170
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: SHOWTIME" tvg-logo="http://elitex.ddns.me:80/images/cd50bba7c133c920dffdc85743d26b0e.png" group-title="ESTADOS UNIDOS",EUA: SHOWTIME
-http://elitex.me:80/82422w1258/w94824313619/10116169
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: SHOWTIME 2" tvg-logo="http://elitex.ddns.me:80/images/921be18cd585474d652f9ad8922b355c.png" group-title="ESTADOS UNIDOS",EUA: SHOWTIME 2
-http://elitex.me:80/82422w1258/w94824313619/10116168
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: SMITHSONIAN CHANNEL HD" tvg-logo="http://elitex.ddns.me:80/images/463b0dad5a2a46fa1b6662e4d84f0947.png" group-title="ESTADOS UNIDOS",EUA: SMITHSONIAN CHANNEL HD
-http://elitex.me:80/82422w1258/w94824313619/10116166
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: STARZ ENCORE HD" tvg-logo="http://elitex.ddns.me:80/images/003caf1741e79662ea8cb73e50d586b9.png" group-title="ESTADOS UNIDOS",EUA: STARZ ENCORE HD
-http://elitex.me:80/82422w1258/w94824313619/10116160
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: STARZ HD" tvg-logo="http://elitex.ddns.me:80/images/85c5f5ffb6f6f3dec97501947c4abf79.png" group-title="ESTADOS UNIDOS",EUA: STARZ HD
-http://elitex.me:80/82422w1258/w94824313619/10116158
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: SUNDANCE TV" tvg-logo="http://elitex.ddns.me:80/images/0ffb97844759ac7c234772d3fba781d6.png" group-title="ESTADOS UNIDOS",EUA: SUNDANCE TV
-http://elitex.me:80/82422w1258/w94824313619/10116157
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: SYFY" tvg-logo="http://elitex.ddns.me:80/images/85470b41c4778a801cfc1c17387e9fd7.png" group-title="ESTADOS UNIDOS",EUA: SYFY
-http://elitex.me:80/82422w1258/w94824313619/10116156
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: TASTEMADE" tvg-logo="http://elitex.ddns.me:80/images/0eaeb8a8c9715537b6bcb91b8399ffc0.png" group-title="ESTADOS UNIDOS",EUA: TASTEMADE
-http://elitex.me:80/82422w1258/w94824313619/10116148
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: TBS" tvg-logo="http://elitex.ddns.me:80/images/456b0ffe67a8668b93e82046a0607f88.png" group-title="ESTADOS UNIDOS",EUA: TBS
-http://elitex.me:80/82422w1258/w94824313619/10116155
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: TCM" tvg-logo="http://elitex.ddns.me:80/images/94f68ad1468ebfc8d0effa90f6a4f4c0.png" group-title="ESTADOS UNIDOS",EUA: TCM
-http://elitex.me:80/82422w1258/w94824313619/10116154
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: TEENNICK" tvg-logo="http://elitex.ddns.me:80/images/f320ec94debc7fc1c2a8fd5fb9d3bb10.png" group-title="ESTADOS UNIDOS",EUA: TEENNICK
-http://elitex.me:80/82422w1258/w94824313619/10116147
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: TENNIS CHANNEL HD" tvg-logo="http://elitex.ddns.me:80/images/783daf3d56f2fcbd83deb1eebe5eabb8.png" group-title="ESTADOS UNIDOS",EUA: TENNIS CHANNEL HD
-http://elitex.me:80/82422w1258/w94824313619/10116146
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: THE WEATHER CHANNEL HD" tvg-logo="http://elitex.ddns.me:80/images/5ec5bdfa1fcd0ecb8a860c2a865985ac.png" group-title="ESTADOS UNIDOS",EUA: THE WEATHER CHANNEL HD
-http://elitex.me:80/82422w1258/w94824313619/10116145
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: TLC" tvg-logo="http://elitex.ddns.me:80/images/30fdf594eb592b1e59c1b8e12f2e62af.png" group-title="ESTADOS UNIDOS",EUA: TLC
-http://elitex.me:80/82422w1258/w94824313619/10116153
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: TNT" tvg-logo="http://elitex.ddns.me:80/images/eca105f548690a061aa8e2beb22a0b63.png" group-title="ESTADOS UNIDOS",EUA: TNT
-http://elitex.me:80/82422w1258/w94824313619/10116152
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: TRUTV" tvg-logo="http://elitex.ddns.me:80/images/56d44e0b7e928687665b01f537116d4f.png" group-title="ESTADOS UNIDOS",EUA: TRUTV
-http://elitex.me:80/82422w1258/w94824313619/10116133
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: TUDN" tvg-logo="http://elitex.ddns.me:80/images/f54b2056b0ef8ef8a05fc64732a3b615.png" group-title="ESTADOS UNIDOS",EUA: TUDN
-http://elitex.me:80/82422w1258/w94824313619/10116151
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: TV LAND" tvg-logo="http://elitex.ddns.me:80/images/5895aaff0a24691e76161e1450318a3b.png" group-title="ESTADOS UNIDOS",EUA: TV LAND
-http://elitex.me:80/82422w1258/w94824313619/10116150
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: TV ONE" tvg-logo="http://elitex.ddns.me:80/images/9e96d3b4a3e15f8d58b9327d0c24df33.png" group-title="ESTADOS UNIDOS",EUA: TV ONE
-http://elitex.me:80/82422w1258/w94824313619/10116149
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: UNIMAS WEST HD" tvg-logo="http://elitex.ddns.me:80/images/702132cbafc6a26f189d4ad7607a9911.png" group-title="ESTADOS UNIDOS",EUA: UNIMAS WEST HD
-http://elitex.me:80/82422w1258/w94824313619/10116142
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: UNIVERSAL KIDS" tvg-logo="http://elitex.ddns.me:80/images/36769bc7098015224af1dc7569eee4f3.png" group-title="ESTADOS UNIDOS",EUA: UNIVERSAL KIDS
-http://elitex.me:80/82422w1258/w94824313619/10116141
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: UNIVISION EAST HD" tvg-logo="http://elitex.ddns.me:80/images/a9c945e99defadcee2c41bbb4594ccd3.png" group-title="ESTADOS UNIDOS",EUA: UNIVISION EAST HD
-http://elitex.me:80/82422w1258/w94824313619/10116140
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: UP" tvg-logo="http://elitex.ddns.me:80/images/9517acbc71aeb5988bf8b4b95b9cbc5e.png" group-title="ESTADOS UNIDOS",EUA: UP
-http://elitex.me:80/82422w1258/w94824313619/10116144
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: USA NETWORK" tvg-logo="http://elitex.ddns.me:80/images/82545508ab61be62132664cb701ae80d.png" group-title="ESTADOS UNIDOS",EUA: USA NETWORK
-http://elitex.me:80/82422w1258/w94824313619/10116143
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: VH1" tvg-logo="http://elitex.ddns.me:80/images/6df53d5c255193ed40ae82986fa2a7f6.png" group-title="ESTADOS UNIDOS",EUA: VH1
-http://elitex.me:80/82422w1258/w94824313619/10116138
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: VICE" tvg-logo="http://elitex.ddns.me:80/images/38eb863959e00a9533d544c7fbf11aff.png" group-title="ESTADOS UNIDOS",EUA: VICE
-http://elitex.me:80/82422w1258/w94824313619/10116137
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: WE TV" tvg-logo="http://elitex.ddns.me:80/images/37dfc5c88c918c31c24cbaab5eaec982.png" group-title="ESTADOS UNIDOS",EUA: WE TV
-http://elitex.me:80/82422w1258/w94824313619/10116136
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: WGN AMERICA" tvg-logo="http://elitex.ddns.me:80/images/46eb49a3cefdaaff65342a99800c0c46.png" group-title="ESTADOS UNIDOS",EUA: WGN AMERICA
-http://elitex.me:80/82422w1258/w94824313619/10116135
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL GAME PASS 01" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/nfl_gamepass.png" group-title="ESTADOS UNIDOS",NFL GAME PASS 01
-http://elitex.me:80/82422w1258/w94824313619/10116122
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL GAME PASS 02" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/nfl_gamepass.png" group-title="ESTADOS UNIDOS",NFL GAME PASS 02
-http://elitex.me:80/82422w1258/w94824313619/10116121
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL GAME PASS 03" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/nfl_gamepass.png" group-title="ESTADOS UNIDOS",NFL GAME PASS 03
-http://elitex.me:80/82422w1258/w94824313619/10116120
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL GAME PASS 04" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/nfl_gamepass.png" group-title="ESTADOS UNIDOS",NFL GAME PASS 04
-http://elitex.me:80/82422w1258/w94824313619/10116119
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL GAME PASS 05" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/nfl_gamepass.png" group-title="ESTADOS UNIDOS",NFL GAME PASS 05
-http://elitex.me:80/82422w1258/w94824313619/10116118
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL GAME PASS 06" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/nfl_gamepass.png" group-title="ESTADOS UNIDOS",NFL GAME PASS 06
-http://elitex.me:80/82422w1258/w94824313619/10116117
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL GAME PASS 07" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/nfl_gamepass.png" group-title="ESTADOS UNIDOS",NFL GAME PASS 07
-http://elitex.me:80/82422w1258/w94824313619/10116116
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL GAME PASS 08" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/nfl_gamepass.png" group-title="ESTADOS UNIDOS",NFL GAME PASS 08
-http://elitex.me:80/82422w1258/w94824313619/10116115
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL GAME PASS 09" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/nfl_gamepass.png" group-title="ESTADOS UNIDOS",NFL GAME PASS 09
-http://elitex.me:80/82422w1258/w94824313619/10116114
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL GAME PASS 10" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/nfl_gamepass.png" group-title="ESTADOS UNIDOS",NFL GAME PASS 10
-http://elitex.me:80/82422w1258/w94824313619/10116113
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="US NFL NETWORK" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/iScreen%20Shoter%20-%20Google%20Chrome%20-%20230628221811.jpg" group-title="ESTADOS UNIDOS",US NFL NETWORK
-http://elitex.me:80/82422w1258/w94824313619/10035236
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA LEAGUE PASS 01" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/nba.png" group-title="ESTADOS UNIDOS",NBA LEAGUE PASS 01
-http://elitex.me:80/82422w1258/w94824313619/10116132
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA LEAGUE PASS 02" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/nba.png" group-title="ESTADOS UNIDOS",NBA LEAGUE PASS 02
-http://elitex.me:80/82422w1258/w94824313619/10116131
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA LEAGUE PASS 03" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/nba.png" group-title="ESTADOS UNIDOS",NBA LEAGUE PASS 03
-http://elitex.me:80/82422w1258/w94824313619/10116130
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA LEAGUE PASS 04" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/nba.png" group-title="ESTADOS UNIDOS",NBA LEAGUE PASS 04
-http://elitex.me:80/82422w1258/w94824313619/10116129
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA LEAGUE PASS 05" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/nba.png" group-title="ESTADOS UNIDOS",NBA LEAGUE PASS 05
-http://elitex.me:80/82422w1258/w94824313619/10116128
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA LEAGUE PASS 06" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/nba.png" group-title="ESTADOS UNIDOS",NBA LEAGUE PASS 06
-http://elitex.me:80/82422w1258/w94824313619/10116127
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA LEAGUE PASS 07" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/nba.png" group-title="ESTADOS UNIDOS",NBA LEAGUE PASS 07
-http://elitex.me:80/82422w1258/w94824313619/10116126
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA LEAGUE PASS 08" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/nba.png" group-title="ESTADOS UNIDOS",NBA LEAGUE PASS 08
-http://elitex.me:80/82422w1258/w94824313619/10116125
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA LEAGUE PASS 09" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/nba.png" group-title="ESTADOS UNIDOS",NBA LEAGUE PASS 09
-http://elitex.me:80/82422w1258/w94824313619/10116124
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA LEAGUE PASS 10" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/nba.png" group-title="ESTADOS UNIDOS",NBA LEAGUE PASS 10
-http://elitex.me:80/82422w1258/w94824313619/10116123
-#EXTINF:-1 tvg-id="FXNWS" tvg-name="US FOX NEWS ²" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/3d03ac52-fad9-44af-528e-d205e9d7f900/public" group-title="ESTADOS UNIDOS",US FOX NEWS ²
-http://elitex.me:80/82422w1258/w94824313619/10068453
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="US GOLF CHANNEL USA" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/iScreen%20Shoter%20-%20Google%20Chrome%20-%20230628221811.jpg" group-title="ESTADOS UNIDOS",US GOLF CHANNEL USA
-http://elitex.me:80/82422w1258/w94824313619/10035226
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="US THE GOLF CHANNEL" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/iScreen%20Shoter%20-%20Google%20Chrome%20-%20230628221811.jpg" group-title="ESTADOS UNIDOS",US THE GOLF CHANNEL
-http://elitex.me:80/82422w1258/w94824313619/10045400
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: A&E" tvg-logo="" group-title="CANADA",CA: A&E
 http://elitex.me:80/82422w1258/w94824313619/10116031
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA CBC NEWS NETWORK HD (B)" tvg-logo="" group-title="CANADA",CA CBC NEWS NETWORK HD (B)
