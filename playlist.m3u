@@ -781,6 +781,22 @@ http://elitex.me:80/82422w1258/w94824313619/6500
 http://elitex.me:80/82422w1258/w94824313619/10054636
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV VANGUARDA S J CAMPOS SD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/globo_new.png" group-title="GLOBOS",GB TV VANGUARDA S J CAMPOS SD*
 http://elitex.me:80/82422w1258/w94824313619/10054635
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A GRANDE CONQUISTA 1" tvg-logo="" group-title="RECORDTV",A GRANDE CONQUISTA 1
+http://elitex.me:80/82422w1258/w94824313619/10150613
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A GRANDE CONQUISTA 1*" tvg-logo="" group-title="RECORDTV",A GRANDE CONQUISTA 1*
+http://elitex.me:80/82422w1258/w94824313619/10150612
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A GRANDE CONQUISTA 2" tvg-logo="" group-title="RECORDTV",A GRANDE CONQUISTA 2
+http://elitex.me:80/82422w1258/w94824313619/10150611
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A GRANDE CONQUISTA 2*" tvg-logo="" group-title="RECORDTV",A GRANDE CONQUISTA 2*
+http://elitex.me:80/82422w1258/w94824313619/10150610
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A GRANDE CONQUISTA 3" tvg-logo="" group-title="RECORDTV",A GRANDE CONQUISTA 3
+http://elitex.me:80/82422w1258/w94824313619/10150609
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A GRANDE CONQUISTA 3*" tvg-logo="" group-title="RECORDTV",A GRANDE CONQUISTA 3*
+http://elitex.me:80/82422w1258/w94824313619/10150608
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A GRANDE CONQUISTA 4" tvg-logo="" group-title="RECORDTV",A GRANDE CONQUISTA 4
+http://elitex.me:80/82422w1258/w94824313619/10150607
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A GRANDE CONQUISTA 4*" tvg-logo="" group-title="RECORDTV",A GRANDE CONQUISTA 4*
+http://elitex.me:80/82422w1258/w94824313619/10150606
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP FHD" tvg-logo="http://i.ibb.co/K6tjQKy/record.png" group-title="RECORDTV",RECORDTV SP FHD
 http://elitex.me:80/82422w1258/w94824313619/6306
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP FHD*" tvg-logo="http://i.ibb.co/K6tjQKy/record.png" group-title="RECORDTV",RECORDTV SP FHD*
@@ -1177,12 +1193,6 @@ http://elitex.me:80/82422w1258/w94824313619/16847
 http://elitex.me:80/82422w1258/w94824313619/176
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV SD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/sportv_new.png" group-title="ESPORTES",SPORTV SD*
 http://elitex.me:80/82422w1258/w94824313619/10054367
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 DGO" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/166.png" group-title="ESPORTES",SPORTV 3 DGO
-http://elitex.me:80/82422w1258/w94824313619/10091101
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 DGO" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/171.png" group-title="ESPORTES",SPORTV 2 DGO
-http://elitex.me:80/82422w1258/w94824313619/10091100
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV DGO" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/sportv_new.png" group-title="ESPORTES",SPORTV DGO
-http://elitex.me:80/82422w1258/w94824313619/10091099
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/5940.png" group-title="ESPORTES",SPORTV 2 FHD
 http://elitex.me:80/82422w1258/w94824313619/5940
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/171.png" group-title="ESPORTES",SPORTV 2 FHD*
@@ -1219,28 +1229,6 @@ http://elitex.me:80/82422w1258/w94824313619/10054372
 http://elitex.me:80/82422w1258/w94824313619/10054371
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 SD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/166.png" group-title="ESPORTES",SPORTV 3 SD
 http://elitex.me:80/82422w1258/w94824313619/166
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="ESPN 5 FHD" tvg-logo="https://i.postimg.cc/HkpSFqrz/dflqnix-a6d6a58c-b6e7-4614-a04b-c99d124d32e5.png" group-title="ESPORTES",ESPN 5 FHD
-http://elitex.me:80/82422w1258/w94824313619/2976
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="ESPN 5 FHD*" tvg-logo="https://i.postimg.cc/HkpSFqrz/dflqnix-a6d6a58c-b6e7-4614-a04b-c99d124d32e5.png" group-title="ESPORTES",ESPN 5 FHD*
-http://elitex.me:80/82422w1258/w94824313619/10054810
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="ESPN 5 FHD H265" tvg-logo="https://i.postimg.cc/HkpSFqrz/dflqnix-a6d6a58c-b6e7-4614-a04b-c99d124d32e5.png" group-title="ESPORTES",ESPN 5 FHD H265
-http://elitex.me:80/82422w1258/w94824313619/17301
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="ESPN 5 FHD H265*" tvg-logo="https://i.postimg.cc/HkpSFqrz/dflqnix-a6d6a58c-b6e7-4614-a04b-c99d124d32e5.png" group-title="ESPORTES",ESPN 5 FHD H265*
-http://elitex.me:80/82422w1258/w94824313619/10054809
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="ESPN 5 HD" tvg-logo="https://i.postimg.cc/HkpSFqrz/dflqnix-a6d6a58c-b6e7-4614-a04b-c99d124d32e5.png" group-title="ESPORTES",ESPN 5 HD
-http://elitex.me:80/82422w1258/w94824313619/161
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="ESPN 5 HD*" tvg-logo="https://i.postimg.cc/HkpSFqrz/dflqnix-a6d6a58c-b6e7-4614-a04b-c99d124d32e5.png" group-title="ESPORTES",ESPN 5 HD*
-http://elitex.me:80/82422w1258/w94824313619/10054808
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="ESPN 5 DGO" tvg-logo="https://i.postimg.cc/HkpSFqrz/dflqnix-a6d6a58c-b6e7-4614-a04b-c99d124d32e5.png" group-title="ESPORTES",ESPN 5 DGO
-http://elitex.me:80/82422w1258/w94824313619/10091104
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="ESPN 5 HD²" tvg-logo="https://i.postimg.cc/HkpSFqrz/dflqnix-a6d6a58c-b6e7-4614-a04b-c99d124d32e5.png" group-title="ESPORTES",ESPN 5 HD²
-http://elitex.me:80/82422w1258/w94824313619/17143
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="ESPN 5 SD" tvg-logo="https://i.postimg.cc/HkpSFqrz/dflqnix-a6d6a58c-b6e7-4614-a04b-c99d124d32e5.png" group-title="ESPORTES",ESPN 5 SD
-http://elitex.me:80/82422w1258/w94824313619/160
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="ESPN 5 SD*" tvg-logo="https://i.postimg.cc/HkpSFqrz/dflqnix-a6d6a58c-b6e7-4614-a04b-c99d124d32e5.png" group-title="ESPORTES",ESPN 5 SD*
-http://elitex.me:80/82422w1258/w94824313619/10054807
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="ESPN 5 SDᴮᴿ" tvg-logo="https://i.postimg.cc/HkpSFqrz/dflqnix-a6d6a58c-b6e7-4614-a04b-c99d124d32e5.png" group-title="ESPORTES",ESPN 5 SDᴮᴿ
-http://elitex.me:80/82422w1258/w94824313619/10047309
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/espn_new.png" group-title="ESPORTES",ESPN FHD
 http://elitex.me:80/82422w1258/w94824313619/6287
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN FHD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/espn_new.png" group-title="ESPORTES",ESPN FHD*
@@ -1253,8 +1241,6 @@ http://elitex.me:80/82422w1258/w94824313619/17305
 http://elitex.me:80/82422w1258/w94824313619/10054834
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/espn_new.png" group-title="ESPORTES",ESPN HD
 http://elitex.me:80/82422w1258/w94824313619/151
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN DGO" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/150.png" group-title="ESPORTES",ESPN DGO
-http://elitex.me:80/82422w1258/w94824313619/10091105
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN HD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/espn_new.png" group-title="ESPORTES",ESPN HD*
 http://elitex.me:80/82422w1258/w94824313619/10054827
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN HDB" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/espn_new.png" group-title="ESPORTES",ESPN HDB
@@ -1277,8 +1263,6 @@ http://elitex.me:80/82422w1258/w94824313619/17304
 http://elitex.me:80/82422w1258/w94824313619/10054831
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN 2 HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/154.png" group-title="ESPORTES",ESPN 2 HD
 http://elitex.me:80/82422w1258/w94824313619/154
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN2 DGO" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/154.png" group-title="ESPORTES",ESPN2 DGO
-http://elitex.me:80/82422w1258/w94824313619/10091106
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN 2 HD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/154.png" group-title="ESPORTES",ESPN 2 HD*
 http://elitex.me:80/82422w1258/w94824313619/10054830
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN 2 HD²" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/17131.png" group-title="ESPORTES",ESPN 2 HD²
@@ -1301,8 +1285,6 @@ http://elitex.me:80/82422w1258/w94824313619/17376
 http://elitex.me:80/82422w1258/w94824313619/10054837
 #EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 3 HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/148.png" group-title="ESPORTES",ESPN 3 HD
 http://elitex.me:80/82422w1258/w94824313619/148
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN3 DGO" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/148.png" group-title="ESPORTES",ESPN3 DGO
-http://elitex.me:80/82422w1258/w94824313619/10091107
 #EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 3 HD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/148.png" group-title="ESPORTES",ESPN 3 HD*
 http://elitex.me:80/82422w1258/w94824313619/10054836
 #EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 3 HDᴮᴿ" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/4962.png" group-title="ESPORTES",ESPN 3 HDᴮᴿ
@@ -1325,8 +1307,6 @@ http://elitex.me:80/82422w1258/w94824313619/17300
 http://elitex.me:80/82422w1258/w94824313619/10054805
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-name="ESPN 4 HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/164.png" group-title="ESPORTES",ESPN 4 HD
 http://elitex.me:80/82422w1258/w94824313619/164
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN4 DGO" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/163.png" group-title="ESPORTES",ESPN4 DGO
-http://elitex.me:80/82422w1258/w94824313619/10091108
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-name="ESPN 4 HD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/163.png" group-title="ESPORTES",ESPN 4 HD*
 http://elitex.me:80/82422w1258/w94824313619/10054804
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-name="ESPN 4 HDᴮᴿ" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/8992.png" group-title="ESPORTES",ESPN 4 HDᴮᴿ
@@ -1339,6 +1319,26 @@ http://elitex.me:80/82422w1258/w94824313619/163
 http://elitex.me:80/82422w1258/w94824313619/10054803
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-name="ESPN 4 SDᴮᴿ" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/163.png" group-title="ESPORTES",ESPN 4 SDᴮᴿ
 http://elitex.me:80/82422w1258/w94824313619/10047310
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="ESPN 5 FHD" tvg-logo="https://i.postimg.cc/HkpSFqrz/dflqnix-a6d6a58c-b6e7-4614-a04b-c99d124d32e5.png" group-title="ESPORTES",ESPN 5 FHD
+http://elitex.me:80/82422w1258/w94824313619/2976
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="ESPN 5 FHD*" tvg-logo="https://i.postimg.cc/HkpSFqrz/dflqnix-a6d6a58c-b6e7-4614-a04b-c99d124d32e5.png" group-title="ESPORTES",ESPN 5 FHD*
+http://elitex.me:80/82422w1258/w94824313619/10054810
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="ESPN 5 FHD H265" tvg-logo="https://i.postimg.cc/HkpSFqrz/dflqnix-a6d6a58c-b6e7-4614-a04b-c99d124d32e5.png" group-title="ESPORTES",ESPN 5 FHD H265
+http://elitex.me:80/82422w1258/w94824313619/17301
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="ESPN 5 FHD H265*" tvg-logo="https://i.postimg.cc/HkpSFqrz/dflqnix-a6d6a58c-b6e7-4614-a04b-c99d124d32e5.png" group-title="ESPORTES",ESPN 5 FHD H265*
+http://elitex.me:80/82422w1258/w94824313619/10054809
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="ESPN 5 HD" tvg-logo="https://i.postimg.cc/HkpSFqrz/dflqnix-a6d6a58c-b6e7-4614-a04b-c99d124d32e5.png" group-title="ESPORTES",ESPN 5 HD
+http://elitex.me:80/82422w1258/w94824313619/161
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="ESPN 5 HD*" tvg-logo="https://i.postimg.cc/HkpSFqrz/dflqnix-a6d6a58c-b6e7-4614-a04b-c99d124d32e5.png" group-title="ESPORTES",ESPN 5 HD*
+http://elitex.me:80/82422w1258/w94824313619/10054808
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="ESPN 5 HD²" tvg-logo="https://i.postimg.cc/HkpSFqrz/dflqnix-a6d6a58c-b6e7-4614-a04b-c99d124d32e5.png" group-title="ESPORTES",ESPN 5 HD²
+http://elitex.me:80/82422w1258/w94824313619/17143
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="ESPN 5 SD" tvg-logo="https://i.postimg.cc/HkpSFqrz/dflqnix-a6d6a58c-b6e7-4614-a04b-c99d124d32e5.png" group-title="ESPORTES",ESPN 5 SD
+http://elitex.me:80/82422w1258/w94824313619/160
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="ESPN 5 SD*" tvg-logo="https://i.postimg.cc/HkpSFqrz/dflqnix-a6d6a58c-b6e7-4614-a04b-c99d124d32e5.png" group-title="ESPORTES",ESPN 5 SD*
+http://elitex.me:80/82422w1258/w94824313619/10054807
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="ESPN 5 SDᴮᴿ" tvg-logo="https://i.postimg.cc/HkpSFqrz/dflqnix-a6d6a58c-b6e7-4614-a04b-c99d124d32e5.png" group-title="ESPORTES",ESPN 5 SDᴮᴿ
+http://elitex.me:80/82422w1258/w94824313619/10047309
 #EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN 6 FHD" tvg-logo="https://i.postimg.cc/qMBbFfhL/ESPN-6-logo-svg.webp" group-title="ESPORTES",ESPN 6 FHD
 http://elitex.me:80/82422w1258/w94824313619/9611
 #EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN 6 FHD*" tvg-logo="https://i.postimg.cc/qMBbFfhL/ESPN-6-logo-svg.webp" group-title="ESPORTES",ESPN 6 FHD*
@@ -1609,948 +1609,238 @@ http://elitex.me:80/82422w1258/w94824313619/10054448
 http://elitex.me:80/82422w1258/w94824313619/8944
 #EXTINF:-1 tvg-id="Premiere8.br" tvg-name="PREMIERE 8 SDᴮᴿ" tvg-logo="https://i.imgur.com/jShb1qA.png" group-title="PREMIERE ESPORTES",PREMIERE 8 SDᴮᴿ
 http://elitex.me:80/82422w1258/w94824313619/10055186
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-APPLETV+ 01" tvg-logo="http://" group-title="ESPORTES PAYPERVIEW",-APPLETV+ 01
-http://elitex.me:80/82422w1258/w94824313619/10136249
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-APPLETV+ 02" tvg-logo="http://" group-title="ESPORTES PAYPERVIEW",-APPLETV+ 02
-http://elitex.me:80/82422w1258/w94824313619/10136248
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-APPLETV+ 03" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-APPLETV+ 03
-http://elitex.me:80/82422w1258/w94824313619/10136247
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-BJJ STARS FHD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-BJJ STARS FHD
-http://elitex.me:80/82422w1258/w94824313619/10136246
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-BJJ STARS HD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-BJJ STARS HD
-http://elitex.me:80/82422w1258/w94824313619/10136245
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-BJJ STARS SD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-BJJ STARS SD
-http://elitex.me:80/82422w1258/w94824313619/10136244
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-BR SERIE C 1 FHD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-BR SERIE C 1 FHD
-http://elitex.me:80/82422w1258/w94824313619/10136243
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-BR SERIE C 1 HD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-BR SERIE C 1 HD
-http://elitex.me:80/82422w1258/w94824313619/10136242
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-BR SERIE C 1 SD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-BR SERIE C 1 SD
-http://elitex.me:80/82422w1258/w94824313619/10136241
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-BR SERIE C 2 FHD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-BR SERIE C 2 FHD
-http://elitex.me:80/82422w1258/w94824313619/10136240
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-BR SERIE C 2 HD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-BR SERIE C 2 HD
-http://elitex.me:80/82422w1258/w94824313619/10136239
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-BR SERIE C 2 SD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-BR SERIE C 2 SD
-http://elitex.me:80/82422w1258/w94824313619/10136238
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-BR SERIE C 3 FHD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-BR SERIE C 3 FHD
-http://elitex.me:80/82422w1258/w94824313619/10136237
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-BR SERIE C 3 HD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-BR SERIE C 3 HD
-http://elitex.me:80/82422w1258/w94824313619/10136236
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-BR SERIE C 3 SD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-BR SERIE C 3 SD
-http://elitex.me:80/82422w1258/w94824313619/10136235
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP ACREANO 01" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP ACREANO 01
-http://elitex.me:80/82422w1258/w94824313619/10136234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP ALAGOANO 01" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP ALAGOANO 01
-http://elitex.me:80/82422w1258/w94824313619/10136233
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP ALAGOANO 02" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP ALAGOANO 02
-http://elitex.me:80/82422w1258/w94824313619/10136232
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP ALEMAO 01" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP ALEMAO 01
-http://elitex.me:80/82422w1258/w94824313619/10136231
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP ALEMAO 02" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP ALEMAO 02
-http://elitex.me:80/82422w1258/w94824313619/10136230
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP ALEMAO 03" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP ALEMAO 03
-http://elitex.me:80/82422w1258/w94824313619/10136229
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP ALEMAO 04" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP ALEMAO 04
-http://elitex.me:80/82422w1258/w94824313619/10136228
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP ALEMAO 05" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP ALEMAO 05
-http://elitex.me:80/82422w1258/w94824313619/10136227
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP AMAPAENSE" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP AMAPAENSE
-http://elitex.me:80/82422w1258/w94824313619/10136226
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP AMAZONENSE 01" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP AMAZONENSE 01
-http://elitex.me:80/82422w1258/w94824313619/10136225
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP BAIANO 01" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP BAIANO 01
-http://elitex.me:80/82422w1258/w94824313619/10136224
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP BRASILIENSE 01" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP BRASILIENSE 01
-http://elitex.me:80/82422w1258/w94824313619/10136223
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP BRASILIENSE 02" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP BRASILIENSE 02
-http://elitex.me:80/82422w1258/w94824313619/10136222
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP CAPIXABA 01" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP CAPIXABA 01
-http://elitex.me:80/82422w1258/w94824313619/10136221
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP CAPIXABA 02" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP CAPIXABA 02
-http://elitex.me:80/82422w1258/w94824313619/10136220
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP CARIOCA 01" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP CARIOCA 01
-http://elitex.me:80/82422w1258/w94824313619/10136219
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP CATARINENSE 1 FHD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP CATARINENSE 1 FHD
-http://elitex.me:80/82422w1258/w94824313619/10136218
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP CATARINENSE 1 HD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP CATARINENSE 1 HD
-http://elitex.me:80/82422w1258/w94824313619/10136217
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP CATARINENSE 01" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP CATARINENSE 01
-http://elitex.me:80/82422w1258/w94824313619/10136216
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP CATARINENSE 1 SD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP CATARINENSE 1 SD
-http://elitex.me:80/82422w1258/w94824313619/10136215
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP CATARINENSE 2 FHD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP CATARINENSE 2 FHD
-http://elitex.me:80/82422w1258/w94824313619/10136214
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP CATARINENSE 2 HD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP CATARINENSE 2 HD
-http://elitex.me:80/82422w1258/w94824313619/10136213
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP CATARINENSE 02" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP CATARINENSE 02
-http://elitex.me:80/82422w1258/w94824313619/10136212
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP CATARINENSE 2 SD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP CATARINENSE 2 SD
-http://elitex.me:80/82422w1258/w94824313619/10136211
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP CATARINENSE 3 FHD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP CATARINENSE 3 FHD
-http://elitex.me:80/82422w1258/w94824313619/10136210
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP CATARINENSE 3 HD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP CATARINENSE 3 HD
-http://elitex.me:80/82422w1258/w94824313619/10136209
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP CATARINENSE 03" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP CATARINENSE 03
-http://elitex.me:80/82422w1258/w94824313619/10136208
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP CATARINENSE 3 SD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP CATARINENSE 3 SD
-http://elitex.me:80/82422w1258/w94824313619/10136207
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP CATARINENSE 4 FHD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP CATARINENSE 4 FHD
-http://elitex.me:80/82422w1258/w94824313619/10136206
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP CATARINENSE 4 HD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP CATARINENSE 4 HD
-http://elitex.me:80/82422w1258/w94824313619/10136205
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP CATARINENSE 4 SD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP CATARINENSE 4 SD
-http://elitex.me:80/82422w1258/w94824313619/10136204
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP CEARENSE 01" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP CEARENSE 01
-http://elitex.me:80/82422w1258/w94824313619/10136203
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP CEARENSE 02" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP CEARENSE 02
-http://elitex.me:80/82422w1258/w94824313619/10136202
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP CEARENSE 04" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP CEARENSE 04
-http://elitex.me:80/82422w1258/w94824313619/10136201
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP GAUCHO 01" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP GAUCHO 01
-http://elitex.me:80/82422w1258/w94824313619/10136200
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP GAUCHO 02" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP GAUCHO 02
-http://elitex.me:80/82422w1258/w94824313619/10136199
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP GOIANO 01" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP GOIANO 01
-http://elitex.me:80/82422w1258/w94824313619/10136198
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP GOIANO 02" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP GOIANO 02
-http://elitex.me:80/82422w1258/w94824313619/10136197
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP MARANHENSE 01" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP MARANHENSE 01
-http://elitex.me:80/82422w1258/w94824313619/10136196
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP MARANHENSE 02" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP MARANHENSE 02
-http://elitex.me:80/82422w1258/w94824313619/10136195
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP MATO-GROSSENSE 01" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP MATO-GROSSENSE 01
-http://elitex.me:80/82422w1258/w94824313619/10136194
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP MATO-GROSSENSE 02" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP MATO-GROSSENSE 02
-http://elitex.me:80/82422w1258/w94824313619/10136193
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP MATO-GROSSENSE 03" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP MATO-GROSSENSE 03
-http://elitex.me:80/82422w1258/w94824313619/10136192
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP MINEIRO 01" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP MINEIRO 01
-http://elitex.me:80/82422w1258/w94824313619/10136191
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP MINEIRO 02" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP MINEIRO 02
-http://elitex.me:80/82422w1258/w94824313619/10136190
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP MINEIRO 03" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP MINEIRO 03
-http://elitex.me:80/82422w1258/w94824313619/10136189
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP PARAENSE 01" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP PARAENSE 01
-http://elitex.me:80/82422w1258/w94824313619/10136188
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP PARAIBANO 1 FHD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP PARAIBANO 1 FHD
-http://elitex.me:80/82422w1258/w94824313619/10136187
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP PARAIBANO 01" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP PARAIBANO 01
-http://elitex.me:80/82422w1258/w94824313619/10136186
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP PARAIBANO 1 HD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP PARAIBANO 1 HD
-http://elitex.me:80/82422w1258/w94824313619/10136185
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP PARAIBANO 1 SD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP PARAIBANO 1 SD
-http://elitex.me:80/82422w1258/w94824313619/10136184
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP PARAIBANO 2 FHD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP PARAIBANO 2 FHD
-http://elitex.me:80/82422w1258/w94824313619/10136183
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP PARAIBANO 2 HD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP PARAIBANO 2 HD
-http://elitex.me:80/82422w1258/w94824313619/10136182
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP PARAIBANO 02" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP PARAIBANO 02
-http://elitex.me:80/82422w1258/w94824313619/10136181
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP PARAIBANO 2 SD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP PARAIBANO 2 SD
-http://elitex.me:80/82422w1258/w94824313619/10136180
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP PARAIBANO 3 FHD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP PARAIBANO 3 FHD
-http://elitex.me:80/82422w1258/w94824313619/10136179
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP PARAIBANO 3 HD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP PARAIBANO 3 HD
-http://elitex.me:80/82422w1258/w94824313619/10136178
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP PARAIBANO 03" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP PARAIBANO 03
-http://elitex.me:80/82422w1258/w94824313619/10136177
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP PARAIBANO 3 SD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP PARAIBANO 3 SD
-http://elitex.me:80/82422w1258/w94824313619/10136176
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP PARANAENSE 1 FHD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP PARANAENSE 1 FHD
-http://elitex.me:80/82422w1258/w94824313619/10136175
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP PARANAENSE 1 HD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP PARANAENSE 1 HD
-http://elitex.me:80/82422w1258/w94824313619/10136174
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP PARANAENSE 01" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP PARANAENSE 01
-http://elitex.me:80/82422w1258/w94824313619/10136173
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP PARANAENSE 1 SD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP PARANAENSE 1 SD
-http://elitex.me:80/82422w1258/w94824313619/10136172
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP PARANAENSE 2 FHD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP PARANAENSE 2 FHD
-http://elitex.me:80/82422w1258/w94824313619/10136171
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP PARANAENSE 2 HD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP PARANAENSE 2 HD
-http://elitex.me:80/82422w1258/w94824313619/10136170
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP PARANAENSE 02" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP PARANAENSE 02
-http://elitex.me:80/82422w1258/w94824313619/10136169
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP PARANAENSE 2 SD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP PARANAENSE 2 SD
-http://elitex.me:80/82422w1258/w94824313619/10136168
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP PARANAENSE 3 FHD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP PARANAENSE 3 FHD
-http://elitex.me:80/82422w1258/w94824313619/10136167
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP PARANAENSE 3 HD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP PARANAENSE 3 HD
-http://elitex.me:80/82422w1258/w94824313619/10136166
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP PARANAENSE 03" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP PARANAENSE 03
-http://elitex.me:80/82422w1258/w94824313619/10136165
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP PARANAENSE 3 SD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP PARANAENSE 3 SD
-http://elitex.me:80/82422w1258/w94824313619/10136164
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP PERNAMBUCANO 01" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP PERNAMBUCANO 01
-http://elitex.me:80/82422w1258/w94824313619/10136163
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP PERNAMBUCANO 02" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP PERNAMBUCANO 02
-http://elitex.me:80/82422w1258/w94824313619/10136162
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP PERNAMBUCANO 03" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP PERNAMBUCANO 03
-http://elitex.me:80/82422w1258/w94824313619/10136161
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP PERNAMBUCANO 04" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP PERNAMBUCANO 04
-http://elitex.me:80/82422w1258/w94824313619/10136160
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP PIAUIENSE 01" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP PIAUIENSE 01
-http://elitex.me:80/82422w1258/w94824313619/10136159
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP PIAUIENSE 02" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP PIAUIENSE 02
-http://elitex.me:80/82422w1258/w94824313619/10136158
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP POTIGUAR 01" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP POTIGUAR 01
-http://elitex.me:80/82422w1258/w94824313619/10136157
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP POTIGUAR 02" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP POTIGUAR 02
-http://elitex.me:80/82422w1258/w94824313619/10136156
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP SERGIPANO 01" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP SERGIPANO 01
-http://elitex.me:80/82422w1258/w94824313619/10136155
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP SERGIPANO 02" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP SERGIPANO 02
-http://elitex.me:80/82422w1258/w94824313619/10136154
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAMP TOCANTINENSE 01" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAMP TOCANTINENSE 01
-http://elitex.me:80/82422w1258/w94824313619/10136153
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CANAL GOAT - FHD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CANAL GOAT - FHD
-http://elitex.me:80/82422w1258/w94824313619/10136152
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CANAL GOAT - HD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CANAL GOAT - HD
-http://elitex.me:80/82422w1258/w94824313619/10136151
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CANAL GOAT - SD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CANAL GOAT - SD
-http://elitex.me:80/82422w1258/w94824313619/10136150
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CANAL GOAT 01." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CANAL GOAT 01.
-http://elitex.me:80/82422w1258/w94824313619/10136149
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CANAL GOAT 01X" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CANAL GOAT 01X
-http://elitex.me:80/82422w1258/w94824313619/10136148
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CANAL GOAT 02." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CANAL GOAT 02.
-http://elitex.me:80/82422w1258/w94824313619/10136147
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CANAL GOAT 02X" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CANAL GOAT 02X
-http://elitex.me:80/82422w1258/w94824313619/10136146
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CANAL GOAT 03." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CANAL GOAT 03.
-http://elitex.me:80/82422w1258/w94824313619/10136145
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CANAL GOAT 03X" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CANAL GOAT 03X
-http://elitex.me:80/82422w1258/w94824313619/10136144
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAZETV FHD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAZETV FHD.
-http://elitex.me:80/82422w1258/w94824313619/10136143
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAZETV HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAZETV HD.
-http://elitex.me:80/82422w1258/w94824313619/10136142
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAZETV HD.*" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAZETV HD.*
-http://elitex.me:80/82422w1258/w94824313619/10136141
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-CAZETV SD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-CAZETV SD.
-http://elitex.me:80/82422w1258/w94824313619/10136140
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-COPA DO BRASIL -  1 FHD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-COPA DO BRASIL -  1 FHD
-http://elitex.me:80/82422w1258/w94824313619/10136139
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-COPA DO BRASIL -  1 HD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-COPA DO BRASIL -  1 HD
-http://elitex.me:80/82422w1258/w94824313619/10136138
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-COPA DO BRASIL -  1 SD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-COPA DO BRASIL -  1 SD
-http://elitex.me:80/82422w1258/w94824313619/10136137
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-COPA DO BRASIL -  2 FHD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-COPA DO BRASIL -  2 FHD
-http://elitex.me:80/82422w1258/w94824313619/10136136
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-COPA DO BRASIL -  2 HD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-COPA DO BRASIL -  2 HD
-http://elitex.me:80/82422w1258/w94824313619/10136135
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-COPA DO BRASIL -  2 SD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-COPA DO BRASIL -  2 SD
-http://elitex.me:80/82422w1258/w94824313619/10136134
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-COPA DO BRASIL -  3 FHD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-COPA DO BRASIL -  3 FHD
-http://elitex.me:80/82422w1258/w94824313619/10136133
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-COPA DO BRASIL -  3 HD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-COPA DO BRASIL -  3 HD
-http://elitex.me:80/82422w1258/w94824313619/10136132
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-COPA DO BRASIL -  3 SD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-COPA DO BRASIL -  3 SD
-http://elitex.me:80/82422w1258/w94824313619/10136131
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-COPA DO BRASIL -  4 FHD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-COPA DO BRASIL -  4 FHD
-http://elitex.me:80/82422w1258/w94824313619/10136130
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-COPA DO BRASIL -  4 HD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-COPA DO BRASIL -  4 HD
-http://elitex.me:80/82422w1258/w94824313619/10136129
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-COPA DO BRASIL -  4 SD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-COPA DO BRASIL -  4 SD
-http://elitex.me:80/82422w1258/w94824313619/10136128
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-COPA DO NORDESTE -  1 FHD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-COPA DO NORDESTE -  1 FHD
-http://elitex.me:80/82422w1258/w94824313619/10136127
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-COPA DO NORDESTE -  1 HD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-COPA DO NORDESTE -  1 HD
-http://elitex.me:80/82422w1258/w94824313619/10136126
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-COPA DO NORDESTE 1" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-COPA DO NORDESTE 1
-http://elitex.me:80/82422w1258/w94824313619/10136125
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-COPA DO NORDESTE -  1 SD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-COPA DO NORDESTE -  1 SD
-http://elitex.me:80/82422w1258/w94824313619/10136124
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-COPA DO NORDESTE -  2 FHD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-COPA DO NORDESTE -  2 FHD
-http://elitex.me:80/82422w1258/w94824313619/10136123
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-COPA DO NORDESTE -  2 HD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-COPA DO NORDESTE -  2 HD
-http://elitex.me:80/82422w1258/w94824313619/10136122
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-COPA DO NORDESTE 2" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-COPA DO NORDESTE 2
-http://elitex.me:80/82422w1258/w94824313619/10136121
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-COPA DO NORDESTE -  2 SD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-COPA DO NORDESTE -  2 SD
-http://elitex.me:80/82422w1258/w94824313619/10136120
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-COPA DO NORDESTE -  3 FHD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-COPA DO NORDESTE -  3 FHD
-http://elitex.me:80/82422w1258/w94824313619/10136119
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-COPA DO NORDESTE -  3 HD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-COPA DO NORDESTE -  3 HD
-http://elitex.me:80/82422w1258/w94824313619/10136118
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-COPA DO NORDESTE 3" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-COPA DO NORDESTE 3
-http://elitex.me:80/82422w1258/w94824313619/10136117
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-COPA DO NORDESTE -  3 SD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-COPA DO NORDESTE -  3 SD
-http://elitex.me:80/82422w1258/w94824313619/10136116
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-COPA DO NORDESTE 4" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-COPA DO NORDESTE 4
-http://elitex.me:80/82422w1258/w94824313619/10136115
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-COPA DO NORDESTE 5" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-COPA DO NORDESTE 5
-http://elitex.me:80/82422w1258/w94824313619/10136114
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-COPA DO NORDESTE 6" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-COPA DO NORDESTE 6
-http://elitex.me:80/82422w1258/w94824313619/10136113
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-COPA DO NORDESTE 7" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-COPA DO NORDESTE 7
-http://elitex.me:80/82422w1258/w94824313619/10136112
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-COPA DO NORDESTE 8" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-COPA DO NORDESTE 8
-http://elitex.me:80/82422w1258/w94824313619/10136111
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-DAZN 1 FHD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-DAZN 1 FHD.
-http://elitex.me:80/82422w1258/w94824313619/10136110
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-DAZN 1 HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-DAZN 1 HD.
-http://elitex.me:80/82422w1258/w94824313619/10136109
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-DAZN 1* HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-DAZN 1* HD.
-http://elitex.me:80/82422w1258/w94824313619/10136108
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-DAZN 1 HDX" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-DAZN 1 HDX
-http://elitex.me:80/82422w1258/w94824313619/10136107
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-DAZN 1 SD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-DAZN 1 SD.
-http://elitex.me:80/82422w1258/w94824313619/10136106
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-DAZN 2 FHD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-DAZN 2 FHD.
-http://elitex.me:80/82422w1258/w94824313619/10136105
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-DAZN 2 HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-DAZN 2 HD.
-http://elitex.me:80/82422w1258/w94824313619/10136104
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-DAZN 2* HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-DAZN 2* HD.
-http://elitex.me:80/82422w1258/w94824313619/10136103
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-DAZN 2 HDX" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-DAZN 2 HDX
-http://elitex.me:80/82422w1258/w94824313619/10136102
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-DAZN 2 SD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-DAZN 2 SD.
-http://elitex.me:80/82422w1258/w94824313619/10136101
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-DAZN 3 HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-DAZN 3 HD.
-http://elitex.me:80/82422w1258/w94824313619/10136100
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-DAZN 3 HDX" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-DAZN 3 HDX
-http://elitex.me:80/82422w1258/w94824313619/10136099
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-DAZN 4 HDX" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-DAZN 4 HDX
-http://elitex.me:80/82422w1258/w94824313619/10136098
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-FORMULA 1 TV FHD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-FORMULA 1 TV FHD.
-http://elitex.me:80/82422w1258/w94824313619/10136097
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-FORMULA 1 TV HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-FORMULA 1 TV HD.
-http://elitex.me:80/82422w1258/w94824313619/10136096
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-FORMULA 1 TV* HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-FORMULA 1 TV* HD.
-http://elitex.me:80/82422w1258/w94824313619/10136095
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-FORMULA 1 TV SD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-FORMULA 1 TV SD.
-http://elitex.me:80/82422w1258/w94824313619/10136094
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-FURACAO TV FHD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-FURACAO TV FHD.
-http://elitex.me:80/82422w1258/w94824313619/10136093
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-FURACAO TV HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-FURACAO TV HD.
-http://elitex.me:80/82422w1258/w94824313619/10136092
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-FURACAO TV SD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-FURACAO TV SD.
-http://elitex.me:80/82422w1258/w94824313619/10136091
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-FURACAO TV HD2" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-FURACAO TV HD2
-http://elitex.me:80/82422w1258/w94824313619/10136090
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-HBO MAX 1 FHD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-HBO MAX 1 FHD.
-http://elitex.me:80/82422w1258/w94824313619/10136089
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-HBO MAX 1 HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-HBO MAX 1 HD.
-http://elitex.me:80/82422w1258/w94824313619/10136088
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-HBO MAX 01 HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-HBO MAX 01 HD.
-http://elitex.me:80/82422w1258/w94824313619/10136087
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-HBO MAX 01X" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-HBO MAX 01X
-http://elitex.me:80/82422w1258/w94824313619/10136086
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-HBO MAX 1 SD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-HBO MAX 1 SD.
-http://elitex.me:80/82422w1258/w94824313619/10136085
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-HBO MAX 2 FHD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-HBO MAX 2 FHD.
-http://elitex.me:80/82422w1258/w94824313619/10136084
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-HBO MAX 2 HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-HBO MAX 2 HD.
-http://elitex.me:80/82422w1258/w94824313619/10136083
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-HBO MAX 02 HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-HBO MAX 02 HD.
-http://elitex.me:80/82422w1258/w94824313619/10136082
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-HBO MAX 02X" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-HBO MAX 02X
-http://elitex.me:80/82422w1258/w94824313619/10136081
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-HBO MAX 2 SD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-HBO MAX 2 SD.
-http://elitex.me:80/82422w1258/w94824313619/10136080
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-HBO MAX 3 FHD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-HBO MAX 3 FHD.
-http://elitex.me:80/82422w1258/w94824313619/10136079
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-HBO MAX 3 HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-HBO MAX 3 HD.
-http://elitex.me:80/82422w1258/w94824313619/10136078
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-HBO MAX 03 HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-HBO MAX 03 HD.
-http://elitex.me:80/82422w1258/w94824313619/10136077
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-HBO MAX 03X" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-HBO MAX 03X
-http://elitex.me:80/82422w1258/w94824313619/10136076
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-HBO MAX 3 SD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-HBO MAX 3 SD.
-http://elitex.me:80/82422w1258/w94824313619/10136075
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-HBO MAX 4 FHD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-HBO MAX 4 FHD.
-http://elitex.me:80/82422w1258/w94824313619/10136074
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-HBO MAX 4 HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-HBO MAX 4 HD.
-http://elitex.me:80/82422w1258/w94824313619/10136073
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-HBO MAX 04 HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-HBO MAX 04 HD.
-http://elitex.me:80/82422w1258/w94824313619/10136072
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-HBO MAX 04X" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-HBO MAX 04X
-http://elitex.me:80/82422w1258/w94824313619/10136071
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-HBO MAX 4 SD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-HBO MAX 4 SD.
-http://elitex.me:80/82422w1258/w94824313619/10136070
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-HBO MAX 5 FHD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-HBO MAX 5 FHD.
-http://elitex.me:80/82422w1258/w94824313619/10136069
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-HBO MAX 5 HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-HBO MAX 5 HD.
-http://elitex.me:80/82422w1258/w94824313619/10136068
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-HBO MAX 05 HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-HBO MAX 05 HD.
-http://elitex.me:80/82422w1258/w94824313619/10136067
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-HBO MAX 5 SD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-HBO MAX 5 SD.
-http://elitex.me:80/82422w1258/w94824313619/10136066
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-HBO MAX 6 FHD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-HBO MAX 6 FHD.
-http://elitex.me:80/82422w1258/w94824313619/10136065
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-HBO MAX 6 HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-HBO MAX 6 HD.
-http://elitex.me:80/82422w1258/w94824313619/10136064
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-HBO MAX 6 SD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-HBO MAX 6 SD.
-http://elitex.me:80/82422w1258/w94824313619/10136063
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-KINGPYN BOXING FHD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-KINGPYN BOXING FHD
-http://elitex.me:80/82422w1258/w94824313619/10136062
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-KINGPYN BOXING HD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-KINGPYN BOXING HD
-http://elitex.me:80/82422w1258/w94824313619/10136061
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-KINGPYN BOXING SD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-KINGPYN BOXING SD
-http://elitex.me:80/82422w1258/w94824313619/10136060
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-NOSSO FUTEBOL 1 FHD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-NOSSO FUTEBOL 1 FHD.
-http://elitex.me:80/82422w1258/w94824313619/10136059
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-NOSSO FUTEBOL 1 FHDR." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-NOSSO FUTEBOL 1 FHDR.
-http://elitex.me:80/82422w1258/w94824313619/10136058
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-NOSSO FUTEBOL 1 H265." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-NOSSO FUTEBOL 1 H265.
-http://elitex.me:80/82422w1258/w94824313619/10136057
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-NOSSO FUTEBOL 1 HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-NOSSO FUTEBOL 1 HD.
-http://elitex.me:80/82422w1258/w94824313619/10136056
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-NOSSO FUTEBOL 01" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-NOSSO FUTEBOL 01
-http://elitex.me:80/82422w1258/w94824313619/10136055
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-NOSSO FUTEBOL 1 SD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-NOSSO FUTEBOL 1 SD.
-http://elitex.me:80/82422w1258/w94824313619/10136054
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-NOSSO FUTEBOL 2 FHD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-NOSSO FUTEBOL 2 FHD.
-http://elitex.me:80/82422w1258/w94824313619/10136053
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-NOSSO FUTEBOL 2 FHDR." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-NOSSO FUTEBOL 2 FHDR.
-http://elitex.me:80/82422w1258/w94824313619/10136052
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-NOSSO FUTEBOL 2 H265." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-NOSSO FUTEBOL 2 H265.
-http://elitex.me:80/82422w1258/w94824313619/10136051
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-NOSSO FUTEBOL 2 HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-NOSSO FUTEBOL 2 HD.
-http://elitex.me:80/82422w1258/w94824313619/10136050
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-NOSSO FUTEBOL 02" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-NOSSO FUTEBOL 02
-http://elitex.me:80/82422w1258/w94824313619/10136049
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-NOSSO FUTEBOL 2 SD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-NOSSO FUTEBOL 2 SD.
-http://elitex.me:80/82422w1258/w94824313619/10136048
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-NOSSO FUTEBOL 3 FHD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-NOSSO FUTEBOL 3 FHD.
-http://elitex.me:80/82422w1258/w94824313619/10136047
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-NOSSO FUTEBOL 3 FHDR." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-NOSSO FUTEBOL 3 FHDR.
-http://elitex.me:80/82422w1258/w94824313619/10136046
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-NOSSO FUTEBOL 3 H265." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-NOSSO FUTEBOL 3 H265.
-http://elitex.me:80/82422w1258/w94824313619/10136045
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-NOSSO FUTEBOL 3 HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-NOSSO FUTEBOL 3 HD.
-http://elitex.me:80/82422w1258/w94824313619/10136044
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-NOSSO FUTEBOL 03" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-NOSSO FUTEBOL 03
-http://elitex.me:80/82422w1258/w94824313619/10136043
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-NOSSO FUTEBOL 3 SD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-NOSSO FUTEBOL 3 SD.
-http://elitex.me:80/82422w1258/w94824313619/10136042
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-NOSSO FUTEBOL 4 FHD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-NOSSO FUTEBOL 4 FHD.
-http://elitex.me:80/82422w1258/w94824313619/10136041
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-NOSSO FUTEBOL 4 FHDR." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-NOSSO FUTEBOL 4 FHDR.
-http://elitex.me:80/82422w1258/w94824313619/10136040
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-NOSSO FUTEBOL 4 H265." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-NOSSO FUTEBOL 4 H265.
-http://elitex.me:80/82422w1258/w94824313619/10136039
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-NOSSO FUTEBOL 4 HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-NOSSO FUTEBOL 4 HD.
-http://elitex.me:80/82422w1258/w94824313619/10136038
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-NOSSO FUTEBOL 4 SD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-NOSSO FUTEBOL 4 SD.
-http://elitex.me:80/82422w1258/w94824313619/10136037
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-NSPORTS 01 HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-NSPORTS 01 HD.
-http://elitex.me:80/82422w1258/w94824313619/10136036
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-NSPORTS 02 HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-NSPORTS 02 HD.
-http://elitex.me:80/82422w1258/w94824313619/10136035
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-NSPORTS 03 HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-NSPORTS 03 HD.
-http://elitex.me:80/82422w1258/w94824313619/10136034
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-NSPORTS 04 HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-NSPORTS 04 HD.
-http://elitex.me:80/82422w1258/w94824313619/10136033
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-NSPORTS 05 HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-NSPORTS 05 HD.
-http://elitex.me:80/82422w1258/w94824313619/10136032
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-NSPORTS 06 HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-NSPORTS 06 HD.
-http://elitex.me:80/82422w1258/w94824313619/10136031
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-NSPORTS 07 HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-NSPORTS 07 HD.
-http://elitex.me:80/82422w1258/w94824313619/10136030
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-NSPORTS 08 HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-NSPORTS 08 HD.
-http://elitex.me:80/82422w1258/w94824313619/10136029
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-NSPORTS 09 HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-NSPORTS 09 HD.
-http://elitex.me:80/82422w1258/w94824313619/10136028
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-NSPORTS 10 HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-NSPORTS 10 HD.
-http://elitex.me:80/82422w1258/w94824313619/10136027
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-OLYMPIA TV FHD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-OLYMPIA TV FHD.
-http://elitex.me:80/82422w1258/w94824313619/10136026
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-OLYMPIA TV HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-OLYMPIA TV HD.
-http://elitex.me:80/82422w1258/w94824313619/10136025
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-OLYMPIA TV* HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-OLYMPIA TV* HD.
-http://elitex.me:80/82422w1258/w94824313619/10136024
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-OLYMPIA TV SD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-OLYMPIA TV SD.
-http://elitex.me:80/82422w1258/w94824313619/10136023
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-ONEFOOTBALL 1 FHD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-ONEFOOTBALL 1 FHD.
-http://elitex.me:80/82422w1258/w94824313619/10136022
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-ONEFOOTBALL 1 HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-ONEFOOTBALL 1 HD.
-http://elitex.me:80/82422w1258/w94824313619/10136021
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-ONEFOOTBALL 1 SD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-ONEFOOTBALL 1 SD.
-http://elitex.me:80/82422w1258/w94824313619/10136020
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-PARAMOUNT+ 1 FHD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-PARAMOUNT+ 1 FHD.
-http://elitex.me:80/82422w1258/w94824313619/10136019
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-PARAMOUNT+ 1 FHDR." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-PARAMOUNT+ 1 FHDR.
-http://elitex.me:80/82422w1258/w94824313619/10136018
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-PARAMOUNT+ 1 H265." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-PARAMOUNT+ 1 H265.
-http://elitex.me:80/82422w1258/w94824313619/10136017
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-PARAMOUNT+ 1 HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-PARAMOUNT+ 1 HD.
-http://elitex.me:80/82422w1258/w94824313619/10136016
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-PARAMOUNT+ 01 HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-PARAMOUNT+ 01 HD.
-http://elitex.me:80/82422w1258/w94824313619/10136015
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-PARAMOUNT+ 1X" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-PARAMOUNT+ 1X
-http://elitex.me:80/82422w1258/w94824313619/10136014
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-PARAMOUNT+ 1 SD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-PARAMOUNT+ 1 SD.
-http://elitex.me:80/82422w1258/w94824313619/10136013
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-PARAMOUNT+ 2 FHD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-PARAMOUNT+ 2 FHD.
-http://elitex.me:80/82422w1258/w94824313619/10136012
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-PARAMOUNT+ 2 FHDR." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-PARAMOUNT+ 2 FHDR.
-http://elitex.me:80/82422w1258/w94824313619/10136011
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-PARAMOUNT+ 2 H265." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-PARAMOUNT+ 2 H265.
-http://elitex.me:80/82422w1258/w94824313619/10136010
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-PARAMOUNT+ 2 HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-PARAMOUNT+ 2 HD.
-http://elitex.me:80/82422w1258/w94824313619/10136009
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-PARAMOUNT+ 02 HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-PARAMOUNT+ 02 HD.
-http://elitex.me:80/82422w1258/w94824313619/10136008
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-PARAMOUNT+ 2 SD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-PARAMOUNT+ 2 SD.
-http://elitex.me:80/82422w1258/w94824313619/10136007
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-PARAMOUNT+ 3 FHD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-PARAMOUNT+ 3 FHD.
-http://elitex.me:80/82422w1258/w94824313619/10136006
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-PARAMOUNT+ 3 FHDR." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-PARAMOUNT+ 3 FHDR.
-http://elitex.me:80/82422w1258/w94824313619/10136005
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-PARAMOUNT+ 3 H265." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-PARAMOUNT+ 3 H265.
-http://elitex.me:80/82422w1258/w94824313619/10136004
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-PARAMOUNT+ 3 HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-PARAMOUNT+ 3 HD.
-http://elitex.me:80/82422w1258/w94824313619/10136003
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-PARAMOUNT+ 03 HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-PARAMOUNT+ 03 HD.
-http://elitex.me:80/82422w1258/w94824313619/10136002
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-PARAMOUNT+ 3X" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-PARAMOUNT+ 3X
-http://elitex.me:80/82422w1258/w94824313619/10136001
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-PARAMOUNT+ 3 SD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-PARAMOUNT+ 3 SD.
-http://elitex.me:80/82422w1258/w94824313619/10136000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-PARAMOUNT+ 4 FHD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-PARAMOUNT+ 4 FHD.
-http://elitex.me:80/82422w1258/w94824313619/10135999
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-PARAMOUNT+ 4 FHDR." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-PARAMOUNT+ 4 FHDR.
-http://elitex.me:80/82422w1258/w94824313619/10135998
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-PARAMOUNT+ 4 H265." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-PARAMOUNT+ 4 H265.
-http://elitex.me:80/82422w1258/w94824313619/10135997
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-PARAMOUNT+ 4 HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-PARAMOUNT+ 4 HD.
-http://elitex.me:80/82422w1258/w94824313619/10135996
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-PARAMOUNT+ 04 HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-PARAMOUNT+ 04 HD.
-http://elitex.me:80/82422w1258/w94824313619/10135995
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-PARAMOUNT+ 4X" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-PARAMOUNT+ 4X
-http://elitex.me:80/82422w1258/w94824313619/10135994
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-PARAMOUNT+ 4 SD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-PARAMOUNT+ 4 SD.
-http://elitex.me:80/82422w1258/w94824313619/10135993
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-PARAMOUNT+ 05 HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-PARAMOUNT+ 05 HD.
-http://elitex.me:80/82422w1258/w94824313619/10135992
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-PAULISTAO 1 FHD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-PAULISTAO 1 FHD.
-http://elitex.me:80/82422w1258/w94824313619/10135991
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-PAULISTAO 1 HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-PAULISTAO 1 HD.
-http://elitex.me:80/82422w1258/w94824313619/10135990
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-PAULISTAO 1 SD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-PAULISTAO 1 SD.
-http://elitex.me:80/82422w1258/w94824313619/10135989
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-STAR+ 1 FHD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-STAR+ 1 FHD.
-http://elitex.me:80/82422w1258/w94824313619/10135988
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-STAR+ 1 HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-STAR+ 1 HD.
-http://elitex.me:80/82422w1258/w94824313619/10135987
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-STAR+ 01 HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-STAR+ 01 HD.
-http://elitex.me:80/82422w1258/w94824313619/10135986
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-STAR+ (01)" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-STAR+ (01)
-http://elitex.me:80/82422w1258/w94824313619/10135985
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-STAR+ 1 SD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-STAR+ 1 SD.
-http://elitex.me:80/82422w1258/w94824313619/10135984
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-STAR+ 2 FHD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-STAR+ 2 FHD.
-http://elitex.me:80/82422w1258/w94824313619/10135983
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-STAR+ 2 HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-STAR+ 2 HD.
-http://elitex.me:80/82422w1258/w94824313619/10135982
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-STAR+ 02 HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-STAR+ 02 HD.
-http://elitex.me:80/82422w1258/w94824313619/10135981
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-STAR+ (02)" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-STAR+ (02)
-http://elitex.me:80/82422w1258/w94824313619/10135980
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-STAR+ 2 SD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-STAR+ 2 SD.
-http://elitex.me:80/82422w1258/w94824313619/10135979
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-STAR+ 3 FHD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-STAR+ 3 FHD.
-http://elitex.me:80/82422w1258/w94824313619/10135978
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-STAR+ 3 HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-STAR+ 3 HD.
-http://elitex.me:80/82422w1258/w94824313619/10135977
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-STAR+ 03 HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-STAR+ 03 HD.
-http://elitex.me:80/82422w1258/w94824313619/10135976
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-STAR+ (03)" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-STAR+ (03)
-http://elitex.me:80/82422w1258/w94824313619/10135975
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-STAR+ 3 SD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-STAR+ 3 SD.
-http://elitex.me:80/82422w1258/w94824313619/10135974
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-STAR+ 4 FHD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-STAR+ 4 FHD.
-http://elitex.me:80/82422w1258/w94824313619/10135973
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-STAR+ 4 HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-STAR+ 4 HD.
-http://elitex.me:80/82422w1258/w94824313619/10135972
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-STAR+ (04)" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-STAR+ (04)
-http://elitex.me:80/82422w1258/w94824313619/10135971
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-STAR+ 04 HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-STAR+ 04 HD.
-http://elitex.me:80/82422w1258/w94824313619/10135970
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-STAR+ 4 SD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-STAR+ 4 SD.
-http://elitex.me:80/82422w1258/w94824313619/10135969
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-STAR+ 05 HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-STAR+ 05 HD.
-http://elitex.me:80/82422w1258/w94824313619/10135968
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-STAR+ (05)" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-STAR+ (05)
-http://elitex.me:80/82422w1258/w94824313619/10135967
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-STAR+ 06 HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-STAR+ 06 HD.
-http://elitex.me:80/82422w1258/w94824313619/10135966
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-STAR+ (06)" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-STAR+ (06)
-http://elitex.me:80/82422w1258/w94824313619/10135965
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-STAR+ 07 HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-STAR+ 07 HD.
-http://elitex.me:80/82422w1258/w94824313619/10135964
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-STAR+ (07)" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-STAR+ (07)
-http://elitex.me:80/82422w1258/w94824313619/10135963
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-STAR+ 08 HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-STAR+ 08 HD.
-http://elitex.me:80/82422w1258/w94824313619/10135962
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-STAR+ (08)" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-STAR+ (08)
-http://elitex.me:80/82422w1258/w94824313619/10135961
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-STAR+ 09 HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-STAR+ 09 HD.
-http://elitex.me:80/82422w1258/w94824313619/10135960
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-STAR+ (09)" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-STAR+ (09)
-http://elitex.me:80/82422w1258/w94824313619/10135959
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-STAR+ 10 HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-STAR+ 10 HD.
-http://elitex.me:80/82422w1258/w94824313619/10135958
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-UFC FIGHT PASS FHD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-UFC FIGHT PASS FHD.
-http://elitex.me:80/82422w1258/w94824313619/10135957
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-UFC FIGHT PASS HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-UFC FIGHT PASS HD.
-http://elitex.me:80/82422w1258/w94824313619/10135956
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-UFC FIGHT PASS SD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-UFC FIGHT PASS SD.
-http://elitex.me:80/82422w1258/w94824313619/10135955
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-UFC FIGHT PASS." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-UFC FIGHT PASS.
-http://elitex.me:80/82422w1258/w94824313619/10135954
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-UFC FIGHT 01" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-UFC FIGHT 01
-http://elitex.me:80/82422w1258/w94824313619/10135953
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-UFC FIGHT PASS" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-UFC FIGHT PASS
-http://elitex.me:80/82422w1258/w94824313619/10135952
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-UFC FIGHT PASS HD (EVENTOS)" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-UFC FIGHT PASS HD (EVENTOS)
-http://elitex.me:80/82422w1258/w94824313619/10135951
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-UFC FIGHT PASS 02." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-UFC FIGHT PASS 02.
-http://elitex.me:80/82422w1258/w94824313619/10135950
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-UFC FIGHT PASS 03." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-UFC FIGHT PASS 03.
-http://elitex.me:80/82422w1258/w94824313619/10135949
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-UFC TV." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-UFC TV.
-http://elitex.me:80/82422w1258/w94824313619/10135948
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-UNIQUE SPORTS HD." tvg-logo="" group-title="ESPORTES PAYPERVIEW",-UNIQUE SPORTS HD.
-http://elitex.me:80/82422w1258/w94824313619/10135947
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-YOUTUBE 01 HD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-YOUTUBE 01 HD
-http://elitex.me:80/82422w1258/w94824313619/10135946
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-YOUTUBE 02 HD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-YOUTUBE 02 HD
-http://elitex.me:80/82422w1258/w94824313619/10135945
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-YOUTUBE 03 HD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-YOUTUBE 03 HD
-http://elitex.me:80/82422w1258/w94824313619/10135944
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-YOUTUBE 04 HD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-YOUTUBE 04 HD
-http://elitex.me:80/82422w1258/w94824313619/10135943
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-YOUTUBE 05 HD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-YOUTUBE 05 HD
-http://elitex.me:80/82422w1258/w94824313619/10135942
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-YOUTUBE 06 HD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-YOUTUBE 06 HD
-http://elitex.me:80/82422w1258/w94824313619/10135941
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-YOUTUBE 07 HD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-YOUTUBE 07 HD
-http://elitex.me:80/82422w1258/w94824313619/10135940
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-YOUTUBE 08 HD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",-YOUTUBE 08 HD
-http://elitex.me:80/82422w1258/w94824313619/10135939
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="NOSSO FUTEBOL 1 FHDR" tvg-logo="https://i.imgur.com/YnmOrfx.png" group-title="ESPORTES PAYPERVIEW",NOSSO FUTEBOL 1 FHDR
-http://elitex.me:80/82422w1258/w94824313619/10084774
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="NOSSO FUTEBOL 1 HDS" tvg-logo="https://i.imgur.com/YnmOrfx.png" group-title="ESPORTES PAYPERVIEW",NOSSO FUTEBOL 1 HDS
-http://elitex.me:80/82422w1258/w94824313619/10084775
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="NOSSO FUTEBOL 1 HD" tvg-logo="https://i.imgur.com/YnmOrfx.png" group-title="ESPORTES PAYPERVIEW",NOSSO FUTEBOL 1 HD
-http://elitex.me:80/82422w1258/w94824313619/10084772
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="NOSSO FUTEBOL 1 HDZ" tvg-logo="https://i.imgur.com/YnmOrfx.png" group-title="ESPORTES PAYPERVIEW",NOSSO FUTEBOL 1 HDZ
-http://elitex.me:80/82422w1258/w94824313619/10084773
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="NOSSO FUTEBOL 2 FHDR" tvg-logo="https://i.imgur.com/YnmOrfx.png" group-title="ESPORTES PAYPERVIEW",NOSSO FUTEBOL 2 FHDR
-http://elitex.me:80/82422w1258/w94824313619/10084779
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="NOSSO FUTEBOL 2 HDS" tvg-logo="https://i.imgur.com/YnmOrfx.png" group-title="ESPORTES PAYPERVIEW",NOSSO FUTEBOL 2 HDS
-http://elitex.me:80/82422w1258/w94824313619/10084780
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="NOSSO FUTEBOL 2 FHD" tvg-logo="https://i.imgur.com/YnmOrfx.png" group-title="ESPORTES PAYPERVIEW",NOSSO FUTEBOL 2 FHD
-http://elitex.me:80/82422w1258/w94824313619/10084776
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="NOSSO FUTEBOL 2 HD" tvg-logo="https://i.imgur.com/YnmOrfx.png" group-title="ESPORTES PAYPERVIEW",NOSSO FUTEBOL 2 HD
-http://elitex.me:80/82422w1258/w94824313619/10084777
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="NOSSO FUTEBOL 2 SD" tvg-logo="https://i.imgur.com/YnmOrfx.png" group-title="ESPORTES PAYPERVIEW",NOSSO FUTEBOL 2 SD
-http://elitex.me:80/82422w1258/w94824313619/10084778
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="NOSSO FUTEBOL 3 HDS" tvg-logo="https://i.imgur.com/YnmOrfx.png" group-title="ESPORTES PAYPERVIEW",NOSSO FUTEBOL 3 HDS
-http://elitex.me:80/82422w1258/w94824313619/10084784
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="NOSSO FUTEBOL 3 H265" tvg-logo="https://i.imgur.com/YnmOrfx.png" group-title="ESPORTES PAYPERVIEW",NOSSO FUTEBOL 3 H265
-http://elitex.me:80/82422w1258/w94824313619/10084785
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="NOSSO FUTEBOL 3 FHD" tvg-logo="https://i.imgur.com/YnmOrfx.png" group-title="ESPORTES PAYPERVIEW",NOSSO FUTEBOL 3 FHD
-http://elitex.me:80/82422w1258/w94824313619/10084781
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="NOSSO FUTEBOL 3 HD" tvg-logo="https://i.imgur.com/YnmOrfx.png" group-title="ESPORTES PAYPERVIEW",NOSSO FUTEBOL 3 HD
-http://elitex.me:80/82422w1258/w94824313619/10084782
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="NOSSO FUTEBOL 3 SD" tvg-logo="https://i.imgur.com/YnmOrfx.png" group-title="ESPORTES PAYPERVIEW",NOSSO FUTEBOL 3 SD
-http://elitex.me:80/82422w1258/w94824313619/10084783
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="NOSSO FUTEBOL 4 FHDR" tvg-logo="https://i.imgur.com/YnmOrfx.png" group-title="ESPORTES PAYPERVIEW",NOSSO FUTEBOL 4 FHDR
-http://elitex.me:80/82422w1258/w94824313619/10084789
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="NOSSO FUTEBOL 4 H265" tvg-logo="https://i.imgur.com/YnmOrfx.png" group-title="ESPORTES PAYPERVIEW",NOSSO FUTEBOL 4 H265
-http://elitex.me:80/82422w1258/w94824313619/10084790
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="NOSSO FUTEBOL 4 FHD" tvg-logo="https://i.imgur.com/YnmOrfx.png" group-title="ESPORTES PAYPERVIEW",NOSSO FUTEBOL 4 FHD
-http://elitex.me:80/82422w1258/w94824313619/10084786
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="NOSSO FUTEBOL 4 HD" tvg-logo="https://i.imgur.com/YnmOrfx.png" group-title="ESPORTES PAYPERVIEW",NOSSO FUTEBOL 4 HD
-http://elitex.me:80/82422w1258/w94824313619/10084787
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="NOSSO FUTEBOL 4 SD" tvg-logo="https://i.imgur.com/YnmOrfx.png" group-title="ESPORTES PAYPERVIEW",NOSSO FUTEBOL 4 SD
-http://elitex.me:80/82422w1258/w94824313619/10084788
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="BAIANO 1 HD" tvg-logo="https://i.imgur.com/v7fy5jp.jpg" group-title="ESPORTES PAYPERVIEW",BAIANO 1 HD
-http://elitex.me:80/82422w1258/w94824313619/10075342
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="CAZETV FHD" tvg-logo="https://i.imgur.com/6CvmuHy.jpg" group-title="ESPORTES PAYPERVIEW",CAZETV FHD
-http://elitex.me:80/82422w1258/w94824313619/10084793
-#EXTINF:-1 tvg-id="EPG.br" tvg-name="CAZETV HD" tvg-logo="https://i.imgur.com/6CvmuHy.jpg" group-title="ESPORTES PAYPERVIEW",CAZETV HD
-http://elitex.me:80/82422w1258/w94824313619/10088005
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="CARIOCA 2 HDC" tvg-logo="https://i.imgur.com/B7Y9XsZ.png" group-title="ESPORTES PAYPERVIEW",CARIOCA 2 HDC
-http://elitex.me:80/82422w1258/w94824313619/10075328
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="CATARINENSE 1 HDA" tvg-logo="http://www.rochagalaxia.live/logos/copacatarinense2501.png" group-title="ESPORTES PAYPERVIEW",CATARINENSE 1 HDA
-http://elitex.me:80/82422w1258/w94824313619/10075322
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="CATARINENSE 2 HDA" tvg-logo="http://www.rochagalaxia.live/logos/copacatarinense2501.png" group-title="ESPORTES PAYPERVIEW",CATARINENSE 2 HDA
-http://elitex.me:80/82422w1258/w94824313619/10075317
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="CEARENSE 1 HD" tvg-logo="http://www.rochagalaxia.live/logos/campeonatocearense250.png" group-title="ESPORTES PAYPERVIEW",CEARENSE 1 HD
-http://elitex.me:80/82422w1258/w94824313619/10075308
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="CEARENSE 2 HD" tvg-logo="http://www.rochagalaxia.live/logos/campeonatocearense250.png" group-title="ESPORTES PAYPERVIEW",CEARENSE 2 HD
-http://elitex.me:80/82422w1258/w94824313619/10075307
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="CEARENSE 3 HD" tvg-logo="http://www.rochagalaxia.live/logos/campeonatocearense250.png" group-title="ESPORTES PAYPERVIEW",CEARENSE 3 HD
-http://elitex.me:80/82422w1258/w94824313619/10075306
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="MINEIRO CRUZEIRO HD" tvg-logo="https://i.imgur.com/sW1uCME.jpg" group-title="ESPORTES PAYPERVIEW",MINEIRO CRUZEIRO HD
-http://elitex.me:80/82422w1258/w94824313619/10075267
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="PARANAENSE 1 HDA" tvg-logo="https://i.imgur.com/jYGW9gE.png" group-title="ESPORTES PAYPERVIEW",PARANAENSE 1 HDA
-http://elitex.me:80/82422w1258/w94824313619/10075249
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="PARANAENSE 2 HDA" tvg-logo="https://i.imgur.com/jYGW9gE.png" group-title="ESPORTES PAYPERVIEW",PARANAENSE 2 HDA
-http://elitex.me:80/82422w1258/w94824313619/10075245
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="PARANAENSE 3 HDA" tvg-logo="https://i.imgur.com/jYGW9gE.png" group-title="ESPORTES PAYPERVIEW",PARANAENSE 3 HDA
-http://elitex.me:80/82422w1258/w94824313619/10075241
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="PARANAENSE 4 HD" tvg-logo="https://i.imgur.com/jYGW9gE.png" group-title="ESPORTES PAYPERVIEW",PARANAENSE 4 HD
-http://elitex.me:80/82422w1258/w94824313619/10075239
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="PARANAENSE 5 HD" tvg-logo="https://i.imgur.com/jYGW9gE.png" group-title="ESPORTES PAYPERVIEW",PARANAENSE 5 HD
-http://elitex.me:80/82422w1258/w94824313619/10075238
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="PARANAENSE 6 HD" tvg-logo="https://i.imgur.com/jYGW9gE.png" group-title="ESPORTES PAYPERVIEW",PARANAENSE 6 HD
-http://elitex.me:80/82422w1258/w94824313619/10075237
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="SERGIPANO 1 HD" tvg-logo="https://i.imgur.com/TlhJYVR.png" group-title="ESPORTES PAYPERVIEW",SERGIPANO 1 HD
-http://elitex.me:80/82422w1258/w94824313619/10075231
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="SERGIPAO 1 SD" tvg-logo="https://i.imgur.com/TlhJYVR.png" group-title="ESPORTES PAYPERVIEW",SERGIPAO 1 SD
-http://elitex.me:80/82422w1258/w94824313619/10084916
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="APPLETV+ 01" tvg-logo="https://i.imgur.com/O1kxRYH.png" group-title="ESPORTES ESPECIAIS",APPLETV+ 01
-http://elitex.me:80/82422w1258/w94824313619/10110483
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="APPLETV+ 02" tvg-logo="https://i.imgur.com/O1kxRYH.png" group-title="ESPORTES ESPECIAIS",APPLETV+ 02
-http://elitex.me:80/82422w1258/w94824313619/10110482
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="APPLETV+ 03" tvg-logo="https://i.imgur.com/O1kxRYH.png" group-title="ESPORTES ESPECIAIS",APPLETV+ 03
-http://elitex.me:80/82422w1258/w94824313619/10110481
-#EXTINF:-1 tvg-id="EliteDAZN.br" tvg-name="DAZN 1" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/11625.png" group-title="ESPORTES ESPECIAIS",DAZN 1
-http://elitex.me:80/82422w1258/w94824313619/11625
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="DAZN 1*" tvg-logo="https://i.imgur.com/hat4d3B.png" group-title="ESPORTES ESPECIAIS",DAZN 1*
-http://elitex.me:80/82422w1258/w94824313619/10084757
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="DAZN 1X" tvg-logo="https://i.imgur.com/hat4d3B.png" group-title="ESPORTES ESPECIAIS",DAZN 1X
-http://elitex.me:80/82422w1258/w94824313619/10084761
-#EXTINF:-1 tvg-id="EliteDAZN.br" tvg-name="DAZN 2" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/16564.png" group-title="ESPORTES ESPECIAIS",DAZN 2
-http://elitex.me:80/82422w1258/w94824313619/16564
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="DAZN 2*" tvg-logo="https://i.imgur.com/hat4d3B.png" group-title="ESPORTES ESPECIAIS",DAZN 2*
-http://elitex.me:80/82422w1258/w94824313619/10084760
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="DAZN 2Z" tvg-logo="https://i.imgur.com/hat4d3B.png" group-title="ESPORTES ESPECIAIS",DAZN 2Z
-http://elitex.me:80/82422w1258/w94824313619/10084758
-#EXTINF:-1 tvg-id="EliteDAZN.br" tvg-name="DAZN 3" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/11623.png" group-title="ESPORTES ESPECIAIS",DAZN 3
-http://elitex.me:80/82422w1258/w94824313619/11623
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="DAZN 3*" tvg-logo="https://i.imgur.com/hat4d3B.png" group-title="ESPORTES ESPECIAIS",DAZN 3*
-http://elitex.me:80/82422w1258/w94824313619/10084756
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="DAZN 4*" tvg-logo="https://i.imgur.com/hat4d3B.png" group-title="ESPORTES ESPECIAIS",DAZN 4*
-http://elitex.me:80/82422w1258/w94824313619/10084759
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="UFC TV SD 01" tvg-logo="https://i.imgur.com/rFPFXHu.png" group-title="ESPORTES ESPECIAIS",UFC TV SD 01
-http://elitex.me:80/82422w1258/w94824313619/10083090
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="UFC TV FHD 01" tvg-logo="https://i.imgur.com/rFPFXHu.png" group-title="ESPORTES ESPECIAIS",UFC TV FHD 01
-http://elitex.me:80/82422w1258/w94824313619/10083089
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="UFC TV 01*" tvg-logo="https://i.imgur.com/rFPFXHu.png" group-title="ESPORTES ESPECIAIS",UFC TV 01*
-http://elitex.me:80/82422w1258/w94824313619/10083088
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="UFC TV 01" tvg-logo="https://i.imgur.com/rFPFXHu.png" group-title="ESPORTES ESPECIAIS",UFC TV 01
-http://elitex.me:80/82422w1258/w94824313619/10083087
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC TV 01X" tvg-logo="https://i.imgur.com/rFPFXHu.png" group-title="ESPORTES ESPECIAIS",UFC TV 01X
-http://elitex.me:80/82422w1258/w94824313619/10091088
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC FIGHT PASS" tvg-logo="https://i.imgur.com/rFPFXHu.png" group-title="ESPORTES ESPECIAIS",UFC FIGHT PASS
-http://elitex.me:80/82422w1258/w94824313619/10091087
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="PRIME VIDEO 1FHD" tvg-logo="https://i.imgur.com/ZhNsLqW.png" group-title="ESPORTES ESPECIAIS",PRIME VIDEO 1FHD
-http://elitex.me:80/82422w1258/w94824313619/10077370
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="PRIME VIDEO 1D" tvg-logo="https://i.imgur.com/ZhNsLqW.png" group-title="ESPORTES ESPECIAIS",PRIME VIDEO 1D
-http://elitex.me:80/82422w1258/w94824313619/10074791
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="PRIME VIDEO 1HD" tvg-logo="https://i.imgur.com/ZhNsLqW.png" group-title="ESPORTES ESPECIAIS",PRIME VIDEO 1HD
-http://elitex.me:80/82422w1258/w94824313619/10077371
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="PRIME VIDEO 1HD" tvg-logo="https://i.imgur.com/ZhNsLqW.png" group-title="ESPORTES ESPECIAIS",PRIME VIDEO 1HD
-http://elitex.me:80/82422w1258/w94824313619/10074790
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="PRIME VIDEO 1" tvg-logo="https://i.imgur.com/ZhNsLqW.png" group-title="ESPORTES ESPECIAIS",PRIME VIDEO 1
-http://elitex.me:80/82422w1258/w94824313619/10074738
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="PRIME VIDEO 1SD" tvg-logo="https://i.imgur.com/ZhNsLqW.png" group-title="ESPORTES ESPECIAIS",PRIME VIDEO 1SD
-http://elitex.me:80/82422w1258/w94824313619/10077372
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="PRIME VIDEO 1SD" tvg-logo="https://i.imgur.com/ZhNsLqW.png" group-title="ESPORTES ESPECIAIS",PRIME VIDEO 1SD
-http://elitex.me:80/82422w1258/w94824313619/10074789
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="PRIME VIDEO 2FHD" tvg-logo="https://i.imgur.com/ZhNsLqW.png" group-title="ESPORTES ESPECIAIS",PRIME VIDEO 2FHD
-http://elitex.me:80/82422w1258/w94824313619/10074788
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="PRIME VIDEO 2HD" tvg-logo="https://i.imgur.com/ZhNsLqW.png" group-title="ESPORTES ESPECIAIS",PRIME VIDEO 2HD
-http://elitex.me:80/82422w1258/w94824313619/10074787
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="PRIME VIDEO 2SD" tvg-logo="https://i.imgur.com/ZhNsLqW.png" group-title="ESPORTES ESPECIAIS",PRIME VIDEO 2SD
-http://elitex.me:80/82422w1258/w94824313619/10074786
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="PRIME VIDEO 2X" tvg-logo="https://i.imgur.com/ZhNsLqW.png" group-title="ESPORTES ESPECIAIS",PRIME VIDEO 2X
-http://elitex.me:80/82422w1258/w94824313619/10074739
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="PRIME VIDEO 1A" tvg-logo="https://i.imgur.com/ZhNsLqW.png" group-title="ESPORTES ESPECIAIS",PRIME VIDEO 1A
-http://elitex.me:80/82422w1258/w94824313619/10074740
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PRIME VIDEO 3HD" tvg-logo="https://i.imgur.com/ZhNsLqW.png" group-title="ESPORTES ESPECIAIS",PRIME VIDEO 3HD
-http://elitex.me:80/82422w1258/w94824313619/10093913
-#EXTINF:-1 tvg-id="Especial24h.br" tvg-name="PRIME VIDEO 3FHD" tvg-logo="https://i.imgur.com/ZhNsLqW.png" group-title="ESPORTES ESPECIAIS",PRIME VIDEO 3FHD
-http://elitex.me:80/82422w1258/w94824313619/10093912
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="PRIME VIDEO 1X" tvg-logo="https://i.imgur.com/ZhNsLqW.png" group-title="ESPORTES ESPECIAIS",PRIME VIDEO 1X
-http://elitex.me:80/82422w1258/w94824313619/10074741
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="STAR+ 1" tvg-logo="https://i.imgur.com/GoUfMiE.png" group-title="ESPORTES ESPECIAIS",STAR+ 1
-http://elitex.me:80/82422w1258/w94824313619/10068908
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="STAR+ 1*" tvg-logo="https://i.imgur.com/GoUfMiE.png" group-title="ESPORTES ESPECIAIS",STAR+ 1*
-http://elitex.me:80/82422w1258/w94824313619/10068955
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="STAR+ 2" tvg-logo="https://i.imgur.com/GoUfMiE.png" group-title="ESPORTES ESPECIAIS",STAR+ 2
-http://elitex.me:80/82422w1258/w94824313619/10068956
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="STAR+ 2*" tvg-logo="https://i.imgur.com/GoUfMiE.png" group-title="ESPORTES ESPECIAIS",STAR+ 2*
-http://elitex.me:80/82422w1258/w94824313619/10069193
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="STAR+ 3" tvg-logo="https://i.imgur.com/GoUfMiE.png" group-title="ESPORTES ESPECIAIS",STAR+ 3
-http://elitex.me:80/82422w1258/w94824313619/10068957
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="STAR+ 3*" tvg-logo="https://i.imgur.com/GoUfMiE.png" group-title="ESPORTES ESPECIAIS",STAR+ 3*
-http://elitex.me:80/82422w1258/w94824313619/10069194
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="STAR+ 4" tvg-logo="https://i.imgur.com/GoUfMiE.png" group-title="ESPORTES ESPECIAIS",STAR+ 4
-http://elitex.me:80/82422w1258/w94824313619/10068958
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="STAR+ 4*" tvg-logo="https://i.imgur.com/GoUfMiE.png" group-title="ESPORTES ESPECIAIS",STAR+ 4*
-http://elitex.me:80/82422w1258/w94824313619/10069195
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="STAR+ 5" tvg-logo="https://i.imgur.com/GoUfMiE.png" group-title="ESPORTES ESPECIAIS",STAR+ 5
-http://elitex.me:80/82422w1258/w94824313619/10069196
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="STAR+ 6" tvg-logo="https://i.imgur.com/GoUfMiE.png" group-title="ESPORTES ESPECIAIS",STAR+ 6
-http://elitex.me:80/82422w1258/w94824313619/10069197
-#EXTINF:-1 tvg-id="OnDemand.br" tvg-name="HBO MAX 1" tvg-logo="https://i.imgur.com/T8ibkJL.png" group-title="ESPORTES ESPECIAIS",HBO MAX 1
-http://elitex.me:80/82422w1258/w94824313619/10068959
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="HBO MAX 1B" tvg-logo="https://i.imgur.com/T8ibkJL.png" group-title="ESPORTES ESPECIAIS",HBO MAX 1B
-http://elitex.me:80/82422w1258/w94824313619/10074680
-#EXTINF:-1 tvg-id="Futebol.br" tvg-name="HBO MAX 1*" tvg-logo="https://i.imgur.com/T8ibkJL.png" group-title="ESPORTES ESPECIAIS",HBO MAX 1*
-http://elitex.me:80/82422w1258/w94824313619/10068968
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="HBO MAX 01 HDH" tvg-logo="https://i.imgur.com/T8ibkJL.png" group-title="ESPORTES ESPECIAIS",HBO MAX 01 HDH
-http://elitex.me:80/82422w1258/w94824313619/10073392
-#EXTINF:-1 tvg-id="OnDemand.br" tvg-name="HBO MAX 2" tvg-logo="https://i.imgur.com/T8ibkJL.png" group-title="ESPORTES ESPECIAIS",HBO MAX 2
-http://elitex.me:80/82422w1258/w94824313619/10068960
-#EXTINF:-1 tvg-id="Futebol.br" tvg-name="HBO MAX 2*" tvg-logo="https://i.imgur.com/T8ibkJL.png" group-title="ESPORTES ESPECIAIS",HBO MAX 2*
-http://elitex.me:80/82422w1258/w94824313619/10068969
-#EXTINF:-1 tvg-id="OnDemand.br" tvg-name="HBO MAX 3" tvg-logo="https://i.imgur.com/T8ibkJL.png" group-title="ESPORTES ESPECIAIS",HBO MAX 3
-http://elitex.me:80/82422w1258/w94824313619/10068961
-#EXTINF:-1 tvg-id="Futebol.br" tvg-name="HBO MAX 3*" tvg-logo="https://i.imgur.com/T8ibkJL.png" group-title="ESPORTES ESPECIAIS",HBO MAX 3*
-http://elitex.me:80/82422w1258/w94824313619/10068970
-#EXTINF:-1 tvg-id="OnDemand.br" tvg-name="HBO MAX 4" tvg-logo="https://i.imgur.com/T8ibkJL.png" group-title="ESPORTES ESPECIAIS",HBO MAX 4
-http://elitex.me:80/82422w1258/w94824313619/10068962
-#EXTINF:-1 tvg-id="Futebol.br" tvg-name="HBO MAX 4*" tvg-logo="https://i.imgur.com/T8ibkJL.png" group-title="ESPORTES ESPECIAIS",HBO MAX 4*
-http://elitex.me:80/82422w1258/w94824313619/10068971
-#EXTINF:-1 tvg-id="OnDemand.br" tvg-name="HBO MAX 5" tvg-logo="https://i.imgur.com/T8ibkJL.png" group-title="ESPORTES ESPECIAIS",HBO MAX 5
-http://elitex.me:80/82422w1258/w94824313619/10068963
-#EXTINF:-1 tvg-id="OnDemand.br" tvg-name="HBO MAX 6" tvg-logo="https://i.imgur.com/T8ibkJL.png" group-title="ESPORTES ESPECIAIS",HBO MAX 6
-http://elitex.me:80/82422w1258/w94824313619/10068964
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="LIGA FUTSAL HD" tvg-logo="https://i.imgur.com/VyrI6IS.png" group-title="ESPORTES ESPECIAIS",LIGA FUTSAL HD
-http://elitex.me:80/82422w1258/w94824313619/10055534
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="LIGA FUTSAL HDA" tvg-logo="https://i.imgur.com/VyrI6IS.png" group-title="ESPORTES ESPECIAIS",LIGA FUTSAL HDA
-http://elitex.me:80/82422w1258/w94824313619/10075343
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="LIGA FUTSAL 2 HD" tvg-logo="https://i.imgur.com/VyrI6IS.png" group-title="ESPORTES ESPECIAIS",LIGA FUTSAL 2 HD
-http://elitex.me:80/82422w1258/w94824313619/10055535
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="LIGA FUTSAL 2 HDA" tvg-logo="https://i.imgur.com/VyrI6IS.png" group-title="ESPORTES ESPECIAIS",LIGA FUTSAL 2 HDA
-http://elitex.me:80/82422w1258/w94824313619/10075344
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NSPORTS 1" tvg-logo="https://i.imgur.com/X0y3VPn.png" group-title="ESPORTES ESPECIAIS",NSPORTS 1
-http://elitex.me:80/82422w1258/w94824313619/10091089
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NSPORTS 2" tvg-logo="https://i.imgur.com/X0y3VPn.png" group-title="ESPORTES ESPECIAIS",NSPORTS 2
-http://elitex.me:80/82422w1258/w94824313619/10091090
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NSPORTS 3" tvg-logo="https://i.imgur.com/X0y3VPn.png" group-title="ESPORTES ESPECIAIS",NSPORTS 3
-http://elitex.me:80/82422w1258/w94824313619/10091092
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NSPORTS 4" tvg-logo="https://i.imgur.com/X0y3VPn.png" group-title="ESPORTES ESPECIAIS",NSPORTS 4
-http://elitex.me:80/82422w1258/w94824313619/10091091
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PRIME VIDEO 4HD" tvg-logo="https://i.imgur.com/ZhNsLqW.png" group-title="ESPORTES ESPECIAIS",PRIME VIDEO 4HD
-http://elitex.me:80/82422w1258/w94824313619/10091098
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PARAMOUNT+ 4 DGO" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/paramount.png" group-title="ESPORTES ESPECIAIS",PARAMOUNT+ 4 DGO
-http://elitex.me:80/82422w1258/w94824313619/10091096
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PARAMOUNT+ 3 DGO" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/paramount.png" group-title="ESPORTES ESPECIAIS",PARAMOUNT+ 3 DGO
-http://elitex.me:80/82422w1258/w94824313619/10091095
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PARAMOUNT+ 2 DGO" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/paramount.png" group-title="ESPORTES ESPECIAIS",PARAMOUNT+ 2 DGO
-http://elitex.me:80/82422w1258/w94824313619/10091094
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PARAMOUNT+ 1 DGO" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/paramount.png" group-title="ESPORTES ESPECIAIS",PARAMOUNT+ 1 DGO
-http://elitex.me:80/82422w1258/w94824313619/10091093
-#EXTINF:-1 tvg-id="EliteCOPANordeste.br" tvg-name="FURACAO TV" tvg-logo="https://i.imgur.com/a1yzUM3.png" group-title="ESPORTES ESPECIAIS",FURACAO TV
-http://elitex.me:80/82422w1258/w94824313619/10054895
-#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="PARAMOUNT+ 1 FHD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/paramount.png" group-title="ESPORTES ESPECIAIS",PARAMOUNT+ 1 FHD*
-http://elitex.me:80/82422w1258/w94824313619/10054911
-#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="PARAMOUNT+ 1 FHD H265*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/paramount.png" group-title="ESPORTES ESPECIAIS",PARAMOUNT+ 1 FHD H265*
-http://elitex.me:80/82422w1258/w94824313619/10054910
-#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="PARAMOUNT+ 1" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/paramount.png" group-title="ESPORTES ESPECIAIS",PARAMOUNT+ 1
-http://elitex.me:80/82422w1258/w94824313619/10049945
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PARAMOUNT+ 1X" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/paramount.png" group-title="ESPORTES ESPECIAIS",PARAMOUNT+ 1X
-http://elitex.me:80/82422w1258/w94824313619/10091006
-#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="PARAMOUNT+ 1 HD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/paramount.png" group-title="ESPORTES ESPECIAIS",PARAMOUNT+ 1 HD*
-http://elitex.me:80/82422w1258/w94824313619/10054909
-#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="PARAMOUNT+ 1 SD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/paramount.png" group-title="ESPORTES ESPECIAIS",PARAMOUNT+ 1 SD*
-http://elitex.me:80/82422w1258/w94824313619/10054908
-#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="PARAMOUNT+ 2 FHD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/paramount.png" group-title="ESPORTES ESPECIAIS",PARAMOUNT+ 2 FHD*
-http://elitex.me:80/82422w1258/w94824313619/10054907
-#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="PARAMOUNT+ 2 FHD H265*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/paramount.png" group-title="ESPORTES ESPECIAIS",PARAMOUNT+ 2 FHD H265*
-http://elitex.me:80/82422w1258/w94824313619/10054906
-#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="PARAMOUNT+  2" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/paramount.png" group-title="ESPORTES ESPECIAIS",PARAMOUNT+  2
-http://elitex.me:80/82422w1258/w94824313619/10049946
-#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="PARAMOUNT+ 2 HD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/paramount.png" group-title="ESPORTES ESPECIAIS",PARAMOUNT+ 2 HD*
-http://elitex.me:80/82422w1258/w94824313619/10054905
-#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="PARAMOUNT+ 2 SD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/paramount.png" group-title="ESPORTES ESPECIAIS",PARAMOUNT+ 2 SD*
-http://elitex.me:80/82422w1258/w94824313619/10054904
-#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="PARAMOUNT+3 FHD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/paramount.png" group-title="ESPORTES ESPECIAIS",PARAMOUNT+3 FHD*
-http://elitex.me:80/82422w1258/w94824313619/10054903
-#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="PARAMOUNT+ 3 FHD H265*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/paramount.png" group-title="ESPORTES ESPECIAIS",PARAMOUNT+ 3 FHD H265*
-http://elitex.me:80/82422w1258/w94824313619/10054902
-#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="PARAMOUNT+ 3" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/paramount.png" group-title="ESPORTES ESPECIAIS",PARAMOUNT+ 3
-http://elitex.me:80/82422w1258/w94824313619/10049947
-#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="PARAMOUNT+ 3 HD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/paramount.png" group-title="ESPORTES ESPECIAIS",PARAMOUNT+ 3 HD*
-http://elitex.me:80/82422w1258/w94824313619/10054901
-#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="PARAMOUNT+ 3 SD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/paramount.png" group-title="ESPORTES ESPECIAIS",PARAMOUNT+ 3 SD*
-http://elitex.me:80/82422w1258/w94824313619/10054900
-#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="PARAMOUNT+ 4 FHD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/paramount.png" group-title="ESPORTES ESPECIAIS",PARAMOUNT+ 4 FHD*
-http://elitex.me:80/82422w1258/w94824313619/10054899
-#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="PARAMOUNT+ 4 FHD H265*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/paramount.png" group-title="ESPORTES ESPECIAIS",PARAMOUNT+ 4 FHD H265*
-http://elitex.me:80/82422w1258/w94824313619/10054898
-#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="PARAMOUNT+ 4 HD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/paramount.png" group-title="ESPORTES ESPECIAIS",PARAMOUNT+ 4 HD*
-http://elitex.me:80/82422w1258/w94824313619/10054897
-#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="PARAMOUNT+ 4 SD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/paramount.png" group-title="ESPORTES ESPECIAIS",PARAMOUNT+ 4 SD*
-http://elitex.me:80/82422w1258/w94824313619/10054896
-#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="PARAMOUNT+ 4" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/paramount.png" group-title="ESPORTES ESPECIAIS",PARAMOUNT+ 4
-http://elitex.me:80/82422w1258/w94824313619/10049948
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="GOAT 3" tvg-logo="https://i.imgur.com/FkKet8Q.png" group-title="ESPORTES ESPECIAIS",GOAT 3
-http://elitex.me:80/82422w1258/w94824313619/10069218
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="GOAT 2" tvg-logo="https://i.imgur.com/FkKet8Q.png" group-title="ESPORTES ESPECIAIS",GOAT 2
-http://elitex.me:80/82422w1258/w94824313619/10069217
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="GOAT 1" tvg-logo="https://i.imgur.com/FkKet8Q.png" group-title="ESPORTES ESPECIAIS",GOAT 1
-http://elitex.me:80/82422w1258/w94824313619/10069216
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="FORMULA 1 TV" tvg-logo="https://i.imgur.com/zvbNgPd.png" group-title="ESPORTES ESPECIAIS",FORMULA 1 TV
-http://elitex.me:80/82422w1258/w94824313619/10074129
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="ESTADIO TNT SPORTS HD" tvg-logo="https://i.imgur.com/wSIiay0.png" group-title="ESPORTES ESPECIAIS",ESTADIO TNT SPORTS HD
-http://elitex.me:80/82422w1258/w94824313619/10053461
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="ESTADIO TNT SPORTS HD²" tvg-logo="https://i.imgur.com/wSIiay0.png" group-title="ESPORTES ESPECIAIS",ESTADIO TNT SPORTS HD²
-http://elitex.me:80/82422w1258/w94824313619/10054030
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="ESTADIO TNT SPORTS 1" tvg-logo="https://i.imgur.com/wSIiay0.png" group-title="ESPORTES ESPECIAIS",ESTADIO TNT SPORTS 1
-http://elitex.me:80/82422w1258/w94824313619/10053462
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="ESTADIO TNT SPORTS 1²" tvg-logo="https://i.imgur.com/wSIiay0.png" group-title="ESPORTES ESPECIAIS",ESTADIO TNT SPORTS 1²
-http://elitex.me:80/82422w1258/w94824313619/10054031
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="ESTADIO TNT SPORTS 2" tvg-logo="https://i.imgur.com/wSIiay0.png" group-title="ESPORTES ESPECIAIS",ESTADIO TNT SPORTS 2
-http://elitex.me:80/82422w1258/w94824313619/10053463
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="ESTADIO TNT SPORTS 2²" tvg-logo="https://i.imgur.com/wSIiay0.png" group-title="ESPORTES ESPECIAIS",ESTADIO TNT SPORTS 2²
-http://elitex.me:80/82422w1258/w94824313619/10054032
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="ESTADIO TNT SPORTS 3" tvg-logo="https://i.imgur.com/wSIiay0.png" group-title="ESPORTES ESPECIAIS",ESTADIO TNT SPORTS 3
-http://elitex.me:80/82422w1258/w94824313619/10053464
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="ESTADIO TNT SPORTS 4" tvg-logo="https://i.imgur.com/wSIiay0.png" group-title="ESPORTES ESPECIAIS",ESTADIO TNT SPORTS 4
-http://elitex.me:80/82422w1258/w94824313619/10053465
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="ESTADIO TNT SPORTS 5" tvg-logo="https://i.imgur.com/wSIiay0.png" group-title="ESPORTES ESPECIAIS",ESTADIO TNT SPORTS 5
-http://elitex.me:80/82422w1258/w94824313619/10053466
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="ESTADIO TNT SPORTS 6" tvg-logo="https://i.imgur.com/wSIiay0.png" group-title="ESPORTES ESPECIAIS",ESTADIO TNT SPORTS 6
-http://elitex.me:80/82422w1258/w94824313619/10053467
-#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="LIBERTADORES FACEBOOK" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/20216.png" group-title="ESPORTES ESPECIAIS",LIBERTADORES FACEBOOK
-http://elitex.me:80/82422w1258/w94824313619/20216
-#EXTINF:-1 tvg-id="EliteDAZN.br" tvg-name="DAZN 4" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/11624.png" group-title="ESPORTES ESPECIAIS",DAZN 4
-http://elitex.me:80/82422w1258/w94824313619/11624
-#EXTINF:-1 tvg-id="EliteDAZN.br" tvg-name="DAZN 5" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/16565.png" group-title="ESPORTES ESPECIAIS",DAZN 5
-http://elitex.me:80/82422w1258/w94824313619/16565
-#EXTINF:-1 tvg-id="EliteDAZN.br" tvg-name="DAZN 6" tvg-logo="https://i.imgur.com/hat4d3B.png" group-title="ESPORTES ESPECIAIS",DAZN 6
-http://elitex.me:80/82422w1258/w94824313619/10047538
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="F1 TV 1" tvg-logo="https://cdn-1.webcatalog.io/catalog/f1-tv/f1-tv-icon-filled-256.png?v=1684743678752" group-title="ESPORTES ESPECIAIS",F1 TV 1
-http://elitex.me:80/82422w1258/w94824313619/10076090
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="F1 TV 2" tvg-logo="https://cdn-1.webcatalog.io/catalog/f1-tv/f1-tv-icon-filled-256.png?v=1684743678752" group-title="ESPORTES ESPECIAIS",F1 TV 2
-http://elitex.me:80/82422w1258/w94824313619/10076089
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="F1 TV 3" tvg-logo="https://cdn-1.webcatalog.io/catalog/f1-tv/f1-tv-icon-filled-256.png?v=1684743678752" group-title="ESPORTES ESPECIAIS",F1 TV 3
-http://elitex.me:80/82422w1258/w94824313619/10076088
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="F1 TV 4" tvg-logo="https://cdn-1.webcatalog.io/catalog/f1-tv/f1-tv-icon-filled-256.png?v=1684743678752" group-title="ESPORTES ESPECIAIS",F1 TV 4
-http://elitex.me:80/82422w1258/w94824313619/10076087
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="STAR+ 1 FHD*" tvg-logo="https://i.imgur.com/GoUfMiE.png" group-title="ESPORTES ESPECIAIS",STAR+ 1 FHD*
-http://elitex.me:80/82422w1258/w94824313619/10075324
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="STAR+ 1 HD*" tvg-logo="https://i.imgur.com/GoUfMiE.png" group-title="ESPORTES ESPECIAIS",STAR+ 1 HD*
-http://elitex.me:80/82422w1258/w94824313619/10075332
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="STAR+ 1 SD*" tvg-logo="https://i.imgur.com/GoUfMiE.png" group-title="ESPORTES ESPECIAIS",STAR+ 1 SD*
-http://elitex.me:80/82422w1258/w94824313619/10075333
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="STAR+ 2 FHD*" tvg-logo="https://i.imgur.com/GoUfMiE.png" group-title="ESPORTES ESPECIAIS",STAR+ 2 FHD*
-http://elitex.me:80/82422w1258/w94824313619/10075334
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="STAR+ 2 HD*" tvg-logo="https://i.imgur.com/GoUfMiE.png" group-title="ESPORTES ESPECIAIS",STAR+ 2 HD*
-http://elitex.me:80/82422w1258/w94824313619/10075337
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="STAR+ 3 FHD*" tvg-logo="https://i.imgur.com/GoUfMiE.png" group-title="ESPORTES ESPECIAIS",STAR+ 3 FHD*
-http://elitex.me:80/82422w1258/w94824313619/10075338
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="STAR+ 3 HD*" tvg-logo="https://i.imgur.com/GoUfMiE.png" group-title="ESPORTES ESPECIAIS",STAR+ 3 HD*
-http://elitex.me:80/82422w1258/w94824313619/10075339
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="STAR+ 3 SD*" tvg-logo="https://i.imgur.com/GoUfMiE.png" group-title="ESPORTES ESPECIAIS",STAR+ 3 SD*
-http://elitex.me:80/82422w1258/w94824313619/10075341
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="STAR+ 4 FHD*" tvg-logo="https://i.imgur.com/GoUfMiE.png" group-title="ESPORTES ESPECIAIS",STAR+ 4 FHD*
-http://elitex.me:80/82422w1258/w94824313619/10075340
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="STAR+ 4 HD*" tvg-logo="https://i.imgur.com/GoUfMiE.png" group-title="ESPORTES ESPECIAIS",STAR+ 4 HD*
-http://elitex.me:80/82422w1258/w94824313619/10075330
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="STAR+ 4 SD*" tvg-logo="https://i.imgur.com/GoUfMiE.png" group-title="ESPORTES ESPECIAIS",STAR+ 4 SD*
-http://elitex.me:80/82422w1258/w94824313619/10075327
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="APPLE TV+" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/appletv+2024.png" group-title="ESPORTES PAYPERVIEW",APPLE TV+
+http://elitex.me:80/82422w1258/w94824313619/10150670
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="APPLE TV+ *" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/appletv+2024.png" group-title="ESPORTES PAYPERVIEW",APPLE TV+ *
+http://elitex.me:80/82422w1258/w94824313619/10150669
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BJJ STARS FHD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",BJJ STARS FHD
+http://elitex.me:80/82422w1258/w94824313619/10150668
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BJJ STARS HD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",BJJ STARS HD
+http://elitex.me:80/82422w1258/w94824313619/10150667
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BJJ STARS HD*" tvg-logo="" group-title="ESPORTES PAYPERVIEW",BJJ STARS HD*
+http://elitex.me:80/82422w1258/w94824313619/10150666
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CAZE TV 1" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/Caze%20TV.png" group-title="ESPORTES PAYPERVIEW",CAZE TV 1
+http://elitex.me:80/82422w1258/w94824313619/10150665
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CAZE TV 1*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/Caze%20TV.png" group-title="ESPORTES PAYPERVIEW",CAZE TV 1*
+http://elitex.me:80/82422w1258/w94824313619/10150664
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CAZE TV 2" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/Caze%20TV.png" group-title="ESPORTES PAYPERVIEW",CAZE TV 2
+http://elitex.me:80/82422w1258/w94824313619/10150663
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CAZE TV 2*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/Caze%20TV.png" group-title="ESPORTES PAYPERVIEW",CAZE TV 2*
+http://elitex.me:80/82422w1258/w94824313619/10150662
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CAZE TV 3" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/Caze%20TV.png" group-title="ESPORTES PAYPERVIEW",CAZE TV 3
+http://elitex.me:80/82422w1258/w94824313619/10150661
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CAZE TV 3*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/Caze%20TV.png" group-title="ESPORTES PAYPERVIEW",CAZE TV 3*
+http://elitex.me:80/82422w1258/w94824313619/10150660
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CAZE TV 4" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/Caze%20TV.png" group-title="ESPORTES PAYPERVIEW",CAZE TV 4
+http://elitex.me:80/82422w1258/w94824313619/10150659
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CAZE TV 4*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/Caze%20TV.png" group-title="ESPORTES PAYPERVIEW",CAZE TV 4*
+http://elitex.me:80/82422w1258/w94824313619/10150658
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COXA PRIME" tvg-logo="https://play-lh.googleusercontent.com/KtS2j3h21rhjwrbcZlDQ_szUNvNoEUPqu-WrkxQrff13vYb-NfVZpLqMYED28LQWDw" group-title="ESPORTES PAYPERVIEW",COXA PRIME
+http://elitex.me:80/82422w1258/w94824313619/10150689
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 1 FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/DAZN2024.png" group-title="ESPORTES PAYPERVIEW",DAZN 1 FHD
+http://elitex.me:80/82422w1258/w94824313619/10150657
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 1 HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/DAZN2024.png" group-title="ESPORTES PAYPERVIEW",DAZN 1 HD
+http://elitex.me:80/82422w1258/w94824313619/10150656
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 1 HD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/DAZN2024.png" group-title="ESPORTES PAYPERVIEW",DAZN 1 HD*
+http://elitex.me:80/82422w1258/w94824313619/10150655
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 2 FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/DAZN2024.png" group-title="ESPORTES PAYPERVIEW",DAZN 2 FHD
+http://elitex.me:80/82422w1258/w94824313619/10150654
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 2 HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/DAZN2024.png" group-title="ESPORTES PAYPERVIEW",DAZN 2 HD
+http://elitex.me:80/82422w1258/w94824313619/10150653
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 2 HD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/DAZN2024.png" group-title="ESPORTES PAYPERVIEW",DAZN 2 HD*
+http://elitex.me:80/82422w1258/w94824313619/10150652
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 3 HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/DAZN2024.png" group-title="ESPORTES PAYPERVIEW",DAZN 3 HD
+http://elitex.me:80/82422w1258/w94824313619/10150651
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FORMULA 1 TV FHD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",FORMULA 1 TV FHD
+http://elitex.me:80/82422w1258/w94824313619/10150650
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FORMULA 1 TV HD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",FORMULA 1 TV HD
+http://elitex.me:80/82422w1258/w94824313619/10150649
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FORMULA 1 TV HD*" tvg-logo="" group-title="ESPORTES PAYPERVIEW",FORMULA 1 TV HD*
+http://elitex.me:80/82422w1258/w94824313619/10150648
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FURACAO TV" tvg-logo="" group-title="ESPORTES PAYPERVIEW",FURACAO TV
+http://elitex.me:80/82422w1258/w94824313619/10150688
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FURACAO TV*" tvg-logo="" group-title="ESPORTES PAYPERVIEW",FURACAO TV*
+http://elitex.me:80/82422w1258/w94824313619/10150687
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FURACAO TV**" tvg-logo="" group-title="ESPORTES PAYPERVIEW",FURACAO TV**
+http://elitex.me:80/82422w1258/w94824313619/10150686
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GOAT FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/Goat2024.png" group-title="ESPORTES PAYPERVIEW",GOAT FHD
+http://elitex.me:80/82422w1258/w94824313619/10150647
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GOAT HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/Goat2024.png" group-title="ESPORTES PAYPERVIEW",GOAT HD
+http://elitex.me:80/82422w1258/w94824313619/10150646
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GOAT HD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/Goat2024.png" group-title="ESPORTES PAYPERVIEW",GOAT HD*
+http://elitex.me:80/82422w1258/w94824313619/10150645
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GOAT 2 FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/Goat2024.png" group-title="ESPORTES PAYPERVIEW",GOAT 2 FHD
+http://elitex.me:80/82422w1258/w94824313619/10150644
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GOAT 2 HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/Goat2024.png" group-title="ESPORTES PAYPERVIEW",GOAT 2 HD
+http://elitex.me:80/82422w1258/w94824313619/10150643
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GOAT 2 HD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/Goat2024.png" group-title="ESPORTES PAYPERVIEW",GOAT 2 HD*
+http://elitex.me:80/82422w1258/w94824313619/10150642
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GOAT 3 HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/Goat2024.png" group-title="ESPORTES PAYPERVIEW",GOAT 3 HD
+http://elitex.me:80/82422w1258/w94824313619/10150641
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO MAX 1 FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/HBOMAX2024.png" group-title="ESPORTES PAYPERVIEW",HBO MAX 1 FHD
+http://elitex.me:80/82422w1258/w94824313619/10150605
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO MAX 1 HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/HBOMAX2024.png" group-title="ESPORTES PAYPERVIEW",HBO MAX 1 HD
+http://elitex.me:80/82422w1258/w94824313619/10150604
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO MAX 1 HD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/HBOMAX2024.png" group-title="ESPORTES PAYPERVIEW",HBO MAX 1 HD*
+http://elitex.me:80/82422w1258/w94824313619/10150603
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO MAX 2 FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/HBOMAX2024.png" group-title="ESPORTES PAYPERVIEW",HBO MAX 2 FHD
+http://elitex.me:80/82422w1258/w94824313619/10150602
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO MAX 2 HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/HBOMAX2024.png" group-title="ESPORTES PAYPERVIEW",HBO MAX 2 HD
+http://elitex.me:80/82422w1258/w94824313619/10150601
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO MAX 2 HD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/HBOMAX2024.png" group-title="ESPORTES PAYPERVIEW",HBO MAX 2 HD*
+http://elitex.me:80/82422w1258/w94824313619/10150600
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO MAX 3 FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/HBOMAX2024.png" group-title="ESPORTES PAYPERVIEW",HBO MAX 3 FHD
+http://elitex.me:80/82422w1258/w94824313619/10150599
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO MAX 3 HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/HBOMAX2024.png" group-title="ESPORTES PAYPERVIEW",HBO MAX 3 HD
+http://elitex.me:80/82422w1258/w94824313619/10150598
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO MAX 3 HD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/HBOMAX2024.png" group-title="ESPORTES PAYPERVIEW",HBO MAX 3 HD*
+http://elitex.me:80/82422w1258/w94824313619/10150597
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO MAX 4 FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/HBOMAX2024.png" group-title="ESPORTES PAYPERVIEW",HBO MAX 4 FHD
+http://elitex.me:80/82422w1258/w94824313619/10150596
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO MAX 4 HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/HBOMAX2024.png" group-title="ESPORTES PAYPERVIEW",HBO MAX 4 HD
+http://elitex.me:80/82422w1258/w94824313619/10150595
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO MAX 4 HD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/HBOMAX2024.png" group-title="ESPORTES PAYPERVIEW",HBO MAX 4 HD*
+http://elitex.me:80/82422w1258/w94824313619/10150594
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO MAX 5 FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/HBOMAX2024.png" group-title="ESPORTES PAYPERVIEW",HBO MAX 5 FHD
+http://elitex.me:80/82422w1258/w94824313619/10150593
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO MAX 5 HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/HBOMAX2024.png" group-title="ESPORTES PAYPERVIEW",HBO MAX 5 HD
+http://elitex.me:80/82422w1258/w94824313619/10150592
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO MAX 5 HD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/HBOMAX2024.png" group-title="ESPORTES PAYPERVIEW",HBO MAX 5 HD*
+http://elitex.me:80/82422w1258/w94824313619/10150591
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO MAX 6 FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/HBOMAX2024.png" group-title="ESPORTES PAYPERVIEW",HBO MAX 6 FHD
+http://elitex.me:80/82422w1258/w94824313619/10150590
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO MAX 6 HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/HBOMAX2024.png" group-title="ESPORTES PAYPERVIEW",HBO MAX 6 HD
+http://elitex.me:80/82422w1258/w94824313619/10150589
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA FUTSAL 1 FHD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",LIGA FUTSAL 1 FHD
+http://elitex.me:80/82422w1258/w94824313619/10150685
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA FUTSAL 1 HD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",LIGA FUTSAL 1 HD
+http://elitex.me:80/82422w1258/w94824313619/10150684
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA FUTSAL 1 HD*" tvg-logo="" group-title="ESPORTES PAYPERVIEW",LIGA FUTSAL 1 HD*
+http://elitex.me:80/82422w1258/w94824313619/10150683
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA FUTSAL 2 FHD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",LIGA FUTSAL 2 FHD
+http://elitex.me:80/82422w1258/w94824313619/10150682
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA FUTSAL 2 HD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",LIGA FUTSAL 2 HD
+http://elitex.me:80/82422w1258/w94824313619/10150681
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA FUTSAL 2 HD*" tvg-logo="" group-title="ESPORTES PAYPERVIEW",LIGA FUTSAL 2 HD*
+http://elitex.me:80/82422w1258/w94824313619/10150680
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA FUTSAL 3 FHD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",LIGA FUTSAL 3 FHD
+http://elitex.me:80/82422w1258/w94824313619/10150679
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA FUTSAL 3 HD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",LIGA FUTSAL 3 HD
+http://elitex.me:80/82422w1258/w94824313619/10150678
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA FUTSAL 4 FHD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",LIGA FUTSAL 4 FHD
+http://elitex.me:80/82422w1258/w94824313619/10150677
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA FUTSAL 4 HD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",LIGA FUTSAL 4 HD
+http://elitex.me:80/82422w1258/w94824313619/10150676
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOSSO FUTEBOL 1 FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/Nosso%20Futebol.png" group-title="ESPORTES PAYPERVIEW",NOSSO FUTEBOL 1 FHD
+http://elitex.me:80/82422w1258/w94824313619/10150640
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOSSO FUTEBOL 1 HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/Nosso%20Futebol.png" group-title="ESPORTES PAYPERVIEW",NOSSO FUTEBOL 1 HD
+http://elitex.me:80/82422w1258/w94824313619/10150639
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOSSO FUTEBOL 1 HD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/Nosso%20Futebol.png" group-title="ESPORTES PAYPERVIEW",NOSSO FUTEBOL 1 HD*
+http://elitex.me:80/82422w1258/w94824313619/10150638
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOSSO FUTEBOL 2 FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/Nosso%20Futebol.png" group-title="ESPORTES PAYPERVIEW",NOSSO FUTEBOL 2 FHD
+http://elitex.me:80/82422w1258/w94824313619/10150637
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOSSO FUTEBOL 2 HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/Nosso%20Futebol.png" group-title="ESPORTES PAYPERVIEW",NOSSO FUTEBOL 2 HD
+http://elitex.me:80/82422w1258/w94824313619/10150636
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOSSO FUTEBOL 2 HD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/Nosso%20Futebol.png" group-title="ESPORTES PAYPERVIEW",NOSSO FUTEBOL 2 HD*
+http://elitex.me:80/82422w1258/w94824313619/10150635
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOSSO FUTEBOL 3 FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/Nosso%20Futebol.png" group-title="ESPORTES PAYPERVIEW",NOSSO FUTEBOL 3 FHD
+http://elitex.me:80/82422w1258/w94824313619/10150634
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOSSO FUTEBOL 3 HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/Nosso%20Futebol.png" group-title="ESPORTES PAYPERVIEW",NOSSO FUTEBOL 3 HD
+http://elitex.me:80/82422w1258/w94824313619/10150633
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOSSO FUTEBOL 3 HD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/Nosso%20Futebol.png" group-title="ESPORTES PAYPERVIEW",NOSSO FUTEBOL 3 HD*
+http://elitex.me:80/82422w1258/w94824313619/10150632
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOSSO FUTEBOL 4 FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/Nosso%20Futebol.png" group-title="ESPORTES PAYPERVIEW",NOSSO FUTEBOL 4 FHD
+http://elitex.me:80/82422w1258/w94824313619/10150631
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOSSO FUTEBOL 4 HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/Nosso%20Futebol.png" group-title="ESPORTES PAYPERVIEW",NOSSO FUTEBOL 4 HD
+http://elitex.me:80/82422w1258/w94824313619/10150630
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOSSO FUTEBOL 4 HD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/Nosso%20Futebol.png" group-title="ESPORTES PAYPERVIEW",NOSSO FUTEBOL 4 HD*
+http://elitex.me:80/82422w1258/w94824313619/10150629
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NSPORTS 1" tvg-logo="" group-title="ESPORTES PAYPERVIEW",NSPORTS 1
+http://elitex.me:80/82422w1258/w94824313619/10150675
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NSPORTS 2" tvg-logo="" group-title="ESPORTES PAYPERVIEW",NSPORTS 2
+http://elitex.me:80/82422w1258/w94824313619/10150674
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NSPORTS 3" tvg-logo="" group-title="ESPORTES PAYPERVIEW",NSPORTS 3
+http://elitex.me:80/82422w1258/w94824313619/10150673
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OLYMPIA TV HD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",OLYMPIA TV HD
+http://elitex.me:80/82422w1258/w94824313619/10150628
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PARAMOUNT+ 1 FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/Paramount%20+%202024.png" group-title="ESPORTES PAYPERVIEW",PARAMOUNT+ 1 FHD
+http://elitex.me:80/82422w1258/w94824313619/10150588
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PARAMOUNT+ 1 HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/Paramount%20+%202024.png" group-title="ESPORTES PAYPERVIEW",PARAMOUNT+ 1 HD
+http://elitex.me:80/82422w1258/w94824313619/10150587
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PARAMOUNT+ 1 HD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/Paramount%20+%202024.png" group-title="ESPORTES PAYPERVIEW",PARAMOUNT+ 1 HD*
+http://elitex.me:80/82422w1258/w94824313619/10150586
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PARAMOUNT+ 2 FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/Paramount%20+%202024.png" group-title="ESPORTES PAYPERVIEW",PARAMOUNT+ 2 FHD
+http://elitex.me:80/82422w1258/w94824313619/10150585
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PARAMOUNT+ 2 HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/Paramount%20+%202024.png" group-title="ESPORTES PAYPERVIEW",PARAMOUNT+ 2 HD
+http://elitex.me:80/82422w1258/w94824313619/10150584
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PARAMOUNT+ 2 HD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/Paramount%20+%202024.png" group-title="ESPORTES PAYPERVIEW",PARAMOUNT+ 2 HD*
+http://elitex.me:80/82422w1258/w94824313619/10150583
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PARAMOUNT+ 3 FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/Paramount%20+%202024.png" group-title="ESPORTES PAYPERVIEW",PARAMOUNT+ 3 FHD
+http://elitex.me:80/82422w1258/w94824313619/10150582
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PARAMOUNT+ 3 HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/Paramount%20+%202024.png" group-title="ESPORTES PAYPERVIEW",PARAMOUNT+ 3 HD
+http://elitex.me:80/82422w1258/w94824313619/10150581
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PARAMOUNT+ 3 HD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/Paramount%20+%202024.png" group-title="ESPORTES PAYPERVIEW",PARAMOUNT+ 3 HD*
+http://elitex.me:80/82422w1258/w94824313619/10150580
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PARAMOUNT+ 4 FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/Paramount%20+%202024.png" group-title="ESPORTES PAYPERVIEW",PARAMOUNT+ 4 FHD
+http://elitex.me:80/82422w1258/w94824313619/10150579
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PARAMOUNT+ 4 HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/Paramount%20+%202024.png" group-title="ESPORTES PAYPERVIEW",PARAMOUNT+ 4 HD
+http://elitex.me:80/82422w1258/w94824313619/10150578
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PARAMOUNT+ 4 HD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/Paramount%20+%202024.png" group-title="ESPORTES PAYPERVIEW",PARAMOUNT+ 4 HD*
+http://elitex.me:80/82422w1258/w94824313619/10150577
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PRIME VIDEO 1" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/Prime%20Video.png" group-title="ESPORTES PAYPERVIEW",PRIME VIDEO 1
+http://elitex.me:80/82422w1258/w94824313619/10150627
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PRIME VIDEO 1*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/Prime%20Video.png" group-title="ESPORTES PAYPERVIEW",PRIME VIDEO 1*
+http://elitex.me:80/82422w1258/w94824313619/10150626
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PRIME VIDEO 2" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/Prime%20Video.png" group-title="ESPORTES PAYPERVIEW",PRIME VIDEO 2
+http://elitex.me:80/82422w1258/w94824313619/10150625
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PRIME VIDEO 2*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/Prime%20Video.png" group-title="ESPORTES PAYPERVIEW",PRIME VIDEO 2*
+http://elitex.me:80/82422w1258/w94824313619/10150624
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PRIME VIDEO 3" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/Prime%20Video.png" group-title="ESPORTES PAYPERVIEW",PRIME VIDEO 3
+http://elitex.me:80/82422w1258/w94824313619/10150623
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PRIME VIDEO 3*" tvg-logo="" group-title="ESPORTES PAYPERVIEW",PRIME VIDEO 3*
+http://elitex.me:80/82422w1258/w94824313619/10150622
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR+ 1 FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/Star+.png" group-title="ESPORTES PAYPERVIEW",STAR+ 1 FHD
+http://elitex.me:80/82422w1258/w94824313619/10150576
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR+ 1 HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/Star+.png" group-title="ESPORTES PAYPERVIEW",STAR+ 1 HD
+http://elitex.me:80/82422w1258/w94824313619/10150575
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR+ 1 HD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/Star+.png" group-title="ESPORTES PAYPERVIEW",STAR+ 1 HD*
+http://elitex.me:80/82422w1258/w94824313619/10150574
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR+ 2 FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/Star+.png" group-title="ESPORTES PAYPERVIEW",STAR+ 2 FHD
+http://elitex.me:80/82422w1258/w94824313619/10150573
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR+ 2 HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/Star+.png" group-title="ESPORTES PAYPERVIEW",STAR+ 2 HD
+http://elitex.me:80/82422w1258/w94824313619/10150572
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR+ 2 HD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/Star+.png" group-title="ESPORTES PAYPERVIEW",STAR+ 2 HD*
+http://elitex.me:80/82422w1258/w94824313619/10150571
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR+ 3 FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/Star+.png" group-title="ESPORTES PAYPERVIEW",STAR+ 3 FHD
+http://elitex.me:80/82422w1258/w94824313619/10150570
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR+ 3 HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/Star+.png" group-title="ESPORTES PAYPERVIEW",STAR+ 3 HD
+http://elitex.me:80/82422w1258/w94824313619/10150569
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR+ 3 HD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/Star+.png" group-title="ESPORTES PAYPERVIEW",STAR+ 3 HD*
+http://elitex.me:80/82422w1258/w94824313619/10150568
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR+ 4 FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/Star+.png" group-title="ESPORTES PAYPERVIEW",STAR+ 4 FHD
+http://elitex.me:80/82422w1258/w94824313619/10150567
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR+ 4 HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/Star+.png" group-title="ESPORTES PAYPERVIEW",STAR+ 4 HD
+http://elitex.me:80/82422w1258/w94824313619/10150566
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR+ 4 HD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/newlogos/Star+.png" group-title="ESPORTES PAYPERVIEW",STAR+ 4 HD*
+http://elitex.me:80/82422w1258/w94824313619/10150565
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC FIGHT PASS FHD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",UFC FIGHT PASS FHD
+http://elitex.me:80/82422w1258/w94824313619/10150621
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC FIGHT PASS HD" tvg-logo="" group-title="ESPORTES PAYPERVIEW",UFC FIGHT PASS HD
+http://elitex.me:80/82422w1258/w94824313619/10150620
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC FIGHT PASS" tvg-logo="" group-title="ESPORTES PAYPERVIEW",UFC FIGHT PASS
+http://elitex.me:80/82422w1258/w94824313619/10150619
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC FIGHT PASS*" tvg-logo="" group-title="ESPORTES PAYPERVIEW",UFC FIGHT PASS*
+http://elitex.me:80/82422w1258/w94824313619/10150618
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC TV" tvg-logo="" group-title="ESPORTES PAYPERVIEW",UFC TV
+http://elitex.me:80/82422w1258/w94824313619/10150617
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC TV*" tvg-logo="" group-title="ESPORTES PAYPERVIEW",UFC TV*
+http://elitex.me:80/82422w1258/w94824313619/10150616
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIQUE SPORTS" tvg-logo="" group-title="ESPORTES PAYPERVIEW",UNIQUE SPORTS
+http://elitex.me:80/82422w1258/w94824313619/10150672
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZAPPING SPORTS" tvg-logo="" group-title="ESPORTES PAYPERVIEW",ZAPPING SPORTS
+http://elitex.me:80/82422w1258/w94824313619/10150615
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZAPPING SPORTS*" tvg-logo="" group-title="ESPORTES PAYPERVIEW",ZAPPING SPORTS*
+http://elitex.me:80/82422w1258/w94824313619/10150614
 #EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/2752.png" group-title="GLOBOSAT FILMES",TC PREMIUM FHD
 http://elitex.me:80/82422w1258/w94824313619/2752
 #EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM FHD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/9548.png" group-title="GLOBOSAT FILMES",TC PREMIUM FHD*
@@ -2939,6 +2229,8 @@ http://elitex.me:80/82422w1258/w94824313619/10055058
 http://elitex.me:80/82422w1258/w94824313619/9532
 #EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY SD [LEG]*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/210.png" group-title="CANAIS LEGENDADOS",CANAL SONY SD [LEG]*
 http://elitex.me:80/82422w1258/w94824313619/10054932
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="USA  HD" tvg-logo="https://i.postimg.cc/nrJ5wYGR/USA-Network-Symbol.png" group-title="ESTADOS UNIDOS",USA  HD
+http://elitex.me:80/82422w1258/w94824313619/2762
 #EXTINF:-1 tvg-id="Syfy.br" tvg-name="USA HD*" tvg-logo="https://i.postimg.cc/nrJ5wYGR/USA-Network-Symbol.png" group-title="ESTADOS UNIDOS",USA HD*
 http://elitex.me:80/82422w1258/w94824313619/10054335
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUA: ABC-WCVB" tvg-logo="http://elitex.ddns.me:80/images/a151f846dedaaa2c80a5c5f249cbf442.png" group-title="ESTADOS UNIDOS",EUA: ABC-WCVB
