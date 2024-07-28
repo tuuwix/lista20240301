@@ -1229,6 +1229,18 @@ http://elitex.me:80/82422w1258/w94824313619/10054372
 http://elitex.me:80/82422w1258/w94824313619/10054371
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 SD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/166.png" group-title="ESPORTES",SPORTV 3 SD
 http://elitex.me:80/82422w1258/w94824313619/166
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORTV 4 FHD" tvg-logo="" group-title="ESPORTES",SPORTV 4 FHD
+http://elitex.me:80/82422w1258/w94824313619/10164109
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORTV 4 HD" tvg-logo="" group-title="ESPORTES",SPORTV 4 HD
+http://elitex.me:80/82422w1258/w94824313619/10164110
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORTV EXTRA 1" tvg-logo="" group-title="ESPORTES",SPORTV EXTRA 1
+http://elitex.me:80/82422w1258/w94824313619/10164111
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORTV EXTRA 2" tvg-logo="" group-title="ESPORTES",SPORTV EXTRA 2
+http://elitex.me:80/82422w1258/w94824313619/10164112
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORTV EXTRA 3" tvg-logo="" group-title="ESPORTES",SPORTV EXTRA 3
+http://elitex.me:80/82422w1258/w94824313619/10164113
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORTV EXTRA 4" tvg-logo="" group-title="ESPORTES",SPORTV EXTRA 4
+http://elitex.me:80/82422w1258/w94824313619/10164114
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/espn_new.png" group-title="ESPORTES",ESPN FHD
 http://elitex.me:80/82422w1258/w94824313619/6287
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN FHD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/espn_new.png" group-title="ESPORTES",ESPN FHD*
