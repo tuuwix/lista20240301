@@ -2583,7 +2583,7 @@ http://elitex.me:80/82422w1258/w94824313619/10116115
 http://elitex.me:80/82422w1258/w94824313619/10116114
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL GAME PASS 10" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/nfl_gamepass.png" group-title="ESTADOS UNIDOS",NFL GAME PASS 10
 http://elitex.me:80/82422w1258/w94824313619/10116113
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="US NFL NETWORK" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/iScreen%20Shoter%20-%20Google%20Chrome%20-%20230628221811.jpg" group-title="ESTADOS UNIDOS",US NFL NETWORK
+#EXTINF:-1 tvg-id="Epg.br" tvg-name="NFL NETWORK" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/iScreen%20Shoter%20-%20Google%20Chrome%20-%20230628221811.jpg" group-title="ESTADOS UNIDOS",NFL NETWORK
 http://elitex.me:80/82422w1258/w94824313619/10035236
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA LEAGUE PASS 01" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/nba.png" group-title="ESTADOS UNIDOS",NBA LEAGUE PASS 01
 http://elitex.me:80/82422w1258/w94824313619/10116132
@@ -2607,9 +2607,7 @@ http://elitex.me:80/82422w1258/w94824313619/10116124
 http://elitex.me:80/82422w1258/w94824313619/10116123
 #EXTINF:-1 tvg-id="FXNWS" tvg-name="US FOX NEWS ²" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/3d03ac52-fad9-44af-528e-d205e9d7f900/public" group-title="ESTADOS UNIDOS",US FOX NEWS ²
 http://elitex.me:80/82422w1258/w94824313619/10068453
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="US GOLF CHANNEL USA" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/iScreen%20Shoter%20-%20Google%20Chrome%20-%20230628221811.jpg" group-title="ESTADOS UNIDOS",US GOLF CHANNEL USA
-http://elitex.me:80/82422w1258/w94824313619/10035226
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="US THE GOLF CHANNEL" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/iScreen%20Shoter%20-%20Google%20Chrome%20-%20230628221811.jpg" group-title="ESTADOS UNIDOS",US THE GOLF CHANNEL
+#EXTINF:-1 tvg-id="Epg.br" tvg-name="GOLF CHANNEL USA" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/iScreen%20Shoter%20-%20Google%20Chrome%20-%20230628221811.jpg" group-title="ESTADOS UNIDOS",GOLF CHANNEL USA
 http://elitex.me:80/82422w1258/w94824313619/10045400
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BALLY SPORTS FLORIDA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Bally_Sports_app_logo.png" group-title="ESTADOS UNIDOS",BALLY SPORTS FLORIDA
 http://elitex.me:80/82422w1258/w94824313619/10179063
