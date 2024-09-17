@@ -833,6 +833,12 @@ http://elitex.me:80/82422w1258/w94824313619/10168553
 http://elitex.me:80/82422w1258/w94824313619/10168554
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESTRELA DA CASA CAM 12" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/70/Estrela_da_Casa_-_Globo.jpg" group-title="ESTRELA DA CASA",ESTRELA DA CASA CAM 12
 http://elitex.me:80/82422w1258/w94824313619/10168555
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA CAM 1" tvg-logo="" group-title="A FAZENDA 2024",A FAZENDA CAM 1
+http://elitex.me:80/82422w1258/w94824313619/10179985
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA CAM 2" tvg-logo="" group-title="A FAZENDA 2024",A FAZENDA CAM 2
+http://elitex.me:80/82422w1258/w94824313619/10179986
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA CAM 3" tvg-logo="" group-title="A FAZENDA 2024",A FAZENDA CAM 3
+http://elitex.me:80/82422w1258/w94824313619/10179987
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/record.png" group-title="RECORDTV",RECORDTV SP FHD
 http://elitex.me:80/82422w1258/w94824313619/6306
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP FHD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/record.png" group-title="RECORDTV",RECORDTV SP FHD*
@@ -1001,50 +1007,6 @@ http://elitex.me:80/82422w1258/w94824313619/10090778
 http://elitex.me:80/82422w1258/w94824313619/10090777
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND NATAL" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/band.png" group-title="ABERTOS",BAND NATAL
 http://elitex.me:80/82422w1258/w94824313619/10090776
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/sbt.png" group-title="ABERTOS",SBT FHD
-http://elitex.me:80/82422w1258/w94824313619/2957
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP FHD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/sbt.png" group-title="ABERTOS",SBT SP FHD*
-http://elitex.me:80/82422w1258/w94824313619/10054395
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP FHDB" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/sbt.png" group-title="ABERTOS",SBT SP FHDB
-http://elitex.me:80/82422w1258/w94824313619/10047242
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT FHD H265" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/sbt.png" group-title="ABERTOS",SBT FHD H265
-http://elitex.me:80/82422w1258/w94824313619/4896
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/sbt.png" group-title="ABERTOS",SBT HD
-http://elitex.me:80/82422w1258/w94824313619/330
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP HD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/sbt.png" group-title="ABERTOS",SBT SP HD*
-http://elitex.me:80/82422w1258/w94824313619/10054394
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT HDB" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/sbt.png" group-title="ABERTOS",SBT HDB
-http://elitex.me:80/82422w1258/w94824313619/16849
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/sbt.png" group-title="ABERTOS",SBT SD
-http://elitex.me:80/82422w1258/w94824313619/4079
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP SD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/sbt.png" group-title="ABERTOS",SBT SP SD*
-http://elitex.me:80/82422w1258/w94824313619/10054393
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SDB" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/sbt.png" group-title="ABERTOS",SBT SDB
-http://elitex.me:80/82422w1258/w94824313619/10047241
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT TV ARATU BAHIA" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/sbt.png" group-title="ABERTOS",SBT TV ARATU BAHIA
-http://elitex.me:80/82422w1258/w94824313619/331
-#EXTINF:-1 tvg-id="Stbrio.br" tvg-name="SBT RJ" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/sbt.png" group-title="ABERTOS",SBT RJ
-http://elitex.me:80/82422w1258/w94824313619/10027018
-#EXTINF:-1 tvg-id="Stbrio.br" tvg-name="SBT RJ HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/sbt.png" group-title="ABERTOS",SBT RJ HD
-http://elitex.me:80/82422w1258/w94824313619/10049869
-#EXTINF:-1 tvg-id="Rede Massa.br" tvg-name="SBT PR FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/sbt.png" group-title="ABERTOS",SBT PR FHD
-http://elitex.me:80/82422w1258/w94824313619/10049868
-#EXTINF:-1 tvg-id="Rede Massa.br" tvg-name="SBT PR" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/sbt.png" group-title="ABERTOS",SBT PR
-http://elitex.me:80/82422w1258/w94824313619/10049867
-#EXTINF:-1 tvg-id="TVTambau.br" tvg-name="SBT TAMBAU PARAIBA" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/sbt.png" group-title="ABERTOS",SBT TAMBAU PARAIBA
-http://elitex.me:80/82422w1258/w94824313619/10027016
-#EXTINF:-1 tvg-id="TVAlterosa.br" tvg-name="SBT TV ALTEROSA MG" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/sbt.png" group-title="ABERTOS",SBT TV ALTEROSA MG
-http://elitex.me:80/82422w1258/w94824313619/10027017
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT PARA" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/sbt.png" group-title="ABERTOS",SBT PARA
-http://elitex.me:80/82422w1258/w94824313619/20529
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT TV JANGADEIRO CE HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/sbt.png" group-title="ABERTOS",SBT TV JANGADEIRO CE HD
-http://elitex.me:80/82422w1258/w94824313619/19714
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT GUAJARA" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/sbt.png" group-title="ABERTOS",SBT GUAJARA
-http://elitex.me:80/82422w1258/w94824313619/10090786
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SAO LUIZ" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/sbt.png" group-title="ABERTOS",SBT SAO LUIZ
-http://elitex.me:80/82422w1258/w94824313619/10090785
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SERRA DOURADA" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/sbt.png" group-title="ABERTOS",SBT SERRA DOURADA
-http://elitex.me:80/82422w1258/w94824313619/10090784
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDETV! FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/4898.png" group-title="ABERTOS",REDETV! FHD
 http://elitex.me:80/82422w1258/w94824313619/4898
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDETV! FHDᴮᴿ" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/335.png" group-title="ABERTOS",REDETV! FHDᴮᴿ
@@ -1191,6 +1153,72 @@ http://elitex.me:80/82422w1258/w94824313619/10068451
 http://elitex.me:80/82422w1258/w94824313619/10068447
 #EXTINF:-1 tvg-id="NaoDisponivel.br" tvg-name="SHOPTIME" tvg-logo="https://i.imgur.com/Y5JtRgT.png" group-title="ABERTOS",SHOPTIME
 http://elitex.me:80/82422w1258/w94824313619/10035262
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/sbt.png" group-title="SBT",SBT FHD
+http://elitex.me:80/82422w1258/w94824313619/2957
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP FHD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/sbt.png" group-title="SBT",SBT SP FHD*
+http://elitex.me:80/82422w1258/w94824313619/10054395
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP FHDB" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/sbt.png" group-title="SBT",SBT SP FHDB
+http://elitex.me:80/82422w1258/w94824313619/10047242
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT FHD H265" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/sbt.png" group-title="SBT",SBT FHD H265
+http://elitex.me:80/82422w1258/w94824313619/4896
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/sbt.png" group-title="SBT",SBT HD
+http://elitex.me:80/82422w1258/w94824313619/330
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP HD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/sbt.png" group-title="SBT",SBT SP HD*
+http://elitex.me:80/82422w1258/w94824313619/10054394
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT HDB" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/sbt.png" group-title="SBT",SBT HDB
+http://elitex.me:80/82422w1258/w94824313619/16849
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/sbt.png" group-title="SBT",SBT SD
+http://elitex.me:80/82422w1258/w94824313619/4079
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP SD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/sbt.png" group-title="SBT",SBT SP SD*
+http://elitex.me:80/82422w1258/w94824313619/10054393
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SDB" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/sbt.png" group-title="SBT",SBT SDB
+http://elitex.me:80/82422w1258/w94824313619/10047241
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT TV ARATU BAHIA" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/sbt.png" group-title="SBT",SBT TV ARATU BAHIA
+http://elitex.me:80/82422w1258/w94824313619/331
+#EXTINF:-1 tvg-id="Stbrio.br" tvg-name="SBT RJ" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/sbt.png" group-title="SBT",SBT RJ
+http://elitex.me:80/82422w1258/w94824313619/10027018
+#EXTINF:-1 tvg-id="Stbrio.br" tvg-name="SBT RJ HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/sbt.png" group-title="SBT",SBT RJ HD
+http://elitex.me:80/82422w1258/w94824313619/10049869
+#EXTINF:-1 tvg-id="Rede Massa.br" tvg-name="SBT PR FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/sbt.png" group-title="SBT",SBT PR FHD
+http://elitex.me:80/82422w1258/w94824313619/10049868
+#EXTINF:-1 tvg-id="Rede Massa.br" tvg-name="SBT PR" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/sbt.png" group-title="SBT",SBT PR
+http://elitex.me:80/82422w1258/w94824313619/10049867
+#EXTINF:-1 tvg-id="TVTambau.br" tvg-name="SBT TAMBAU PARAIBA" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/sbt.png" group-title="SBT",SBT TAMBAU PARAIBA
+http://elitex.me:80/82422w1258/w94824313619/10027016
+#EXTINF:-1 tvg-id="TVAlterosa.br" tvg-name="SBT TV ALTEROSA MG" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/sbt.png" group-title="SBT",SBT TV ALTEROSA MG
+http://elitex.me:80/82422w1258/w94824313619/10027017
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT PARA" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/sbt.png" group-title="SBT",SBT PARA
+http://elitex.me:80/82422w1258/w94824313619/20529
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT TV JANGADEIRO CE HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/sbt.png" group-title="SBT",SBT TV JANGADEIRO CE HD
+http://elitex.me:80/82422w1258/w94824313619/19714
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT GUAJARA" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/sbt.png" group-title="SBT",SBT GUAJARA
+http://elitex.me:80/82422w1258/w94824313619/10090786
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SAO LUIZ" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/sbt.png" group-title="SBT",SBT SAO LUIZ
+http://elitex.me:80/82422w1258/w94824313619/10090785
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SERRA DOURADA" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/sbt.png" group-title="SBT",SBT SERRA DOURADA
+http://elitex.me:80/82422w1258/w94824313619/10090784
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT+ SIMULCAST HD" tvg-logo="" group-title="SBT",SBT+ SIMULCAST HD
+http://elitex.me:80/82422w1258/w94824313619/10179974
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT+ TV ZYN HD" tvg-logo="" group-title="SBT",SBT+ TV ZYN HD
+http://elitex.me:80/82422w1258/w94824313619/10179973
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT+ SILVIO SANTOS HD" tvg-logo="" group-title="SBT",SBT+ SILVIO SANTOS HD
+http://elitex.me:80/82422w1258/w94824313619/10179972
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT+ SERIES HD" tvg-logo="" group-title="SBT",SBT+ SERIES HD
+http://elitex.me:80/82422w1258/w94824313619/10179971
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT+ SAUDADE HD" tvg-logo="" group-title="SBT",SBT+ SAUDADE HD
+http://elitex.me:80/82422w1258/w94824313619/10179970
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT+ POP HD" tvg-logo="" group-title="SBT",SBT+ POP HD
+http://elitex.me:80/82422w1258/w94824313619/10179969
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT+ NOVELAS HD" tvg-logo="" group-title="SBT",SBT+ NOVELAS HD
+http://elitex.me:80/82422w1258/w94824313619/10179968
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT+ INFORMAÇÃO HD" tvg-logo="" group-title="SBT",SBT+ INFORMAÇÃO HD
+http://elitex.me:80/82422w1258/w94824313619/10179967
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT+ HUMOR" tvg-logo="" group-title="SBT",SBT+ HUMOR
+http://elitex.me:80/82422w1258/w94824313619/10179966
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT+ CRIANÇA" tvg-logo="" group-title="SBT",SBT+ CRIANÇA
+http://elitex.me:80/82422w1258/w94824313619/10179965
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT+ CINEMA" tvg-logo="" group-title="SBT",SBT+ CINEMA
+http://elitex.me:80/82422w1258/w94824313619/10179964
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/sportv_new.png" group-title="ESPORTES",SPORTV FHD
 http://elitex.me:80/82422w1258/w94824313619/4797
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/sportv_new.png" group-title="ESPORTES",SPORTV FHD*
@@ -1461,6 +1489,8 @@ http://elitex.me:80/82422w1258/w94824313619/202
 http://elitex.me:80/82422w1258/w94824313619/10054916
 #EXTINF:-1 tvg-id="Epg.br" tvg-name="COMBATE SDᴮᴿ" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/combate.png" group-title="ESPORTES",COMBATE SDᴮᴿ
 http://elitex.me:80/82422w1258/w94824313619/10047337
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GE FAST" tvg-logo="" group-title="ESPORTES",GE FAST
+http://elitex.me:80/82422w1258/w94824313619/10179976
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/premiere_new.png" group-title="PREMIERE ESPORTES",PREMIERE CLUBES FHD
 http://elitex.me:80/82422w1258/w94824313619/5761
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES FHD²" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/premiere_new.png" group-title="PREMIERE ESPORTES",PREMIERE CLUBES FHD²
@@ -3439,6 +3469,16 @@ http://elitex.me:80/82422w1258/w94824313619/10047336
 http://elitex.me:80/82422w1258/w94824313619/10055033
 #EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 SD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/5474.png" group-title="VARIEDADES",ARTE 1 SD*
 http://elitex.me:80/82422w1258/w94824313619/10055032
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIVA 80 FAST" tvg-logo="" group-title="VARIEDADES",VIVA 80 FAST
+http://elitex.me:80/82422w1258/w94824313619/10179980
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIVA 70 FAST" tvg-logo="" group-title="VARIEDADES",VIVA 70 FAST
+http://elitex.me:80/82422w1258/w94824313619/10179979
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECEITAS FAST" tvg-logo="" group-title="VARIEDADES",RECEITAS FAST
+http://elitex.me:80/82422w1258/w94824313619/10179978
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MALHAÇÃO FAST" tvg-logo="" group-title="VARIEDADES",MALHAÇÃO FAST
+http://elitex.me:80/82422w1258/w94824313619/10179977
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DPA FAST" tvg-logo="" group-title="VARIEDADES",DPA FAST
+http://elitex.me:80/82422w1258/w94824313619/10179975
 #EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/9628.png" group-title="MUSICAIS",MULTISHOW FHD
 http://elitex.me:80/82422w1258/w94824313619/9628
 #EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW FHD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/92.png" group-title="MUSICAIS",MULTISHOW FHD*
