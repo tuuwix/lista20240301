@@ -833,12 +833,20 @@ http://elitex.me:80/82422w1258/w94824313619/10168553
 http://elitex.me:80/82422w1258/w94824313619/10168554
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESTRELA DA CASA CAM 12" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/70/Estrela_da_Casa_-_Globo.jpg" group-title="ESTRELA DA CASA",ESTRELA DA CASA CAM 12
 http://elitex.me:80/82422w1258/w94824313619/10168555
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA CAM 1" tvg-logo="" group-title="A FAZENDA 2024",A FAZENDA CAM 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA CAM 1" tvg-logo="https://www.areavip.com.br/wp-content/uploads/2018/09/a-fazenda-logo.jpg" group-title="A FAZENDA 2024",A FAZENDA CAM 1
 http://elitex.me:80/82422w1258/w94824313619/10179985
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA CAM 2" tvg-logo="" group-title="A FAZENDA 2024",A FAZENDA CAM 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA CAM 1*" tvg-logo="https://www.areavip.com.br/wp-content/uploads/2018/09/a-fazenda-logo.jpg" group-title="A FAZENDA 2024",A FAZENDA CAM 1*
+http://elitex.me:80/82422w1258/w94824313619/10179990
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA CAM 2" tvg-logo="https://www.areavip.com.br/wp-content/uploads/2018/09/a-fazenda-logo.jpg" group-title="A FAZENDA 2024",A FAZENDA CAM 2
 http://elitex.me:80/82422w1258/w94824313619/10179986
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA CAM 3" tvg-logo="" group-title="A FAZENDA 2024",A FAZENDA CAM 3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA CAM 3" tvg-logo="https://www.areavip.com.br/wp-content/uploads/2018/09/a-fazenda-logo.jpg" group-title="A FAZENDA 2024",A FAZENDA CAM 3
 http://elitex.me:80/82422w1258/w94824313619/10179987
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA CAM 4" tvg-logo="https://www.areavip.com.br/wp-content/uploads/2018/09/a-fazenda-logo.jpg" group-title="A FAZENDA 2024",A FAZENDA CAM 4
+http://elitex.me:80/82422w1258/w94824313619/10179991
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA CAM 5" tvg-logo="https://www.areavip.com.br/wp-content/uploads/2018/09/a-fazenda-logo.jpg" group-title="A FAZENDA 2024",A FAZENDA CAM 5
+http://elitex.me:80/82422w1258/w94824313619/10179988
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA CAM 6" tvg-logo="https://www.areavip.com.br/wp-content/uploads/2018/09/a-fazenda-logo.jpg" group-title="A FAZENDA 2024",A FAZENDA CAM 6
+http://elitex.me:80/82422w1258/w94824313619/10179989
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/record.png" group-title="RECORDTV",RECORDTV SP FHD
 http://elitex.me:80/82422w1258/w94824313619/6306
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP FHD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/record.png" group-title="RECORDTV",RECORDTV SP FHD*
@@ -1489,7 +1497,7 @@ http://elitex.me:80/82422w1258/w94824313619/202
 http://elitex.me:80/82422w1258/w94824313619/10054916
 #EXTINF:-1 tvg-id="Epg.br" tvg-name="COMBATE SDᴮᴿ" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/combate.png" group-title="ESPORTES",COMBATE SDᴮᴿ
 http://elitex.me:80/82422w1258/w94824313619/10047337
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GE FAST" tvg-logo="" group-title="ESPORTES",GE FAST
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GE FAST" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/gefast.jpg" group-title="ESPORTES",GE FAST
 http://elitex.me:80/82422w1258/w94824313619/10179976
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/premiere_new.png" group-title="PREMIERE ESPORTES",PREMIERE CLUBES FHD
 http://elitex.me:80/82422w1258/w94824313619/5761
@@ -4617,7 +4625,7 @@ http://elitex.me:80/82422w1258/w94824313619/10115958
 http://elitex.me:80/82422w1258/w94824313619/10115957
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: NASA" tvg-logo="http://elitex.ddns.me:80/images/60e6bc87599c3db546b833480ad911c9.png" group-title="CANADA",CA: NASA
 http://elitex.me:80/82422w1258/w94824313619/10115956
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: NAT GEO" tvg-logo="" group-title="CANADA",CA: NAT GEO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: NAT GEO" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/103.png" group-title="CANADA",CA: NAT GEO
 http://elitex.me:80/82422w1258/w94824313619/10115955
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: NBA TV" tvg-logo="http://elitex.ddns.me:80/images/f41951675122d5377e7bdc528808809b.png" group-title="CANADA",CA: NBA TV
 http://elitex.me:80/82422w1258/w94824313619/10115952
