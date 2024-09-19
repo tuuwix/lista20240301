@@ -4809,13 +4809,13 @@ http://elitex.me:80/82422w1258/w94824313619/10052934
 http://elitex.me:80/82422w1258/w94824313619/10052951
 #EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="PT PORTO CANAL" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/iScreen%20Shoter%20-%20Google%20Chrome%20-%20230628221811.jpg" group-title="PORTUGAL",PT PORTO CANAL
 http://elitex.me:80/82422w1258/w94824313619/10053106
-#EXTINF:-1 tvg-id="RTP1.pt" tvg-name="PT RTP 1" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/iScreen%20Shoter%20-%20Google%20Chrome%20-%20230628221811.jpg" group-title="PORTUGAL",PT RTP 1
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="PT RTP 1" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/iScreen%20Shoter%20-%20Google%20Chrome%20-%20230628221811.jpg" group-title="PORTUGAL",PT RTP 1
 http://elitex.me:80/82422w1258/w94824313619/10053132
-#EXTINF:-1 tvg-id="RTP2.pt" tvg-name="PT RTP 2" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/iScreen%20Shoter%20-%20Google%20Chrome%20-%20230628221811.jpg" group-title="PORTUGAL",PT RTP 2
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="RTP 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/RTP2_Logotipo_2016.svg/revision/latest?cb=20210530151024" group-title="PORTUGAL",RTP 2
 http://elitex.me:80/82422w1258/w94824313619/10053129
-#EXTINF:-1 tvg-id="RTP3.pt" tvg-name="PT RTP 3" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/RTP3.png" group-title="PORTUGAL",PT RTP 3
+#EXTINF:-1 tvg-id="rtp3.pt" tvg-name="RTP 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/RTP3.svg/revision/latest?cb=20190414142728" group-title="PORTUGAL",RTP 3
 http://elitex.me:80/82422w1258/w94824313619/10053118
-#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-name="PT RTP ACORES" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/iScreen%20Shoter%20-%20Google%20Chrome%20-%20230628221811.jpg" group-title="PORTUGAL",PT RTP ACORES
+#EXTINF:-1 tvg-id="rtpacores.pt" tvg-name="RTP ACORES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/RTP_A%C3%A7ores_2016.svg/revision/latest?cb=20211106172358" group-title="PORTUGAL",RTP ACORES
 http://elitex.me:80/82422w1258/w94824313619/10053096
 #EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-name="PT RTP AFRICA" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/iScreen%20Shoter%20-%20Google%20Chrome%20-%20230628221811.jpg" group-title="PORTUGAL",PT RTP AFRICA
 http://elitex.me:80/82422w1258/w94824313619/10053097
@@ -4825,11 +4825,11 @@ http://elitex.me:80/82422w1258/w94824313619/10053098
 http://elitex.me:80/82422w1258/w94824313619/10053099
 #EXTINF:-1 tvg-id="SICCaras.pt" tvg-name="PT SIC CARAS" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/iScreen%20Shoter%20-%20Google%20Chrome%20-%20230628221811.jpg" group-title="PORTUGAL",PT SIC CARAS
 http://elitex.me:80/82422w1258/w94824313619/10053110
-#EXTINF:-1 tvg-id="SIC.pt" tvg-name="PT SIC HD" tvg-logo="http://dstr.ddns.net:80/images/f4a7a39fb8b16ef623bdd965e2ea010b.png" group-title="PORTUGAL",PT SIC HD
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/SIC_2018.png/revision/latest/scale-to-width-down/1000?cb=20201126223337" group-title="PORTUGAL",SIC HD
 http://elitex.me:80/82422w1258/w94824313619/10053125
 #EXTINF:-1 tvg-id="SICMulher.pt" tvg-name="PT SIC MULHER" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/iScreen%20Shoter%20-%20Google%20Chrome%20-%20230628221811.jpg" group-title="PORTUGAL",PT SIC MULHER
 http://elitex.me:80/82422w1258/w94824313619/10053112
-#EXTINF:-1 tvg-id="SICNoticias.pt" tvg-name="PT SIC NOTICIAS" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/iScreen%20Shoter%20-%20Google%20Chrome%20-%20230628221811.jpg" group-title="PORTUGAL",PT SIC NOTICIAS
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="SIC NOTICIAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/SIC_Not%C3%ADcias_2023.svg/revision/latest?cb=20231009075738" group-title="PORTUGAL",SIC NOTICIAS
 http://elitex.me:80/82422w1258/w94824313619/10053114
 #EXTINF:-1 tvg-id="SICRadical.pt" tvg-name="PT SIC RADICAL" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/iScreen%20Shoter%20-%20Google%20Chrome%20-%20230628221811.jpg" group-title="PORTUGAL",PT SIC RADICAL
 http://elitex.me:80/82422w1258/w94824313619/10053109
