@@ -24,7 +24,7 @@ jobs:
         run: |
           # Download the file and check the HTTP response code
           http_code=$(curl -s -w "%{http_code}" -o playlist.m3u "http://m3u4u.com/m3u/p87vnr5wegu44qe8y41j")
-          if [[ "$http_code" != "200" ]]; then
+          if [[ "$http_code" != "200" && "$http_code" != "302" ]]; then
             echo "Download failed with HTTP code $http_code"
             exit 1
           fi
