@@ -1,4 +1,10 @@
 #EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FUTEBOL NA TV" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/206415152_10894352.png" group-title="AREA CLIENTE",FUTEBOL NA TV
+http://sslitex.com:80/82422w1258/w94824313619/10187967
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FILMES e SERIES" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/movies.png" group-title="AREA CLIENTE",FILMES e SERIES
+http://sslitex.com:80/82422w1258/w94824313619/10187968
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC NIGHT" tvg-logo="https://static.wikia.nocookie.net/mmaworld/images/c/c3/UFC_LOGO.jpg/revision/latest?cb=20210601232641" group-title="AREA CLIENTE",UFC NIGHT
+http://sslitex.com:80/82422w1258/w94824313619/10187969
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/globo.png" group-title="GLOBOS",GB SP FHD
 http://sslitex.com:80/82422w1258/w94824313619/6283
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP FHDB" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/globo.png" group-title="GLOBOS",GB SP FHDB
