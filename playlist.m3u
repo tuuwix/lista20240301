@@ -1,4 +1,18 @@
 #EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA CAM 1" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/A%20FAZENDA.png" group-title="A FAZENDA 2024",A FAZENDA CAM 1
+http://elitex.me:80/82422w1258/w94824313619/10179985
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA CAM 1*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/A%20FAZENDA.png" group-title="A FAZENDA 2024",A FAZENDA CAM 1*
+http://elitex.me:80/82422w1258/w94824313619/10179990
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA CAM 2" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/A%20FAZENDA.png" group-title="A FAZENDA 2024",A FAZENDA CAM 2
+http://elitex.me:80/82422w1258/w94824313619/10179986
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA CAM 3" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/A%20FAZENDA.png" group-title="A FAZENDA 2024",A FAZENDA CAM 3
+http://elitex.me:80/82422w1258/w94824313619/10179987
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA CAM 4" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/A%20FAZENDA.png" group-title="A FAZENDA 2024",A FAZENDA CAM 4
+http://elitex.me:80/82422w1258/w94824313619/10179991
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA CAM 5" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/A%20FAZENDA.png" group-title="A FAZENDA 2024",A FAZENDA CAM 5
+http://elitex.me:80/82422w1258/w94824313619/10179988
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA CAM 6" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/A%20FAZENDA.png" group-title="A FAZENDA 2024",A FAZENDA CAM 6
+http://elitex.me:80/82422w1258/w94824313619/10179989
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB SP FHD
 http://elitex.me:80/82422w1258/w94824313619/6283
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP FHDB" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB SP FHDB
@@ -929,20 +943,6 @@ http://elitex.me:80/82422w1258/w94824313619/10189187
 http://elitex.me:80/82422w1258/w94824313619/10189186
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="REDE AMAZONICA RORAINOPOLIS HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORTE",REDE AMAZONICA RORAINOPOLIS HD
 http://elitex.me:80/82422w1258/w94824313619/10189185
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA CAM 1" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/A%20FAZENDA.png" group-title="A FAZENDA 2024",A FAZENDA CAM 1
-http://elitex.me:80/82422w1258/w94824313619/10179985
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA CAM 1*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/A%20FAZENDA.png" group-title="A FAZENDA 2024",A FAZENDA CAM 1*
-http://elitex.me:80/82422w1258/w94824313619/10179990
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA CAM 2" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/A%20FAZENDA.png" group-title="A FAZENDA 2024",A FAZENDA CAM 2
-http://elitex.me:80/82422w1258/w94824313619/10179986
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA CAM 3" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/A%20FAZENDA.png" group-title="A FAZENDA 2024",A FAZENDA CAM 3
-http://elitex.me:80/82422w1258/w94824313619/10179987
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA CAM 4" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/A%20FAZENDA.png" group-title="A FAZENDA 2024",A FAZENDA CAM 4
-http://elitex.me:80/82422w1258/w94824313619/10179991
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA CAM 5" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/A%20FAZENDA.png" group-title="A FAZENDA 2024",A FAZENDA CAM 5
-http://elitex.me:80/82422w1258/w94824313619/10179988
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA CAM 6" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/A%20FAZENDA.png" group-title="A FAZENDA 2024",A FAZENDA CAM 6
-http://elitex.me:80/82422w1258/w94824313619/10179989
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV SP FHD
 http://elitex.me:80/82422w1258/w94824313619/6306
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV SP FHD*
