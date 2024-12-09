@@ -1,4 +1,4 @@
-#EXTM3U url-tvg=""
+#EXTM3U
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA CAM 1" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/A%20FAZENDA.png" group-title="A FAZENDA 2024",A FAZENDA CAM 1
 http://elitex.me:80/82422w1258/w94824313619/10179985
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA CAM 1*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/A%20FAZENDA.png" group-title="A FAZENDA 2024",A FAZENDA CAM 1*
