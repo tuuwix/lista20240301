@@ -1,18 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA CAM 1" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/A%20FAZENDA.png" group-title="A FAZENDA 2024",A FAZENDA CAM 1
-http://elitex.me:80/82422w1258/w94824313619/10179985
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA CAM 1*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/A%20FAZENDA.png" group-title="A FAZENDA 2024",A FAZENDA CAM 1*
 http://elitex.me:80/82422w1258/w94824313619/10179990
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA CAM 2" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/A%20FAZENDA.png" group-title="A FAZENDA 2024",A FAZENDA CAM 2
-http://elitex.me:80/82422w1258/w94824313619/10179986
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA CAM 3" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/A%20FAZENDA.png" group-title="A FAZENDA 2024",A FAZENDA CAM 3
-http://elitex.me:80/82422w1258/w94824313619/10179987
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA CAM 4" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/A%20FAZENDA.png" group-title="A FAZENDA 2024",A FAZENDA CAM 4
-http://elitex.me:80/82422w1258/w94824313619/10179991
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA CAM 5" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/A%20FAZENDA.png" group-title="A FAZENDA 2024",A FAZENDA CAM 5
-http://elitex.me:80/82422w1258/w94824313619/10179988
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA CAM 6" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/A%20FAZENDA.png" group-title="A FAZENDA 2024",A FAZENDA CAM 6
-http://elitex.me:80/82422w1258/w94824313619/10179989
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB SP FHD
 http://elitex.me:80/82422w1258/w94824313619/6283
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP FHDB" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB SP FHDB
@@ -5191,14 +5179,6 @@ http://elitex.me:80/82422w1258/w94824313619/10117674
 http://elitex.me:80/82422w1258/w94824313619/10117673
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US NBA TV (Y)" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/NBA%20TV.png" group-title="SPORTS WORLD",US NBA TV (Y)
 http://elitex.me:80/82422w1258/w94824313619/10117687
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT ELEVEN EXTRA 1 (D)" tvg-logo="https://googleplusimages.com/ELEVENSPORTS.png" group-title="SPORTS WORLD",PT ELEVEN EXTRA 1 (D)
-http://elitex.me:80/82422w1258/w94824313619/10117719
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT ELEVEN EXTRA 2 (D)" tvg-logo="https://googleplusimages.com/ELEVENSPORTS.png" group-title="SPORTS WORLD",PT ELEVEN EXTRA 2 (D)
-http://elitex.me:80/82422w1258/w94824313619/10117718
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT ELEVEN EXTRA 3 (D)" tvg-logo="https://googleplusimages.com/ELEVENSPORTS.png" group-title="SPORTS WORLD",PT ELEVEN EXTRA 3 (D)
-http://elitex.me:80/82422w1258/w94824313619/10117717
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT ELEVEN EXTRA 4 (D)" tvg-logo="https://googleplusimages.com/ELEVENSPORTS.png" group-title="SPORTS WORLD",PT ELEVEN EXTRA 4 (D)
-http://elitex.me:80/82422w1258/w94824313619/10117716
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT ELEVEN SPORTS 1" tvg-logo="https://googleplusimages.com/ELEVENSPORTS.png" group-title="SPORTS WORLD",PT ELEVEN SPORTS 1
 http://elitex.me:80/82422w1258/w94824313619/10040684
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT ELEVEN SPORTS 1 (D)" tvg-logo="https://googleplusimages.com/ELEVENSPORTS.png" group-title="SPORTS WORLD",PT ELEVEN SPORTS 1 (D)
