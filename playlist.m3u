@@ -1061,8 +1061,6 @@ http://elitex.me:80/82422w1258/w94824313619/10054424
 http://elitex.me:80/82422w1258/w94824313619/10054423
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV MANAUS SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV MANAUS SD*
 http://elitex.me:80/82422w1258/w94824313619/10054422
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="RECORDTV PORTUGAL" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV PORTUGAL
-http://elitex.me:80/82422w1258/w94824313619/1717
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/BAND.png" group-title="BAND",BAND FHD
 http://elitex.me:80/82422w1258/w94824313619/6285
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/BAND.png" group-title="BAND",BAND SP FHD*
@@ -1243,8 +1241,6 @@ http://elitex.me:80/82422w1258/w94824313619/4914
 http://elitex.me:80/82422w1258/w94824313619/10027024
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV GAZETA SDB" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/TV%20GAZETA.png" group-title="ABERTOS",TV GAZETA SDB
 http://elitex.me:80/82422w1258/w94824313619/10047212
-#EXTINF:-1 tvg-id="TvDiario.br" tvg-name="TV DIARIO FORTALEZA FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/TVDIARIO.png" group-title="ABERTOS",TV DIARIO FORTALEZA FHD
-http://elitex.me:80/82422w1258/w94824313619/17262
 #EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV DIARIO FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/TVDIARIO.png" group-title="ABERTOS",TV DIARIO FHD*
 http://elitex.me:80/82422w1258/w94824313619/10055098
 #EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV DIARIO FHD H265*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/TVDIARIO.png" group-title="ABERTOS",TV DIARIO FHD H265*
@@ -2401,8 +2397,6 @@ http://elitex.me:80/82422w1258/w94824313619/10054932
 http://elitex.me:80/82422w1258/w94824313619/2762
 #EXTINF:-1 tvg-id="Syfy.br" tvg-name="USA HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/USA.png" group-title="ESTADOS UNIDOS",USA HD*
 http://elitex.me:80/82422w1258/w94824313619/10054335
-#EXTINF:-1 tvg-id="CW.(KWBA).Tucson,.AZ.us" tvg-name="NBC SPORTS BAY AREA" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/NBC%20SPORTS%20BAY%20AREA.png" group-title="ESTADOS UNIDOS",NBC SPORTS BAY AREA
-http://elitex.me:80/82422w1258/w94824313619/10179064
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC-WCVB" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/ABC.png" group-title="ESTADOS UNIDOS",ABC-WCVB
 http://elitex.me:80/82422w1258/w94824313619/10119419
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC-WSB" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/ABC.png" group-title="ESTADOS UNIDOS",ABC-WSB
@@ -2445,8 +2439,6 @@ http://elitex.me:80/82422w1258/w94824313619/10116348
 http://elitex.me:80/82422w1258/w94824313619/10116325
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC NY" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/ABC.png" group-title="ESTADOS UNIDOS",ABC NY
 http://elitex.me:80/82422w1258/w94824313619/10116338
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ACC NETWORK" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/ACC%20NETWORK.png" group-title="ESTADOS UNIDOS",ACC NETWORK
-http://elitex.me:80/82422w1258/w94824313619/10116344
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ACCUWEATHER" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/ACCUWEATHER.png" group-title="ESTADOS UNIDOS",ACCUWEATHER
 http://elitex.me:80/82422w1258/w94824313619/10116340
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMC" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/AMC.png" group-title="ESTADOS UNIDOS",AMC
@@ -2455,16 +2447,12 @@ http://elitex.me:80/82422w1258/w94824313619/10116343
 http://elitex.me:80/82422w1258/w94824313619/10116337
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXS TV" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/AXS%20TV.png" group-title="ESTADOS UNIDOS",AXS TV
 http://elitex.me:80/82422w1258/w94824313619/10116341
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BABY FIRST" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/BABY%20FIRST.png" group-title="ESTADOS UNIDOS",BABY FIRST
-http://elitex.me:80/82422w1258/w94824313619/10116330
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC AMERICA" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/BBC%20AMERICA.png" group-title="ESTADOS UNIDOS",BBC AMERICA
 http://elitex.me:80/82422w1258/w94824313619/10116336
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BET" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/BET.png" group-title="ESTADOS UNIDOS",BET
 http://elitex.me:80/82422w1258/w94824313619/10116334
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BLOOMBERG TV" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/BLOOMBERG.png" group-title="ESTADOS UNIDOS",BLOOMBERG TV
 http://elitex.me:80/82422w1258/w94824313619/10116329
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BNC" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/BNC.png" group-title="ESTADOS UNIDOS",BNC
-http://elitex.me:80/82422w1258/w94824313619/10116332
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BOOMERANG" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/BOOMERANG.png" group-title="ESTADOS UNIDOS",BOOMERANG
 http://elitex.me:80/82422w1258/w94824313619/10116328
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BRAVO" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/BRAVO.png" group-title="ESTADOS UNIDOS",BRAVO
@@ -2563,8 +2551,6 @@ http://elitex.me:80/82422w1258/w94824313619/10116264
 http://elitex.me:80/82422w1258/w94824313619/10116263
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HLN" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/HLN.png" group-title="ESTADOS UNIDOS",HLN
 http://elitex.me:80/82422w1258/w94824313619/10116262
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HOME SHOPPING NETWORK" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/HOME%20SHOPPING%20NETWORK.png" group-title="ESTADOS UNIDOS",HOME SHOPPING NETWORK
-http://elitex.me:80/82422w1258/w94824313619/10116259
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IFC" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/IFC.png" group-title="ESTADOS UNIDOS",IFC
 http://elitex.me:80/82422w1258/w94824313619/10116258
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="INVESTIGATION DISCOVERY" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/ID.png" group-title="ESTADOS UNIDOS",INVESTIGATION DISCOVERY
@@ -2615,10 +2601,6 @@ http://elitex.me:80/82422w1258/w94824313619/10116200
 http://elitex.me:80/82422w1258/w94824313619/10116177
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SCIENCE" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/DISCOVERYSCIENCE.png" group-title="ESTADOS UNIDOS",SCIENCE
 http://elitex.me:80/82422w1258/w94824313619/10116172
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SEC NETWORK" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/SEC%20NETWORK.png" group-title="ESTADOS UNIDOS",SEC NETWORK
-http://elitex.me:80/82422w1258/w94824313619/10116173
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SHORTS TV HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/SHORTS%20TV.png" group-title="ESTADOS UNIDOS",SHORTS TV HD
-http://elitex.me:80/82422w1258/w94824313619/10116170
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SHOWTIME" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/SHOWTIME.png" group-title="ESTADOS UNIDOS",SHOWTIME
 http://elitex.me:80/82422w1258/w94824313619/10116169
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SHOWTIME 2" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/SHOWTIME%202.png" group-title="ESTADOS UNIDOS",SHOWTIME 2
@@ -2633,8 +2615,6 @@ http://elitex.me:80/82422w1258/w94824313619/10116158
 http://elitex.me:80/82422w1258/w94824313619/10116157
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SYFY" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/SYFY.png" group-title="ESTADOS UNIDOS",SYFY
 http://elitex.me:80/82422w1258/w94824313619/10116156
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TASTEMADE" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/TASTEMADE.png" group-title="ESTADOS UNIDOS",TASTEMADE
-http://elitex.me:80/82422w1258/w94824313619/10116148
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TBS" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/TBS.png" group-title="ESTADOS UNIDOS",TBS
 http://elitex.me:80/82422w1258/w94824313619/10116155
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TCM" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/tcm.png" group-title="ESTADOS UNIDOS",TCM
@@ -2655,8 +2635,6 @@ http://elitex.me:80/82422w1258/w94824313619/10116133
 http://elitex.me:80/82422w1258/w94824313619/10116151
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV LAND" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/LAND.png" group-title="ESTADOS UNIDOS",TV LAND
 http://elitex.me:80/82422w1258/w94824313619/10116150
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV ONE" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/TV%20ONE.png" group-title="ESTADOS UNIDOS",TV ONE
-http://elitex.me:80/82422w1258/w94824313619/10116149
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIMAS WEST HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/UNIMAS%20WEST.png" group-title="ESTADOS UNIDOS",UNIMAS WEST HD
 http://elitex.me:80/82422w1258/w94824313619/10116142
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVERSAL KIDS" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/UNIVERSAL%20KIDS.png" group-title="ESTADOS UNIDOS",UNIVERSAL KIDS
@@ -3057,16 +3035,12 @@ http://elitex.me:80/82422w1258/w94824313619/10054344
 http://elitex.me:80/82422w1258/w94824313619/250
 #EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/STAR%20LIFE.png" group-title="FILMES E SERIES",STAR LIFE HD*
 http://elitex.me:80/82422w1258/w94824313619/10054343
-#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE HD²" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/STAR%20LIFE.png" group-title="FILMES E SERIES",STAR LIFE HD²
-http://elitex.me:80/82422w1258/w94824313619/17127
 #EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/STAR%20LIFE.png" group-title="FILMES E SERIES",STAR LIFE SD
 http://elitex.me:80/82422w1258/w94824313619/251
 #EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/STAR%20LIFE.png" group-title="FILMES E SERIES",STAR LIFE SD*
 http://elitex.me:80/82422w1258/w94824313619/10054342
 #EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE SDᴮᴿ" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/STAR%20LIFE.png" group-title="FILMES E SERIES",STAR LIFE SDᴮᴿ
 http://elitex.me:80/82422w1258/w94824313619/10047315
-#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 HD²" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/STAR%20HITS%202.png" group-title="FILMES E SERIES",STAR HITS 2 HD²
-http://elitex.me:80/82422w1258/w94824313619/17129
 #EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/F.X.png" group-title="FILMES E SERIES",FX FHD
 http://elitex.me:80/82422w1258/w94824313619/9617
 #EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/F.X.png" group-title="FILMES E SERIES",FX FHD*
@@ -4557,8 +4531,6 @@ http://elitex.me:80/82422w1258/w94824313619/10054168
 http://elitex.me:80/82422w1258/w94824313619/10054167
 #EXTINF:-1 tvg-id="TvDiario.br" tvg-name="TV DIARIO FORTALEZA FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/TVDIARIO.png" group-title="4K E FHDR",TV DIARIO FORTALEZA FHD
 http://elitex.me:80/82422w1258/w94824313619/10054161
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="TV UNIAO FHDR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/tvUNIAO.png" group-title="4K E FHDR",TV UNIAO FHDR
-http://elitex.me:80/82422w1258/w94824313619/10054157
 #EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL 4K" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/UNIVERSALTV.png" group-title="4K E FHDR",UNIVERSAL 4K
 http://elitex.me:80/82422w1258/w94824313619/10048424
 #EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL FHDR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/UNIVERSALTV.png" group-title="4K E FHDR",UNIVERSAL FHDR
@@ -4601,8 +4573,6 @@ http://elitex.me:80/82422w1258/w94824313619/10117739
 http://elitex.me:80/82422w1258/w94824313619/10117738
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: ABC SPARK" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/ABC.SPARK.png" group-title="CANADA",CA: ABC SPARK
 http://elitex.me:80/82422w1258/w94824313619/10116030
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: ADULT SWIM" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/ADULT.SWIM.png" group-title="CANADA",CA: ADULT SWIM
-http://elitex.me:80/82422w1258/w94824313619/10116029
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: AMC" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/AMC.png" group-title="CANADA",CA: AMC
 http://elitex.me:80/82422w1258/w94824313619/10116027
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: AMI-TÉLÉ" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/AMI.TELE.png" group-title="CANADA",CA: AMI-TÉLÉ
@@ -4695,28 +4665,16 @@ http://elitex.me:80/82422w1258/w94824313619/10115966
 http://elitex.me:80/82422w1258/w94824313619/10115965
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: LIFETIME" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/LIFETIME.png" group-title="CANADA",CA: LIFETIME
 http://elitex.me:80/82422w1258/w94824313619/10115962
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: MAKEFUL" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/CA%20MAKEFUL.jpeg" group-title="CANADA",CA: MAKEFUL
-http://elitex.me:80/82422w1258/w94824313619/10115961
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: MOVIETIME" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/MOVIETIME.png" group-title="CANADA",CA: MOVIETIME
-http://elitex.me:80/82422w1258/w94824313619/10115959
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: MTV" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/MTV.png" group-title="CANADA",CA: MTV
-http://elitex.me:80/82422w1258/w94824313619/10115958
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: MUCH" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/CA%20MUCH.png" group-title="CANADA",CA: MUCH
-http://elitex.me:80/82422w1258/w94824313619/10115957
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: NAT GEO" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/NATGEO.png" group-title="CANADA",CA: NAT GEO
 http://elitex.me:80/82422w1258/w94824313619/10115955
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: NBA TV" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/NBA%20TV.png" group-title="CANADA",CA: NBA TV
 http://elitex.me:80/82422w1258/w94824313619/10115952
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: NFL NET" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/NFL.png" group-title="CANADA",CA: NFL NET
-http://elitex.me:80/82422w1258/w94824313619/10115951
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: NICK" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/NICKELODEON.png" group-title="CANADA",CA: NICK
 http://elitex.me:80/82422w1258/w94824313619/10116112
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: OLN" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/OLN.png" group-title="CANADA",CA: OLN
 http://elitex.me:80/82422w1258/w94824313619/10116111
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: OMNI1" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/CA.OMNI1.png" group-title="CANADA",CA: OMNI1
 http://elitex.me:80/82422w1258/w94824313619/10116110
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: SHOWCASE" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/CA%20SHOWCASE.png" group-title="CANADA",CA: SHOWCASE
-http://elitex.me:80/82422w1258/w94824313619/10116104
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: SLICE" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/CA%20SLICE.png" group-title="CANADA",CA: SLICE
 http://elitex.me:80/82422w1258/w94824313619/10116102
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: SMITH" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/CA%20SMITH.png" group-title="CANADA",CA: SMITH
@@ -4749,20 +4707,10 @@ http://elitex.me:80/82422w1258/w94824313619/10116042
 http://elitex.me:80/82422w1258/w94824313619/10116041
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: W" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/CA%20W.png" group-title="CANADA",CA: W
 http://elitex.me:80/82422w1258/w94824313619/10116036
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: WW" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/CA%20WW.png" group-title="CANADA",CA: WW
-http://elitex.me:80/82422w1258/w94824313619/10116035
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: YTV" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/CA%20YTV.png" group-title="CANADA",CA: YTV
 http://elitex.me:80/82422w1258/w94824313619/10116034
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK CHANNEL 4" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/UK%20CHANNEL%204.png" group-title="EUROPA",UK CHANNEL 4
 http://elitex.me:80/82422w1258/w94824313619/10119440
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LAT:  TLC" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/TLC.png" group-title="LATINOS",LAT:  TLC
-http://elitex.me:80/82422w1258/w94824313619/10116401
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LAT: ETC TV" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/LAT%20ETC%20TV.png" group-title="LATINOS",LAT: ETC TV
-http://elitex.me:80/82422w1258/w94824313619/10116375
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LAT: FX" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/F.X.png" group-title="LATINOS",LAT: FX
-http://elitex.me:80/82422w1258/w94824313619/10116433
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LAT: WARNER" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/WARNERCHANNEL.png" group-title="LATINOS",LAT: WARNER
-http://elitex.me:80/82422w1258/w94824313619/10116395
 #EXTINF:-1 tvg-id="TVIReality.pt" tvg-name="PT TVI REALITY CAM 1" tvg-logo="https://googleplusimages.com/TVIREALITY.png" group-title="PORTUGAL",PT TVI REALITY CAM 1
 http://elitex.me:80/82422w1258/w94824313619/10119454
 #EXTINF:-1 tvg-id="NationalGeographic.pt" tvg-name="PT NAT GEO WILD" tvg-logo="https://googleplusimages.com/NATGEO.png" group-title="PORTUGAL",PT NAT GEO WILD
@@ -5051,74 +4999,12 @@ http://elitex.me:80/82422w1258/w94824313619/10116458
 http://elitex.me:80/82422w1258/w94824313619/10116457
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL GAME PASS 10*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/NFL.GAME.PASS.png" group-title="SPORTS WORLD",NFL GAME PASS 10*
 http://elitex.me:80/82422w1258/w94824313619/10116456
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US NFL ARIZONA CARDINALS" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/US%20NFL%20ARIZONA%20CARDINALS.png" group-title="SPORTS WORLD",US NFL ARIZONA CARDINALS
-http://elitex.me:80/82422w1258/w94824313619/10117663
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US NFL ATLANTA FALCONS" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/US%20NFL%20ATLANTA%20FALCONS.png" group-title="SPORTS WORLD",US NFL ATLANTA FALCONS
-http://elitex.me:80/82422w1258/w94824313619/10117656
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US NFL BALTIMORE RAVENS" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/US%20NFL%20BALTIMORE%20RAVENS.png" group-title="SPORTS WORLD",US NFL BALTIMORE RAVENS
-http://elitex.me:80/82422w1258/w94824313619/10117646
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US NFL CAROLINA PANTHERS" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/US%20NFL%20CAROLINA%20PANTHERS.png" group-title="SPORTS WORLD",US NFL CAROLINA PANTHERS
-http://elitex.me:80/82422w1258/w94824313619/10117650
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US NFL CHANNEL (PC)" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/US%20NFL%20CHANNEL%20%28PC%29.png" group-title="SPORTS WORLD",US NFL CHANNEL (PC)
 http://elitex.me:80/82422w1258/w94824313619/10117689
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US NFL CHICAGO BEARS" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/US%20NFL%20CHICAGO%20BEARS.png" group-title="SPORTS WORLD",US NFL CHICAGO BEARS
-http://elitex.me:80/82422w1258/w94824313619/10117669
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US NFL CINCINNATI BENGALS" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/US%20NFL%20CINCINNATI%20BENGALS.png" group-title="SPORTS WORLD",US NFL CINCINNATI BENGALS
-http://elitex.me:80/82422w1258/w94824313619/10117668
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US NFL CLEVELAND BROWNS" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/US%20NFL%20CLEVELAND%20BROWNS.png" group-title="SPORTS WORLD",US NFL CLEVELAND BROWNS
-http://elitex.me:80/82422w1258/w94824313619/10117665
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US NFL DALLAS COWBOYS" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/US%20NFL%20DALLAS%20COWBOYS.png" group-title="SPORTS WORLD",US NFL DALLAS COWBOYS
-http://elitex.me:80/82422w1258/w94824313619/10117659
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US NFL DENVER BRONCOS" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/US%20NFL%20DENVER%20BRONCOS.png" group-title="SPORTS WORLD",US NFL DENVER BRONCOS
-http://elitex.me:80/82422w1258/w94824313619/10117666
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US NFL DETROIT LIONS" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/US%20NFL%20DETROIT%20LIONS.png" group-title="SPORTS WORLD",US NFL DETROIT LIONS
-http://elitex.me:80/82422w1258/w94824313619/10117652
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US NFL GREEN BAY PACKERS" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/US%20NFL%20GREEN%20BAY%20PACKERS.png" group-title="SPORTS WORLD",US NFL GREEN BAY PACKERS
-http://elitex.me:80/82422w1258/w94824313619/10117651
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US NFL HOUSTON TEXANS" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/US%20NFL%20HOUSTON%20TEXANS.png" group-title="SPORTS WORLD",US NFL HOUSTON TEXANS
-http://elitex.me:80/82422w1258/w94824313619/10117641
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US NFL INDIANAPOLIS COLTS" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/US%20NFL%20INDIANAPOLIS%20COLTS.png" group-title="SPORTS WORLD",US NFL INDIANAPOLIS COLTS
-http://elitex.me:80/82422w1258/w94824313619/10117660
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US NFL JACKSONVILLE JAGUARS" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/US%20NFL%20JACKSONVILLE%20JAGUARS.png" group-title="SPORTS WORLD",US NFL JACKSONVILLE JAGUARS
-http://elitex.me:80/82422w1258/w94824313619/10117654
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US NFL KANSAS CITY CHIEFS" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/US%20NFL%20KANSAS%20CITY%20CHIEFS.png" group-title="SPORTS WORLD",US NFL KANSAS CITY CHIEFS
-http://elitex.me:80/82422w1258/w94824313619/10117661
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US NFL LOS ANGELES CHARGERS" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/US%20NFL%20LOS%20ANGELES%20CHARGERS.png" group-title="SPORTS WORLD",US NFL LOS ANGELES CHARGERS
-http://elitex.me:80/82422w1258/w94824313619/10117662
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US NFL LOS ANGELES RAMS" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/US%20NFL%20LOS%20ANGELES%20RAMS.png" group-title="SPORTS WORLD",US NFL LOS ANGELES RAMS
-http://elitex.me:80/82422w1258/w94824313619/10117647
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US NFL MIAMI DOLPHINS" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/US%20NFL%20MIAMI%20DOLPHINS.png" group-title="SPORTS WORLD",US NFL MIAMI DOLPHINS
-http://elitex.me:80/82422w1258/w94824313619/10117658
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US NFL MINNESOTA VIKINGS" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/US%20NFL%20MINNESOTA%20VIKINGS.png" group-title="SPORTS WORLD",US NFL MINNESOTA VIKINGS
-http://elitex.me:80/82422w1258/w94824313619/10117639
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US NFL NETWORK (Y)" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/US%20NFL%20NETWORK%20%28Y%29.png" group-title="SPORTS WORLD",US NFL NETWORK (Y)
 http://elitex.me:80/82422w1258/w94824313619/10117686
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US NFL NEW ENGLAND PATRIOTS" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/US%20NFL%20NEW%20ENGLAND%20PATRIOTS.png" group-title="SPORTS WORLD",US NFL NEW ENGLAND PATRIOTS
-http://elitex.me:80/82422w1258/w94824313619/10117649
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US NFL NEW ORLEANS SAINTS" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/US%20NFL%20NEW%20ORLEANS%20SAINTS.png" group-title="SPORTS WORLD",US NFL NEW ORLEANS SAINTS
-http://elitex.me:80/82422w1258/w94824313619/10117644
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US NFL NEW YORK GIANTS" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/US%20NFL%20NEW%20YORK%20GIANTS.png" group-title="SPORTS WORLD",US NFL NEW YORK GIANTS
-http://elitex.me:80/82422w1258/w94824313619/10117655
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US NFL NEW YORK JETS" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/US%20NFL%20NEW%20YORK%20JETS.png" group-title="SPORTS WORLD",US NFL NEW YORK JETS
-http://elitex.me:80/82422w1258/w94824313619/10117653
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US NFL PHILADELPHIA EAGLES" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/US%20NFL%20PHILADELPHIA%20EAGLES.png" group-title="SPORTS WORLD",US NFL PHILADELPHIA EAGLES
-http://elitex.me:80/82422w1258/w94824313619/10117657
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US NFL PITTSBURGH STEELERS (FFD)" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/US%20NFL%20PITTSBURGH%20STEELERS%20%28FFD%29.png" group-title="SPORTS WORLD",US NFL PITTSBURGH STEELERS (FFD)
-http://elitex.me:80/82422w1258/w94824313619/10117642
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US NFL REDZONE (Y)" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/US%20NFL%20REDZONE%20%28Y%29.png" group-title="SPORTS WORLD",US NFL REDZONE (Y)
 http://elitex.me:80/82422w1258/w94824313619/10117685
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US NFL SAN FRANCISCO 49ERS" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/US%20NFL%20SAN%20FRANCISCO%2049ERS.png" group-title="SPORTS WORLD",US NFL SAN FRANCISCO 49ERS
-http://elitex.me:80/82422w1258/w94824313619/10117670
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US NFL SEATTLE SEAHAWKS" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/US%20NFL%20SEATTLE%20SEAHAWKS.png" group-title="SPORTS WORLD",US NFL SEATTLE SEAHAWKS
-http://elitex.me:80/82422w1258/w94824313619/10117643
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US NFL TAMPA BAY BUCCANEERS" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/US%20NFL%20TAMPA%20BAY%20BUCCANEERS.png" group-title="SPORTS WORLD",US NFL TAMPA BAY BUCCANEERS
-http://elitex.me:80/82422w1258/w94824313619/10117664
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US NFL TENNESSEE TITANS" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/US%20NFL%20TENNESSEE%20TITANS.png" group-title="SPORTS WORLD",US NFL TENNESSEE TITANS
-http://elitex.me:80/82422w1258/w94824313619/10117640
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US NFL WASHINGTON COMMANDERS" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/US%20NFL%20WASHINGTON%20COMMANDERS.png" group-title="SPORTS WORLD",US NFL WASHINGTON COMMANDERS
-http://elitex.me:80/82422w1258/w94824313619/10117645
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US NFL-RAIDERS FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/US%20NFL-RAIDERS%20FHD.png" group-title="SPORTS WORLD",US NFL-RAIDERS FHD
-http://elitex.me:80/82422w1258/w94824313619/10117648
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA LEAGUE PASS 01*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/NBALEAGUEPASS.png" group-title="SPORTS WORLD",NBA LEAGUE PASS 01*
 http://elitex.me:80/82422w1258/w94824313619/10116475
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA LEAGUE PASS 02*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/NBALEAGUEPASS.png" group-title="SPORTS WORLD",NBA LEAGUE PASS 02*
@@ -5211,8 +5097,6 @@ http://elitex.me:80/82422w1258/w94824313619/10117707
 http://elitex.me:80/82422w1258/w94824313619/10117706
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT SPORT TV3 (D)" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="SPORTS WORLD",PT SPORT TV3 (D)
 http://elitex.me:80/82422w1258/w94824313619/10117705
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT SPORT TV4 (D)" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="SPORTS WORLD",PT SPORT TV4 (D)
-http://elitex.me:80/82422w1258/w94824313619/10117704
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT SPORT TV5 (D)" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="SPORTS WORLD",PT SPORT TV5 (D)
 http://elitex.me:80/82422w1258/w94824313619/10117703
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT SPORTING TV" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="SPORTS WORLD",PT SPORTING TV
