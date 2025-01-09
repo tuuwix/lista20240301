@@ -2425,8 +2425,6 @@ http://elitex.me:80/82422w1258/w94824313619/10117726
 http://elitex.me:80/82422w1258/w94824313619/10117725
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US NBC 6 (WTVJ) MIAMI (A)" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/US%20NBC%206%20%28WTVJ%29%20MIAMI%20%28A%29.png" group-title="ESTADOS UNIDOS",US NBC 6 (WTVJ) MIAMI (A)
 http://elitex.me:80/82422w1258/w94824313619/10117724
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US UNIMAS 68 (WFUT) NEW YORK (Y)" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/US%20UNIMAS%2068%20%28WFUT%29%20NEW%20YORK%20%28Y%29.png" group-title="ESTADOS UNIDOS",US UNIMAS 68 (WFUT) NEW YORK (Y)
-http://elitex.me:80/82422w1258/w94824313619/10117722
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US NEWS 12 NEW JERSEY" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/NEWS%2012%20NJ.png" group-title="ESTADOS UNIDOS",US NEWS 12 NEW JERSEY
 http://elitex.me:80/82422w1258/w94824313619/10117720
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A&E" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/A%26E.png" group-title="ESTADOS UNIDOS",A&E
@@ -2499,8 +2497,6 @@ http://elitex.me:80/82422w1258/w94824313619/10116294
 http://elitex.me:80/82422w1258/w94824313619/10116293
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="E!" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/E%21.png" group-title="ESTADOS UNIDOS",E!
 http://elitex.me:80/82422w1258/w94824313619/10116292
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPIX 2" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/EPIX%202.png" group-title="ESTADOS UNIDOS",EPIX 2
-http://elitex.me:80/82422w1258/w94824313619/10116286
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPIX HITS" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/EPIX%20HITS.png" group-title="ESTADOS UNIDOS",EPIX HITS
 http://elitex.me:80/82422w1258/w94824313619/10116285
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/espn.png" group-title="ESTADOS UNIDOS",ESPN
@@ -2699,8 +2695,6 @@ http://elitex.me:80/82422w1258/w94824313619/10116123
 http://elitex.me:80/82422w1258/w94824313619/10068453
 #EXTINF:-1 tvg-id="Epg.br" tvg-name="GOLF CHANNEL USA" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/US%20NBC%20GOLF.png" group-title="ESTADOS UNIDOS",GOLF CHANNEL USA
 http://elitex.me:80/82422w1258/w94824313619/10045400
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BALLY SPORTS FLORIDA" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/BALLY%20SPORTS%20FLORIDA.png" group-title="ESTADOS UNIDOS",BALLY SPORTS FLORIDA
-http://elitex.me:80/82422w1258/w94824313619/10179063
 #EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/HBO.png" group-title="REDE HBO",HBO FHD
 http://elitex.me:80/82422w1258/w94824313619/5541
 #EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/HBO.png" group-title="REDE HBO",HBO FHD*
@@ -4267,12 +4261,8 @@ http://elitex.me:80/82422w1258/w94824313619/10054396
 http://elitex.me:80/82422w1258/w94824313619/10045958
 #EXTINF:-1 tvg-id="Boavontadetv.br" tvg-name="BOA VONTADE TV SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/BOA%20VONTADE.png" group-title="RELIGIOSOS",BOA VONTADE TV SD*
 http://elitex.me:80/82422w1258/w94824313619/10054959
-#EXTINF:-1 tvg-id="Cnt.br" tvg-name="CNT" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/CNT.png" group-title="RELIGIOSOS",CNT
-http://elitex.me:80/82422w1258/w94824313619/10035610
 #EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="IHOP - INTERNATIONAL HOUSE OF PRAYER" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/IHOP%20-%20INTERNATIONAL%20HOUSE%20OF%20PRAYER.png" group-title="RELIGIOSOS",IHOP - INTERNATIONAL HOUSE OF PRAYER
 http://elitex.me:80/82422w1258/w94824313619/10040643
-#EXTINF:-1 tvg-id="NaoDisponivel.br" tvg-name="TV GIDEÕES" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/TV%20GIDE%C3%95ES.png" group-title="RELIGIOSOS",TV GIDEÕES
-http://elitex.me:80/82422w1258/w94824313619/10040645
 #EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="TV FRONTEIRA" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/TV%20FRONTEIRA.png" group-title="RELIGIOSOS",TV FRONTEIRA
 http://elitex.me:80/82422w1258/w94824313619/10040651
 #EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="TV OURO NEGRO" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/TV%20OURO%20NEGRO.png" group-title="RELIGIOSOS",TV OURO NEGRO
@@ -4283,8 +4273,6 @@ http://elitex.me:80/82422w1258/w94824313619/10040660
 http://elitex.me:80/82422w1258/w94824313619/10040661
 #EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="TV MUNDO MAIOR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/TV%20MUNDO%20MAIOR.png" group-title="RELIGIOSOS",TV MUNDO MAIOR
 http://elitex.me:80/82422w1258/w94824313619/10068470
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="REDE GENESIS" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/REDE%20GENESIS.png" group-title="RELIGIOSOS",REDE GENESIS
-http://elitex.me:80/82422w1258/w94824313619/10068469
 #EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="ELITE EVANGELICO 24H" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/elite%20evangelico.png" group-title="RELIGIOSOS",ELITE EVANGELICO 24H
 http://elitex.me:80/82422w1258/w94824313619/10034287
 #EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="JOSE DO EGITO 24H" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/Josedoegito.png" group-title="RELIGIOSOS",JOSE DO EGITO 24H
@@ -4575,14 +4563,10 @@ http://elitex.me:80/82422w1258/w94824313619/10117738
 http://elitex.me:80/82422w1258/w94824313619/10116030
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: AMC" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/AMC.png" group-title="CANADA",CA: AMC
 http://elitex.me:80/82422w1258/w94824313619/10116027
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: AMI-TÉLÉ" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/AMI.TELE.png" group-title="CANADA",CA: AMI-TÉLÉ
-http://elitex.me:80/82422w1258/w94824313619/10116026
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: ANIMAL" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/ANIMALPLANET.png" group-title="CANADA",CA: ANIMAL
 http://elitex.me:80/82422w1258/w94824313619/10116023
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: APTN" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/APT.N.png" group-title="CANADA",CA: APTN
 http://elitex.me:80/82422w1258/w94824313619/10116022
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: BBC EARTH" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/BBC%20EARTH.png" group-title="CANADA",CA: BBC EARTH
-http://elitex.me:80/82422w1258/w94824313619/10116019
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: BBC WORLD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/CA%20BBC%20WORLD.png" group-title="CANADA",CA: BBC WORLD
 http://elitex.me:80/82422w1258/w94824313619/10116018
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: BNN" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/BNN.png" group-title="CANADA",CA: BNN
@@ -4999,8 +4983,6 @@ http://elitex.me:80/82422w1258/w94824313619/10116458
 http://elitex.me:80/82422w1258/w94824313619/10116457
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL GAME PASS 10*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/NFL.GAME.PASS.png" group-title="SPORTS WORLD",NFL GAME PASS 10*
 http://elitex.me:80/82422w1258/w94824313619/10116456
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US NFL CHANNEL (PC)" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/US%20NFL%20CHANNEL%20%28PC%29.png" group-title="SPORTS WORLD",US NFL CHANNEL (PC)
-http://elitex.me:80/82422w1258/w94824313619/10117689
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US NFL NETWORK (Y)" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/US%20NFL%20NETWORK%20%28Y%29.png" group-title="SPORTS WORLD",US NFL NETWORK (Y)
 http://elitex.me:80/82422w1258/w94824313619/10117686
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US NFL REDZONE (Y)" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/US%20NFL%20REDZONE%20%28Y%29.png" group-title="SPORTS WORLD",US NFL REDZONE (Y)
