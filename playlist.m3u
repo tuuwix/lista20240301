@@ -3033,8 +3033,6 @@ http://elitex.me:80/82422w1258/w94824313619/10054343
 http://elitex.me:80/82422w1258/w94824313619/251
 #EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/STAR%20LIFE.png" group-title="FILMES E SERIES",STAR LIFE SD*
 http://elitex.me:80/82422w1258/w94824313619/10054342
-#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE SDᴮᴿ" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/STAR%20LIFE.png" group-title="FILMES E SERIES",STAR LIFE SDᴮᴿ
-http://elitex.me:80/82422w1258/w94824313619/10047315
 #EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/F.X.png" group-title="FILMES E SERIES",FX FHD
 http://elitex.me:80/82422w1258/w94824313619/9617
 #EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/F.X.png" group-title="FILMES E SERIES",FX FHD*
@@ -4267,12 +4265,8 @@ http://elitex.me:80/82422w1258/w94824313619/10040643
 http://elitex.me:80/82422w1258/w94824313619/10040651
 #EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="TV OURO NEGRO" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/TV%20OURO%20NEGRO.png" group-title="RELIGIOSOS",TV OURO NEGRO
 http://elitex.me:80/82422w1258/w94824313619/10040657
-#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="TV AVIVANDO NACOES" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/TV%20AVIVANDO%20NACOES.png" group-title="RELIGIOSOS",TV AVIVANDO NACOES
-http://elitex.me:80/82422w1258/w94824313619/10040660
 #EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="CANAL PROMESSAS" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/Promessa.png" group-title="RELIGIOSOS",CANAL PROMESSAS
 http://elitex.me:80/82422w1258/w94824313619/10040661
-#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="TV MUNDO MAIOR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/TV%20MUNDO%20MAIOR.png" group-title="RELIGIOSOS",TV MUNDO MAIOR
-http://elitex.me:80/82422w1258/w94824313619/10068470
 #EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="ELITE EVANGELICO 24H" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/elite%20evangelico.png" group-title="RELIGIOSOS",ELITE EVANGELICO 24H
 http://elitex.me:80/82422w1258/w94824313619/10034287
 #EXTINF:-1 tvg-id="24HEspecial.br" tvg-name="JOSE DO EGITO 24H" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/Josedoegito.png" group-title="RELIGIOSOS",JOSE DO EGITO 24H
@@ -4653,8 +4647,6 @@ http://elitex.me:80/82422w1258/w94824313619/10115955
 http://elitex.me:80/82422w1258/w94824313619/10115952
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: NICK" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/NICKELODEON.png" group-title="CANADA",CA: NICK
 http://elitex.me:80/82422w1258/w94824313619/10116112
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: OLN" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/OLN.png" group-title="CANADA",CA: OLN
-http://elitex.me:80/82422w1258/w94824313619/10116111
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: OMNI1" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/CA.OMNI1.png" group-title="CANADA",CA: OMNI1
 http://elitex.me:80/82422w1258/w94824313619/10116110
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: SLICE" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/CA%20SLICE.png" group-title="CANADA",CA: SLICE
@@ -5115,3 +5107,11 @@ http://elitex.me:80/82422w1258/w94824313619/10117688
 http://elitex.me:80/82422w1258/w94824313619/10117684
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US TENNIS CHANNEL (Y)" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/TENNIS%20CHANNEL.png" group-title="SPORTS WORLD",US TENNIS CHANNEL (Y)
 http://elitex.me:80/82422w1258/w94824313619/10117683
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK: SKYSPORTS F1" tvg-logo="" group-title="SPORTS WORLD",UK: SKYSPORTS F1
+http://elitex.me:80/82422w1258/w94824313619/10201745
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: SKY SPORTS F1" tvg-logo="" group-title="SPORTS WORLD",DE: SKY SPORTS F1
+http://elitex.me:80/82422w1258/w94824313619/10201744
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IT: SKY SPORTS F1" tvg-logo="" group-title="SPORTS WORLD",IT: SKY SPORTS F1
+http://elitex.me:80/82422w1258/w94824313619/10201743
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: MOVISTAR F1" tvg-logo="" group-title="SPORTS WORLD",ES: MOVISTAR F1
+http://elitex.me:80/82422w1258/w94824313619/10201741
