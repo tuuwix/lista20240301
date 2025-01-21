@@ -1361,8 +1361,6 @@ http://jhstv.top:80/82422w1258/w94824313619/10068473
 http://jhstv.top:80/82422w1258/w94824313619/10068465
 #EXTINF:-1 tvg-id="Epg.br" tvg-name="SESC TV" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/SESC%20TV.png" group-title="ABERTOS",SESC TV
 http://jhstv.top:80/82422w1258/w94824313619/10068464
-#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="URBAN TV" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/URBAN%20TV.png" group-title="ABERTOS",URBAN TV
-http://jhstv.top:80/82422w1258/w94824313619/10068451
 #EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="COM BRASIL SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/COM%20BRASIL.png" group-title="ABERTOS",COM BRASIL SD
 http://jhstv.top:80/82422w1258/w94824313619/10068447
 #EXTINF:-1 tvg-id="NaoDisponivel.br" tvg-name="SHOPTIME" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/SHOPTIME.png" group-title="ABERTOS",SHOPTIME
@@ -1935,10 +1933,6 @@ http://jhstv.top:80/82422w1258/w94824313619/10150673
 http://jhstv.top:80/82422w1258/w94824313619/10150628
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIQUE SPORTS" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/UNIQUE%20SPORTS.png" group-title="ESPORTES PAYPERVIEW",UNIQUE SPORTS
 http://jhstv.top:80/82422w1258/w94824313619/10150672
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZAPPING SPORTS" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/ZAPPING%20SPORTS.png" group-title="ESPORTES PAYPERVIEW",ZAPPING SPORTS
-http://jhstv.top:80/82422w1258/w94824313619/10150615
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZAPPING SPORTS*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/ZAPPING%20SPORTS.png" group-title="ESPORTES PAYPERVIEW",ZAPPING SPORTS*
-http://jhstv.top:80/82422w1258/w94824313619/10150614
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BJJ STARS FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/BJJ.STARS.png" group-title="UFC | BJJ PPV",BJJ STARS FHD
 http://jhstv.top:80/82422w1258/w94824313619/10150668
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BJJ STARS HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/BJJ.STARS.png" group-title="UFC | BJJ PPV",BJJ STARS HD
@@ -2531,8 +2525,6 @@ http://jhstv.top:80/82422w1258/w94824313619/10116348
 http://jhstv.top:80/82422w1258/w94824313619/10116325
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC NEW YORK 7 WABC" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/ABC.png" group-title="ESTADOS UNIDOS",ABC NEW YORK 7 WABC
 http://jhstv.top:80/82422w1258/w94824313619/10116338
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ACCUWEATHER" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/ACCUWEATHER.png" group-title="ESTADOS UNIDOS",ACCUWEATHER
-http://jhstv.top:80/82422w1258/w94824313619/10116340
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMC" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/AMC.png" group-title="ESTADOS UNIDOS",AMC
 http://jhstv.top:80/82422w1258/w94824313619/10116343
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANIMAL PLANET" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/ANIMALPLANET.png" group-title="ESTADOS UNIDOS",ANIMAL PLANET
@@ -3567,8 +3559,6 @@ http://jhstv.top:80/82422w1258/w94824313619/10055113
 http://jhstv.top:80/82422w1258/w94824313619/10055112
 #EXTINF:-1 tvg-id="Travelbox.br" tvg-name="TRAVEL BOX BRAZIL SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/TRAVEL%20BOX%20BRAZIL.png" group-title="VARIEDADES",TRAVEL BOX BRAZIL SD*
 http://jhstv.top:80/82422w1258/w94824313619/10055111
-#EXTINF:-1 tvg-id="ChefTV.br" tvg-name="CHEF TV" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/CHEF.TV.png" group-title="VARIEDADES",CHEF TV
-http://jhstv.top:80/82422w1258/w94824313619/10041058
 #EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/ARTE1.png" group-title="VARIEDADES",ARTE 1 FHD
 http://jhstv.top:80/82422w1258/w94824313619/9647
 #EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/ARTE1.png" group-title="VARIEDADES",ARTE 1 FHD*
