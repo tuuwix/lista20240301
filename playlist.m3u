@@ -2513,20 +2513,6 @@ http://jhstv.top:80/82422w1258/adsad45457520/9568
 http://jhstv.top:80/82422w1258/adsad45457520/10054934
 #EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY SD LEG" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/SONYCHANNEL.png" group-title="CANAIS LEGENDADOS",CANAL SONY SD LEG
 http://jhstv.top:80/82422w1258/adsad45457520/9569
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL HD LEG" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/STAR%20CHANNEL.png" group-title="CANAIS LEGENDADOS",STAR CHANNEL HD LEG
-http://jhstv.top:80/82422w1258/adsad45457520/9563
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL HD [LEG]*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/STAR%20CHANNEL.png" group-title="CANAIS LEGENDADOS",STAR CHANNEL HD [LEG]*
-http://jhstv.top:80/82422w1258/adsad45457520/10054362
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL SD LEG" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/STAR%20CHANNEL.png" group-title="CANAIS LEGENDADOS",STAR CHANNEL SD LEG
-http://jhstv.top:80/82422w1258/adsad45457520/9562
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD LEG" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/F.X.png" group-title="CANAIS LEGENDADOS",FX HD LEG
-http://jhstv.top:80/82422w1258/adsad45457520/9543
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD [LEG]*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/F.X.png" group-title="CANAIS LEGENDADOS",FX FHD [LEG]*
-http://jhstv.top:80/82422w1258/adsad45457520/10054797
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD [LEG]*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/F.X.png" group-title="CANAIS LEGENDADOS",FX HD [LEG]*
-http://jhstv.top:80/82422w1258/adsad45457520/10054794
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD LEG" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/F.X.png" group-title="CANAIS LEGENDADOS",FX SD LEG
-http://jhstv.top:80/82422w1258/adsad45457520/9542
 #EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD [LEG]*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/SPACE.png" group-title="CANAIS LEGENDADOS",SPACE FHD [LEG]*
 http://jhstv.top:80/82422w1258/adsad45457520/10054384
 #EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD LEG" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/SPACE.png" group-title="CANAIS LEGENDADOS",SPACE HD LEG
@@ -3155,60 +3141,20 @@ http://jhstv.top:80/82422w1258/adsad45457520/10054912
 http://jhstv.top:80/82422w1258/adsad45457520/97
 #EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/STAR%20CHANNEL.png" group-title="FILMES E SERIES",STAR CHANNEL FHD
 http://jhstv.top:80/82422w1258/adsad45457520/4932
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/STAR%20CHANNEL.png" group-title="FILMES E SERIES",STAR CHANNEL FHD*
-http://jhstv.top:80/82422w1258/adsad45457520/10054366
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL FHD²" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/STAR%20CHANNEL.png" group-title="FILMES E SERIES",STAR CHANNEL FHD²
-http://jhstv.top:80/82422w1258/adsad45457520/6284
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL FHD H265" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/STAR%20CHANNEL.png" group-title="FILMES E SERIES",STAR CHANNEL FHD H265
-http://jhstv.top:80/82422w1258/adsad45457520/17373
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL FHD H265*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/STAR%20CHANNEL.png" group-title="FILMES E SERIES",STAR CHANNEL FHD H265*
-http://jhstv.top:80/82422w1258/adsad45457520/10054364
 #EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/STAR%20CHANNEL.png" group-title="FILMES E SERIES",STAR CHANNEL HD
 http://jhstv.top:80/82422w1258/adsad45457520/256
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/STAR%20CHANNEL.png" group-title="FILMES E SERIES",STAR CHANNEL HD*
-http://jhstv.top:80/82422w1258/adsad45457520/10054363
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL BR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/STAR%20CHANNEL.png" group-title="FILMES E SERIES",STAR CHANNEL BR
-http://jhstv.top:80/82422w1258/adsad45457520/10205399
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL HD²" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/STAR%20CHANNEL.png" group-title="FILMES E SERIES",STAR CHANNEL HD²
-http://jhstv.top:80/82422w1258/adsad45457520/17128
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL FHD [LEG]*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/STAR%20CHANNEL.png" group-title="FILMES E SERIES",STAR CHANNEL FHD [LEG]*
-http://jhstv.top:80/82422w1258/adsad45457520/10054365
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/STAR%20CHANNEL.png" group-title="FILMES E SERIES",STAR CHANNEL SD
-http://jhstv.top:80/82422w1258/adsad45457520/255
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/STAR%20CHANNEL.png" group-title="FILMES E SERIES",STAR CHANNEL SD*
-http://jhstv.top:80/82422w1258/adsad45457520/10054361
 #EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/STAR%20LIFE.png" group-title="FILMES E SERIES",STAR LIFE FHD
 http://jhstv.top:80/82422w1258/adsad45457520/9613
-#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/STAR%20LIFE.png" group-title="FILMES E SERIES",STAR LIFE FHD*
-http://jhstv.top:80/82422w1258/adsad45457520/10054345
-#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE FHD H265" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/STAR%20LIFE.png" group-title="FILMES E SERIES",STAR LIFE FHD H265
-http://jhstv.top:80/82422w1258/adsad45457520/17372
 #EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE FHD H265*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/STAR%20LIFE.png" group-title="FILMES E SERIES",STAR LIFE FHD H265*
 http://jhstv.top:80/82422w1258/adsad45457520/10054344
-#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/STAR%20LIFE.png" group-title="FILMES E SERIES",STAR LIFE HD
-http://jhstv.top:80/82422w1258/adsad45457520/250
-#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/STAR%20LIFE.png" group-title="FILMES E SERIES",STAR LIFE HD*
-http://jhstv.top:80/82422w1258/adsad45457520/10054343
-#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/STAR%20LIFE.png" group-title="FILMES E SERIES",STAR LIFE SD
-http://jhstv.top:80/82422w1258/adsad45457520/251
-#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/STAR%20LIFE.png" group-title="FILMES E SERIES",STAR LIFE SD*
-http://jhstv.top:80/82422w1258/adsad45457520/10054342
 #EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/F.X.png" group-title="FILMES E SERIES",FX FHD
 http://jhstv.top:80/82422w1258/adsad45457520/9617
 #EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/F.X.png" group-title="FILMES E SERIES",FX FHD*
 http://jhstv.top:80/82422w1258/adsad45457520/10054798
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD H265" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/F.X.png" group-title="FILMES E SERIES",FX FHD H265
-http://jhstv.top:80/82422w1258/adsad45457520/17368
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD H265*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/F.X.png" group-title="FILMES E SERIES",FX FHD H265*
-http://jhstv.top:80/82422w1258/adsad45457520/10054796
 #EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/F.X.png" group-title="FILMES E SERIES",FX HD
 http://jhstv.top:80/82422w1258/adsad45457520/247
 #EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/F.X.png" group-title="FILMES E SERIES",FX HD*
 http://jhstv.top:80/82422w1258/adsad45457520/10054795
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HDᴮᴿ" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/F.X.png" group-title="FILMES E SERIES",FX HDᴮᴿ
-http://jhstv.top:80/82422w1258/adsad45457520/17125
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/F.X.png" group-title="FILMES E SERIES",FX SD
-http://jhstv.top:80/82422w1258/adsad45457520/4551
 #EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/F.X.png" group-title="FILMES E SERIES",FX SD*
 http://jhstv.top:80/82422w1258/adsad45457520/10054793
 #EXTINF:-1 tvg-id="Epg.br" tvg-name="LIKE FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/Like.png" group-title="FILMES E SERIES",LIKE FHD*
@@ -3979,22 +3925,10 @@ http://jhstv.top:80/82422w1258/adsad45457520/7529
 http://jhstv.top:80/82422w1258/adsad45457520/9632
 #EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/NATGEO.png" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC FHD*
 http://jhstv.top:80/82422w1258/adsad45457520/10054506
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC FHDᴮᴿ" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/NATGEO.png" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC FHDᴮᴿ
-http://jhstv.top:80/82422w1258/adsad45457520/10047261
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC FHD H265" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/NATGEO.png" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC FHD H265
-http://jhstv.top:80/82422w1258/adsad45457520/17351
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC FHD H265*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/NATGEO.png" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC FHD H265*
-http://jhstv.top:80/82422w1258/adsad45457520/10054505
 #EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/NATGEO.png" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC HD
 http://jhstv.top:80/82422w1258/adsad45457520/103
 #EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/NATGEO.png" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC HD*
 http://jhstv.top:80/82422w1258/adsad45457520/10054504
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO BR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/NATGEO.png" group-title="DOCUMENTÁRIOS",NATGEO BR
-http://jhstv.top:80/82422w1258/adsad45457520/10205432
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC HDᴮᴿ" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/NATGEO.png" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC HDᴮᴿ
-http://jhstv.top:80/82422w1258/adsad45457520/17115
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/NATGEO.png" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC SD
-http://jhstv.top:80/82422w1258/adsad45457520/102
 #EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/NATGEO.png" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC SD*
 http://jhstv.top:80/82422w1258/adsad45457520/10054503
 #EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/HISTORY.png" group-title="DOCUMENTÁRIOS",HISTORY FHD
@@ -4141,12 +4075,8 @@ http://jhstv.top:80/82422w1258/adsad45457520/10087697
 http://jhstv.top:80/82422w1258/adsad45457520/10068472
 #EXTINF:-1 tvg-id="cnninternational.us" tvg-name="CNN INTERNACIONAL" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/CNNINTERNATIONAL.png" group-title="NOTICIAS",CNN INTERNACIONAL
 http://jhstv.top:80/82422w1258/adsad45457520/10068467
-#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/BABYTV.png" group-title="INFANTIS",BABY TV FHD
-http://jhstv.top:80/82422w1258/adsad45457520/10027048
 #EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/BABYTV.png" group-title="INFANTIS",BABY TV HD
 http://jhstv.top:80/82422w1258/adsad45457520/4885
-#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/BABYTV.png" group-title="INFANTIS",BABY TV SD*
-http://jhstv.top:80/82422w1258/adsad45457520/10055023
 #EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/BABYTV.png" group-title="INFANTIS",BABY TV SD
 http://jhstv.top:80/82422w1258/adsad45457520/4789
 #EXTINF:-1 tvg-id="Boomerang.br" tvg-name="CARTOONITO FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/CARTOONITO.png" group-title="INFANTIS",CARTOONITO FHD
@@ -4215,14 +4145,8 @@ http://jhstv.top:80/82422w1258/adsad45457520/46
 http://jhstv.top:80/82422w1258/adsad45457520/10054868
 #EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/DISNEYCHANNEL.png" group-title="INFANTIS",DISNEY CHANNEL FHD
 http://jhstv.top:80/82422w1258/adsad45457520/5924
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/DISNEYCHANNEL.png" group-title="INFANTIS",DISNEY CHANNEL FHD*
-http://jhstv.top:80/82422w1258/adsad45457520/10054851
 #EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL FHDᴮᴿ" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/DISNEYCHANNEL.png" group-title="INFANTIS",DISNEY CHANNEL FHDᴮᴿ
 http://jhstv.top:80/82422w1258/adsad45457520/10047330
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL FHD H265" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/DISNEYCHANNEL.png" group-title="INFANTIS",DISNEY CHANNEL FHD H265
-http://jhstv.top:80/82422w1258/adsad45457520/17308
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL FHD H265*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/DISNEYCHANNEL.png" group-title="INFANTIS",DISNEY CHANNEL FHD H265*
-http://jhstv.top:80/82422w1258/adsad45457520/10054850
 #EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/DISNEYCHANNEL.png" group-title="INFANTIS",DISNEY CHANNEL HD
 http://jhstv.top:80/82422w1258/adsad45457520/2852
 #EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/DISNEYCHANNEL.png" group-title="INFANTIS",DISNEY CHANNEL HD*
@@ -4231,10 +4155,6 @@ http://jhstv.top:80/82422w1258/adsad45457520/10054849
 http://jhstv.top:80/82422w1258/adsad45457520/10205469
 #EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL HDᴮᴿ" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/DISNEYCHANNEL.png" group-title="INFANTIS",DISNEY CHANNEL HDᴮᴿ
 http://jhstv.top:80/82422w1258/adsad45457520/17061
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/DISNEYCHANNEL.png" group-title="INFANTIS",DISNEY CHANNEL SD
-http://jhstv.top:80/82422w1258/adsad45457520/58
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/DISNEYCHANNEL.png" group-title="INFANTIS",DISNEY CHANNEL SD*
-http://jhstv.top:80/82422w1258/adsad45457520/10054848
 #EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/GLOOB.png" group-title="INFANTIS",GLOOB FHD
 http://jhstv.top:80/82422w1258/adsad45457520/5918
 #EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/GLOOB.png" group-title="INFANTIS",GLOOB FHD*
@@ -4537,14 +4457,10 @@ http://jhstv.top:80/82422w1258/adsad45457520/10054238
 http://jhstv.top:80/82422w1258/adsad45457520/10054237
 #EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK FHDR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/FOODNETWORK.png" group-title="4K E FHDR",FOOD NETWORK FHDR
 http://jhstv.top:80/82422w1258/adsad45457520/10054236
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL 4K" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/STAR%20CHANNEL.png" group-title="4K E FHDR",STAR CHANNEL 4K
-http://jhstv.top:80/82422w1258/adsad45457520/10048426
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="ESPN 5 FHDR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/espn5.png" group-title="4K E FHDR",ESPN 5 FHDR
 http://jhstv.top:80/82422w1258/adsad45457520/10054235
 #EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA FHDR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/FUTURA.png" group-title="4K E FHDR",FUTURA FHDR
 http://jhstv.top:80/82422w1258/adsad45457520/10054232
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHDR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/F.X.png" group-title="4K E FHDR",FX FHDR
-http://jhstv.top:80/82422w1258/adsad45457520/10054231
 #EXTINF:-1 tvg-id="Globonews.br" tvg-name="GB NEWS 4K" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/GLOBONEWS.png" group-title="4K E FHDR",GB NEWS 4K
 http://jhstv.top:80/82422w1258/adsad45457520/10039424
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP 4K" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="4K E FHDR",GB SP 4K
@@ -4603,8 +4519,6 @@ http://jhstv.top:80/82422w1258/adsad45457520/10054208
 http://jhstv.top:80/82422w1258/adsad45457520/10054207
 #EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="MUSIC BOX BRAZIL FHDR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/MUSICBOXBRAZIL.png" group-title="4K E FHDR",MUSIC BOX BRAZIL FHDR
 http://jhstv.top:80/82422w1258/adsad45457520/10054206
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC FHDR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/NATGEO.png" group-title="4K E FHDR",NATIONAL GEOGRAPHIC FHDR
-http://jhstv.top:80/82422w1258/adsad45457520/10054203
 #EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR. FHDR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/NICKJR.png" group-title="4K E FHDR",NICK JR. FHDR
 http://jhstv.top:80/82422w1258/adsad45457520/10054201
 #EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICK FHDR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/NICKELODEON.png" group-title="4K E FHDR",NICK FHDR
@@ -4645,10 +4559,6 @@ http://jhstv.top:80/82422w1258/adsad45457520/10054183
 http://jhstv.top:80/82422w1258/adsad45457520/10054185
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHDR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/SPORTV%203.png" group-title="4K E FHDR",SPORTV 3 FHDR
 http://jhstv.top:80/82422w1258/adsad45457520/10054184
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL FHDR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/STAR%20CHANNEL.png" group-title="4K E FHDR",STAR CHANNEL FHDR
-http://jhstv.top:80/82422w1258/adsad45457520/10054182
-#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE FHDR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/STAR%20LIFE.png" group-title="4K E FHDR",STAR LIFE FHDR
-http://jhstv.top:80/82422w1258/adsad45457520/10054179
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHDR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/STUDIOUNIVERSAL.png" group-title="4K E FHDR",STUDIO UNIVERSAL FHDR
 http://jhstv.top:80/82422w1258/adsad45457520/10054178
 #EXTINF:-1 tvg-id="Syfy.br" tvg-name="USA FHDR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/USA.png" group-title="4K E FHDR",USA FHDR
