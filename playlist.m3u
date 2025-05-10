@@ -1119,8 +1119,6 @@ http://jhstv.top:80/82422w1258/adsad45457520/10189327
 http://jhstv.top:80/82422w1258/adsad45457520/10189326
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BAND CASCAVEL" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/BAND.png" group-title="BAND",BAND CASCAVEL
 http://jhstv.top:80/82422w1258/adsad45457520/10189325
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BAND MANAIRA" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/BAND.png" group-title="BAND",BAND MANAIRA
-http://jhstv.top:80/82422w1258/adsad45457520/10189324
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/sbt.png" group-title="SBT",SBT FHD
 http://jhstv.top:80/82422w1258/adsad45457520/2957
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/sbt.png" group-title="SBT",SBT SP FHD*
@@ -1331,7 +1329,7 @@ http://jhstv.top:80/82422w1258/adsad45457520/10068465
 http://jhstv.top:80/82422w1258/adsad45457520/10068464
 #EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="COM BRASIL SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/COM%20BRASIL.png" group-title="ABERTOS",COM BRASIL SD
 http://jhstv.top:80/82422w1258/adsad45457520/10068447
-#EXTINF:-1 tvg-id="NaoDisponivel.br" tvg-name="SHOPTIME" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/SHOPTIME.png" group-title="ABERTOS",SHOPTIME
+#EXTINF:-1 tvg-id="NaoDisponivel.br" tvg-name="POLISHOP" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/SHOPTIME.png" group-title="ABERTOS",POLISHOP
 http://jhstv.top:80/82422w1258/adsad45457520/10035262
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/SPORTV.png" group-title="ESPORTES",SPORTV FHD
 http://jhstv.top:80/82422w1258/adsad45457520/4797
@@ -1961,8 +1959,6 @@ http://jhstv.top:80/82422w1258/adsad45457520/10150590
 http://jhstv.top:80/82422w1258/adsad45457520/10150589
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAX MOSAICO" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/HBOMAX.png" group-title="HBO MAX PPV",MAX MOSAICO
 http://jhstv.top:80/82422w1258/adsad45457520/10206158
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAX MOSAICO 2" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/HBOMAX.png" group-title="HBO MAX PPV",MAX MOSAICO 2
-http://jhstv.top:80/82422w1258/adsad45457520/10206157
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAX [01]" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/HBOMAX.png" group-title="HBO MAX PPV",MAX [01]
 http://jhstv.top:80/82422w1258/adsad45457520/10206156
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAX (01)" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/HBOMAX.png" group-title="HBO MAX PPV",MAX (01)
