@@ -1549,6 +1549,12 @@ http://jhstv.top:80/82422w1258/adsad45457520/10205481
 http://jhstv.top:80/82422w1258/adsad45457520/202
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/COMBATE.png" group-title="ESPORTES",COMBATE SD*
 http://jhstv.top:80/82422w1258/adsad45457520/10054916
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XSPORTS FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/iScreen%20Shoter%20-%20Google%20Chrome%20-%20250818105359.jpg" group-title="ESPORTES",XSPORTS FHD
+http://jhstv.top:80/82422w1258/adsad45457520/10235085
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XSPORTS HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/iScreen%20Shoter%20-%20Google%20Chrome%20-%20250818105359.jpg" group-title="ESPORTES",XSPORTS HD
+http://jhstv.top:80/82422w1258/adsad45457520/10235086
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XSPORTS SD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/iScreen%20Shoter%20-%20Google%20Chrome%20-%20250818105359.jpg" group-title="ESPORTES",XSPORTS SD
+http://jhstv.top:80/82422w1258/adsad45457520/10235087
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GE FAST" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/GE%20FAST.png" group-title="ESPORTES",GE FAST
 http://jhstv.top:80/82422w1258/adsad45457520/10179976
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/PREMIERE.png" group-title="PREMIERE ESPORTES",PREMIERE CLUBES FHD
@@ -1821,35 +1827,35 @@ http://jhstv.top:80/82422w1258/adsad45457520/10150678
 http://jhstv.top:80/82422w1258/adsad45457520/10150677
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA FUTSAL 4 HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/LIGA%20FUTSAL.png" group-title="ESPORTES PAYPERVIEW",LIGA FUTSAL 4 HD
 http://jhstv.top:80/82422w1258/adsad45457520/10150676
-#EXTINF:-1 tvg-id="NossoFutebol.br" tvg-name="NOSSO FUTEBOL 1 FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/NOSSO.FUTEBOL.png" group-title="ESPORTES PAYPERVIEW",NOSSO FUTEBOL 1 FHD
+#EXTINF:-1 tvg-id="NossoFutebol.br" tvg-name="SPORTYNET 1 FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/2025-08-18%2011.35.49.jpg" group-title="ESPORTES PAYPERVIEW",SPORTYNET 1 FHD
 http://jhstv.top:80/82422w1258/adsad45457520/10150640
-#EXTINF:-1 tvg-id="NossoFutebol.br" tvg-name="NOSSO FUTEBOL 1 HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/NOSSO.FUTEBOL.png" group-title="ESPORTES PAYPERVIEW",NOSSO FUTEBOL 1 HD
+#EXTINF:-1 tvg-id="NossoFutebol.br" tvg-name="SPORTYNET 1 HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/2025-08-18%2011.35.49.jpg" group-title="ESPORTES PAYPERVIEW",SPORTYNET 1 HD
 http://jhstv.top:80/82422w1258/adsad45457520/10150639
-#EXTINF:-1 tvg-id="NossoFutebol.br" tvg-name="NOSSO FUTEBOL 1 HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/NOSSO.FUTEBOL.png" group-title="ESPORTES PAYPERVIEW",NOSSO FUTEBOL 1 HD*
+#EXTINF:-1 tvg-id="NossoFutebol.br" tvg-name="SPORTYNET 1 HD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/2025-08-18%2011.35.49.jpg" group-title="ESPORTES PAYPERVIEW",SPORTYNET 1 HD*
 http://jhstv.top:80/82422w1258/adsad45457520/10150638
-#EXTINF:-1 tvg-id="NossoFutebol.br" tvg-name="NOSSO FUTEBOL 01 BR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/NOSSO.FUTEBOL.png" group-title="ESPORTES PAYPERVIEW",NOSSO FUTEBOL 01 BR
+#EXTINF:-1 tvg-id="NossoFutebol.br" tvg-name="SPORTYNET 01 BR" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/2025-08-18%2011.35.49.jpg" group-title="ESPORTES PAYPERVIEW",SPORTYNET 01 BR
 http://jhstv.top:80/82422w1258/adsad45457520/10205428
-#EXTINF:-1 tvg-id="NossoFutebol.br" tvg-name="NOSSO FUTEBOL 2 FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/NOSSO.FUTEBOL.png" group-title="ESPORTES PAYPERVIEW",NOSSO FUTEBOL 2 FHD
+#EXTINF:-1 tvg-id="NossoFutebol.br" tvg-name="SPORTYNET 2 FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/2025-08-18%2011.35.49.jpg" group-title="ESPORTES PAYPERVIEW",SPORTYNET 2 FHD
 http://jhstv.top:80/82422w1258/adsad45457520/10150637
-#EXTINF:-1 tvg-id="NossoFutebol.br" tvg-name="NOSSO FUTEBOL 2 HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/NOSSO.FUTEBOL.png" group-title="ESPORTES PAYPERVIEW",NOSSO FUTEBOL 2 HD
+#EXTINF:-1 tvg-id="NossoFutebol.br" tvg-name="SPORTYNET 2 HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/2025-08-18%2011.35.49.jpg" group-title="ESPORTES PAYPERVIEW",SPORTYNET 2 HD
 http://jhstv.top:80/82422w1258/adsad45457520/10150636
-#EXTINF:-1 tvg-id="NossoFutebol.br" tvg-name="NOSSO FUTEBOL 2 HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/NOSSO.FUTEBOL.png" group-title="ESPORTES PAYPERVIEW",NOSSO FUTEBOL 2 HD*
+#EXTINF:-1 tvg-id="NossoFutebol.br" tvg-name="SPORTYNET 2 HD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/2025-08-18%2011.35.49.jpg" group-title="ESPORTES PAYPERVIEW",SPORTYNET 2 HD*
 http://jhstv.top:80/82422w1258/adsad45457520/10150635
-#EXTINF:-1 tvg-id="NossoFutebol.br" tvg-name="NOSSO FUTEBOL 02 BR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/NOSSO.FUTEBOL.png" group-title="ESPORTES PAYPERVIEW",NOSSO FUTEBOL 02 BR
+#EXTINF:-1 tvg-id="NossoFutebol.br" tvg-name="SPORTYNET 02 BR" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/2025-08-18%2011.35.49.jpg" group-title="ESPORTES PAYPERVIEW",SPORTYNET 02 BR
 http://jhstv.top:80/82422w1258/adsad45457520/10205427
-#EXTINF:-1 tvg-id="NossoFutebol.br" tvg-name="NOSSO FUTEBOL 3 FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/NOSSO.FUTEBOL.png" group-title="ESPORTES PAYPERVIEW",NOSSO FUTEBOL 3 FHD
+#EXTINF:-1 tvg-id="NossoFutebol.br" tvg-name="SPORTYNET 3 FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/2025-08-18%2011.35.49.jpg" group-title="ESPORTES PAYPERVIEW",SPORTYNET 3 FHD
 http://jhstv.top:80/82422w1258/adsad45457520/10150634
-#EXTINF:-1 tvg-id="NossoFutebol.br" tvg-name="NOSSO FUTEBOL 3 HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/NOSSO.FUTEBOL.png" group-title="ESPORTES PAYPERVIEW",NOSSO FUTEBOL 3 HD
+#EXTINF:-1 tvg-id="NossoFutebol.br" tvg-name="SPORTYNET 3 HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/2025-08-18%2011.35.49.jpg" group-title="ESPORTES PAYPERVIEW",SPORTYNET 3 HD
 http://jhstv.top:80/82422w1258/adsad45457520/10150633
-#EXTINF:-1 tvg-id="NossoFutebol.br" tvg-name="NOSSO FUTEBOL 3 HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/NOSSO.FUTEBOL.png" group-title="ESPORTES PAYPERVIEW",NOSSO FUTEBOL 3 HD*
+#EXTINF:-1 tvg-id="NossoFutebol.br" tvg-name="SPORTYNET 3 HD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/2025-08-18%2011.35.49.jpg" group-title="ESPORTES PAYPERVIEW",SPORTYNET 3 HD*
 http://jhstv.top:80/82422w1258/adsad45457520/10150632
-#EXTINF:-1 tvg-id="NossoFutebol.br" tvg-name="NOSSO FUTEBOL 03 BR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/NOSSO.FUTEBOL.png" group-title="ESPORTES PAYPERVIEW",NOSSO FUTEBOL 03 BR
+#EXTINF:-1 tvg-id="NossoFutebol.br" tvg-name="SPORTYNET 03 BR" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/2025-08-18%2011.35.49.jpg" group-title="ESPORTES PAYPERVIEW",SPORTYNET 03 BR
 http://jhstv.top:80/82422w1258/adsad45457520/10205426
-#EXTINF:-1 tvg-id="NossoFutebol.br" tvg-name="NOSSO FUTEBOL 4 FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/NOSSO.FUTEBOL.png" group-title="ESPORTES PAYPERVIEW",NOSSO FUTEBOL 4 FHD
+#EXTINF:-1 tvg-id="NossoFutebol.br" tvg-name="SPORTYNET 4 FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/2025-08-18%2011.35.49.jpg" group-title="ESPORTES PAYPERVIEW",SPORTYNET 4 FHD
 http://jhstv.top:80/82422w1258/adsad45457520/10150631
-#EXTINF:-1 tvg-id="NossoFutebol.br" tvg-name="NOSSO FUTEBOL 4 HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/NOSSO.FUTEBOL.png" group-title="ESPORTES PAYPERVIEW",NOSSO FUTEBOL 4 HD
+#EXTINF:-1 tvg-id="NossoFutebol.br" tvg-name="SPORTYNET 4 HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/2025-08-18%2011.35.49.jpg" group-title="ESPORTES PAYPERVIEW",SPORTYNET 4 HD
 http://jhstv.top:80/82422w1258/adsad45457520/10150630
-#EXTINF:-1 tvg-id="NossoFutebol.br" tvg-name="NOSSO FUTEBOL 4 HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/NOSSO.FUTEBOL.png" group-title="ESPORTES PAYPERVIEW",NOSSO FUTEBOL 4 HD*
+#EXTINF:-1 tvg-id="NossoFutebol.br" tvg-name="SPORTYNET 4 HD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/2025-08-18%2011.35.49.jpg" group-title="ESPORTES PAYPERVIEW",SPORTYNET 4 HD*
 http://jhstv.top:80/82422w1258/adsad45457520/10150629
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NSPORTS" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/NSPORTS.png" group-title="ESPORTES PAYPERVIEW",NSPORTS
 http://jhstv.top:80/82422w1258/adsad45457520/10201747
