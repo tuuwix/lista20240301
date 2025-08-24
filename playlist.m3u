@@ -1585,7 +1585,7 @@ http://jhstv.top:80/82422w1258/adsad45457520/10054468
 http://jhstv.top:80/82422w1258/adsad45457520/4905
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES HD³" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/PREMIERE.png" group-title="PREMIERE ESPORTES",PREMIERE CLUBES HD³
 http://jhstv.top:80/82422w1258/adsad45457520/17107
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBLES BR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/PREMIERE.png" group-title="PREMIERE ESPORTES",PREMIERE CLUBLES BR
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES BR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/PREMIERE.png" group-title="PREMIERE ESPORTES",PREMIERE CLUBES BR
 http://jhstv.top:80/82422w1258/adsad45457520/10205419
 #EXTINF:-1 tvg-id="Epg.br" tvg-name="PREMIERE CLUBES HDᴮᴿ" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/PREMIERE.png" group-title="PREMIERE ESPORTES",PREMIERE CLUBES HDᴮᴿ
 http://jhstv.top:80/82422w1258/adsad45457520/10055200
@@ -1883,14 +1883,20 @@ http://jhstv.top:80/82422w1258/adsad45457520/10150668
 http://jhstv.top:80/82422w1258/adsad45457520/10150667
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BJJ STARS HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/BJJ.STARS.png" group-title="UFC | BJJ PPV",BJJ STARS HD*
 http://jhstv.top:80/82422w1258/adsad45457520/10150666
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC FIGHT PASS FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/UFCFIGHTPASS.png" group-title="UFC | BJJ PPV",UFC FIGHT PASS FHD
-http://jhstv.top:80/82422w1258/adsad45457520/10150621
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC FIGHT PASS HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/UFCFIGHTPASS.png" group-title="UFC | BJJ PPV",UFC FIGHT PASS HD
 http://jhstv.top:80/82422w1258/adsad45457520/10150620
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC FIGHT PASS" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/UFCFIGHTPASS.png" group-title="UFC | BJJ PPV",UFC FIGHT PASS
 http://jhstv.top:80/82422w1258/adsad45457520/10150619
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC FIGHT PASS*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/UFCFIGHTPASS.png" group-title="UFC | BJJ PPV",UFC FIGHT PASS*
 http://jhstv.top:80/82422w1258/adsad45457520/10150618
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC FIGHT PASS 2" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/UFCFIGHTPASS.png" group-title="UFC | BJJ PPV",UFC FIGHT PASS 2
+http://jhstv.top:80/82422w1258/adsad45457520/10150621
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC FIGHT PASS INTER 1" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/UFCFIGHTPASS.png" group-title="UFC | BJJ PPV",UFC FIGHT PASS INTER 1
+http://jhstv.top:80/82422w1258/adsad45457520/10235371
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC FIGHT PASS INTER 2" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/UFCFIGHTPASS.png" group-title="UFC | BJJ PPV",UFC FIGHT PASS INTER 2
+http://jhstv.top:80/82422w1258/adsad45457520/10235372
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC FIGHT PASS INTER 3" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/UFCFIGHTPASS.png" group-title="UFC | BJJ PPV",UFC FIGHT PASS INTER 3
+http://jhstv.top:80/82422w1258/adsad45457520/10235373
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC TV" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/UFC%20TV.png" group-title="UFC | BJJ PPV",UFC TV
 http://jhstv.top:80/82422w1258/adsad45457520/10150617
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC TV*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/UFC%20TV.png" group-title="UFC | BJJ PPV",UFC TV*
