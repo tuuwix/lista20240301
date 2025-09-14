@@ -36,8 +36,9 @@ jobs:
             exit 1
           fi
         
-      # - name: Download EPG-Guide.xml.gz file
-      #   run: curl "http://m3u4u.com/epg/p87vnr5wegu44qe8y41j" -o EPG-Guide.xml.gz
+      - name: Download EPG-Guide.xml.gz file
+        id: download_epg
+        run: curl "http://m3u4u.com/epg/p87vnr5wegu44qe8y41j" -o EPG-Guide.xml.gz
       
       - name: Commit changes if playlist.m3u is updated
         run: |
