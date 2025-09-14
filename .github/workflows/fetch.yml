@@ -38,7 +38,20 @@ jobs:
         
       - name: Download EPG-Guide.xml.gz file
         id: download_epg
-        run: curl "http://m3u4u.com/epg/p87vnr5wegu44qe8y41j" -o EPG-Guide.xml.gz
+        run: |
+          http_code=$(curl -s -L -w "%{http_code}" -o EPG-Guide.xml.gz "http://m3u4u.com/epg/p87vnr5wegu44qe8y41j")
+          if [[ "$http_code" != "200" && "$http_code" != "302" ]]; then
+            echo "Download failed with HTTP code $http_code"
+            exit 1
+          fi
+
+          sleep 2
+          
+          file_size=$(stat -c%s "playlist.m3u")
+          if [[ "$file_size" -le 0 ]]; then
+            echo "File size is too small: $file_size bytes"
+            exit 1
+          fi
       
       - name: Commit changes if playlist.m3u is updated
         run: |
