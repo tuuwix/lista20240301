@@ -47,17 +47,18 @@ jobs:
 
           sleep 2
           
-          file_size=$(stat -c%s "playlist.m3u")
+          file_size=$(stat -c%s "EPG-Guide.xml.gz")
           if [[ "$file_size" -le 0 ]]; then
             echo "File size is too small: $file_size bytes"
             exit 1
           fi
       
-      - name: Commit changes if playlist.m3u is updated
+      - name: Commit changes if updated
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add playlist.m3u
+          git add EPG-Guide.xml.gz
           git diff-index --quiet HEAD || git commit -m "actions-user: Fetch data workflow" -a
           git push -f origin main:main
         if: success()
