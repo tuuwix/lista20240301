@@ -22,7 +22,12 @@ jobs:
       - name: Download playlist.m3u file
         id: download_playlist
         run: |
-          http_code=$(curl -s -L -w "%{http_code}" -o playlist.m3u "http://m3u4u.com/m3u/p87vnr5wegu44qe8y41j")
+          http_code=$(curl -s -L \
+            -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" \
+            -w "%{http_code}" \
+            -o playlist.m3u \
+            "http://m3u4u.com/m3u/p87vnr5wegu44qe8y41j")
+            
           if [[ "$http_code" != "200" && "$http_code" != "302" ]]; then
             echo "Download failed with HTTP code $http_code"
             exit 1
@@ -39,7 +44,12 @@ jobs:
       - name: Download EPG-Guide.xml.gz file
         id: download_epg
         run: |
-          http_code=$(curl -s -L -w "%{http_code}" -o EPG-Guide.xml.gz "http://combate.asia/xmltv.php?username=077551817515&password=6268049625318")
+          http_code=$(curl -s -L \
+            -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" \
+            -w "%{http_code}" \
+            -o EPG-Guide.xml.gz \
+            "http://combate.asia/xmltv.php?username=077551817515&password=6268049625318")
+            
           if [[ "$http_code" != "200" && "$http_code" != "302" ]]; then
             echo "Download failed with HTTP code $http_code"
             exit 1
