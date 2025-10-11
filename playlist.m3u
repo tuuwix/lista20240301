@@ -1917,6 +1917,10 @@ http://combate.asia:80/077551817515/6268049625318/10150674
 http://combate.asia:80/077551817515/6268049625318/10150673
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OLYMPIA TV HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/OLYMPIA%20TV.png" group-title="ESPORTES PAYPERVIEW",OLYMPIA TV HD
 http://combate.asia:80/077551817515/6268049625318/10150628
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OLYMPIA TV HD*" tvg-logo="https://image.roku.com/developer_channels/prod/7e474b26eead427f77c795aed37bf586ce499b86c46c99f3d893eeb00a8bfd85.png" group-title="ESPORTES PAYPERVIEW",OLYMPIA TV HD*
+http://combate.asia:80/077551817515/6268049625318/10241050
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OLYMPIA TV FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/OLYMPIA%20TV.png" group-title="ESPORTES PAYPERVIEW",OLYMPIA TV FHD
+http://combate.asia:80/077551817515/6268049625318/10241049
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BJJ STARS FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/BJJ.STARS.png" group-title="UFC | BJJ PPV",BJJ STARS FHD
 http://combate.asia:80/077551817515/6268049625318/10150668
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BJJ STARS HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/BJJ.STARS.png" group-title="UFC | BJJ PPV",BJJ STARS HD
@@ -1989,8 +1993,6 @@ http://combate.asia:80/077551817515/6268049625318/10150591
 http://combate.asia:80/077551817515/6268049625318/10150590
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO MAX 6 HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/HBOMAX.png" group-title="HBO MAX PPV",HBO MAX 6 HD
 http://combate.asia:80/077551817515/6268049625318/10150589
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAX MOSAICO" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/HBOMAX.png" group-title="HBO MAX PPV",MAX MOSAICO
-http://combate.asia:80/077551817515/6268049625318/10206158
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAX [01]" tvg-logo="http://st1.p2elite.com:8080/icon/11196-b-1758814905992.png" group-title="HBO MAX PPV",MAX [01]
 http://combate.asia:80/077551817515/6268049625318/10206156
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAX (01)" tvg-logo="http://st1.p2elite.com:8080/icon/11196-b-1758814905992.png" group-title="HBO MAX PPV",MAX (01)
@@ -2493,8 +2495,6 @@ http://combate.asia:80/077551817515/6268049625318/10202230
 http://combate.asia:80/077551817515/6268049625318/10202229
 #EXTINF:-1 tvg-id="usanetwork.us" tvg-name="USA NETWORK" tvg-logo="" group-title="ESTADOS UNIDOS",USA NETWORK
 http://combate.asia:80/077551817515/6268049625318/10202228
-#EXTINF:-1 tvg-id="hallmarkmoviesmysteries.us" tvg-name="HALLMARK MOVIES" tvg-logo="" group-title="ESTADOS UNIDOS",HALLMARK MOVIES
-http://combate.asia:80/077551817515/6268049625318/10202227
 #EXTINF:-1 tvg-id="telemundownju.us" tvg-name="TELEMUNDO NEW YORK" tvg-logo="" group-title="ESTADOS UNIDOS",TELEMUNDO NEW YORK
 http://combate.asia:80/077551817515/6268049625318/10202226
 #EXTINF:-1 tvg-id="telemundowscv.us" tvg-name="TELEMUNDO MIAMI" tvg-logo="" group-title="ESTADOS UNIDOS",TELEMUNDO MIAMI
@@ -4809,8 +4809,6 @@ http://combate.asia:80/077551817515/6268049625318/10053095
 http://combate.asia:80/077551817515/6268049625318/10052882
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TUDN MX" tvg-logo="" group-title="SPORTS WORLD",TUDN MX
 http://combate.asia:80/077551817515/6268049625318/10202240
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELE DEPORTE USA" tvg-logo="" group-title="SPORTS WORLD",TELE DEPORTE USA
-http://combate.asia:80/077551817515/6268049625318/10202239
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABU DHABI SPORTS 1" tvg-logo="" group-title="SPORTS WORLD",ABU DHABI SPORTS 1
 http://combate.asia:80/077551817515/6268049625318/10202238
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABU DHABI SPORTS 2" tvg-logo="" group-title="SPORTS WORLD",ABU DHABI SPORTS 2
@@ -4819,8 +4817,6 @@ http://combate.asia:80/077551817515/6268049625318/10202237
 http://combate.asia:80/077551817515/6268049625318/10202236
 #EXTINF:-1 tvg-id="ballysportsflorida.us" tvg-name="BALLY SPORTS FLORIDA" tvg-logo="" group-title="SPORTS WORLD",BALLY SPORTS FLORIDA
 http://combate.asia:80/077551817515/6268049625318/10202235
-#EXTINF:-1 tvg-id="beinsports.us" tvg-name="BEIN SPORTS USA" tvg-logo="" group-title="SPORTS WORLD",BEIN SPORTS USA
-http://combate.asia:80/077551817515/6268049625318/10202234
 #EXTINF:-1 tvg-id="fubosportsnetwork.us" tvg-name="FUBO SPORTS USA" tvg-logo="" group-title="SPORTS WORLD",FUBO SPORTS USA
 http://combate.asia:80/077551817515/6268049625318/10202233
 #EXTINF:-1 tvg-id="tycsports.us" tvg-name="TYC SPORTS USA" tvg-logo="" group-title="SPORTS WORLD",TYC SPORTS USA
