@@ -4771,7 +4771,7 @@ http://combate.asia:80/077551817515/6268049625318/10052982
 http://combate.asia:80/077551817515/6268049625318/10090463
 #EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="PT SPORT TV 6 HD" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="PORTUGAL",PT SPORT TV 6 HD
 http://combate.asia:80/077551817515/6268049625318/10090462
-#EXTINF:-1 tvg-id="449" tvg-name="PT SPORT TV NBA FHD" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="PORTUGAL",PT SPORT TV NBA FHD
+#EXTINF:-1 tvg-id="sporttvnba.pt" tvg-name="PT SPORT TV NBA FHD" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="PORTUGAL",PT SPORT TV NBA FHD
 http://combate.asia:80/077551817515/6268049625318/10052980
 #EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="PT SPORTING TV" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="PORTUGAL",PT SPORTING TV
 http://combate.asia:80/077551817515/6268049625318/10052958
@@ -4985,38 +4985,18 @@ http://combate.asia:80/077551817515/6268049625318/10040688
 http://combate.asia:80/077551817515/6268049625318/10117711
 #EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT ELEVEN SPORTS 6" tvg-logo="https://googleplusimages.com/ELEVENSPORTS.png" group-title="SPORTS WORLD",PT ELEVEN SPORTS 6
 http://combate.asia:80/077551817515/6268049625318/10040689
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT SPORT TV +" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="SPORTS WORLD",PT SPORT TV +
+#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="PT SPORT TV +" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="SPORTS WORLD",PT SPORT TV +
 http://combate.asia:80/077551817515/6268049625318/10040690
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="PT SPORT TV 1" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="SPORTS WORLD",PT SPORT TV 1
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT SPORT TV 1" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="SPORTS WORLD",PT SPORT TV 1
 http://combate.asia:80/077551817515/6268049625318/10040691
-#EXTINF:-1 tvg-id="0" tvg-name="PT SPORT TV 2" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="SPORTS WORLD",PT SPORT TV 2
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT SPORT TV 2" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="SPORTS WORLD",PT SPORT TV 2
 http://combate.asia:80/077551817515/6268049625318/10040692
-#EXTINF:-1 tvg-id="0" tvg-name="PT SPORT TV 3" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="SPORTS WORLD",PT SPORT TV 3
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT SPORT TV 3" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="SPORTS WORLD",PT SPORT TV 3
 http://combate.asia:80/077551817515/6268049625318/10040693
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT SPORT TV 4" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="SPORTS WORLD",PT SPORT TV 4
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT SPORT TV 4" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="SPORTS WORLD",PT SPORT TV 4
 http://combate.asia:80/077551817515/6268049625318/10040694
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT SPORT TV 4²" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="SPORTS WORLD",PT SPORT TV 4²
-http://combate.asia:80/077551817515/6268049625318/10040699
-#EXTINF:-1 tvg-id="0" tvg-name="PT SPORT TV 5" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="SPORTS WORLD",PT SPORT TV 5
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT SPORT TV 5" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="SPORTS WORLD",PT SPORT TV 5
 http://combate.asia:80/077551817515/6268049625318/10040695
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT SPORT TV 5²" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="SPORTS WORLD",PT SPORT TV 5²
-http://combate.asia:80/077551817515/6268049625318/10040700
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT SPORT TV 6 (D)" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="SPORTS WORLD",PT SPORT TV 6 (D)
-http://combate.asia:80/077551817515/6268049625318/10117702
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT SPORT TV NBA (D)" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="SPORTS WORLD",PT SPORT TV NBA (D)
-http://combate.asia:80/077551817515/6268049625318/10117709
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT SPORT TV+ (D)" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="SPORTS WORLD",PT SPORT TV+ (D)
-http://combate.asia:80/077551817515/6268049625318/10117708
-#EXTINF:-1 tvg-id="0" tvg-name="PT SPORT TV+²" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="SPORTS WORLD",PT SPORT TV+²
-http://combate.asia:80/077551817515/6268049625318/10040701
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT SPORT TV1 (D)" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="SPORTS WORLD",PT SPORT TV1 (D)
-http://combate.asia:80/077551817515/6268049625318/10117707
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT SPORT TV2 (D)" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="SPORTS WORLD",PT SPORT TV2 (D)
-http://combate.asia:80/077551817515/6268049625318/10117706
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT SPORT TV3 (D)" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="SPORTS WORLD",PT SPORT TV3 (D)
-http://combate.asia:80/077551817515/6268049625318/10117705
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT SPORT TV5 (D)" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="SPORTS WORLD",PT SPORT TV5 (D)
-http://combate.asia:80/077551817515/6268049625318/10117703
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT SPORTING TV" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="SPORTS WORLD",PT SPORTING TV
 http://combate.asia:80/077551817515/6268049625318/10040702
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK BT SPORT 1 HD 1 (P)" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/UK%20BT%20SPORT%201.png" group-title="SPORTS WORLD",UK BT SPORT 1 HD 1 (P)
