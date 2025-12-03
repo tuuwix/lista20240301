@@ -81,8 +81,6 @@ http://jhsinternet.com:80/077551817515/f1458851158x/10054757
 http://jhsinternet.com:80/077551817515/f1458851158x/10205459
 #EXTINF:-1 tvg-id="Globominas.br" tvg-name="GB MINAS SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB MINAS SD
 http://jhsinternet.com:80/077551817515/f1458851158x/341
-#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GB MINAS SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB MINAS SD*
-http://jhsinternet.com:80/077551817515/f1458851158x/10054756
 #EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GB BRASILIA FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB BRASILIA FHD
 http://jhsinternet.com:80/077551817515/f1458851158x/9598
 #EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GB BRASILIA FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB BRASILIA FHD*
@@ -161,8 +159,6 @@ http://jhsinternet.com:80/077551817515/f1458851158x/6562
 http://jhsinternet.com:80/077551817515/f1458851158x/10054702
 #EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="GB TV ANHANGUERA SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV ANHANGUERA SD
 http://jhsinternet.com:80/077551817515/f1458851158x/6563
-#EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="GB TV ANHANGUERA SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV ANHANGUERA SD*
-http://jhsinternet.com:80/077551817515/f1458851158x/10054701
 #EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GB TV GAZETA VITORIA FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV GAZETA VITORIA FHD
 http://jhsinternet.com:80/077551817515/f1458851158x/10048874
 #EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GB TV GAZETA VITORIA FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV GAZETA VITORIA FHD*
@@ -185,8 +181,6 @@ http://jhsinternet.com:80/077551817515/f1458851158x/10054693
 http://jhsinternet.com:80/077551817515/f1458851158x/11215
 #EXTINF:-1 tvg-id="TVCaboBranco.br" tvg-name="GB TV CABO BRANCO SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV CABO BRANCO SD
 http://jhsinternet.com:80/077551817515/f1458851158x/11214
-#EXTINF:-1 tvg-id="TVCaboBranco.br" tvg-name="GB TV CABO BRANCO SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV CABO BRANCO SD*
-http://jhsinternet.com:80/077551817515/f1458851158x/10054692
 #EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GB TV BAHIA FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV BAHIA FHD
 http://jhsinternet.com:80/077551817515/f1458851158x/9593
 #EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GB TV BAHIA HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV BAHIA HD
@@ -221,14 +215,10 @@ http://jhsinternet.com:80/077551817515/f1458851158x/9654
 http://jhsinternet.com:80/077551817515/f1458851158x/10054678
 #EXTINF:-1 tvg-id="Tvgazetaal.br" tvg-name="GB TV GAZETA ALAGOAS SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV GAZETA ALAGOAS SD
 http://jhsinternet.com:80/077551817515/f1458851158x/9656
-#EXTINF:-1 tvg-id="Tvgazetaal.br" tvg-name="GB TV GAZETA ALAGOAS SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV GAZETA ALAGOAS SD*
-http://jhsinternet.com:80/077551817515/f1458851158x/10054677
 #EXTINF:-1 tvg-id="Tvmorena.br" tvg-name="GB TV MORENA FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV MORENA FHD*
 http://jhsinternet.com:80/077551817515/f1458851158x/10054661
 #EXTINF:-1 tvg-id="Tvmorena.br" tvg-name="GB TV MORENA HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV MORENA HD*
 http://jhsinternet.com:80/077551817515/f1458851158x/10054660
-#EXTINF:-1 tvg-id="Tvmorena.br" tvg-name="GB TV MORENA SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV MORENA SD*
-http://jhsinternet.com:80/077551817515/f1458851158x/10054659
 #EXTINF:-1 tvg-id="Centroamerica.br" tvg-name="GB TV CENTRO AMERICA FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV CENTRO AMERICA FHD
 http://jhsinternet.com:80/077551817515/f1458851158x/10049123
 #EXTINF:-1 tvg-id="Centroamerica.br" tvg-name="GB TV CENTRO AMERICA HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV CENTRO AMERICA HD
@@ -251,8 +241,6 @@ http://jhsinternet.com:80/077551817515/f1458851158x/10049118
 http://jhsinternet.com:80/077551817515/f1458851158x/10054726
 #EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="GB REDE AMAZONICA MANAUS SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB REDE AMAZONICA MANAUS SD*
 http://jhsinternet.com:80/077551817515/f1458851158x/10054725
-#EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="GB REDE AMAZONICA MANAUS  SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB REDE AMAZONICA MANAUS  SD
-http://jhsinternet.com:80/077551817515/f1458851158x/5779
 #EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="GB TV REDE AMAZONICA BOA VISTA FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV REDE AMAZONICA BOA VISTA FHD
 http://jhsinternet.com:80/077551817515/f1458851158x/10049105
 #EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="GB TV REDE AMAZONICA BOA VISTA HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB TV REDE AMAZONICA BOA VISTA HD
@@ -489,8 +477,6 @@ http://jhsinternet.com:80/077551817515/f1458851158x/10049112
 http://jhsinternet.com:80/077551817515/f1458851158x/10049062
 #EXTINF:-1 tvg-id="Eptvsulminas.br" tvg-name="EPTV SUL DE MINAS HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",EPTV SUL DE MINAS HD
 http://jhsinternet.com:80/077551817515/f1458851158x/10049061
-#EXTINF:-1 tvg-id="Eptvsulminas.br" tvg-name="EPTV SUL DE MINAS SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",EPTV SUL DE MINAS SD
-http://jhsinternet.com:80/077551817515/f1458851158x/10049060
 #EXTINF:-1 tvg-id="Eptvsulminas.br" tvg-name="EPTV SUL DE MINAS FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",EPTV SUL DE MINAS FHD*
 http://jhsinternet.com:80/077551817515/f1458851158x/10054779
 #EXTINF:-1 tvg-id="Eptvsulminas.br" tvg-name="EPTV SUL DE MINAS HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | SUDESTE",EPTV SUL DE MINAS HD*
@@ -2109,8 +2095,6 @@ http://jhsinternet.com:80/077551817515/f1458851158x/10054312
 http://jhsinternet.com:80/077551817515/f1458851158x/10205395
 #EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN HD LEG" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/TC%20FUN.png" group-title="GLOBOSAT FILMES",TC FUN HD LEG
 http://jhsinternet.com:80/077551817515/f1458851158x/9553
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/TC%20FUN.png" group-title="GLOBOSAT FILMES",TC FUN SD
-http://jhsinternet.com:80/077551817515/f1458851158x/292
 #EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/TC%20FUN.png" group-title="GLOBOSAT FILMES",TC FUN SD*
 http://jhsinternet.com:80/077551817515/f1458851158x/10054310
 #EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/TC%20TOUCH.png" group-title="GLOBOSAT FILMES",TC TOUCH FHD
@@ -2141,10 +2125,6 @@ http://jhsinternet.com:80/077551817515/f1458851158x/10054322
 http://jhsinternet.com:80/077551817515/f1458851158x/4791
 #EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/TC%20CULT.png" group-title="GLOBOSAT FILMES",TC CULT HD*
 http://jhsinternet.com:80/077551817515/f1458851158x/10054319
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT BR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/TC%20CULT.png" group-title="GLOBOSAT FILMES",TC CULT BR
-http://jhsinternet.com:80/077551817515/f1458851158x/10205396
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/TC%20CULT.png" group-title="GLOBOSAT FILMES",TC CULT SD
-http://jhsinternet.com:80/077551817515/f1458851158x/281
 #EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/TC%20CULT.png" group-title="GLOBOSAT FILMES",TC CULT SD*
 http://jhsinternet.com:80/077551817515/f1458851158x/10054317
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/MEGAPIX.png" group-title="GLOBOSAT FILMES",MEGAPIX FHD
@@ -2231,8 +2211,6 @@ http://jhsinternet.com:80/077551817515/f1458851158x/10054946
 http://jhsinternet.com:80/077551817515/f1458851158x/2871
 #EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/c.brasil.png" group-title="GLOBOSAT FILMES",CANAL BRASIL HD*
 http://jhsinternet.com:80/077551817515/f1458851158x/10054944
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL BR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/c.brasil.png" group-title="GLOBOSAT FILMES",CANAL BRASIL BR
-http://jhsinternet.com:80/077551817515/f1458851158x/10205494
 #EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/c.brasil.png" group-title="GLOBOSAT FILMES",CANAL BRASIL SD*
 http://jhsinternet.com:80/077551817515/f1458851158x/10054943
 #EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/c.brasil.png" group-title="GLOBOSAT FILMES",CANAL BRASIL SD
