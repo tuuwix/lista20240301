@@ -949,26 +949,20 @@ http://jhsinternet.com:80/077551817515/f1458851158x/10189185
 http://jhsinternet.com:80/077551817515/f1458851158x/6306
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV SP FHD*
 http://jhsinternet.com:80/077551817515/f1458851158x/10054410
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP FHD²" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV SP FHD²
-http://jhsinternet.com:80/077551817515/f1458851158x/10036716
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP FHD H265" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV SP FHD H265
 http://jhsinternet.com:80/077551817515/f1458851158x/17023
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV SP HD
 http://jhsinternet.com:80/077551817515/f1458851158x/336
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV SP HD*
 http://jhsinternet.com:80/077551817515/f1458851158x/10054409
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP HD²" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV SP HD²
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP HD ALT" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV SP HD ALT
 http://jhsinternet.com:80/077551817515/f1458851158x/8939
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV BR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV BR
 http://jhsinternet.com:80/077551817515/f1458851158x/10205406
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP HD³" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV SP HD³
-http://jhsinternet.com:80/077551817515/f1458851158x/5098
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV SP SD
 http://jhsinternet.com:80/077551817515/f1458851158x/337
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV SP SD*
 http://jhsinternet.com:80/077551817515/f1458851158x/10054408
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP SD²" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV SP SD²
-http://jhsinternet.com:80/077551817515/f1458851158x/10036717
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV INTERIOR SP FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV INTERIOR SP FHD*
 http://jhsinternet.com:80/077551817515/f1458851158x/10054431
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV INTERIOR SP HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV INTERIOR SP HD*
@@ -1559,12 +1553,10 @@ http://jhsinternet.com:80/077551817515/f1458851158x/200
 http://jhsinternet.com:80/077551817515/f1458851158x/10054468
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES HD ALT" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/PREMIERE.png" group-title="PREMIERE ESPORTES",PREMIERE CLUBES HD ALT
 http://jhsinternet.com:80/077551817515/f1458851158x/4905
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES HD BR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/PREMIERE.png" group-title="PREMIERE ESPORTES",PREMIERE CLUBES HD BR
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES BR*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/PREMIERE.png" group-title="PREMIERE ESPORTES",PREMIERE CLUBES BR*
 http://jhsinternet.com:80/077551817515/f1458851158x/17107
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES BR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/PREMIERE.png" group-title="PREMIERE ESPORTES",PREMIERE CLUBES BR
 http://jhsinternet.com:80/077551817515/f1458851158x/10205419
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="PREMIERE CLUBES HDᴮᴿ" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/PREMIERE.png" group-title="PREMIERE ESPORTES",PREMIERE CLUBES HDᴮᴿ
-http://jhsinternet.com:80/077551817515/f1458851158x/10055200
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/PREMIERE.png" group-title="PREMIERE ESPORTES",PREMIERE CLUBES SD*
 http://jhsinternet.com:80/077551817515/f1458851158x/10054467
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/PREMIERE.png" group-title="PREMIERE ESPORTES",PREMIERE CLUBES SD
@@ -1581,14 +1573,10 @@ http://jhsinternet.com:80/077551817515/f1458851158x/10054476
 http://jhsinternet.com:80/077551817515/f1458851158x/197
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/PREMIERE%202.png" group-title="PREMIERE ESPORTES",PREMIERE 2 HD*
 http://jhsinternet.com:80/077551817515/f1458851158x/10054465
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 HD²" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/PREMIERE%202.png" group-title="PREMIERE ESPORTES",PREMIERE 2 HD²
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 HD ALT" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/PREMIERE%202.png" group-title="PREMIERE ESPORTES",PREMIERE 2 HD ALT
 http://jhsinternet.com:80/077551817515/f1458851158x/4902
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 HD³" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/PREMIERE%202.png" group-title="PREMIERE ESPORTES",PREMIERE 2 HD³
-http://jhsinternet.com:80/077551817515/f1458851158x/2788
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 BR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/PREMIERE%202.png" group-title="PREMIERE ESPORTES",PREMIERE 2 BR
 http://jhsinternet.com:80/077551817515/f1458851158x/10205418
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 HDᴮᴿ" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/PREMIERE%202.png" group-title="PREMIERE ESPORTES",PREMIERE 2 HDᴮᴿ
-http://jhsinternet.com:80/077551817515/f1458851158x/10055198
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/PREMIERE%202.png" group-title="PREMIERE ESPORTES",PREMIERE 2 SD*
 http://jhsinternet.com:80/077551817515/f1458851158x/10054464
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/PREMIERE%202.png" group-title="PREMIERE ESPORTES",PREMIERE 2 SD
@@ -1631,12 +1619,8 @@ http://jhsinternet.com:80/077551817515/f1458851158x/193
 http://jhsinternet.com:80/077551817515/f1458851158x/10054459
 #EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HD²" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/PREMIERE%204.png" group-title="PREMIERE ESPORTES",PREMIERE 4 HD²
 http://jhsinternet.com:80/077551817515/f1458851158x/4904
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HD³" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/PREMIERE%204.png" group-title="PREMIERE ESPORTES",PREMIERE 4 HD³
-http://jhsinternet.com:80/077551817515/f1458851158x/17109
 #EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 BR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/PREMIERE%204.png" group-title="PREMIERE ESPORTES",PREMIERE 4 BR
 http://jhsinternet.com:80/077551817515/f1458851158x/10205416
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HDᴮᴿ" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/PREMIERE%204.png" group-title="PREMIERE ESPORTES",PREMIERE 4 HDᴮᴿ
-http://jhsinternet.com:80/077551817515/f1458851158x/10055194
 #EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/PREMIERE%204.png" group-title="PREMIERE ESPORTES",PREMIERE 4 SD*
 http://jhsinternet.com:80/077551817515/f1458851158x/10054458
 #EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/PREMIERE%204.png" group-title="PREMIERE ESPORTES",PREMIERE 4 SD
