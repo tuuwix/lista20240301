@@ -2303,8 +2303,6 @@ http://jhsinternet.com:80/077551817515/f1458851158x/10055027
 http://jhsinternet.com:80/077551817515/f1458851158x/10055029
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD LEG" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/AXN.png" group-title="CANAIS LEGENDADOS",AXN HD LEG
 http://jhsinternet.com:80/077551817515/f1458851158x/9565
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD [LEG]*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/AXN.png" group-title="CANAIS LEGENDADOS",AXN HD [LEG]*
-http://jhsinternet.com:80/077551817515/f1458851158x/10055026
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD LEG" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/AXN.png" group-title="CANAIS LEGENDADOS",AXN SD LEG
 http://jhsinternet.com:80/077551817515/f1458851158x/9564
 #EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY FHD [LEG]*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/SONYCHANNEL.png" group-title="CANAIS LEGENDADOS",CANAL SONY FHD [LEG]*
@@ -2321,8 +2319,6 @@ http://jhsinternet.com:80/077551817515/f1458851158x/10054384
 http://jhsinternet.com:80/077551817515/f1458851158x/9537
 #EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD [LEG]*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/SPACE.png" group-title="CANAIS LEGENDADOS",SPACE HD [LEG]*
 http://jhsinternet.com:80/077551817515/f1458851158x/10054381
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE SD LEG" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/SPACE.png" group-title="CANAIS LEGENDADOS",SPACE SD LEG
-http://jhsinternet.com:80/077551817515/f1458851158x/9536
 #EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD [LEG]*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/TNT.png" group-title="CANAIS LEGENDADOS",TNT FHD [LEG]*
 http://jhsinternet.com:80/077551817515/f1458851158x/10055131
 #EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD LEG" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/TNT.png" group-title="CANAIS LEGENDADOS",TNT HD LEG
@@ -2337,8 +2333,6 @@ http://jhsinternet.com:80/077551817515/f1458851158x/10055124
 http://jhsinternet.com:80/077551817515/f1458851158x/9535
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES HD [LEG]*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/TNTSERIES.png" group-title="CANAIS LEGENDADOS",TNT SERIES HD [LEG]*
 http://jhsinternet.com:80/077551817515/f1458851158x/10055121
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES SD LEG" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/TNTSERIES.png" group-title="CANAIS LEGENDADOS",TNT SERIES SD LEG
-http://jhsinternet.com:80/077551817515/f1458851158x/9534
 #EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER FHD [LEG]*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/WARNERCHANNEL.png" group-title="CANAIS LEGENDADOS",WARNER FHD [LEG]*
 http://jhsinternet.com:80/077551817515/f1458851158x/10055061
 #EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER HD LEG" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/WARNERCHANNEL.png" group-title="CANAIS LEGENDADOS",WARNER HD LEG
@@ -2807,6 +2801,10 @@ http://jhsinternet.com:80/077551817515/f1458851158x/17318
 http://jhsinternet.com:80/077551817515/f1458851158x/2881
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/A%26E.png" group-title="FILMES E SERIES",A&E HD*
 http://jhsinternet.com:80/077551817515/f1458851158x/10055049
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/A%26E.png" group-title="FILMES E SERIES",A&E SD
+http://jhsinternet.com:80/077551817515/f1458851158x/299
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/A%26E.png" group-title="FILMES E SERIES",A&E SD*
+http://jhsinternet.com:80/077551817515/f1458851158x/10055048
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/AMC.png" group-title="FILMES E SERIES",AMC FHD
 http://jhsinternet.com:80/077551817515/f1458851158x/5847
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/AMC.png" group-title="FILMES E SERIES",AMC FHD*
@@ -2819,6 +2817,10 @@ http://jhsinternet.com:80/077551817515/f1458851158x/17317
 http://jhsinternet.com:80/077551817515/f1458851158x/5477
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/AMC.png" group-title="FILMES E SERIES",AMC HD*
 http://jhsinternet.com:80/077551817515/f1458851158x/10055041
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/AMC.png" group-title="FILMES E SERIES",AMC SD
+http://jhsinternet.com:80/077551817515/f1458851158x/5298
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/AMC.png" group-title="FILMES E SERIES",AMC SD*
+http://jhsinternet.com:80/077551817515/f1458851158x/10055040
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/AXN.png" group-title="FILMES E SERIES",AXN FHD
 http://jhsinternet.com:80/077551817515/f1458851158x/5901
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD BR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/AXN.png" group-title="FILMES E SERIES",AXN FHD BR
@@ -2826,13 +2828,9 @@ http://jhsinternet.com:80/077551817515/f1458851158x/10047351
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/AXN.png" group-title="FILMES E SERIES",AXN FHD*
 http://jhsinternet.com:80/077551817515/f1458851158x/10055030
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD H265" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/AXN.png" group-title="FILMES E SERIES",AXN FHD H265
-http://jhsinternet.com:80/077551817515/f1458851158x/17388
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD H265" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/AXN.png" group-title="FILMES E SERIES",AXN FHD H265
 http://jhsinternet.com:80/077551817515/f1458851158x/10055028
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/AXN.png" group-title="FILMES E SERIES",AXN HD
 http://jhsinternet.com:80/077551817515/f1458851158x/231
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD BR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/AXN.png" group-title="FILMES E SERIES",AXN HD BR
-http://jhsinternet.com:80/077551817515/f1458851158x/17148
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN BR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/AXN.png" group-title="FILMES E SERIES",AXN BR
 http://jhsinternet.com:80/077551817515/f1458851158x/10205499
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/AXN.png" group-title="FILMES E SERIES",AXN SD
@@ -2867,8 +2865,6 @@ http://jhsinternet.com:80/077551817515/f1458851158x/17380
 http://jhsinternet.com:80/077551817515/f1458851158x/4825
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/CINEMAX.png" group-title="FILMES E SERIES",CINEMAX HD*
 http://jhsinternet.com:80/077551817515/f1458851158x/10054925
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX BR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/CINEMAX.png" group-title="FILMES E SERIES",CINEMAX BR
-http://jhsinternet.com:80/077551817515/f1458851158x/10205483
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/CINEMAX.png" group-title="FILMES E SERIES",CINEMAX SD
 http://jhsinternet.com:80/077551817515/f1458851158x/230
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/CINEMAX.png" group-title="FILMES E SERIES",CINEMAX SD*
@@ -2883,8 +2879,6 @@ http://jhsinternet.com:80/077551817515/f1458851158x/17378
 http://jhsinternet.com:80/077551817515/f1458851158x/2861
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/COMEDYCENTRAL.png" group-title="FILMES E SERIES",COMEDY CENTRAL HD*
 http://jhsinternet.com:80/077551817515/f1458851158x/10054913
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL BR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/COMEDYCENTRAL.png" group-title="FILMES E SERIES",COMEDY CENTRAL BR
-http://jhsinternet.com:80/077551817515/f1458851158x/10205480
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/COMEDYCENTRAL.png" group-title="FILMES E SERIES",COMEDY CENTRAL SD*
 http://jhsinternet.com:80/077551817515/f1458851158x/10054912
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/COMEDYCENTRAL.png" group-title="FILMES E SERIES",COMEDY CENTRAL SD
@@ -2923,8 +2917,6 @@ http://jhsinternet.com:80/077551817515/f1458851158x/223
 http://jhsinternet.com:80/077551817515/f1458851158x/10054382
 #EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE BR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/SPACE.png" group-title="FILMES E SERIES",SPACE BR
 http://jhsinternet.com:80/077551817515/f1458851158x/10205402
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD BR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/SPACE.png" group-title="FILMES E SERIES",SPACE HD BR
-http://jhsinternet.com:80/077551817515/f1458851158x/17106
 #EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/SPACE.png" group-title="FILMES E SERIES",SPACE SD
 http://jhsinternet.com:80/077551817515/f1458851158x/224
 #EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/SPACE.png" group-title="FILMES E SERIES",SPACE SD*
@@ -2939,8 +2931,6 @@ http://jhsinternet.com:80/077551817515/f1458851158x/220
 http://jhsinternet.com:80/077551817515/f1458851158x/10054331
 #EXTINF:-1 tvg-id="Tbs.br" tvg-name="TNT NOVELAS BR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/TNT%20NOVELAS.png" group-title="FILMES E SERIES",TNT NOVELAS BR
 http://jhsinternet.com:80/077551817515/f1458851158x/10205389
-#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TNT NOVELAS HDX" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/TNT%20NOVELAS.png" group-title="FILMES E SERIES",TNT NOVELAS HDX
-http://jhsinternet.com:80/077551817515/f1458851158x/17139
 #EXTINF:-1 tvg-id="Tbs.br" tvg-name="TNT NOVELAS SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/TNT%20NOVELAS.png" group-title="FILMES E SERIES",TNT NOVELAS SD
 http://jhsinternet.com:80/077551817515/f1458851158x/221
 #EXTINF:-1 tvg-id="Tbs.br" tvg-name="TNT NOVELAS SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/TNT%20NOVELAS.png" group-title="FILMES E SERIES",TNT NOVELAS SD*
@@ -2961,8 +2951,6 @@ http://jhsinternet.com:80/077551817515/f1458851158x/263
 http://jhsinternet.com:80/077551817515/f1458851158x/10055129
 #EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT BR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/TNT.png" group-title="FILMES E SERIES",TNT BR
 http://jhsinternet.com:80/077551817515/f1458851158x/10205390
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD BR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/TNT.png" group-title="FILMES E SERIES",TNT HD BR
-http://jhsinternet.com:80/077551817515/f1458851158x/17099
 #EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/TNT.png" group-title="FILMES E SERIES",TNT SD
 http://jhsinternet.com:80/077551817515/f1458851158x/262
 #EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/TNT.png" group-title="FILMES E SERIES",TNT SD*
@@ -2974,8 +2962,6 @@ http://jhsinternet.com:80/077551817515/f1458851158x/10055125
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SÉRIES FHD BR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/TNTSERIES.png" group-title="FILMES E SERIES",TNT SÉRIES FHD BR
 http://jhsinternet.com:80/077551817515/f1458851158x/10047219
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES FHD H265" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/TNTSERIES.png" group-title="FILMES E SERIES",TNT SERIES FHD H265
-http://jhsinternet.com:80/077551817515/f1458851158x/17324
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES FHD H265" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/TNTSERIES.png" group-title="FILMES E SERIES",TNT SERIES FHD H265
 http://jhsinternet.com:80/077551817515/f1458851158x/10055123
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/TNTSERIES.png" group-title="FILMES E SERIES",TNT SERIES HD
 http://jhsinternet.com:80/077551817515/f1458851158x/260
@@ -2983,8 +2969,6 @@ http://jhsinternet.com:80/077551817515/f1458851158x/260
 http://jhsinternet.com:80/077551817515/f1458851158x/10055122
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES BR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/TNTSERIES.png" group-title="FILMES E SERIES",TNT SERIES BR
 http://jhsinternet.com:80/077551817515/f1458851158x/10205388
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES HD BR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/TNTSERIES.png" group-title="FILMES E SERIES",TNT SERIES HD BR
-http://jhsinternet.com:80/077551817515/f1458851158x/17098
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/TNTSERIES.png" group-title="FILMES E SERIES",TNT SERIES SD
 http://jhsinternet.com:80/077551817515/f1458851158x/259
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/TNTSERIES.png" group-title="FILMES E SERIES",TNT SERIES SD*
@@ -3001,10 +2985,8 @@ http://jhsinternet.com:80/077551817515/f1458851158x/10055060
 http://jhsinternet.com:80/077551817515/f1458851158x/241
 #EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/WARNERCHANNEL.png" group-title="FILMES E SERIES",WARNER HD*
 http://jhsinternet.com:80/077551817515/f1458851158x/10055059
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL BR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/WARNERCHANNEL.png" group-title="FILMES E SERIES",WARNER CHANNEL BR
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER BR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/WARNERCHANNEL.png" group-title="FILMES E SERIES",WARNER BR
 http://jhsinternet.com:80/077551817515/f1458851158x/10205385
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER HD BR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/WARNERCHANNEL.png" group-title="FILMES E SERIES",WARNER HD BR
-http://jhsinternet.com:80/077551817515/f1458851158x/17095
 #EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/WARNERCHANNEL.png" group-title="FILMES E SERIES",WARNER SD
 http://jhsinternet.com:80/077551817515/f1458851158x/242
 #EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/WARNERCHANNEL.png" group-title="FILMES E SERIES",WARNER SD*
@@ -3025,14 +3007,6 @@ http://jhsinternet.com:80/077551817515/f1458851158x/10040592
 http://jhsinternet.com:80/077551817515/f1458851158x/10040593
 #EXTINF:-1 tvg-id="CineSky.br" tvg-name="CINE SKY 09" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/sky.png" group-title="FILMES E SERIES",CINE SKY 09
 http://jhsinternet.com:80/077551817515/f1458851158x/10040594
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/A%26E.png" group-title="FILMES E SERIES",A&E SD
-http://jhsinternet.com:80/077551817515/f1458851158x/299
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/A%26E.png" group-title="FILMES E SERIES",A&E SD*
-http://jhsinternet.com:80/077551817515/f1458851158x/10055048
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/AMC.png" group-title="FILMES E SERIES",AMC SD
-http://jhsinternet.com:80/077551817515/f1458851158x/5298
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/AMC.png" group-title="FILMES E SERIES",AMC SD*
-http://jhsinternet.com:80/077551817515/f1458851158x/10055040
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HALLO MOVIES" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/icons/r0PESm98lFq68DEy2dkYeIhZ8bW6NC8nXt2x3i8L.jpg" group-title="FILMES E SERIES",HALLO MOVIES
 http://jhsinternet.com:80/077551817515/f1458851158x/10249992
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HALLO CLASSIC" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/icons/al6yZxjhFSWAZCsSU8aGyQXDNqnIOAXtwNNEDRIk.jpg" group-title="FILMES E SERIES",HALLO CLASSIC
@@ -4107,7 +4081,7 @@ http://jhsinternet.com:80/077551817515/f1458851158x/10054155
 http://jhsinternet.com:80/077551817515/f1458851158x/10048335
 #EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA FHDR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/VIVA.png" group-title="4K E FHDR",VIVA FHDR
 http://jhsinternet.com:80/077551817515/f1458851158x/10054154
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL FHDR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/WARNERCHANNEL.png" group-title="4K E FHDR",WARNER CHANNEL FHDR
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER FHDR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/WARNERCHANNEL.png" group-title="4K E FHDR",WARNER FHDR
 http://jhsinternet.com:80/077551817515/f1458851158x/10054153
 #EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO FHDR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/WOOHOO.png" group-title="4K E FHDR",WOOHOO FHDR
 http://jhsinternet.com:80/077551817515/f1458851158x/10054152
