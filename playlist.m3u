@@ -963,11 +963,11 @@ http://jhsinternet.com:80/077551817515/f1458851158x/10205406
 http://jhsinternet.com:80/077551817515/f1458851158x/337
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV SP SD*
 http://jhsinternet.com:80/077551817515/f1458851158x/10054408
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV INTERIOR SP FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV INTERIOR SP FHD*
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP INTERIOR FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV SP INTERIOR FHD
 http://jhsinternet.com:80/077551817515/f1458851158x/10054431
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV INTERIOR SP HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV INTERIOR SP HD*
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP INTERIOR HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV SP INTERIOR HD
 http://jhsinternet.com:80/077551817515/f1458851158x/10054430
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV INTERIOR SP SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV INTERIOR SP SD*
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP INTERIOR SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV SP INTERIOR SD
 http://jhsinternet.com:80/077551817515/f1458851158x/10054429
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SAO JOSE DO RIO PRETO FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV SAO JOSE DO RIO PRETO FHD*
 http://jhsinternet.com:80/077551817515/f1458851158x/10054413
@@ -983,11 +983,11 @@ http://jhsinternet.com:80/077551817515/f1458851158x/10054418
 http://jhsinternet.com:80/077551817515/f1458851158x/10027009
 #EXTINF:-1 tvg-id="Recordrj.br" tvg-name="RECORDTV RJ SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV RJ SD*
 http://jhsinternet.com:80/077551817515/f1458851158x/10054417
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV INTERIOR RJ FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV INTERIOR RJ FHD*
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV RJ INTERIOR FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV RJ INTERIOR FHD
 http://jhsinternet.com:80/077551817515/f1458851158x/10054434
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV INTERIOR RJ HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV INTERIOR RJ HD*
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV RJ INTERIOR HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV RJ INTERIOR HD
 http://jhsinternet.com:80/077551817515/f1458851158x/10054433
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV INTERIOR RJ SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV INTERIOR RJ SD*
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV RJ INTERIOR SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV RJ INTERIOR SD
 http://jhsinternet.com:80/077551817515/f1458851158x/10054432
 #EXTINF:-1 tvg-id="Recordmg.br" tvg-name="RECORDTV MG FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV MG FHD*
 http://jhsinternet.com:80/077551817515/f1458851158x/10054421
@@ -1001,16 +1001,10 @@ http://jhsinternet.com:80/077551817515/f1458851158x/9822
 http://jhsinternet.com:80/077551817515/f1458851158x/10054419
 #EXTINF:-1 tvg-id="RecordGoias.br" tvg-name="RECORDTV GO FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV GO FHD*
 http://jhsinternet.com:80/077551817515/f1458851158x/10054437
-#EXTINF:-1 tvg-id="RecordGoias.br" tvg-name="RECORDTV GO HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV GO HD
-http://jhsinternet.com:80/077551817515/f1458851158x/10027007
 #EXTINF:-1 tvg-id="RecordGoias.br" tvg-name="RECORDTV GO HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV GO HD*
 http://jhsinternet.com:80/077551817515/f1458851158x/10054436
-#EXTINF:-1 tvg-id="RecordGoias.br" tvg-name="RECORDTV GO SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV GO SD
-http://jhsinternet.com:80/077551817515/f1458851158x/10027006
 #EXTINF:-1 tvg-id="RecordGoias.br" tvg-name="RECORDTV GO SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV GO SD*
 http://jhsinternet.com:80/077551817515/f1458851158x/10054435
-#EXTINF:-1 tvg-id="RecordBrasilia.br" tvg-name="RECORDTV DF HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV DF HD
-http://jhsinternet.com:80/077551817515/f1458851158x/10640
 #EXTINF:-1 tvg-id="RecordBrasilia.br" tvg-name="RECORDTV DF HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV DF HD*
 http://jhsinternet.com:80/077551817515/f1458851158x/10054439
 #EXTINF:-1 tvg-id="RecordBrasilia.br" tvg-name="RECORDTV DF SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV DF SD
@@ -1029,32 +1023,82 @@ http://jhsinternet.com:80/077551817515/f1458851158x/10054415
 http://jhsinternet.com:80/077551817515/f1458851158x/10642
 #EXTINF:-1 tvg-id="Recordrs.br" tvg-name="RECORDTV RS SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV RS SD*
 http://jhsinternet.com:80/077551817515/f1458851158x/10054414
-#EXTINF:-1 tvg-id="Recordrs.br" tvg-name="RECORDTV RS SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV RS SD
-http://jhsinternet.com:80/077551817515/f1458851158x/10643
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV CAMPINAS SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV CAMPINAS SD
 http://jhsinternet.com:80/077551817515/f1458851158x/10027003
 #EXTINF:-1 tvg-id="RecordTVBahia" tvg-name="RECORDTV BAHIA FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV BAHIA FHD
 http://jhsinternet.com:80/077551817515/f1458851158x/10041072
 #EXTINF:-1 tvg-id="RecordTVBahia" tvg-name="RECORDTV BA HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV BA HD
 http://jhsinternet.com:80/077551817515/f1458851158x/19413
-#EXTINF:-1 tvg-id="RecordTVBahia" tvg-name="RECORDTV BA SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV BA SD
+#EXTINF:-1 tvg-id="RecordTVBahia" tvg-name="RECORDTV BA" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV BA
 http://jhsinternet.com:80/077551817515/f1458851158x/19414
 #EXTINF:-1 tvg-id="RecordTVBahia" tvg-name="RECORDTV VITORIA" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV VITORIA
 http://jhsinternet.com:80/077551817515/f1458851158x/10073972
-#EXTINF:-1 tvg-id="RecordTVBelem.br" tvg-name="RECORDTV BELEM FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV BELEM FHD*
+#EXTINF:-1 tvg-id="RecordTVBelem.br" tvg-name="RECORDTV BELEM FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV BELEM FHD
 http://jhsinternet.com:80/077551817515/f1458851158x/10054442
 #EXTINF:-1 tvg-id="RecordTVBelem.br" tvg-name="RECORDTV BELEM HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV BELEM HD
 http://jhsinternet.com:80/077551817515/f1458851158x/10027004
-#EXTINF:-1 tvg-id="RecordTVBelem.br" tvg-name="RECORDTV BELEM HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV BELEM HD*
-http://jhsinternet.com:80/077551817515/f1458851158x/10054441
 #EXTINF:-1 tvg-id="RecordTVBelem.br" tvg-name="RECORDTV BELEM SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV BELEM SD
 http://jhsinternet.com:80/077551817515/f1458851158x/10027005
-#EXTINF:-1 tvg-id="RecordTVBelem.br" tvg-name="RECORDTV BELEM SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV BELEM SD*
-http://jhsinternet.com:80/077551817515/f1458851158x/10054440
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV RN TV TROPICAL" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV RN TV TROPICAL
 http://jhsinternet.com:80/077551817515/f1458851158x/10027012
 #EXTINF:-1 tvg-id="RecordTVBahia" tvg-name="RECORDTV ATALAIA" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV ATALAIA
 http://jhsinternet.com:80/077551817515/f1458851158x/10040632
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECORDTV GOIAS FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV GOIAS FHD
+http://jhsinternet.com:80/077551817515/f1458851158x/10255879
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECORDTV GOIAS HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV GOIAS HD
+http://jhsinternet.com:80/077551817515/f1458851158x/10255878
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECORDTV BAURU" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV BAURU
+http://jhsinternet.com:80/077551817515/f1458851158x/10255877
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECORDTV BRASILIA" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV BRASILIA
+http://jhsinternet.com:80/077551817515/f1458851158x/10255876
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECORDTV CABRALIA" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV CABRALIA
+http://jhsinternet.com:80/077551817515/f1458851158x/10255875
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECORDTV CURITIBA" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV CURITIBA
+http://jhsinternet.com:80/077551817515/f1458851158x/10255874
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECORDTV FLORIANOPOLIS" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV FLORIANOPOLIS
+http://jhsinternet.com:80/077551817515/f1458851158x/10255873
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECORDTV FORTALEZA" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV FORTALEZA
+http://jhsinternet.com:80/077551817515/f1458851158x/10255872
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECORDTV FRANCA FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV FRANCA FHD
+http://jhsinternet.com:80/077551817515/f1458851158x/10255871
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECORDTV FRANCA HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV FRANCA HD
+http://jhsinternet.com:80/077551817515/f1458851158x/10255870
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECORDTV GUARARAPES FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV GUARARAPES FHD
+http://jhsinternet.com:80/077551817515/f1458851158x/10255869
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECORDTV GUARARAPES HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV GUARARAPES HD
+http://jhsinternet.com:80/077551817515/f1458851158x/10255868
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECORDTV ITABUNA" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV ITABUNA
+http://jhsinternet.com:80/077551817515/f1458851158x/10255867
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECORDTV LESTE HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV LESTE HD
+http://jhsinternet.com:80/077551817515/f1458851158x/10255866
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECORDTV LESTE SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV LESTE SD
+http://jhsinternet.com:80/077551817515/f1458851158x/10255865
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECORDTV PARANAIBA UBERLANDIA FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV PARANAIBA UBERLANDIA FHD
+http://jhsinternet.com:80/077551817515/f1458851158x/10255864
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECORDTV PARANAIBA UBERLANDIA HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV PARANAIBA UBERLANDIA HD
+http://jhsinternet.com:80/077551817515/f1458851158x/10255863
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECORDTV PAULISTA FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV PAULISTA FHD
+http://jhsinternet.com:80/077551817515/f1458851158x/10255862
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECORDTV PIAUAI FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV PIAUAI FHD
+http://jhsinternet.com:80/077551817515/f1458851158x/10255861
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECORDTV PIAUAI HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV PIAUAI HD
+http://jhsinternet.com:80/077551817515/f1458851158x/10255860
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECORDTV RECIFE" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV RECIFE
+http://jhsinternet.com:80/077551817515/f1458851158x/10255859
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECORDTV RORAIMA FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV RORAIMA FHD
+http://jhsinternet.com:80/077551817515/f1458851158x/10255856
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECORDTV RORAIMA HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV RORAIMA HD
+http://jhsinternet.com:80/077551817515/f1458851158x/10255855
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECORDTV SANTA CATARINA" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV SANTA CATARINA
+http://jhsinternet.com:80/077551817515/f1458851158x/10255854
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECORDTV THATHI CAMPINAS FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV THATHI CAMPINAS FHD
+http://jhsinternet.com:80/077551817515/f1458851158x/10255852
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECORDTV THATHI CAMPINAS HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV THATHI CAMPINAS HD
+http://jhsinternet.com:80/077551817515/f1458851158x/10255851
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECORDTV VILA REAL FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV VILA REAL FHD
+http://jhsinternet.com:80/077551817515/f1458851158x/10255850
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECORDTV VILA REAL HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV VILA REAL HD
+http://jhsinternet.com:80/077551817515/f1458851158x/10255849
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV PARAIBA TV CORREIO" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV PARAIBA TV CORREIO
 http://jhsinternet.com:80/077551817515/f1458851158x/10035810
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV ITAPOAN HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV ITAPOAN HD*
