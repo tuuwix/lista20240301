@@ -1,10 +1,4 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/p87vnr5wegu44qe8y41j"
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FUTEBOL NA TV" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/FUTEBOL%20NA%20TV.png" group-title="AREA CLIENTE",FUTEBOL NA TV
-http://jhsinternet.com:80/077551817515/f1458851158x/10187967
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FILMES E SERIES" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/FILMES%20e%20SERIES.png" group-title="AREA CLIENTE",FILMES E SERIES
-http://jhsinternet.com:80/077551817515/f1458851158x/10187968
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC NIGHT" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/UFC%20NIGHT.png" group-title="AREA CLIENTE",UFC NIGHT
-http://jhsinternet.com:80/077551817515/f1458851158x/10187969
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB SP FHD
 http://jhsinternet.com:80/077551817515/f1458851158x/6283
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP FHD BR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB SP FHD BR
@@ -2889,16 +2883,8 @@ http://jhsinternet.com:80/077551817515/f1458851158x/10054924
 http://jhsinternet.com:80/077551817515/f1458851158x/9605
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/COMEDYCENTRAL.png" group-title="FILMES E SERIES",COMEDY CENTRAL FHD*
 http://jhsinternet.com:80/077551817515/f1458851158x/10054915
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FHD H265" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/COMEDYCENTRAL.png" group-title="FILMES E SERIES",COMEDY CENTRAL FHD H265
-http://jhsinternet.com:80/077551817515/f1458851158x/17378
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/COMEDYCENTRAL.png" group-title="FILMES E SERIES",COMEDY CENTRAL HD
 http://jhsinternet.com:80/077551817515/f1458851158x/2861
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/COMEDYCENTRAL.png" group-title="FILMES E SERIES",COMEDY CENTRAL HD*
-http://jhsinternet.com:80/077551817515/f1458851158x/10054913
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/COMEDYCENTRAL.png" group-title="FILMES E SERIES",COMEDY CENTRAL SD*
-http://jhsinternet.com:80/077551817515/f1458851158x/10054912
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/COMEDYCENTRAL.png" group-title="FILMES E SERIES",COMEDY CENTRAL SD
-http://jhsinternet.com:80/077551817515/f1458851158x/97
 #EXTINF:-1 tvg-id="Epg.br" tvg-name="LIKE FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/Like.png" group-title="FILMES E SERIES",LIKE FHD*
 http://jhsinternet.com:80/077551817515/f1458851158x/10054545
 #EXTINF:-1 tvg-id="Epg.br" tvg-name="LIKE HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/Like.png" group-title="FILMES E SERIES",LIKE HD*
@@ -2909,14 +2895,8 @@ http://jhsinternet.com:80/077551817515/f1458851158x/10054542
 http://jhsinternet.com:80/077551817515/f1458851158x/9634
 #EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/PARAMOUNTNETWORK.png" group-title="FILMES E SERIES",PARAMOUNT FHD*
 http://jhsinternet.com:80/077551817515/f1458851158x/10054484
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT FHD H265" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/PARAMOUNTNETWORK.png" group-title="FILMES E SERIES",PARAMOUNT FHD H265
-http://jhsinternet.com:80/077551817515/f1458851158x/2962
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/PARAMOUNTNETWORK.png" group-title="FILMES E SERIES",PARAMOUNT HD
-http://jhsinternet.com:80/077551817515/f1458851158x/228
 #EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/PARAMOUNTNETWORK.png" group-title="FILMES E SERIES",PARAMOUNT HD*
 http://jhsinternet.com:80/077551817515/f1458851158x/10054482
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT BR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/PARAMOUNTNETWORK.png" group-title="FILMES E SERIES",PARAMOUNT BR
-http://jhsinternet.com:80/077551817515/f1458851158x/10205420
 #EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/PARAMOUNTNETWORK.png" group-title="FILMES E SERIES",PARAMOUNT SD
 http://jhsinternet.com:80/077551817515/f1458851158x/10054481
 #EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/SPACE.png" group-title="FILMES E SERIES",SPACE FHD
@@ -3331,30 +3311,10 @@ http://jhsinternet.com:80/077551817515/f1458851158x/4955
 http://jhsinternet.com:80/077551817515/f1458851158x/10054961
 #EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/BIS.png" group-title="MUSICAIS",BIS SD*
 http://jhsinternet.com:80/077551817515/f1458851158x/10054960
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/MTV.png" group-title="MUSICAIS",MTV FHD
-http://jhsinternet.com:80/077551817515/f1458851158x/5913
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/MTV.png" group-title="MUSICAIS",MTV FHD*
-http://jhsinternet.com:80/077551817515/f1458851158x/10054530
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/MTV.png" group-title="MUSICAIS",MTV HD
-http://jhsinternet.com:80/077551817515/f1458851158x/4957
 #EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/MTV.png" group-title="MUSICAIS",MTV HD*
 http://jhsinternet.com:80/077551817515/f1458851158x/10054528
 #EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV BR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/MTV.png" group-title="MUSICAIS",MTV BR
 http://jhsinternet.com:80/077551817515/f1458851158x/10205435
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/MTV.png" group-title="MUSICAIS",MTV SD
-http://jhsinternet.com:80/077551817515/f1458851158x/86
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/MTV.png" group-title="MUSICAIS",MTV SD*
-http://jhsinternet.com:80/077551817515/f1458851158x/10054523
-#EXTINF:-1 tvg-id="Mtvlive.br" tvg-name="MTV LIVE FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/MTVLIVE.png" group-title="MUSICAIS",MTV LIVE FHD
-http://jhsinternet.com:80/077551817515/f1458851158x/9627
-#EXTINF:-1 tvg-id="Mtvlive.br" tvg-name="MTV LIVE FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/MTVLIVE.png" group-title="MUSICAIS",MTV LIVE FHD*
-http://jhsinternet.com:80/077551817515/f1458851158x/10054527
-#EXTINF:-1 tvg-id="Mtvlive.br" tvg-name="MTV LIVE HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/MTVLIVE.png" group-title="MUSICAIS",MTV LIVE HD
-http://jhsinternet.com:80/077551817515/f1458851158x/9626
-#EXTINF:-1 tvg-id="Mtvlive.br" tvg-name="MTV LIVE HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/MTVLIVE.png" group-title="MUSICAIS",MTV LIVE HD*
-http://jhsinternet.com:80/077551817515/f1458851158x/10054525
-#EXTINF:-1 tvg-id="Mtvlive.br" tvg-name="MTV LIVE SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/MTVLIVE.png" group-title="MUSICAIS",MTV LIVE SD*
-http://jhsinternet.com:80/077551817515/f1458851158x/10054524
 #EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="MUSIC BOX BRAZIL FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/MUSICBOXBRAZIL.png" group-title="MUSICAIS",MUSIC BOX BRAZIL FHD
 http://jhsinternet.com:80/077551817515/f1458851158x/9629
 #EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="MUSIC BOX BRAZIL FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/MUSICBOXBRAZIL.png" group-title="MUSICAIS",MUSIC BOX BRAZIL FHD*
@@ -3727,8 +3687,6 @@ http://jhsinternet.com:80/077551817515/f1458851158x/5347
 http://jhsinternet.com:80/077551817515/f1458851158x/5910
 #EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICK FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/NICKELODEON.png" group-title="INFANTIS",NICK FHD*
 http://jhsinternet.com:80/077551817515/f1458851158x/10054500
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICK FHD H265" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/NICKELODEON.png" group-title="INFANTIS",NICK FHD H265
-http://jhsinternet.com:80/077551817515/f1458851158x/17348
 #EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICK FHD H265*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/NICKELODEON.png" group-title="INFANTIS",NICK FHD H265*
 http://jhsinternet.com:80/077551817515/f1458851158x/10054499
 #EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICK HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/NICKELODEON.png" group-title="INFANTIS",NICK HD
@@ -3739,26 +3697,6 @@ http://jhsinternet.com:80/077551817515/f1458851158x/10054498
 http://jhsinternet.com:80/077551817515/f1458851158x/10205430
 #EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICK SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/NICKELODEON.png" group-title="INFANTIS",NICK SD*
 http://jhsinternet.com:80/077551817515/f1458851158x/10054497
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICK SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/NICKELODEON.png" group-title="INFANTIS",NICK SD
-http://jhsinternet.com:80/077551817515/f1458851158x/50
-#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/NICKJR.png" group-title="INFANTIS",NICK JR FHD
-http://jhsinternet.com:80/077551817515/f1458851158x/5911
-#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR. FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/NICKJR.png" group-title="INFANTIS",NICK JR. FHD*
-http://jhsinternet.com:80/077551817515/f1458851158x/10054496
-#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR FHD H265" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/NICKJR.png" group-title="INFANTIS",NICK JR FHD H265
-http://jhsinternet.com:80/077551817515/f1458851158x/17349
-#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR. FHD H265*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/NICKJR.png" group-title="INFANTIS",NICK JR. FHD H265*
-http://jhsinternet.com:80/077551817515/f1458851158x/10054495
-#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/NICKJR.png" group-title="INFANTIS",NICK JR HD
-http://jhsinternet.com:80/077551817515/f1458851158x/5045
-#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR. HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/NICKJR.png" group-title="INFANTIS",NICK JR. HD*
-http://jhsinternet.com:80/077551817515/f1458851158x/10054494
-#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR BR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/NICKJR.png" group-title="INFANTIS",NICK JR BR
-http://jhsinternet.com:80/077551817515/f1458851158x/10205431
-#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/NICKJR.png" group-title="INFANTIS",NICK JR SD
-http://jhsinternet.com:80/077551817515/f1458851158x/52
-#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR. SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/NICKJR.png" group-title="INFANTIS",NICK JR. SD*
-http://jhsinternet.com:80/077551817515/f1458851158x/10054493
 #EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/TOONCAST.png" group-title="INFANTIS",TOONCAST FHD
 http://jhsinternet.com:80/077551817515/f1458851158x/10027050
 #EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/TOONCAST.png" group-title="INFANTIS",TOONCAST HD
@@ -3905,10 +3843,6 @@ http://jhsinternet.com:80/077551817515/f1458851158x/10039425
 http://jhsinternet.com:80/077551817515/f1458851158x/10054263
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE FHDR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/COMBATE.png" group-title="4K E FHDR",COMBATE FHDR
 http://jhsinternet.com:80/077551817515/f1458851158x/10054262
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL 4K" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/COMEDYCENTRAL.png" group-title="4K E FHDR",COMEDY CENTRAL 4K
-http://jhsinternet.com:80/077551817515/f1458851158x/10048429
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FHDR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/COMEDYCENTRAL.png" group-title="4K E FHDR",COMEDY CENTRAL FHDR
-http://jhsinternet.com:80/077551817515/f1458851158x/10054261
 #EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="PARAMOUNT+ 1 FHDR" tvg-logo="http://st1.p2elite.com:8080/icon/11185-b-1758815897089.png" group-title="4K E FHDR",PARAMOUNT+ 1 FHDR
 http://jhsinternet.com:80/077551817515/f1458851158x/10054260
 #EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="PARAMOUNT+ 2 FHDR" tvg-logo="http://st1.p2elite.com:8080/icon/11185-b-1758815897089.png" group-title="4K E FHDR",PARAMOUNT+ 2 FHDR
@@ -4007,22 +3941,12 @@ http://jhsinternet.com:80/077551817515/f1458851158x/10054213
 http://jhsinternet.com:80/077551817515/f1458851158x/10054211
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHDR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/MEGAPIX.png" group-title="4K E FHDR",MEGAPIX FHDR
 http://jhsinternet.com:80/077551817515/f1458851158x/10054210
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV FHDR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/MTV.png" group-title="4K E FHDR",MTV FHDR
-http://jhsinternet.com:80/077551817515/f1458851158x/10054209
-#EXTINF:-1 tvg-id="Mtvlive.br" tvg-name="MTV LIVE FHDR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/MTVLIVE.png" group-title="4K E FHDR",MTV LIVE FHDR
-http://jhsinternet.com:80/077551817515/f1458851158x/10054208
 #EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW FHDR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/MULTISHOW.png" group-title="4K E FHDR",MULTISHOW FHDR
 http://jhsinternet.com:80/077551817515/f1458851158x/10054207
 #EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="MUSIC BOX BRAZIL FHDR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/MUSICBOXBRAZIL.png" group-title="4K E FHDR",MUSIC BOX BRAZIL FHDR
 http://jhsinternet.com:80/077551817515/f1458851158x/10054206
-#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR. FHDR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/NICKJR.png" group-title="4K E FHDR",NICK JR. FHDR
-http://jhsinternet.com:80/077551817515/f1458851158x/10054201
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICK FHDR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/NICKELODEON.png" group-title="4K E FHDR",NICK FHDR
-http://jhsinternet.com:80/077551817515/f1458851158x/10054202
 #EXTINF:-1 tvg-id="Off.br" tvg-name="OFF FHDR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/Canal.off.png" group-title="4K E FHDR",OFF FHDR
 http://jhsinternet.com:80/077551817515/f1458851158x/10054200
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT FHDR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/PARAMOUNTNETWORK.png" group-title="4K E FHDR",PARAMOUNT FHDR
-http://jhsinternet.com:80/077551817515/f1458851158x/10054198
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 FHDR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/PREMIERE%202.png" group-title="4K E FHDR",PREMIERE 2 FHDR
 http://jhsinternet.com:80/077551817515/f1458851158x/10054195
 #EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 FHDR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/PREMIERE%203.png" group-title="4K E FHDR",PREMIERE 3 FHDR
@@ -4961,8 +4885,6 @@ http://jhsinternet.com:80/077551817515/f1458851158x/10115962
 http://jhsinternet.com:80/077551817515/f1458851158x/10115955
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: NBA TV" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/NBA%20TV.png" group-title="CANADA",CA: NBA TV
 http://jhsinternet.com:80/077551817515/f1458851158x/10115952
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: NICK" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/NICKELODEON.png" group-title="CANADA",CA: NICK
-http://jhsinternet.com:80/077551817515/f1458851158x/10116112
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: OMNI1" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/CA.OMNI1.png" group-title="CANADA",CA: OMNI1
 http://jhsinternet.com:80/077551817515/f1458851158x/10116110
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: SLICE" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/CA%20SLICE.png" group-title="CANADA",CA: SLICE
