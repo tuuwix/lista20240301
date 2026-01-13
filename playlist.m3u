@@ -1,4 +1,72 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/p87vnr5wegu44qe8y41j"
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB MOSAICO FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB MOSAICO FHD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262052
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB MOSAICO HD [P]" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB MOSAICO HD [P]
+http://jhsinternet.com:80/077551817515/f1458851158x/10262123
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB FHD 1" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB FHD 1
+http://jhsinternet.com:80/077551817515/f1458851158x/10262055
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB HD 1" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB HD 1
+http://jhsinternet.com:80/077551817515/f1458851158x/10262056
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB 1 HD [P]" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB 1 HD [P]
+http://jhsinternet.com:80/077551817515/f1458851158x/10262127
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 1" tvg-logo="" group-title="BBB 2026",BBB CAM 1
+http://jhsinternet.com:80/077551817515/f1458851158x/10262139
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB FHD 2" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB FHD 2
+http://jhsinternet.com:80/077551817515/f1458851158x/10262053
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB HD 2" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB HD 2
+http://jhsinternet.com:80/077551817515/f1458851158x/10262054
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB 2 HD [P]" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB 2 HD [P]
+http://jhsinternet.com:80/077551817515/f1458851158x/10262125
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 2" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB CAM 2
+http://jhsinternet.com:80/077551817515/f1458851158x/10262138
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 3 FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB CAM 3 FHD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262057
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 3 HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB CAM 3 HD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262058
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 3" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB CAM 3
+http://jhsinternet.com:80/077551817515/f1458851158x/10262137
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 4 FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB CAM 4 FHD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262059
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 4 HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB CAM 4 HD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262060
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 4" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB CAM 4
+http://jhsinternet.com:80/077551817515/f1458851158x/10262136
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 5 FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB CAM 5 FHD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262061
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 5 HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB CAM 5 HD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262062
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 5" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB CAM 5
+http://jhsinternet.com:80/077551817515/f1458851158x/10262135
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 6 FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB CAM 6 FHD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262063
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 6 HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB CAM 6 HD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262064
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 6" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB CAM 6
+http://jhsinternet.com:80/077551817515/f1458851158x/10262134
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 7 FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB CAM 7 FHD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262065
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 7 HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB CAM 7 HD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262066
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 7" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB CAM 7
+http://jhsinternet.com:80/077551817515/f1458851158x/10262133
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 8 FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB CAM 8 FHD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262067
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 8 HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB CAM 8 HD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262068
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 8" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB CAM 8
+http://jhsinternet.com:80/077551817515/f1458851158x/10262132
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 9 FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB CAM 9 FHD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262069
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 9 HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB CAM 9 HD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262070
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 9" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB CAM 9
+http://jhsinternet.com:80/077551817515/f1458851158x/10262131
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 10 FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB CAM 10 FHD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262071
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 10 HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB CAM 10 HD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262072
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 10" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB CAM 10
+http://jhsinternet.com:80/077551817515/f1458851158x/10262130
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB SP FHD
 http://jhsinternet.com:80/077551817515/f1458851158x/6283
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP FHD BR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CAPITAIS",GB SP FHD BR
@@ -707,16 +775,12 @@ http://jhsinternet.com:80/077551817515/f1458851158x/10054662
 http://jhsinternet.com:80/077551817515/f1458851158x/9590
 #EXTINF:-1 tvg-id="Redeclube.br" tvg-name="TV CLUBE TERESINA FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",TV CLUBE TERESINA FHD
 http://jhsinternet.com:80/077551817515/f1458851158x/9518
-#EXTINF:-1 tvg-id="Redeclube.br" tvg-name="TV CLUBE TERESINA FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",TV CLUBE TERESINA FHD*
-http://jhsinternet.com:80/077551817515/f1458851158x/10054688
 #EXTINF:-1 tvg-id="Redeclube.br" tvg-name="TV CLUBE TERESINA HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",TV CLUBE TERESINA HD
 http://jhsinternet.com:80/077551817515/f1458851158x/9517
 #EXTINF:-1 tvg-id="Redeclube.br" tvg-name="TV CLUBE TERESINA HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",TV CLUBE TERESINA HD*
 http://jhsinternet.com:80/077551817515/f1458851158x/10054687
 #EXTINF:-1 tvg-id="Redeclube.br" tvg-name="TV CLUBE TERESINA SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",TV CLUBE TERESINA SD
 http://jhsinternet.com:80/077551817515/f1458851158x/9519
-#EXTINF:-1 tvg-id="Redeclube.br" tvg-name="TV CLUBE TERESINA SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",TV CLUBE TERESINA SD*
-http://jhsinternet.com:80/077551817515/f1458851158x/10054686
 #EXTINF:-1 tvg-id="Globorecife.br" tvg-name="TV ASA BRANCA FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",TV ASA BRANCA FHD
 http://jhsinternet.com:80/077551817515/f1458851158x/10049038
 #EXTINF:-1 tvg-id="Globorecife.br" tvg-name="TV ASA BRANCA HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",TV ASA BRANCA HD
@@ -789,6 +853,24 @@ http://jhsinternet.com:80/077551817515/f1458851158x/10189171
 http://jhsinternet.com:80/077551817515/f1458851158x/10189170
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV MIRANTE BALSAS" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORDESTE",TV MIRANTE BALSAS
 http://jhsinternet.com:80/077551817515/f1458851158x/10189169
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO TV VERDES MARES CARIRI SD" tvg-logo="" group-title="GLOBOS | NORDESTE",GLOBO TV VERDES MARES CARIRI SD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262094
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO TV VERDES MARES CARIRI HD" tvg-logo="" group-title="GLOBOS | NORDESTE",GLOBO TV VERDES MARES CARIRI HD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262093
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO TV VERDES MARES CARIRI FHD" tvg-logo="" group-title="GLOBOS | NORDESTE",GLOBO TV VERDES MARES CARIRI FHD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262092
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO TV ALVORADA DO SUL SD" tvg-logo="" group-title="GLOBOS | NORDESTE",GLOBO TV ALVORADA DO SUL SD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262091
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO TV ALVORADA DO SUL HD" tvg-logo="" group-title="GLOBOS | NORDESTE",GLOBO TV ALVORADA DO SUL HD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262090
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO TV ALVORADA DO SUL FHD" tvg-logo="" group-title="GLOBOS | NORDESTE",GLOBO TV ALVORADA DO SUL FHD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262089
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO INTER TV COSTA BRANCA SD" tvg-logo="" group-title="GLOBOS | NORDESTE",GLOBO INTER TV COSTA BRANCA SD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262084
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO INTER TV COSTA BRANCA HD" tvg-logo="" group-title="GLOBOS | NORDESTE",GLOBO INTER TV COSTA BRANCA HD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262083
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO INTER TV COSTA BRANCA FHD" tvg-logo="" group-title="GLOBOS | NORDESTE",GLOBO INTER TV COSTA BRANCA FHD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262082
 #EXTINF:-1 tvg-id="Tvmorena.br" tvg-name="TV MORENA CAMPO GRANDE FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CENTRO-OESTE",TV MORENA CAMPO GRANDE FHD
 http://jhsinternet.com:80/077551817515/f1458851158x/9589
 #EXTINF:-1 tvg-id="Tvmorena.br" tvg-name="TV MORENA CAMPO GRANDE HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | CENTRO-OESTE",TV MORENA CAMPO GRANDE HD
@@ -911,6 +993,14 @@ http://jhsinternet.com:80/077551817515/f1458851158x/10189187
 http://jhsinternet.com:80/077551817515/f1458851158x/10189186
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="REDE AMAZONICA RORAINOPOLIS HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/gbnovo.png" group-title="GLOBOS | NORTE",REDE AMAZONICA RORAINOPOLIS HD
 http://jhsinternet.com:80/077551817515/f1458851158x/10189185
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO REDE AMAZONAS MACAPA SD" tvg-logo="" group-title="GLOBOS | NORTE",GLOBO REDE AMAZONAS MACAPA SD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262088
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO REDE AMAZONAS ARQUEMES SD" tvg-logo="" group-title="GLOBOS | NORTE",GLOBO REDE AMAZONAS ARQUEMES SD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262087
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO REDE AMAZONAS ARQUEMES HD" tvg-logo="" group-title="GLOBOS | NORTE",GLOBO REDE AMAZONAS ARQUEMES HD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262086
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO REDE AMAZONAS ARQUEMES FHD" tvg-logo="" group-title="GLOBOS | NORTE",GLOBO REDE AMAZONAS ARQUEMES FHD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262085
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV SP FHD
 http://jhsinternet.com:80/077551817515/f1458851158x/6306
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV SP FHD*
@@ -1065,6 +1155,50 @@ http://jhsinternet.com:80/077551817515/f1458851158x/10255851
 http://jhsinternet.com:80/077551817515/f1458851158x/10255850
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECORDTV VILA REAL HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV VILA REAL HD
 http://jhsinternet.com:80/077551817515/f1458851158x/10255849
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECORDTV THATHI CAMPINAS SD" tvg-logo="" group-title="RECORDTV",RECORDTV THATHI CAMPINAS SD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262116
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECORDTV PIAUI A10 SD" tvg-logo="" group-title="RECORDTV",RECORDTV PIAUI A10 SD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262115
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECORDTV PIAUI A10 HD" tvg-logo="" group-title="RECORDTV",RECORDTV PIAUI A10 HD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262114
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECORDTV PIAUI A10 FHD" tvg-logo="" group-title="RECORDTV",RECORDTV PIAUI A10 FHD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262113
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECORDTV LESTE FHD" tvg-logo="" group-title="RECORDTV",RECORDTV LESTE FHD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262112
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECORDTV UBERLANDIA SD" tvg-logo="" group-title="RECORDTV",RECORDTV UBERLANDIA SD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262111
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECORDTV UBERLANDIA HD" tvg-logo="" group-title="RECORDTV",RECORDTV UBERLANDIA HD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262110
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECORDTV UBERLANDIA FHD" tvg-logo="" group-title="RECORDTV",RECORDTV UBERLANDIA FHD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262109
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECORDTV RORAIMA SD" tvg-logo="" group-title="RECORDTV",RECORDTV RORAIMA SD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262108
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECORDTV PAULISTA SD" tvg-logo="" group-title="RECORDTV",RECORDTV PAULISTA SD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262107
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECORDTV PAULISTA HD" tvg-logo="" group-title="RECORDTV",RECORDTV PAULISTA HD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262106
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECORDTV PARAIBA TV CORREIO SD" tvg-logo="" group-title="RECORDTV",RECORDTV PARAIBA TV CORREIO SD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262105
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECORDTV PARAIBA TV CORREIO HD" tvg-logo="" group-title="RECORDTV",RECORDTV PARAIBA TV CORREIO HD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262104
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECORDTV PARAIBA TV CORREIO FHD" tvg-logo="" group-title="RECORDTV",RECORDTV PARAIBA TV CORREIO FHD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262103
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECORDTV MANAUS SD" tvg-logo="" group-title="RECORDTV",RECORDTV MANAUS SD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262102
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECORDTV MANAUS HD" tvg-logo="" group-title="RECORDTV",RECORDTV MANAUS HD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262101
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECORDTV MANAUS FHD" tvg-logo="" group-title="RECORDTV",RECORDTV MANAUS FHD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262100
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECORDTV LITORAL VALE DO PARNAIBA SD" tvg-logo="" group-title="RECORDTV",RECORDTV LITORAL VALE DO PARNAIBA SD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262099
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECORDTV GUARARAPES SD" tvg-logo="" group-title="RECORDTV",RECORDTV GUARARAPES SD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262098
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECORDTV FRANCA E RIBEIRAO SD" tvg-logo="" group-title="RECORDTV",RECORDTV FRANCA E RIBEIRAO SD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262097
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECORDTV FRANCA E RIBEIRAO HD" tvg-logo="" group-title="RECORDTV",RECORDTV FRANCA E RIBEIRAO HD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262096
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECORDTV FRANCA E RIBEIRAO FHD" tvg-logo="" group-title="RECORDTV",RECORDTV FRANCA E RIBEIRAO FHD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262095
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV PARAIBA TV CORREIO" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV PARAIBA TV CORREIO
 http://jhsinternet.com:80/077551817515/f1458851158x/10035810
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV ITAPOAN HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/RECORDTV.png" group-title="RECORDTV",RECORDTV ITAPOAN HD*
@@ -1175,6 +1309,18 @@ http://jhsinternet.com:80/077551817515/f1458851158x/10090785
 http://jhsinternet.com:80/077551817515/f1458851158x/10090784
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT DIFUSORA" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/sbt.png" group-title="SBT",SBT DIFUSORA
 http://jhsinternet.com:80/077551817515/f1458851158x/10237104
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT THATHI VALE SD" tvg-logo="" group-title="SBT",SBT THATHI VALE SD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262122
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT THATHI VALE HD" tvg-logo="" group-title="SBT",SBT THATHI VALE HD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262121
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT THATHI VALE FHD" tvg-logo="" group-title="SBT",SBT THATHI VALE FHD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262120
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT VTV SANTOS CAMPINAS SD" tvg-logo="" group-title="SBT",SBT VTV SANTOS CAMPINAS SD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262119
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT VTV SANTOS CAMPINAS HD" tvg-logo="" group-title="SBT",SBT VTV SANTOS CAMPINAS HD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262118
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT VTV SANTOS CAMPINAS FHD" tvg-logo="" group-title="SBT",SBT VTV SANTOS CAMPINAS FHD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262117
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT+ TV ZYN HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/sbt.png" group-title="SBT",SBT+ TV ZYN HD
 http://jhsinternet.com:80/077551817515/f1458851158x/10179973
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT+ NOVELAS HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/sbt.png" group-title="SBT",SBT+ NOVELAS HD
@@ -1547,6 +1693,12 @@ http://jhsinternet.com:80/077551817515/f1458851158x/10179976
 http://jhsinternet.com:80/077551817515/f1458851158x/10249978
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GE TV*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/GE%20FAST.png" group-title="ESPORTES",GE TV*
 http://jhsinternet.com:80/077551817515/f1458851158x/10249962
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="X SPORTS SD" tvg-logo="" group-title="ESPORTES",X SPORTS SD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262078
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="X SPORTS HD" tvg-logo="" group-title="ESPORTES",X SPORTS HD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262077
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="X SPORTS FHD" tvg-logo="" group-title="ESPORTES",X SPORTS FHD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262076
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/PREMIERE.png" group-title="PREMIERE ESPORTES",PREMIERE CLUBES FHD
 http://jhsinternet.com:80/077551817515/f1458851158x/5761
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES FHD ALT" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/PREMIERE.png" group-title="PREMIERE ESPORTES",PREMIERE CLUBES FHD ALT
@@ -1867,6 +2019,12 @@ http://jhsinternet.com:80/077551817515/f1458851158x/10150617
 http://jhsinternet.com:80/077551817515/f1458851158x/10150616
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVE BAHIA" tvg-logo="" group-title="ESTADUAIS",TVE BAHIA
 http://jhsinternet.com:80/077551817515/f1458851158x/10203894
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ITTV PLUS - SERGIPAO 3 FHD" tvg-logo="" group-title="ESTADUAIS",ITTV PLUS - SERGIPAO 3 FHD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262075
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ITTV PLUS - SERGIPAO 2 FHD" tvg-logo="" group-title="ESTADUAIS",ITTV PLUS - SERGIPAO 2 FHD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262074
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ITTV PLUS - SERGIPAO 1 FHD" tvg-logo="" group-title="ESTADUAIS",ITTV PLUS - SERGIPAO 1 FHD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262073
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO MAX 1 FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/HBOMAX.png" group-title="HBO MAX PPV",HBO MAX 1 FHD
 http://jhsinternet.com:80/077551817515/f1458851158x/10150605
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO MAX 1 HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/HBOMAX.png" group-title="HBO MAX PPV",HBO MAX 1 HD
@@ -2883,8 +3041,6 @@ http://jhsinternet.com:80/077551817515/f1458851158x/10054924
 http://jhsinternet.com:80/077551817515/f1458851158x/9605
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/COMEDYCENTRAL.png" group-title="FILMES E SERIES",COMEDY CENTRAL FHD*
 http://jhsinternet.com:80/077551817515/f1458851158x/10054915
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/COMEDYCENTRAL.png" group-title="FILMES E SERIES",COMEDY CENTRAL HD
-http://jhsinternet.com:80/077551817515/f1458851158x/2861
 #EXTINF:-1 tvg-id="Epg.br" tvg-name="LIKE FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/Like.png" group-title="FILMES E SERIES",LIKE FHD*
 http://jhsinternet.com:80/077551817515/f1458851158x/10054545
 #EXTINF:-1 tvg-id="Epg.br" tvg-name="LIKE HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/Like.png" group-title="FILMES E SERIES",LIKE HD*
@@ -3037,6 +3193,12 @@ http://jhsinternet.com:80/077551817515/f1458851158x/10249967
 http://jhsinternet.com:80/077551817515/f1458851158x/10249966
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINE SUCESSOS" tvg-logo="" group-title="FILMES E SERIES",CINE SUCESSOS
 http://jhsinternet.com:80/077551817515/f1458851158x/10249965
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LMC + FHD" tvg-logo="" group-title="FILMES E SERIES",LMC + FHD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262140
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LMC + HD" tvg-logo="" group-title="FILMES E SERIES",LMC + HD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262141
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LMC + SD" tvg-logo="" group-title="FILMES E SERIES",LMC + SD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262142
 #EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/DISCOVERYTURBO.png" group-title="VARIEDADES",DISCOVERY TURBO FHD
 http://jhsinternet.com:80/077551817515/f1458851158x/2756
 #EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/DISCOVERYTURBO.png" group-title="VARIEDADES",DISCOVERY TURBO FHD*
@@ -3311,8 +3473,6 @@ http://jhsinternet.com:80/077551817515/f1458851158x/4955
 http://jhsinternet.com:80/077551817515/f1458851158x/10054961
 #EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/BIS.png" group-title="MUSICAIS",BIS SD*
 http://jhsinternet.com:80/077551817515/f1458851158x/10054960
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/MTV.png" group-title="MUSICAIS",MTV HD*
-http://jhsinternet.com:80/077551817515/f1458851158x/10054528
 #EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV BR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/MTV.png" group-title="MUSICAIS",MTV BR
 http://jhsinternet.com:80/077551817515/f1458851158x/10205435
 #EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="MUSIC BOX BRAZIL FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/MUSICBOXBRAZIL.png" group-title="MUSICAIS",MUSIC BOX BRAZIL FHD
@@ -3345,16 +3505,6 @@ http://jhsinternet.com:80/077551817515/f1458851158x/10055117
 http://jhsinternet.com:80/077551817515/f1458851158x/10055116
 #EXTINF:-1 tvg-id="Trace.br" tvg-name="TRACE BRAZUCA SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/TRACE%20BRAZUCA.png" group-title="MUSICAIS",TRACE BRAZUCA SD*
 http://jhsinternet.com:80/077551817515/f1458851158x/10055115
-#EXTINF:-1 tvg-id="VH1.br" tvg-name="VH1 FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/VH1.png" group-title="MUSICAIS",VH1 FHD*
-http://jhsinternet.com:80/077551817515/f1458851158x/10055070
-#EXTINF:-1 tvg-id="VH1.br" tvg-name="VH1 FHD H265" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/VH1.png" group-title="MUSICAIS",VH1 FHD H265
-http://jhsinternet.com:80/077551817515/f1458851158x/10055069
-#EXTINF:-1 tvg-id="VH1.br" tvg-name="VH1 HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/VH1.png" group-title="MUSICAIS",VH1 HD*
-http://jhsinternet.com:80/077551817515/f1458851158x/10055068
-#EXTINF:-1 tvg-id="VH1.br" tvg-name="VH1 SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/VH1.png" group-title="MUSICAIS",VH1 SD*
-http://jhsinternet.com:80/077551817515/f1458851158x/10055067
-#EXTINF:-1 tvg-id="VH1MegaHits.br" tvg-name="VH1 MEGAHITS SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/VH1.MEGAHITS.png" group-title="MUSICAIS",VH1 MEGAHITS SD
-http://jhsinternet.com:80/077551817515/f1458851158x/88
 #EXTINF:-1 tvg-id="Epg.br" tvg-name="KRONE HIT" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/KRONE%20HIT.png" group-title="MUSICAIS",KRONE HIT
 http://jhsinternet.com:80/077551817515/f1458851158x/17519
 #EXTINF:-1 tvg-id="Epg.br" tvg-name="M2O" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/M2O.png" group-title="MUSICAIS",M2O
@@ -3593,6 +3743,20 @@ http://jhsinternet.com:80/077551817515/f1458851158x/10087697
 http://jhsinternet.com:80/077551817515/f1458851158x/10068472
 #EXTINF:-1 tvg-id="cnninternational.us" tvg-name="CNN INTERNACIONAL" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/CNNINTERNATIONAL.png" group-title="NOTICIAS",CNN INTERNACIONAL
 http://jhsinternet.com:80/077551817515/f1458851158x/10068467
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL UOL SD" tvg-logo="" group-title="NOTICIAS",CANAL UOL SD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262081
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL UOL HD" tvg-logo="" group-title="NOTICIAS",CANAL UOL HD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262080
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL UOL FHD" tvg-logo="" group-title="NOTICIAS",CANAL UOL FHD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262079
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT NEWS H265" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/sbt_news.jpg" group-title="NOTICIAS",SBT NEWS H265
+http://jhsinternet.com:80/077551817515/f1458851158x/10262230
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT NEWS SD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/sbt_news.jpg" group-title="NOTICIAS",SBT NEWS SD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262229
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT NEWS FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/sbt_news.jpg" group-title="NOTICIAS",SBT NEWS FHD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262228
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT NEWS HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/sbt_news.jpg" group-title="NOTICIAS",SBT NEWS HD
+http://jhsinternet.com:80/077551817515/f1458851158x/10262227
 #EXTINF:-1 tvg-id="Boomerang.br" tvg-name="CARTOONITO FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/CARTOONITO.png" group-title="INFANTIS",CARTOONITO FHD
 http://jhsinternet.com:80/077551817515/f1458851158x/4130
 #EXTINF:-1 tvg-id="Boomerang.br" tvg-name="CARTOONITO FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/CARTOONITO.png" group-title="INFANTIS",CARTOONITO FHD*
@@ -3683,20 +3847,12 @@ http://jhsinternet.com:80/077551817515/f1458851158x/10205453
 http://jhsinternet.com:80/077551817515/f1458851158x/10054621
 #EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO SD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/GLOOBINHO.png" group-title="INFANTIS",GLOOBINHO SD
 http://jhsinternet.com:80/077551817515/f1458851158x/5347
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICK FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/NICKELODEON.png" group-title="INFANTIS",NICK FHD
-http://jhsinternet.com:80/077551817515/f1458851158x/5910
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICK FHD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/NICKELODEON.png" group-title="INFANTIS",NICK FHD*
-http://jhsinternet.com:80/077551817515/f1458851158x/10054500
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICK FHD H265*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/NICKELODEON.png" group-title="INFANTIS",NICK FHD H265*
-http://jhsinternet.com:80/077551817515/f1458851158x/10054499
 #EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICK HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/NICKELODEON.png" group-title="INFANTIS",NICK HD
 http://jhsinternet.com:80/077551817515/f1458851158x/4886
 #EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICK HD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/NICKELODEON.png" group-title="INFANTIS",NICK HD*
 http://jhsinternet.com:80/077551817515/f1458851158x/10054498
 #EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKLODEON BR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/NICKELODEON.png" group-title="INFANTIS",NICKLODEON BR
 http://jhsinternet.com:80/077551817515/f1458851158x/10205430
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICK SD*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/NICKELODEON.png" group-title="INFANTIS",NICK SD*
-http://jhsinternet.com:80/077551817515/f1458851158x/10054497
 #EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST FHD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/TOONCAST.png" group-title="INFANTIS",TOONCAST FHD
 http://jhsinternet.com:80/077551817515/f1458851158x/10027050
 #EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST HD" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/TOONCAST.png" group-title="INFANTIS",TOONCAST HD
@@ -4015,8 +4171,6 @@ http://jhsinternet.com:80/077551817515/f1458851158x/10054161
 http://jhsinternet.com:80/077551817515/f1458851158x/10048424
 #EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL FHDR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/UNIVERSALTV.png" group-title="4K E FHDR",UNIVERSAL FHDR
 http://jhsinternet.com:80/077551817515/f1458851158x/10054156
-#EXTINF:-1 tvg-id="VH1.br" tvg-name="VH1 FHDR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/VH1.png" group-title="4K E FHDR",VH1 FHDR
-http://jhsinternet.com:80/077551817515/f1458851158x/10054155
 #EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA 4K" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/VIVA.png" group-title="4K E FHDR",VIVA 4K
 http://jhsinternet.com:80/077551817515/f1458851158x/10048335
 #EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA FHDR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/VIVA.png" group-title="4K E FHDR",VIVA FHDR
