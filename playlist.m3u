@@ -2513,10 +2513,6 @@ http://jhsinternet.com:80/077551817515/f1458851158x/10202225
 http://jhsinternet.com:80/077551817515/f1458851158x/10202224
 #EXTINF:-1 tvg-id="univision23wltv.us" tvg-name="UNIVISION MIAMI" tvg-logo="" group-title="ESTADOS UNIDOS",UNIVISION MIAMI
 http://jhsinternet.com:80/077551817515/f1458851158x/10202220
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVISION UNIMAS" tvg-logo="" group-title="ESTADOS UNIDOS",UNIVISION UNIMAS
-http://jhsinternet.com:80/077551817515/f1458851158x/10202219
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVISION NOTICIAS" tvg-logo="" group-title="ESTADOS UNIDOS",UNIVISION NOTICIAS
-http://jhsinternet.com:80/077551817515/f1458851158x/10202218
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVISION TDN" tvg-logo="" group-title="ESTADOS UNIDOS",UNIVISION TDN
 http://jhsinternet.com:80/077551817515/f1458851158x/10202217
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN DEPORTES" tvg-logo="" group-title="ESTADOS UNIDOS",ESPN DEPORTES
@@ -2529,13 +2525,13 @@ http://jhsinternet.com:80/077551817515/f1458851158x/10119418
 http://jhsinternet.com:80/077551817515/f1458851158x/10117734
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS NEW YORK 2 WCBS" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/US%20CBS%202%20%28WCBS%29%20NEW%20YORK%20%28A%29.png" group-title="ESTADOS UNIDOS",CBS NEW YORK 2 WCBS
 http://jhsinternet.com:80/077551817515/f1458851158x/10117733
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS MIAMI 4 WFOR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/US%20CBS%204%20%28WFOR%29%20MIAMI%20%28A%29.png" group-title="ESTADOS UNIDOS",CBS MIAMI 4 WFOR
+#EXTINF:-1 tvg-id="cbs4wfor.us" tvg-name="CBS MIAMI 4 WFOR" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/US%20CBS%204%20%28WFOR%29%20MIAMI%20%28A%29.png" group-title="ESTADOS UNIDOS",CBS MIAMI 4 WFOR
 http://jhsinternet.com:80/077551817515/f1458851158x/10117732
 #EXTINF:-1 tvg-id="cw11wpix.us" tvg-name="CW PIX11 NEW YORK" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/US%20CW%20PIX11%20%28WPIX%29%20NEW%20YORK%20%28L%29.png" group-title="ESTADOS UNIDOS",CW PIX11 NEW YORK
 http://jhsinternet.com:80/077551817515/f1458851158x/10117730
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX BOSTON WFXT" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/US%20FOX%20%28WFXT%29%20BOSTON%20%28F%29.png" group-title="ESTADOS UNIDOS",FOX BOSTON WFXT
 http://jhsinternet.com:80/077551817515/f1458851158x/10117729
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX NEW YORK 5 WNYW" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/FOX%205%20NY.png" group-title="ESTADOS UNIDOS",FOX NEW YORK 5 WNYW
+#EXTINF:-1 tvg-id="foxwnyw.us" tvg-name="FOX NEW YORK 5 WNYW" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/FOX%205%20NY.png" group-title="ESTADOS UNIDOS",FOX NEW YORK 5 WNYW
 http://jhsinternet.com:80/077551817515/f1458851158x/10117728
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX MIAMI 7 WSVN" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/US%20FOX%207%20%28WSVN%29%20MIAMI%20%28A%29.png" group-title="ESTADOS UNIDOS",FOX MIAMI 7 WSVN
 http://jhsinternet.com:80/077551817515/f1458851158x/10117727
@@ -2585,7 +2581,7 @@ http://jhsinternet.com:80/077551817515/f1458851158x/10116326
 http://jhsinternet.com:80/077551817515/f1458851158x/10116306
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS BOSTON" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/CBS%20BOSTON.png" group-title="ESTADOS UNIDOS",CBS BOSTON
 http://jhsinternet.com:80/077551817515/f1458851158x/10116323
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS NEW YORK" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/CBS%20New.png" group-title="ESTADOS UNIDOS",CBS NEW YORK
+#EXTINF:-1 tvg-id="cbs2wcbs.us" tvg-name="CBS NEW YORK" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/CBS%20New.png" group-title="ESTADOS UNIDOS",CBS NEW YORK
 http://jhsinternet.com:80/077551817515/f1458851158x/10116335
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS ORLANDO" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/CBS%20ORLANDO.png" group-title="ESTADOS UNIDOS",CBS ORLANDO
 http://jhsinternet.com:80/077551817515/f1458851158x/10116316
@@ -2603,7 +2599,7 @@ http://jhsinternet.com:80/077551817515/f1458851158x/10116309
 http://jhsinternet.com:80/077551817515/f1458851158x/10116303
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COOKING CHANNEL" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/COOKING.CHANNEL.png" group-title="ESTADOS UNIDOS",COOKING CHANNEL
 http://jhsinternet.com:80/077551817515/f1458851158x/10116301
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/DISCOVERY.CHANNEL.png" group-title="ESTADOS UNIDOS",DISCOVERY
+#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="DISCOVERY" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/DISCOVERY.CHANNEL.png" group-title="ESTADOS UNIDOS",DISCOVERY
 http://jhsinternet.com:80/077551817515/f1458851158x/10116298
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY FAMILY CHANNEL" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/DISCOVERY.FAMILY.CHANNEL.png" group-title="ESTADOS UNIDOS",DISCOVERY FAMILY CHANNEL
 http://jhsinternet.com:80/077551817515/f1458851158x/10116297
@@ -2651,9 +2647,9 @@ http://jhsinternet.com:80/077551817515/f1458851158x/10116270
 http://jhsinternet.com:80/077551817515/f1458851158x/10116272
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HALLMARK CHANNEL" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/HALLMARK%20CHANNEL.png" group-title="ESTADOS UNIDOS",HALLMARK CHANNEL
 http://jhsinternet.com:80/077551817515/f1458851158x/10116261
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/HBO.png" group-title="ESTADOS UNIDOS",HBO
+#EXTINF:-1 tvg-id="hbo.us" tvg-name="HBO" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/HBO.png" group-title="ESTADOS UNIDOS",HBO
 http://jhsinternet.com:80/077551817515/f1458851158x/10116268
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO 2" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/HBO2.png" group-title="ESTADOS UNIDOS",HBO 2
+#EXTINF:-1 tvg-id="hbo2.us" tvg-name="HBO 2" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/HBO2.png" group-title="ESTADOS UNIDOS",HBO 2
 http://jhsinternet.com:80/077551817515/f1458851158x/10116267
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO FAMILY" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/HBO.FAMILY.png" group-title="ESTADOS UNIDOS",HBO FAMILY
 http://jhsinternet.com:80/077551817515/f1458851158x/10116266
@@ -2743,7 +2739,7 @@ http://jhsinternet.com:80/077551817515/f1458851158x/10116150
 http://jhsinternet.com:80/077551817515/f1458851158x/10116142
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVERSAL KIDS" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/UNIVERSAL%20KIDS.png" group-title="ESTADOS UNIDOS",UNIVERSAL KIDS
 http://jhsinternet.com:80/077551817515/f1458851158x/10116141
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVISION NEW YORK" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/UNIVISION%20EAST.png" group-title="ESTADOS UNIDOS",UNIVISION NEW YORK
+#EXTINF:-1 tvg-id="univision41wxtv.us" tvg-name="UNIVISION NEW YORK" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/UNIVISION%20EAST.png" group-title="ESTADOS UNIDOS",UNIVISION NEW YORK
 http://jhsinternet.com:80/077551817515/f1458851158x/10116140
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UP" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/UP.png" group-title="ESTADOS UNIDOS",UP
 http://jhsinternet.com:80/077551817515/f1458851158x/10116144
@@ -4507,7 +4503,7 @@ http://jhsinternet.com:80/077551817515/f1458851158x/10116458
 http://jhsinternet.com:80/077551817515/f1458851158x/10116457
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL GAME PASS 10*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/NFL.GAME.PASS.png" group-title="SPORTS WORLD",NFL GAME PASS 10*
 http://jhsinternet.com:80/077551817515/f1458851158x/10116456
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US NFL NETWORK (Y)" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/US%20NFL%20NETWORK%20%28Y%29.png" group-title="SPORTS WORLD",US NFL NETWORK (Y)
+#EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="US NFL NETWORK" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/US%20NFL%20NETWORK%20%28Y%29.png" group-title="SPORTS WORLD",US NFL NETWORK
 http://jhsinternet.com:80/077551817515/f1458851158x/10117686
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US NFL REDZONE (Y)" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/US%20NFL%20REDZONE%20%28Y%29.png" group-title="SPORTS WORLD",US NFL REDZONE (Y)
 http://jhsinternet.com:80/077551817515/f1458851158x/10117685
@@ -4545,7 +4541,7 @@ http://jhsinternet.com:80/077551817515/f1458851158x/10078932
 http://jhsinternet.com:80/077551817515/f1458851158x/10117674
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US NBA LEAGUE PASS 8 (F)" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/NBALEAGUEPASS.png" group-title="SPORTS WORLD",US NBA LEAGUE PASS 8 (F)
 http://jhsinternet.com:80/077551817515/f1458851158x/10117673
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US NBA TV (Y)" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/NBA%20TV.png" group-title="SPORTS WORLD",US NBA TV (Y)
+#EXTINF:-1 tvg-id="nbatv.us" tvg-name="US NBA TV (Y)" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/NBA%20TV.png" group-title="SPORTS WORLD",US NBA TV (Y)
 http://jhsinternet.com:80/077551817515/f1458851158x/10117687
 #EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT ELEVEN SPORTS 1" tvg-logo="https://googleplusimages.com/ELEVENSPORTS.png" group-title="SPORTS WORLD",PT ELEVEN SPORTS 1
 http://jhsinternet.com:80/077551817515/f1458851158x/10040684
@@ -4609,9 +4605,9 @@ http://jhsinternet.com:80/077551817515/f1458851158x/10117693
 http://jhsinternet.com:80/077551817515/f1458851158x/10117692
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US FOX SPORTS 2" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/Fox.Sports.2.png" group-title="SPORTS WORLD",US FOX SPORTS 2
 http://jhsinternet.com:80/077551817515/f1458851158x/10117691
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US GOLF CHANNEL (Y)" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/US%20NBC%20GOLF.png" group-title="SPORTS WORLD",US GOLF CHANNEL (Y)
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="US GOLF CHANNEL" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/US%20NBC%20GOLF.png" group-title="SPORTS WORLD",US GOLF CHANNEL
 http://jhsinternet.com:80/077551817515/f1458851158x/10117690
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US MLB NETWORK (Y)" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/MLB%20NETWORK.png" group-title="SPORTS WORLD",US MLB NETWORK (Y)
+#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="US MLB NETWORK" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/MLB%20NETWORK.png" group-title="SPORTS WORLD",US MLB NETWORK
 http://jhsinternet.com:80/077551817515/f1458851158x/10117688
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US SPORTSNET NEW YORK FHD (Y)" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/US%20SPORTSNET%20NEW%20YORK%20FHD%20%28Y%29.png" group-title="SPORTS WORLD",US SPORTSNET NEW YORK FHD (Y)
 http://jhsinternet.com:80/077551817515/f1458851158x/10117684
