@@ -46,7 +46,7 @@ jobs:
           http_code=$(curl -s -L \
             -w "%{http_code}" \
             -o EPG-Guide.xml.gz \
-            "http://m3u4u.com/epg/p87vnr5wegu44qe8y41j")
+            "http://jhsinternet.com/xmltv.php?username=077551817515&password=j4852578c478")
             
           if [[ "$http_code" != "200" && "$http_code" != "302" ]]; then
             echo "Download failed with HTTP code $http_code"
