@@ -3315,3 +3315,7 @@ http://cdc55.cc:80/live/7125938483/5158/351954.ts
 http://cdc55.cc:80/live/7125938483/5158/376611.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Core Suporte" tvg-logo="http://lgfp.one/NWW8" group-title="Suporte Core",Core Suporte
 http://cdc55.cc:80/live/7125938483/5158/305474.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="19:00 - Bolívia x Suriname [FHD]" tvg-logo="http://lgfp.one/OWJ4" group-title="Canais | Jogos do Dia",19:00 - Bolívia x Suriname [FHD]
+http://cdc55.cc:80/live/7125938483/5158/312856.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="19:00 - Bolívia x Suriname [HD]" tvg-logo="http://lgfp.one/OWJ3" group-title="Canais | Jogos do Dia",19:00 - Bolívia x Suriname [HD]
+http://cdc55.cc:80/live/7125938483/5158/312855.ts
