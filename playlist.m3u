@@ -1321,8 +1321,6 @@ http://cdc55.cc:80/live/7125938483/5158/357600.ts
 http://cdc55.cc:80/live/7125938483/5158/357601.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Outros Eventos | Esportes" tvg-logo="http://lgfp.one/RNZ0" group-title="Canais | Jogos & Eventos",Outros Eventos | Esportes
 http://cdc55.cc:80/live/7125938483/5158/357637.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Flograppling TV 01" tvg-logo="http://lgfp.one/ROD2" group-title="Canais | Jogos & Eventos",Flograppling TV 01
-http://cdc55.cc:80/live/7125938483/5158/357677.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Barça ONE TV" tvg-logo="http://lgfp.one/ROK2" group-title="Canais | Jogos & Eventos",Barça ONE TV
 http://cdc55.cc:80/live/7125938483/5158/357906.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Manchester MUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="Canais | Jogos & Eventos",Manchester MUTV
@@ -1347,8 +1345,6 @@ http://cdc55.cc:80/live/7125938483/5158/375012.ts
 http://cdc55.cc:80/live/7125938483/5158/375048.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVE ES (JOGO 2)" tvg-logo="http://lgfp.one/SEU1" group-title="Canais | Jogos & Eventos",TVE ES (JOGO 2)
 http://cdc55.cc:80/live/7125938483/5158/375050.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Flograppling TV 02" tvg-logo="http://lgfp.one/ROD2" group-title="Canais | Jogos & Eventos",Flograppling TV 02
-http://cdc55.cc:80/live/7125938483/5158/376882.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VOLLEY 01 [HD]" tvg-logo="http://lgfp.one/PHD0" group-title="Canais | Jogos & Eventos",VOLLEY 01 [HD]
 http://cdc55.cc:80/live/7125938483/5158/317732.ts
 #EXTINF:-1 tvg-id="São.Paulo/SP..Boa.Vontade.TV.br" tvg-name="BOA VONTADE [FHD]" tvg-logo="http://lgfp.one/QEA7" group-title="Canais | Religiosos",BOA VONTADE [FHD]
@@ -3319,3 +3315,23 @@ http://cdc55.cc:80/live/7125938483/5158/305474.ts
 http://cdc55.cc:80/live/7125938483/5158/312856.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="19:00 - Bolívia x Suriname [HD]" tvg-logo="http://lgfp.one/OWJ3" group-title="Canais | Jogos do Dia",19:00 - Bolívia x Suriname [HD]
 http://cdc55.cc:80/live/7125938483/5158/312855.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="17:00 - Brasil x França [FHD]" tvg-logo="http://lgfp.one/OWJ2" group-title="Canais | Jogos do Dia",17:00 - Brasil x França [FHD]
+http://cdc55.cc:80/live/7125938483/5158/312854.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="17:00 - Brasil x França [HD]" tvg-logo="http://lgfp.one/OWJ1" group-title="Canais | Jogos do Dia",17:00 - Brasil x França [HD]
+http://cdc55.cc:80/live/7125938483/5158/312853.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="14:00 - Geórgia x Israel [FHD]" tvg-logo="http://lgfp.one/OWJ0" group-title="Canais | Jogos do Dia",14:00 - Geórgia x Israel [FHD]
+http://cdc55.cc:80/live/7125938483/5158/312852.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="14:00 - Geórgia x Israel [HD]" tvg-logo="http://lgfp.one/OWI9" group-title="Canais | Jogos do Dia",14:00 - Geórgia x Israel [HD]
+http://cdc55.cc:80/live/7125938483/5158/312851.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="14:00 - Chipre x Belarus [FHD]" tvg-logo="http://lgfp.one/OWI8.png" group-title="Canais | Jogos do Dia",14:00 - Chipre x Belarus [FHD]
+http://cdc55.cc:80/live/7125938483/5158/312850.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="14:00 - Chipre x Belarus [HD]" tvg-logo="http://lgfp.one/OWI7.png" group-title="Canais | Jogos do Dia",14:00 - Chipre x Belarus [HD]
+http://cdc55.cc:80/live/7125938483/5158/312849.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="12:00 - Moldávia x Lituânia [FHD]" tvg-logo="http://lgfp.one/OWI6" group-title="Canais | Jogos do Dia",12:00 - Moldávia x Lituânia [FHD]
+http://cdc55.cc:80/live/7125938483/5158/312848.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="12:00 - Moldávia x Lituânia [HD]" tvg-logo="http://lgfp.one/OWI5" group-title="Canais | Jogos do Dia",12:00 - Moldávia x Lituânia [HD]
+http://cdc55.cc:80/live/7125938483/5158/312847.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="11:30 - Tanzânia x Liechtenstein [FHD]" tvg-logo="http://lgfp.one/OWI4.png" group-title="Canais | Jogos do Dia",11:30 - Tanzânia x Liechtenstein [FHD]
+http://cdc55.cc:80/live/7125938483/5158/312846.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="11:30 - Tanzânia x Liechtenstein [HD]" tvg-logo="http://lgfp.one/OWI3.png" group-title="Canais | Jogos do Dia",11:30 - Tanzânia x Liechtenstein [HD]
+http://cdc55.cc:80/live/7125938483/5158/312845.ts
