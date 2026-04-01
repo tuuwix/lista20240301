@@ -26,7 +26,6 @@ jobs:
             -o playlist.m3u \
             "$M3U_URL"
 
-          # Validate content
           if ! grep -q "#EXTM3U" playlist.m3u; then
             echo "Invalid playlist file"
             head -n 20 playlist.m3u
@@ -34,6 +33,7 @@ jobs:
           fi
 
       - name: Download EPG file
+        if: ${{ env.EPG_URL != 'null' && env.EPG_URL != '' }}
         run: |
           set -e
 
@@ -42,7 +42,6 @@ jobs:
             -o epg.xml \
             "$EPG_URL"
 
-          # Validate content
           if ! grep -q "<tv" epg.xml; then
             echo "Invalid EPG file (likely blocked)"
             head -n 20 epg.xml
@@ -53,6 +52,12 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add playlist.m3u epg.xml
+
+          git add playlist.m3u
+
+          if [ "$EPG_URL" != "null" ] && [ -n "$EPG_URL" ] && [ -f epg.xml ]; then
+            git add epg.xml
+          fi
+
           git diff-index --quiet HEAD || git commit -m "actions-user: Fetch data workflow"
           git push
