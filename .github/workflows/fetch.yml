@@ -43,13 +43,10 @@ jobs:
       - name: Download EPG file
         id: download_epg
         run: |
-          http_code=$(curl -sS -L \
+          http_code=$(curl -s -L \
             -w "%{http_code}" \
-            -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" \
-            -H "Accept: */*" \
-            -H "Connection: keep-alive" \
             -o epg.xml \
-            "http://m3u4u.com/epg/xe47yzr5d4bpekg9y9vq")
+            "http://cdc55.cc/xmltv.php?username=7125938483&password=5158")
             
           if [[ "$http_code" != "200" && "$http_code" != "302" ]]; then
             echo "Download failed with HTTP code $http_code"
