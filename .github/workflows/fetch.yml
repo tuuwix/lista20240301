@@ -1,72 +1,58 @@
 name: Fetch data
 
-# Controls when the workflow will run
 on:
   schedule:
-    # Runs "at hour x past every day" (see https://crontab.guru)
     - cron: '00 14 * * *'
-    
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
   build:
-    # The type of runner that the job will run on
     runs-on: ubuntu-latest
+    environment: lista20240301
+
+    env:
+      EPG_URL: ${{ vars.EPG_URL }}
+      M3U_URL: ${{ vars.M3U_URL }}
 
     steps:
       - uses: actions/checkout@v2
-      
+
       - name: Download Playlist file
-        id: download_playlist
         run: |
-          http_code=$(curl -s -L \
-            -w "%{http_code}" \
+          set -e
+
+          curl -sS -L --fail \
+            -A "Mozilla/5.0" \
             -o playlist.m3u \
-            "http://m3u4u.com/m3u/xe47yzr5d4bpekg9y9vq")
-            
-          if [[ "$http_code" != "200" && "$http_code" != "302" ]]; then
-            echo "Download failed with HTTP code $http_code"
+            "$M3U_URL"
+
+          # Validate content
+          if ! grep -q "#EXTM3U" playlist.m3u; then
+            echo "Invalid playlist file"
+            head -n 20 playlist.m3u
             exit 1
           fi
 
-          sleep 2
-          
-          file_size=$(stat -c%s "playlist.m3u")
-          if [[ "$file_size" -le 0 ]]; then
-            echo "File size is too small: $file_size bytes"
-            exit 1
-          fi
-        
       - name: Download EPG file
-        id: download_epg
         run: |
-          http_code=$(curl -s -L \
-            -w "%{http_code}" \
+          set -e
+
+          curl -sS -L --fail \
+            -A "Mozilla/5.0" \
             -o epg.xml \
-            "http://cdc55.cc/xmltv.php?username=7125938483&password=5158")
-            
-          if [[ "$http_code" != "200" && "$http_code" != "302" ]]; then
-            echo "Download failed with HTTP code $http_code"
+            "$EPG_URL"
+
+          # Validate content
+          if ! grep -q "<tv" epg.xml; then
+            echo "Invalid EPG file (likely blocked)"
+            head -n 20 epg.xml
             exit 1
           fi
 
-          sleep 2
-          
-          file_size=$(stat -c%s "epg.xml")
-          if [[ "$file_size" -le 0 ]]; then
-            echo "File size is too small: $file_size bytes"
-            exit 1
-          fi
-      
       - name: Commit changes if updated
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add playlist.m3u
-          git add epg.xml
-          git diff-index --quiet HEAD || git commit -m "actions-user: Fetch data workflow" -a
-          git push -f origin main:main
-        if: success()
+          git add playlist.m3u epg.xml
+          git diff-index --quiet HEAD || git commit -m "actions-user: Fetch data workflow"
+          git push
