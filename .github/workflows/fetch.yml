@@ -19,7 +19,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       
-      - name: Download playlist.m3u file
+      - name: Download Playlist file
         id: download_playlist
         run: |
           http_code=$(curl -s -L \
@@ -40,12 +40,12 @@ jobs:
             exit 1
           fi
         
-      - name: Download EPG-Guide.xml.gz file
+      - name: Download EPG file
         id: download_epg
         run: |
           http_code=$(curl -s -L \
             -w "%{http_code}" \
-            -o EPG-Guide.xml.gz \
+            -o epg.xml \
             "http://m3u4u.com/epg/xe47yzr5d4bpekg9y9vq")
             
           if [[ "$http_code" != "200" && "$http_code" != "302" ]]; then
@@ -55,7 +55,7 @@ jobs:
 
           sleep 2
           
-          file_size=$(stat -c%s "EPG-Guide.xml.gz")
+          file_size=$(stat -c%s "epg.xml")
           if [[ "$file_size" -le 0 ]]; then
             echo "File size is too small: $file_size bytes"
             exit 1
@@ -66,7 +66,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add playlist.m3u
-          git add EPG-Guide.xml.gz
+          git add epg.xml
           git diff-index --quiet HEAD || git commit -m "actions-user: Fetch data workflow" -a
           git push -f origin main:main
         if: success()
