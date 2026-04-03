@@ -1,4 +1,506 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/xe47yzr5d4bpekg9y9vq"
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] 101 Dalmatas" tvg-logo="http://lgfp.one/CTQ2" group-title="Canais | Kids [24H]",[24h] 101 Dalmatas
+http://cdc55.cc:80/live/7125938483/5158/227373.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] 3 Palavrinhas" tvg-logo="http://lgfp.one/CTQ3" group-title="Canais | Kids [24H]",[24H] 3 Palavrinhas
+http://cdc55.cc:80/live/7125938483/5158/227374.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] 44 Gatos" tvg-logo="http://lgfp.one/CTQ4" group-title="Canais | Kids [24H]",[24H] 44 Gatos
+http://cdc55.cc:80/live/7125938483/5158/227375.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] A Bruxinha Sabrina" tvg-logo="http://lgfp.one/CTQ6" group-title="Canais | Kids [24H]",[24H] A Bruxinha Sabrina
+http://cdc55.cc:80/live/7125938483/5158/227377.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] A Casa do Mickey Mouse" tvg-logo="http://lgfp.one/CTQ8" group-title="Canais | Kids [24H]",[24H] A Casa do Mickey Mouse
+http://cdc55.cc:80/live/7125938483/5158/227379.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] A Casa Magica da Gabby" tvg-logo="http://lgfp.one/CTQ9" group-title="Canais | Kids [24H]",[24H] A Casa Magica da Gabby
+http://cdc55.cc:80/live/7125938483/5158/227380.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] A Cegonha da Perna Fina" tvg-logo="http://lgfp.one/CTR0" group-title="Canais | Kids [24H]",[24H] A Cegonha da Perna Fina
+http://cdc55.cc:80/live/7125938483/5158/227381.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] A Corrida Maluca" tvg-logo="http://lgfp.one/OJJ4" group-title="Canais | Kids [24H]",[24H] A Corrida Maluca
+http://cdc55.cc:80/live/7125938483/5158/228511.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] A Familia Addams" tvg-logo="http://lgfp.one/CTS4" group-title="Canais | Kids [24H]",[24H] A Familia Addams
+http://cdc55.cc:80/live/7125938483/5158/227395.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] A Familia Dracula" tvg-logo="http://lgfp.one/OJH5" group-title="Canais | Kids [24H]",[24H] A Familia Dracula
+http://cdc55.cc:80/live/7125938483/5158/227396.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] A Familia Urso" tvg-logo="http://lgfp.one/CTS5" group-title="Canais | Kids [24H]",[24H] A Familia Urso
+http://cdc55.cc:80/live/7125938483/5158/227397.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] A Formiga e O Tamandua" tvg-logo="http://lgfp.one/CTS6" group-title="Canais | Kids [24H]",[24H] A Formiga e O Tamandua
+http://cdc55.cc:80/live/7125938483/5158/227398.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] A Lula Lele" tvg-logo="http://lgfp.one/CTU1" group-title="Canais | Kids [24H]",[24H] A Lula Lele
+http://cdc55.cc:80/live/7125938483/5158/227413.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] A Nova pantera Cor de Rosa" tvg-logo="http://lgfp.one/OJK7" group-title="Canais | Kids [24H]",[24H] A Nova pantera Cor de Rosa
+http://cdc55.cc:80/live/7125938483/5158/228527.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] A Pantera Cor de Rosa" tvg-logo="http://lgfp.one/CTU2" group-title="Canais | Kids [24H]",[24H] A Pantera Cor de Rosa
+http://cdc55.cc:80/live/7125938483/5158/227414.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] A Pequena Sereia" tvg-logo="http://lgfp.one/CTU3" group-title="Canais | Kids [24H]",[24H] A Pequena Sereia
+http://cdc55.cc:80/live/7125938483/5158/227415.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] A Turma do Charlie Brown e Snoopy" tvg-logo="http://lgfp.one/CTU4" group-title="Canais | Kids [24H]",[24H] A Turma do Charlie Brown e Snoopy
+http://cdc55.cc:80/live/7125938483/5158/227416.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] A Vaca e o Frango" tvg-logo="http://lgfp.one/CTU7" group-title="Canais | Kids [24H]",[24H] A Vaca e o Frango
+http://cdc55.cc:80/live/7125938483/5158/227419.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Aaahh!!! Monstros" tvg-logo="http://lgfp.one/CTV2" group-title="Canais | Kids [24H]",[24H] Aaahh!!! Monstros
+http://cdc55.cc:80/live/7125938483/5158/227424.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Acampamento Lakebottom" tvg-logo="http://lgfp.one/CTV3" group-title="Canais | Kids [24H]",[24H] Acampamento Lakebottom
+http://cdc55.cc:80/live/7125938483/5158/227425.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Agente K.C" tvg-logo="http://lgfp.one/OJH6" group-title="Canais | Kids [24H]",[24H] Agente K.C
+http://cdc55.cc:80/live/7125938483/5158/227430.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Aladdin" tvg-logo="http://lgfp.one/CTV8" group-title="Canais | Kids [24H]",[24H] Aladdin
+http://cdc55.cc:80/live/7125938483/5158/227431.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Alf O Eteimoso" tvg-logo="http://lgfp.one/CTV9" group-title="Canais | Kids [24H]",[24H] Alf O Eteimoso
+http://cdc55.cc:80/live/7125938483/5158/227432.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Alien TV" tvg-logo="http://lgfp.one/CTW0" group-title="Canais | Kids [24H]",[24H] Alien TV
+http://cdc55.cc:80/live/7125938483/5158/227433.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] American Dad" tvg-logo="http://lgfp.one/ONL7" group-title="Canais | Kids [24H]",[24H] American Dad
+http://cdc55.cc:80/live/7125938483/5158/228498.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Ana Pimentinha" tvg-logo="http://lgfp.one/CTW2" group-title="Canais | Kids [24H]",[24H] Ana Pimentinha
+http://cdc55.cc:80/live/7125938483/5158/227435.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Andy Panda" tvg-logo="http://lgfp.one/CTW3" group-title="Canais | Kids [24H]",[24H] Andy Panda
+http://cdc55.cc:80/live/7125938483/5158/227436.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Animaniacs (1993)" tvg-logo="http://lgfp.one/CTW4" group-title="Canais | Kids [24H]",[24H] Animaniacs (1993)
+http://cdc55.cc:80/live/7125938483/5158/227437.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Animaniacs (2020)" tvg-logo="http://lgfp.one/CTW5" group-title="Canais | Kids [24H]",[24H] Animaniacs (2020)
+http://cdc55.cc:80/live/7125938483/5158/227438.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Arlequina" tvg-logo="http://lgfp.one/ONL8" group-title="Canais | Kids [24H]",[24H] Arlequina
+http://cdc55.cc:80/live/7125938483/5158/228499.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] As Aventura de Tom e Jerry" tvg-logo="http://lgfp.one/CTY5" group-title="Canais | Kids [24H]",[24H] As Aventura de Tom e Jerry
+http://cdc55.cc:80/live/7125938483/5158/227458.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] As Aventuras de Sunny Bunnies" tvg-logo="http://lgfp.one/ONM3" group-title="Canais | Kids [24H]",[24H] As Aventuras de Sunny Bunnies
+http://cdc55.cc:80/live/7125938483/5158/228504.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] As Aventuras de Tin-tin" tvg-logo="http://lgfp.one/QCW1" group-title="Canais | Kids [24H]",[24H] As Aventuras de Tin-tin
+http://cdc55.cc:80/live/7125938483/5158/333078.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] As Aventuras do Batman" tvg-logo="http://lgfp.one/CTY7" group-title="Canais | Kids [24H]",[24H] As Aventuras do Batman
+http://cdc55.cc:80/live/7125938483/5158/227460.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] As Aventuras do Gato de Botas" tvg-logo="http://lgfp.one/CTY8" group-title="Canais | Kids [24H]",[24H] As Aventuras do Gato de Botas
+http://cdc55.cc:80/live/7125938483/5158/227461.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] As Meninas Super Poderosas" tvg-logo="http://lgfp.one/QCW0" group-title="Canais | Kids [24H]",[24H] As Meninas Super Poderosas
+http://cdc55.cc:80/live/7125938483/5158/333077.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] As Meninas Superpoderosas" tvg-logo="http://lgfp.one/CTY9" group-title="Canais | Kids [24H]",[24H] As Meninas Superpoderosas
+http://cdc55.cc:80/live/7125938483/5158/227462.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] As Novas Aventuras do Superman" tvg-logo="http://lgfp.one/CTZ1" group-title="Canais | Kids [24H]",[24H] As Novas Aventuras do Superman
+http://cdc55.cc:80/live/7125938483/5158/227464.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] As Novas Aventuras do Ursinho Puff" tvg-logo="http://lgfp.one/CTZ2" group-title="Canais | Kids [24H]",[24H] As Novas Aventuras do Ursinho Puff
+http://cdc55.cc:80/live/7125938483/5158/227465.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] As Tartarugas Ninja (1987)" tvg-logo="http://lgfp.one/CTZ3" group-title="Canais | Kids [24H]",[24H] As Tartarugas Ninja (1987)
+http://cdc55.cc:80/live/7125938483/5158/227466.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] As Terriveis Aventuras de Billy e Mandy" tvg-logo="http://lgfp.one/CTZ4" group-title="Canais | Kids [24H]",[24H] As Terriveis Aventuras de Billy e Mandy
+http://cdc55.cc:80/live/7125938483/5158/227472.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] As Visoes da Raven" tvg-logo="http://lgfp.one/CTZ5" group-title="Canais | Kids [24H]",[24H] As Visoes da Raven
+http://cdc55.cc:80/live/7125938483/5158/227473.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Austin e Ally" tvg-logo="http://lgfp.one/CTZ6" group-title="Canais | Kids [24H]",[24H] Austin e Ally
+http://cdc55.cc:80/live/7125938483/5158/227474.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] AUTHENTIC GAMES" tvg-logo="http://lgfp.one/QCV9" group-title="Canais | Kids [24H]",[24H] AUTHENTIC GAMES
+http://cdc55.cc:80/live/7125938483/5158/333076.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Avatar a Lenda de Aang" tvg-logo="http://lgfp.one/QCV8" group-title="Canais | Kids [24H]",[24H] Avatar a Lenda de Aang
+http://cdc55.cc:80/live/7125938483/5158/333075.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Baby Looney Tunes" tvg-logo="http://lgfp.one/CTZ8" group-title="Canais | Kids [24H]",[24H] Baby Looney Tunes
+http://cdc55.cc:80/live/7125938483/5158/227476.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Barbie Dreamhouse Adventures" tvg-logo="http://lgfp.one/CUA0" group-title="Canais | Kids [24H]",[24H] Barbie Dreamhouse Adventures
+http://cdc55.cc:80/live/7125938483/5158/227478.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Beat Bugs" tvg-logo="http://lgfp.one/OJK2" group-title="Canais | Kids [24H]",[24H] Beat Bugs
+http://cdc55.cc:80/live/7125938483/5158/228512.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Bibo Pai e Bobi Filho" tvg-logo="http://lgfp.one/CUB3" group-title="Canais | Kids [24H]",[24H] Bibo Pai e Bobi Filho
+http://cdc55.cc:80/live/7125938483/5158/227491.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Blaze e os Monster Machines" tvg-logo="http://lgfp.one/CUB6" group-title="Canais | Kids [24H]",[24H] Blaze e os Monster Machines
+http://cdc55.cc:80/live/7125938483/5158/227494.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Cacadores de Bugs" tvg-logo="http://lgfp.one/CUF0" group-title="Canais | Kids [24H]",[24H] Cacadores de Bugs
+http://cdc55.cc:80/live/7125938483/5158/227528.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Capitao Tsubasa" tvg-logo="http://lgfp.one/ONM4" group-title="Canais | Kids [24H]",[24H] Capitao Tsubasa
+http://cdc55.cc:80/live/7125938483/5158/228505.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Castelo Ra-Tim-Bum" tvg-logo="http://lgfp.one/CUF6" group-title="Canais | Kids [24H]",[24H] Castelo Ra-Tim-Bum
+http://cdc55.cc:80/live/7125938483/5158/227534.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Cavalo de Fogo" tvg-logo="http://lgfp.one/CUF7" group-title="Canais | Kids [24H]",[24H] Cavalo de Fogo
+http://cdc55.cc:80/live/7125938483/5158/227535.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Caverna do Dragao" tvg-logo="http://lgfp.one/CUF8" group-title="Canais | Kids [24H]",[24H] Caverna do Dragao
+http://cdc55.cc:80/live/7125938483/5158/227536.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Chaves Em Desenho Animado" tvg-logo="http://lgfp.one/CUG6" group-title="Canais | Kids [24H]",[24H] Chaves Em Desenho Animado
+http://cdc55.cc:80/live/7125938483/5158/227544.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Cocorico" tvg-logo="http://lgfp.one/OJK8" group-title="Canais | Kids [24H]",[24H] Cocorico
+http://cdc55.cc:80/live/7125938483/5158/227566.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Corrida Maluca" tvg-logo="http://lgfp.one/CUK4" group-title="Canais | Kids [24H]",[24H] Corrida Maluca
+http://cdc55.cc:80/live/7125938483/5158/227584.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Dennis o Pimentinha" tvg-logo="http://lgfp.one/CUK7" group-title="Canais | Kids [24H]",[24H] Dennis o Pimentinha
+http://cdc55.cc:80/live/7125938483/5158/227588.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Desenhos Biblicos" tvg-logo="http://lgfp.one/QCW5" group-title="Canais | Kids [24H]",[24H] Desenhos Biblicos
+http://cdc55.cc:80/live/7125938483/5158/333082.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Desenhos Biblicos Historias Inesqueciveis" tvg-logo="http://lgfp.one/CUK8" group-title="Canais | Kids [24H]",[24H] Desenhos Biblicos Historias Inesqueciveis
+http://cdc55.cc:80/live/7125938483/5158/227589.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Digimon Adventure" tvg-logo="http://lgfp.one/CUK9" group-title="Canais | Kids [24H]",[24H] Digimon Adventure
+http://cdc55.cc:80/live/7125938483/5158/227590.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Digimon Savers" tvg-logo="http://lgfp.one/CUL5" group-title="Canais | Kids [24H]",[24H] Digimon Savers
+http://cdc55.cc:80/live/7125938483/5158/227596.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Digimon Tamers" tvg-logo="http://lgfp.one/CUL6" group-title="Canais | Kids [24H]",[24H] Digimon Tamers
+http://cdc55.cc:80/live/7125938483/5158/227597.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Dora Aventureira" tvg-logo="http://lgfp.one/OJL0" group-title="Canais | Kids [24H]",[24H] Dora Aventureira
+http://cdc55.cc:80/live/7125938483/5158/227613.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Dragon Ball Classico" tvg-logo="http://lgfp.one/CUN5" group-title="Canais | Kids [24H]",[24H] Dragon Ball Classico
+http://cdc55.cc:80/live/7125938483/5158/227617.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Dragon Ball GT" tvg-logo="http://lgfp.one/CUN7" group-title="Canais | Kids [24H]",[24H] Dragon Ball GT
+http://cdc55.cc:80/live/7125938483/5158/227619.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Drake e Josh" tvg-logo="http://lgfp.one/CUQ0" group-title="Canais | Kids [24H]",[24H] Drake e Josh
+http://cdc55.cc:80/live/7125938483/5158/227642.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Ei Arnold" tvg-logo="http://lgfp.one/CUQ1" group-title="Canais | Kids [24H]",[24H] Ei Arnold
+http://cdc55.cc:80/live/7125938483/5158/227643.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Farejando Novos Mundos" tvg-logo="http://lgfp.one/CUT0" group-title="Canais | Kids [24H]",[24H] Farejando Novos Mundos
+http://cdc55.cc:80/live/7125938483/5158/227673.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Freakazoid Alto Forte e Maluco" tvg-logo="http://lgfp.one/OJL3" group-title="Canais | Kids [24H]",[24H] Freakazoid Alto Forte e Maluco
+http://cdc55.cc:80/live/7125938483/5158/227676.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Galinha Pintadinha" tvg-logo="http://lgfp.one/QCW6" group-title="Canais | Kids [24H]",[24H] Galinha Pintadinha
+http://cdc55.cc:80/live/7125938483/5158/333083.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Gasparzinho O Fantasminha Camarada" tvg-logo="http://lgfp.one/OJJ8" group-title="Canais | Kids [24H]",[24H] Gasparzinho O Fantasminha Camarada
+http://cdc55.cc:80/live/7125938483/5158/227699.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Gigantossauro" tvg-logo="http://lgfp.one/OJK3" group-title="Canais | Kids [24H]",[24H] Gigantossauro
+http://cdc55.cc:80/live/7125938483/5158/228513.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Grizzy e os Lemmings" tvg-logo="http://lgfp.one/ONP3" group-title="Canais | Kids [24H]",[24H] Grizzy e os Lemmings
+http://cdc55.cc:80/live/7125938483/5158/228510.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Gus O Pequeno Cavaleiro" tvg-logo="http://lgfp.one/CUV4" group-title="Canais | Kids [24H]",[24H] Gus O Pequeno Cavaleiro
+http://cdc55.cc:80/live/7125938483/5158/227700.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Hannah Montana" tvg-logo="http://lgfp.one/CUV5" group-title="Canais | Kids [24H]",[24H] Hannah Montana
+http://cdc55.cc:80/live/7125938483/5158/227701.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Happy Tree Friends" tvg-logo="http://lgfp.one/OJK6" group-title="Canais | Kids [24H]",[24H] Happy Tree Friends
+http://cdc55.cc:80/live/7125938483/5158/228516.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] He Man e Os Defensores do Universo" tvg-logo="http://lgfp.one/CUV6" group-title="Canais | Kids [24H]",[24H] He Man e Os Defensores do Universo
+http://cdc55.cc:80/live/7125938483/5158/227702.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] He Man E Os Mestres do Universo" tvg-logo="http://lgfp.one/CUV7" group-title="Canais | Kids [24H]",[24H] He Man E Os Mestres do Universo
+http://cdc55.cc:80/live/7125938483/5158/227703.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Historias Animadas da Biblia Novo Testamento" tvg-logo="http://lgfp.one/CUW0" group-title="Canais | Kids [24H]",[24H] Historias Animadas da Biblia Novo Testamento
+http://cdc55.cc:80/live/7125938483/5158/227706.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Historias Animadas da Biblia Velho Testamento" tvg-logo="http://lgfp.one/CUW1" group-title="Canais | Kids [24H]",[24H] Historias Animadas da Biblia Velho Testamento
+http://cdc55.cc:80/live/7125938483/5158/227707.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] HISTORIAS BIBLICAS PARA CRIANCAS" tvg-logo="http://lgfp.one/QEA6" group-title="Canais | Kids [24H]",[24H] HISTORIAS BIBLICAS PARA CRIANCAS
+http://cdc55.cc:80/live/7125938483/5158/333817.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Homem de Ferro" tvg-logo="http://lgfp.one/QCD1" group-title="Canais | Kids [24H]",[24H] Homem de Ferro
+http://cdc55.cc:80/live/7125938483/5158/331666.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] HOMEMS DE PRETO" tvg-logo="http://lgfp.one/QCX1" group-title="Canais | Kids [24H]",[24H] HOMEMS DE PRETO
+http://cdc55.cc:80/live/7125938483/5158/333088.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Hora do Recreio" tvg-logo="http://lgfp.one/CUX2" group-title="Canais | Kids [24H]",[24H] Hora do Recreio
+http://cdc55.cc:80/live/7125938483/5158/227721.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Hotel Transilvania A Serie" tvg-logo="http://lgfp.one/CUX3" group-title="Canais | Kids [24H]",[24H] Hotel Transilvania A Serie
+http://cdc55.cc:80/live/7125938483/5158/227722.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Hércules" tvg-logo="" group-title="Canais | Kids [24H]",[24H] Hércules
+http://cdc55.cc:80/live/7125938483/5158/331667.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] iCarly (2021)" tvg-logo="http://lgfp.one/CUX4" group-title="Canais | Kids [24H]",[24H] iCarly (2021)
+http://cdc55.cc:80/live/7125938483/5158/227723.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Incrível Hulk" tvg-logo="http://lgfp.one/QCD2" group-title="Canais | Kids [24H]",[24H] Incrível Hulk
+http://cdc55.cc:80/live/7125938483/5158/331668.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Inspetor Bugiganga (1983)" tvg-logo="http://lgfp.one/OJI1" group-title="Canais | Kids [24H]",[24H] Inspetor Bugiganga (1983)
+http://cdc55.cc:80/live/7125938483/5158/227730.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Inspetor Bugiganga (2015)" tvg-logo="http://lgfp.one/OJI2" group-title="Canais | Kids [24H]",[24H] Inspetor Bugiganga (2015)
+http://cdc55.cc:80/live/7125938483/5158/227731.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Irmao do Jorel" tvg-logo="http://lgfp.one/CUY1" group-title="Canais | Kids [24H]",[24H] Irmao do Jorel
+http://cdc55.cc:80/live/7125938483/5158/227732.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Jeannie" tvg-logo="http://lgfp.one/OJI3" group-title="Canais | Kids [24H]",[24H] Jeannie
+http://cdc55.cc:80/live/7125938483/5158/227734.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Jellystone" tvg-logo="http://lgfp.one/OJI4" group-title="Canais | Kids [24H]",[24H] Jellystone
+http://cdc55.cc:80/live/7125938483/5158/227735.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Johnny Bravo" tvg-logo="http://lgfp.one/CUY8" group-title="Canais | Kids [24H]",[24H] Johnny Bravo
+http://cdc55.cc:80/live/7125938483/5158/227741.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Johnny Test" tvg-logo="http://lgfp.one/CUY9" group-title="Canais | Kids [24H]",[24H] Johnny Test
+http://cdc55.cc:80/live/7125938483/5158/227742.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Jonny Quest" tvg-logo="http://lgfp.one/CUZ0" group-title="Canais | Kids [24H]",[24H] Jonny Quest
+http://cdc55.cc:80/live/7125938483/5158/227743.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Jovens Construtores" tvg-logo="http://lgfp.one/CVA0" group-title="Canais | Kids [24H]",[24H] Jovens Construtores
+http://cdc55.cc:80/live/7125938483/5158/227753.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Jurassic World Acampamento Jurassico" tvg-logo="http://lgfp.one/CVA1" group-title="Canais | Kids [24H]",[24H] Jurassic World Acampamento Jurassico
+http://cdc55.cc:80/live/7125938483/5158/227754.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Kamp Koral Bob Esponja Primeiros Anos" tvg-logo="http://lgfp.one/CVA2" group-title="Canais | Kids [24H]",[24H] Kamp Koral Bob Esponja Primeiros Anos
+http://cdc55.cc:80/live/7125938483/5158/227755.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Kick Buttowski" tvg-logo="http://lgfp.one/CVA6" group-title="Canais | Kids [24H]",[24H] Kick Buttowski
+http://cdc55.cc:80/live/7125938483/5158/227759.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Kiff" tvg-logo="http://lgfp.one/ONL9" group-title="Canais | Kids [24H]",[24H] Kiff
+http://cdc55.cc:80/live/7125938483/5158/228500.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Kung Fu Panda Lendas do Dragao Guerreiro" tvg-logo="http://lgfp.one/CVA7" group-title="Canais | Kids [24H]",[24H] Kung Fu Panda Lendas do Dragao Guerreiro
+http://cdc55.cc:80/live/7125938483/5158/227760.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Kung Fu Panda O Cavaleiro Dragao" tvg-logo="http://lgfp.one/OJI5" group-title="Canais | Kids [24H]",[24H] Kung Fu Panda O Cavaleiro Dragao
+http://cdc55.cc:80/live/7125938483/5158/227761.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Luluzinha" tvg-logo="http://lgfp.one/CVE0" group-title="Canais | Kids [24H]",[24H] Luluzinha
+http://cdc55.cc:80/live/7125938483/5158/227794.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Marvels M.O.D.O.K" tvg-logo="http://lgfp.one/CVE1" group-title="Canais | Kids [24H]",[24H] Marvels M.O.D.O.K
+http://cdc55.cc:80/live/7125938483/5158/227795.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Masha e o Urso" tvg-logo="http://lgfp.one/CVE2" group-title="Canais | Kids [24H]",[24H] Masha e o Urso
+http://cdc55.cc:80/live/7125938483/5158/227796.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Medabots" tvg-logo="http://lgfp.one/QCD4" group-title="Canais | Kids [24H]",[24H] Medabots
+http://cdc55.cc:80/live/7125938483/5158/331670.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Mega Man Potencia Maxima" tvg-logo="http://lgfp.one/CVF1" group-title="Canais | Kids [24H]",[24H] Mega Man Potencia Maxima
+http://cdc55.cc:80/live/7125938483/5158/227805.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Mestres do Universo Salvando Eternia" tvg-logo="http://lgfp.one/CVF7" group-title="Canais | Kids [24H]",[24H] Mestres do Universo Salvando Eternia
+http://cdc55.cc:80/live/7125938483/5158/227811.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Mickey e Donald" tvg-logo="http://lgfp.one/CVF8" group-title="Canais | Kids [24H]",[24H] Mickey e Donald
+http://cdc55.cc:80/live/7125938483/5158/227812.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Milo" tvg-logo="http://lgfp.one/CVF9" group-title="Canais | Kids [24H]",[24H] Milo
+http://cdc55.cc:80/live/7125938483/5158/227813.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Minhas Aventuras com o Superman" tvg-logo="http://lgfp.one/ONO6" group-title="Canais | Kids [24H]",[24H] Minhas Aventuras com o Superman
+http://cdc55.cc:80/live/7125938483/5158/228506.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Mira A Detetive do Reino" tvg-logo="http://lgfp.one/OJI6" group-title="Canais | Kids [24H]",[24H] Mira A Detetive do Reino
+http://cdc55.cc:80/live/7125938483/5158/227814.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Miraculous As Aventuras de Ladybug" tvg-logo="http://lgfp.one/CVG0" group-title="Canais | Kids [24H]",[24H] Miraculous As Aventuras de Ladybug
+http://cdc55.cc:80/live/7125938483/5158/227815.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Momonstros" tvg-logo="http://lgfp.one/CVG2" group-title="Canais | Kids [24H]",[24H] Momonstros
+http://cdc55.cc:80/live/7125938483/5158/227817.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Monstro do Amor" tvg-logo="http://lgfp.one/OJI7" group-title="Canais | Kids [24H]",[24H] Monstro do Amor
+http://cdc55.cc:80/live/7125938483/5158/227818.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Mortal Kombat Defensores da Terra" tvg-logo="http://lgfp.one/CVG3" group-title="Canais | Kids [24H]",[24H] Mortal Kombat Defensores da Terra
+http://cdc55.cc:80/live/7125938483/5158/227819.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Mr. Bean A Serie Animada" tvg-logo="http://lgfp.one/ONO8" group-title="Canais | Kids [24H]",[24H] Mr. Bean A Serie Animada
+http://cdc55.cc:80/live/7125938483/5158/228508.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Mucha Lucha" tvg-logo="http://lgfp.one/CVG4" group-title="Canais | Kids [24H]",[24H] Mucha Lucha
+http://cdc55.cc:80/live/7125938483/5158/227820.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Mundo Bita" tvg-logo="http://lgfp.one/CVG5" group-title="Canais | Kids [24H]",[24H] Mundo Bita
+http://cdc55.cc:80/live/7125938483/5158/227821.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Mundo Bita e a Natureza" tvg-logo="http://lgfp.one/CVG6" group-title="Canais | Kids [24H]",[24H] Mundo Bita e a Natureza
+http://cdc55.cc:80/live/7125938483/5158/227822.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Mundo Bita e as Brincadeiras" tvg-logo="http://lgfp.one/CVG7" group-title="Canais | Kids [24H]",[24H] Mundo Bita e as Brincadeiras
+http://cdc55.cc:80/live/7125938483/5158/227823.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Mundo Bita e o Corpo Humano" tvg-logo="http://lgfp.one/CVG8" group-title="Canais | Kids [24H]",[24H] Mundo Bita e o Corpo Humano
+http://cdc55.cc:80/live/7125938483/5158/227824.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Mundo Bita e os Animais" tvg-logo="http://lgfp.one/CVH0" group-title="Canais | Kids [24H]",[24H] Mundo Bita e os Animais
+http://cdc55.cc:80/live/7125938483/5158/227826.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Naruto Shippuden" tvg-logo="http://lgfp.one/QCD6" group-title="Canais | Kids [24H]",[24H] Naruto Shippuden
+http://cdc55.cc:80/live/7125938483/5158/331672.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Nilba e os Desastronautas" tvg-logo="http://lgfp.one/ONP2" group-title="Canais | Kids [24H]",[24H] Nilba e os Desastronautas
+http://cdc55.cc:80/live/7125938483/5158/228509.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] O Fantastico Mundo de Bobby" tvg-logo="http://lgfp.one/CVH8" group-title="Canais | Kids [24H]",[24H] O Fantastico Mundo de Bobby
+http://cdc55.cc:80/live/7125938483/5158/227834.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] O Incrivel Mundo de Gumball" tvg-logo="http://lgfp.one/OJI8" group-title="Canais | Kids [24H]",[24H] O Incrivel Mundo de Gumball
+http://cdc55.cc:80/live/7125938483/5158/227835.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] O Laboratorio de Dexter" tvg-logo="http://lgfp.one/CVH9" group-title="Canais | Kids [24H]",[24H] O Laboratorio de Dexter
+http://cdc55.cc:80/live/7125938483/5158/227836.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] O Mundo Maravilhoso de Mickey Mouse" tvg-logo="http://lgfp.one/OJI9" group-title="Canais | Kids [24H]",[24H] O Mundo Maravilhoso de Mickey Mouse
+http://cdc55.cc:80/live/7125938483/5158/227842.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] O Novo Show do Pica Pau" tvg-logo="http://lgfp.one/CVI5" group-title="Canais | Kids [24H]",[24H] O Novo Show do Pica Pau
+http://cdc55.cc:80/live/7125938483/5158/227843.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] O Show de Tom e Jerry" tvg-logo="http://lgfp.one/CVJ0" group-title="Canais | Kids [24H]",[24H] O Show de Tom e Jerry
+http://cdc55.cc:80/live/7125938483/5158/227848.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Odo" tvg-logo="http://lgfp.one/CVJ3" group-title="Canais | Kids [24H]",[24H] Odo
+http://cdc55.cc:80/live/7125938483/5158/227851.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Operacao Big Hero" tvg-logo="http://lgfp.one/CVJ4" group-title="Canais | Kids [24H]",[24H] Operacao Big Hero
+http://cdc55.cc:80/live/7125938483/5158/227852.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Os Apuros de Penélope Charmosa" tvg-logo="http://lgfp.one/OJJ0" group-title="Canais | Kids [24H]",[24H] Os Apuros de Penélope Charmosa
+http://cdc55.cc:80/live/7125938483/5158/227854.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Os Backyardigans" tvg-logo="http://lgfp.one/CVJ7" group-title="Canais | Kids [24H]",[24H] Os Backyardigans
+http://cdc55.cc:80/live/7125938483/5158/227856.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] OS FLINTSTONES" tvg-logo="http://lgfp.one/QCX2" group-title="Canais | Kids [24H]",[24H] OS FLINTSTONES
+http://cdc55.cc:80/live/7125938483/5158/333089.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Os Herculoides" tvg-logo="http://lgfp.one/CVL4" group-title="Canais | Kids [24H]",[24H] Os Herculoides
+http://cdc55.cc:80/live/7125938483/5158/227874.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Os Incriveis Espioes" tvg-logo="http://lgfp.one/CVL9" group-title="Canais | Kids [24H]",[24H] Os Incriveis Espioes
+http://cdc55.cc:80/live/7125938483/5158/227879.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Os Jetsons" tvg-logo="http://lgfp.one/CVM0" group-title="Canais | Kids [24H]",[24H] Os Jetsons
+http://cdc55.cc:80/live/7125938483/5158/227880.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Os Misterios de Frajola e Piu Piu" tvg-logo="http://lgfp.one/CVM1" group-title="Canais | Kids [24H]",[24H] Os Misterios de Frajola e Piu Piu
+http://cdc55.cc:80/live/7125938483/5158/227881.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Os Misterios de Frajola e Piu Piu" tvg-logo="http://lgfp.one/OJL5" group-title="Canais | Kids [24H]",[24H] Os Misterios de Frajola e Piu Piu
+http://cdc55.cc:80/live/7125938483/5158/227882.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Os Padrinhos Magicos" tvg-logo="http://lgfp.one/CVM3" group-title="Canais | Kids [24H]",[24H] Os Padrinhos Magicos
+http://cdc55.cc:80/live/7125938483/5158/227884.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Os Smurfs" tvg-logo="http://lgfp.one/CVP7" group-title="Canais | Kids [24H]",[24H] Os Smurfs
+http://cdc55.cc:80/live/7125938483/5158/227918.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Os Ursinhos Gummi" tvg-logo="http://lgfp.one/CVQ2" group-title="Canais | Kids [24H]",[24H] Os Ursinhos Gummi
+http://cdc55.cc:80/live/7125938483/5158/227923.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Os Vingadores" tvg-logo="http://lgfp.one/QCX3" group-title="Canais | Kids [24H]",[24H] Os Vingadores
+http://cdc55.cc:80/live/7125938483/5158/333090.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Oswaldo" tvg-logo="http://lgfp.one/OJK4" group-title="Canais | Kids [24H]",[24H] Oswaldo
+http://cdc55.cc:80/live/7125938483/5158/228514.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Papa-Léguas" tvg-logo="http://lgfp.one/QCX5" group-title="Canais | Kids [24H]",[24H] Papa-Léguas
+http://cdc55.cc:80/live/7125938483/5158/333092.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Patrulha Canina" tvg-logo="http://lgfp.one/CVQ3" group-title="Canais | Kids [24H]",[24H] Patrulha Canina
+http://cdc55.cc:80/live/7125938483/5158/227924.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Peppa Pig" tvg-logo="http://lgfp.one/CVQ4" group-title="Canais | Kids [24H]",[24H] Peppa Pig
+http://cdc55.cc:80/live/7125938483/5158/227933.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] PERNALONGA" tvg-logo="http://lgfp.one/QCX4" group-title="Canais | Kids [24H]",[24H] PERNALONGA
+http://cdc55.cc:80/live/7125938483/5158/333091.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Pestinha e Feroz" tvg-logo="http://lgfp.one/CVQ6" group-title="Canais | Kids [24H]",[24H] Pestinha e Feroz
+http://cdc55.cc:80/live/7125938483/5158/227937.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Phineas e Ferb" tvg-logo="http://lgfp.one/QCX6" group-title="Canais | Kids [24H]",[24H] Phineas e Ferb
+http://cdc55.cc:80/live/7125938483/5158/333093.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Pica Pau" tvg-logo="http://lgfp.one/CVQ8" group-title="Canais | Kids [24H]",[24H] Pica Pau
+http://cdc55.cc:80/live/7125938483/5158/227941.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Pink e Cerebro" tvg-logo="http://lgfp.one/QCD8" group-title="Canais | Kids [24H]",[24H] Pink e Cerebro
+http://cdc55.cc:80/live/7125938483/5158/331674.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Pocoyo" tvg-logo="http://lgfp.one/CVQ9" group-title="Canais | Kids [24H]",[24H] Pocoyo
+http://cdc55.cc:80/live/7125938483/5158/227943.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Rambo (Desenho)" tvg-logo="http://lgfp.one/QCY5" group-title="Canais | Kids [24H]",[24H] Rambo (Desenho)
+http://cdc55.cc:80/live/7125938483/5158/333107.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Ridley Jones A Guardia do Museu" tvg-logo="http://lgfp.one/CVU6" group-title="Canais | Kids [24H]",[24H] Ridley Jones A Guardia do Museu
+http://cdc55.cc:80/live/7125938483/5158/227993.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Riquinho" tvg-logo="http://lgfp.one/CVU7" group-title="Canais | Kids [24H]",[24H] Riquinho
+http://cdc55.cc:80/live/7125938483/5158/227994.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Rocketeer" tvg-logo="http://lgfp.one/CVU8" group-title="Canais | Kids [24H]",[24H] Rocketeer
+http://cdc55.cc:80/live/7125938483/5158/227995.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Rocky e Hudson Os Caubois Gays" tvg-logo="http://lgfp.one/CVU9" group-title="Canais | Kids [24H]",[24H] Rocky e Hudson Os Caubois Gays
+http://cdc55.cc:80/live/7125938483/5158/227996.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Rua Dalmatas 101" tvg-logo="http://lgfp.one/CVV0" group-title="Canais | Kids [24H]",[24H] Rua Dalmatas 101
+http://cdc55.cc:80/live/7125938483/5158/227997.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Rugrats Os Anjinhos" tvg-logo="http://lgfp.one/CVV1" group-title="Canais | Kids [24H]",[24H] Rugrats Os Anjinhos
+http://cdc55.cc:80/live/7125938483/5158/227998.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Sailor Moon" tvg-logo="http://lgfp.one/CVW0" group-title="Canais | Kids [24H]",[24H] Sailor Moon
+http://cdc55.cc:80/live/7125938483/5158/228007.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Scooby Doo Mistério SA" tvg-logo="http://lgfp.one/OJL6" group-title="Canais | Kids [24H]",[24H] Scooby Doo Mistério SA
+http://cdc55.cc:80/live/7125938483/5158/228008.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Scooby-Doo" tvg-logo="" group-title="Canais | Kids [24H]",[24H] Scooby-Doo
+http://cdc55.cc:80/live/7125938483/5158/333094.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Shaman King" tvg-logo="http://lgfp.one/OJL7" group-title="Canais | Kids [24H]",[24H] Shaman King
+http://cdc55.cc:80/live/7125938483/5158/228014.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] She Ra A Princesa Do Poder" tvg-logo="http://lgfp.one/CVX2" group-title="Canais | Kids [24H]",[24H] She Ra A Princesa Do Poder
+http://cdc55.cc:80/live/7125938483/5158/228023.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Snoopy e Sua Turma" tvg-logo="http://lgfp.one/CVX4" group-title="Canais | Kids [24H]",[24H] Snoopy e Sua Turma
+http://cdc55.cc:80/live/7125938483/5158/228027.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Sonny Boy" tvg-logo="http://lgfp.one/CVX7" group-title="Canais | Kids [24H]",[24H] Sonny Boy
+http://cdc55.cc:80/live/7125938483/5158/228033.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Spidey e Seus Amigos Espetaculares" tvg-logo="http://lgfp.one/OJL8" group-title="Canais | Kids [24H]",[24H] Spidey e Seus Amigos Espetaculares
+http://cdc55.cc:80/live/7125938483/5158/228085.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Street Fighter II Victory" tvg-logo="http://lgfp.one/OJM1" group-title="Canais | Kids [24H]",[24H] Street Fighter II Victory
+http://cdc55.cc:80/live/7125938483/5158/228519.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Super Amigos" tvg-logo="http://lgfp.one/CWD1" group-title="Canais | Kids [24H]",[24H] Super Amigos
+http://cdc55.cc:80/live/7125938483/5158/228153.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Supernatural Academy" tvg-logo="http://lgfp.one/OJL4" group-title="Canais | Kids [24H]",[24H] Supernatural Academy
+http://cdc55.cc:80/live/7125938483/5158/228517.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Taz Mania" tvg-logo="http://lgfp.one/CWI4" group-title="Canais | Kids [24H]",[24H] Taz Mania
+http://cdc55.cc:80/live/7125938483/5158/228313.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] The Archie Show" tvg-logo="http://lgfp.one/CWI5" group-title="Canais | Kids [24H]",[24H] The Archie Show
+http://cdc55.cc:80/live/7125938483/5158/228316.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] The Loud House" tvg-logo="http://lgfp.one/ONM1" group-title="Canais | Kids [24H]",[24H] The Loud House
+http://cdc55.cc:80/live/7125938483/5158/228502.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] The Loud House Uma Verdadeira Familia Barulhenta" tvg-logo="http://lgfp.one/ONM2" group-title="Canais | Kids [24H]",[24H] The Loud House Uma Verdadeira Familia Barulhenta
+http://cdc55.cc:80/live/7125938483/5158/228503.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] ThunderCats" tvg-logo="http://lgfp.one/CWK2" group-title="Canais | Kids [24H]",[24H] ThunderCats
+http://cdc55.cc:80/live/7125938483/5158/228367.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] ThunderCats (2011)" tvg-logo="http://lgfp.one/CWK3" group-title="Canais | Kids [24H]",[24H] ThunderCats (2011)
+http://cdc55.cc:80/live/7125938483/5158/228370.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Tico e Teco Defensores da Lei" tvg-logo="http://lgfp.one/CWK4" group-title="Canais | Kids [24H]",[24H] Tico e Teco Defensores da Lei
+http://cdc55.cc:80/live/7125938483/5158/228373.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Tico e Teco Vida no Parque" tvg-logo="http://lgfp.one/CWK5" group-title="Canais | Kids [24H]",[24H] Tico e Teco Vida no Parque
+http://cdc55.cc:80/live/7125938483/5158/228376.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Tigue E Lupa Os Detetives" tvg-logo="http://lgfp.one/CWK6" group-title="Canais | Kids [24H]",[24H] Tigue E Lupa Os Detetives
+http://cdc55.cc:80/live/7125938483/5158/228379.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] TIMAO E PUMBA" tvg-logo="http://lgfp.one/QCY4" group-title="Canais | Kids [24H]",[24H] TIMAO E PUMBA
+http://cdc55.cc:80/live/7125938483/5158/333105.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Tiny Toon Aventuras" tvg-logo="http://lgfp.one/OJL9" group-title="Canais | Kids [24H]",[24H] Tiny Toon Aventuras
+http://cdc55.cc:80/live/7125938483/5158/228381.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Tom e Jerry" tvg-logo="http://lgfp.one/CWL6" group-title="Canais | Kids [24H]",[24H] Tom e Jerry
+http://cdc55.cc:80/live/7125938483/5158/228401.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Top Wing" tvg-logo="http://lgfp.one/ONJ7" group-title="Canais | Kids [24H]",[24H] Top Wing
+http://cdc55.cc:80/live/7125938483/5158/228411.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Topo Gigio" tvg-logo="http://lgfp.one/ONJ8" group-title="Canais | Kids [24H]",[24H] Topo Gigio
+http://cdc55.cc:80/live/7125938483/5158/228413.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Transformers Cyberverse" tvg-logo="http://lgfp.one/ONN5" group-title="Canais | Kids [24H]",[24H] Transformers Cyberverse
+http://cdc55.cc:80/live/7125938483/5158/228551.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Transformers War for Cybertron O Cerco" tvg-logo="http://lgfp.one/CWM1" group-title="Canais | Kids [24H]",[24H] Transformers War for Cybertron O Cerco
+http://cdc55.cc:80/live/7125938483/5158/228415.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Transformers War for Cybertron O Nascer da Terra" tvg-logo="http://lgfp.one/CWM2" group-title="Canais | Kids [24H]",[24H] Transformers War for Cybertron O Nascer da Terra
+http://cdc55.cc:80/live/7125938483/5158/228417.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Transformers War for Cybertron O Reino" tvg-logo="http://lgfp.one/CWM3" group-title="Canais | Kids [24H]",[24H] Transformers War for Cybertron O Reino
+http://cdc55.cc:80/live/7125938483/5158/228419.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Tres Espias Demais" tvg-logo="http://lgfp.one/CWM9" group-title="Canais | Kids [24H]",[24H] Tres Espias Demais
+http://cdc55.cc:80/live/7125938483/5158/228427.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Tubacao" tvg-logo="http://lgfp.one/CWN0" group-title="Canais | Kids [24H]",[24H] Tubacao
+http://cdc55.cc:80/live/7125938483/5158/228428.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Turma da Monica" tvg-logo="http://lgfp.one/CWN1" group-title="Canais | Kids [24H]",[24H] Turma da Monica
+http://cdc55.cc:80/live/7125938483/5158/228429.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] TV Quack O Pato Donald e Seus Sobrinhos" tvg-logo="http://lgfp.one/CWN2" group-title="Canais | Kids [24H]",[24H] TV Quack O Pato Donald e Seus Sobrinhos
+http://cdc55.cc:80/live/7125938483/5158/228430.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Ursinhos Carinhosos e Seus Primos" tvg-logo="http://lgfp.one/ONL6" group-title="Canais | Kids [24H]",[24H] Ursinhos Carinhosos e Seus Primos
+http://cdc55.cc:80/live/7125938483/5158/228460.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Ursinhos em Curso" tvg-logo="http://lgfp.one/OJK5" group-title="Canais | Kids [24H]",[24H] Ursinhos em Curso
+http://cdc55.cc:80/live/7125938483/5158/228515.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Vampirina" tvg-logo="http://lgfp.one/CWP2" group-title="Canais | Kids [24H]",[24H] Vampirina
+http://cdc55.cc:80/live/7125938483/5158/228470.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] X Men Evolution" tvg-logo="http://lgfp.one/CWP4" group-title="Canais | Kids [24H]",[24H] X Men Evolution
+http://cdc55.cc:80/live/7125938483/5158/228472.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] X Men Serie Animada" tvg-logo="http://lgfp.one/CWP5" group-title="Canais | Kids [24H]",[24H] X Men Serie Animada
+http://cdc55.cc:80/live/7125938483/5158/228473.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] X-MEN 97" tvg-logo="http://lgfp.one/QEB0" group-title="Canais | Kids [24H]",[24H] X-MEN 97
+http://cdc55.cc:80/live/7125938483/5158/333106.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Yabba Dabba Dinossauros" tvg-logo="http://lgfp.one/CWQ2" group-title="Canais | Kids [24H]",[24H] Yabba Dabba Dinossauros
+http://cdc55.cc:80/live/7125938483/5158/228480.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Yu Yu Hakusho" tvg-logo="http://lgfp.one/CWQ3" group-title="Canais | Kids [24H]",[24H] Yu Yu Hakusho
+http://cdc55.cc:80/live/7125938483/5158/228481.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Ultimate Homem Aranha" tvg-logo="http://lgfp.one/RKG8" group-title="Canais | Kids [24H]",[24H] Ultimate Homem Aranha
+http://cdc55.cc:80/live/7125938483/5158/355683.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Star Wars Aventuras dos Jovens Jedi" tvg-logo="http://lgfp.one/RKH0" group-title="Canais | Kids [24H]",[24H] Star Wars Aventuras dos Jovens Jedi
+http://cdc55.cc:80/live/7125938483/5158/355685.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] BOOBA" tvg-logo="http://lgfp.one/RNU0" group-title="Canais | Kids [24H]",[24H] BOOBA
+http://cdc55.cc:80/live/7125938483/5158/357373.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] He-Man" tvg-logo="http://lgfp.one/RRF1" group-title="Canais | Kids [24H]",[24H] He-Man
+http://cdc55.cc:80/live/7125938483/5158/360392.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Cadillacs e Dinossauros" tvg-logo="http://lgfp.one/RRG3" group-title="Canais | Kids [24H]",[24H] Cadillacs e Dinossauros
+http://cdc55.cc:80/live/7125938483/5158/360404.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] CAILLOU" tvg-logo="http://lgfp.one/RRG4" group-title="Canais | Kids [24H]",[24H] CAILLOU
+http://cdc55.cc:80/live/7125938483/5158/360405.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Capitão Caverna" tvg-logo="http://lgfp.one/RRG5" group-title="Canais | Kids [24H]",[24H] Capitão Caverna
+http://cdc55.cc:80/live/7125938483/5158/360406.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Capitão Planeta" tvg-logo="http://lgfp.one/RRG6" group-title="Canais | Kids [24H]",[24H] Capitão Planeta
+http://cdc55.cc:80/live/7125938483/5158/360407.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] CORAGEM - O CÃO COVARDE" tvg-logo="http://lgfp.one/RRG7" group-title="Canais | Kids [24H]",[24H] CORAGEM - O CÃO COVARDE
+http://cdc55.cc:80/live/7125938483/5158/360408.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] DIGIMON" tvg-logo="" group-title="Canais | Kids [24H]",[24H] DIGIMON
+http://cdc55.cc:80/live/7125938483/5158/360410.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Du Dudu e Edu" tvg-logo="http://lgfp.one/RRP1" group-title="Canais | Kids [24H]",[24H] Du Dudu e Edu
+http://cdc55.cc:80/live/7125938483/5158/360858.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Duck Dodgers" tvg-logo="http://lgfp.one/RRP2" group-title="Canais | Kids [24H]",[24H] Duck Dodgers
+http://cdc55.cc:80/live/7125938483/5158/360859.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Flash Gordon" tvg-logo="http://lgfp.one/RRP4" group-title="Canais | Kids [24H]",[24H] Flash Gordon
+http://cdc55.cc:80/live/7125938483/5158/360861.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] FullMetal Alchemist" tvg-logo="http://lgfp.one/RRP6" group-title="Canais | Kids [24H]",[24H] FullMetal Alchemist
+http://cdc55.cc:80/live/7125938483/5158/360863.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Gárgulas" tvg-logo="http://lgfp.one/RRP7" group-title="Canais | Kids [24H]",[24H] Gárgulas
+http://cdc55.cc:80/live/7125938483/5158/360864.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Homem Aranha Antigo" tvg-logo="" group-title="Canais | Kids [24H]",[24H] Homem Aranha Antigo
+http://cdc55.cc:80/live/7125938483/5158/360865.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Little Angel" tvg-logo="http://lgfp.one/RRP8" group-title="Canais | Kids [24H]",[24H] Little Angel
+http://cdc55.cc:80/live/7125938483/5158/360866.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Mega Man" tvg-logo="https://www.imdb.com/pt/title/tt5608708/" group-title="Canais | Kids [24H]",[24H] Mega Man
+http://cdc55.cc:80/live/7125938483/5158/360867.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Mortal Kombat" tvg-logo="http://lgfp.one/RRP9" group-title="Canais | Kids [24H]",[24H] Mortal Kombat
+http://cdc55.cc:80/live/7125938483/5158/360868.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] O Mundo de Beakman" tvg-logo="http://lgfp.one/RRQ0" group-title="Canais | Kids [24H]",[24H] O Mundo de Beakman
+http://cdc55.cc:80/live/7125938483/5158/360869.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Os Super Patos" tvg-logo="http://lgfp.one/RRQ1" group-title="Canais | Kids [24H]",[24H] Os Super Patos
+http://cdc55.cc:80/live/7125938483/5158/360870.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Patati e Patatá" tvg-logo="http://lgfp.one/RRQ2" group-title="Canais | Kids [24H]",[24H] Patati e Patatá
+http://cdc55.cc:80/live/7125938483/5158/360871.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Pinky e o Cérebro" tvg-logo="http://lgfp.one/RRR8" group-title="Canais | Kids [24H]",[24H] Pinky e o Cérebro
+http://cdc55.cc:80/live/7125938483/5158/360887.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] POKEMOM MINECRAFT" tvg-logo="" group-title="Canais | Kids [24H]",[24H] POKEMOM MINECRAFT
+http://cdc55.cc:80/live/7125938483/5158/360888.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Samurai Warriors" tvg-logo="http://lgfp.one/RRR9" group-title="Canais | Kids [24H]",[24H] Samurai Warriors
+http://cdc55.cc:80/live/7125938483/5158/360889.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Turma da Pateta" tvg-logo="" group-title="Canais | Kids [24H]",[24H] Turma da Pateta
+http://cdc55.cc:80/live/7125938483/5158/360890.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Zé Colméia" tvg-logo="http://lgfp.one/RRS0" group-title="Canais | Kids [24H]",[24H] Zé Colméia
+http://cdc55.cc:80/live/7125938483/5158/360891.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Fate" tvg-logo="" group-title="Canais | Kids [24H]",[24H] Fate
+http://cdc55.cc:80/live/7125938483/5158/360892.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] CENTRAL KIDS" tvg-logo="" group-title="Canais | Kids [24H]",[24H] CENTRAL KIDS
+http://cdc55.cc:80/live/7125938483/5158/371448.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Os Pinguins de Madagascar" tvg-logo="http://lgfp.one/SGE7" group-title="Canais | Kids [24H]",[24H] Os Pinguins de Madagascar
+http://cdc55.cc:80/live/7125938483/5158/376356.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] As Irmãs Grimm" tvg-logo="http://lgfp.one/SGE8" group-title="Canais | Kids [24H]",[24H] As Irmãs Grimm
+http://cdc55.cc:80/live/7125938483/5158/376357.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Big Blue: O Grande Oceano" tvg-logo="http://lgfp.one/SGE9" group-title="Canais | Kids [24H]",[24H] Big Blue: O Grande Oceano
+http://cdc55.cc:80/live/7125938483/5158/376358.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Chapolin e Os Colorados" tvg-logo="http://lgfp.one/SGF0" group-title="Canais | Kids [24H]",[24H] Chapolin e Os Colorados
+http://cdc55.cc:80/live/7125938483/5158/376359.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Folha Mágica" tvg-logo="http://lgfp.one/SGM9" group-title="Canais | Kids [24H]",[24H] Folha Mágica
+http://cdc55.cc:80/live/7125938483/5158/376580.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Gigablaster" tvg-logo="http://lgfp.one/SGN0" group-title="Canais | Kids [24H]",[24H] Gigablaster
+http://cdc55.cc:80/live/7125938483/5158/376581.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Ilha das Formas" tvg-logo="http://lgfp.one/SGN2" group-title="Canais | Kids [24H]",[24H] Ilha das Formas
+http://cdc55.cc:80/live/7125938483/5158/376583.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Não é uma Caixa" tvg-logo="http://lgfp.one/SGN4" group-title="Canais | Kids [24H]",[24H] Não é uma Caixa
+http://cdc55.cc:80/live/7125938483/5158/376585.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] O Mundo Maravilhosamente Estranho de Gumball" tvg-logo="http://lgfp.one/SGN5" group-title="Canais | Kids [24H]",[24H] O Mundo Maravilhosamente Estranho de Gumball
+http://cdc55.cc:80/live/7125938483/5158/376586.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Wylde Pak" tvg-logo="http://lgfp.one/SGN6" group-title="Canais | Kids [24H]",[24H] Wylde Pak
+http://cdc55.cc:80/live/7125938483/5158/376587.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Yo Gabba Gabbalândia" tvg-logo="http://lgfp.one/SGN7" group-title="Canais | Kids [24H]",[24H] Yo Gabba Gabbalândia
+http://cdc55.cc:80/live/7125938483/5158/376588.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Gaules Channel" tvg-logo="" group-title="Canais | Kids [24H]",[24H] Gaules Channel
+http://cdc55.cc:80/live/7125938483/5158/376881.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Conan: O Menino do Futuro" tvg-logo="http://lgfp.one/SMP5" group-title="Canais | Kids [24H]",[24H] Conan: O Menino do Futuro
+http://cdc55.cc:80/live/7125938483/5158/379545.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Super Fofos - Aventura na Cidade" tvg-logo="http://lgfp.one/SMP6" group-title="Canais | Kids [24H]",[24H] Super Fofos - Aventura na Cidade
+http://cdc55.cc:80/live/7125938483/5158/379546.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] MegaMan" tvg-logo="" group-title="Canais | Kids [24H]",[24H] MegaMan
+http://cdc55.cc:80/live/7125938483/5158/379594.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Familia Dinossauros" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3c/8486.jpg" group-title="Canais | Kids [24H]",[24H] Familia Dinossauros
+http://cdc55.cc:80/live/7125938483/5158/379623.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Acelerados [HD]" tvg-logo="http://lgfp.one/QBT6" group-title="Canais | Variedades",Acelerados [HD]
 http://cdc55.cc:80/live/7125938483/5158/331284.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AgroBrasil [FHD]" tvg-logo="http://lgfp.one/PVX3" group-title="Canais | Variedades",AgroBrasil [FHD]
@@ -273,6 +775,12 @@ http://cdc55.cc:80/live/7125938483/5158/130192.ts
 http://cdc55.cc:80/live/7125938483/5158/310.ts
 #EXTINF:-1 tvg-id="Megapix(src09).br" tvg-name="MEGAPIX [SD]" tvg-logo="http://lgfp.one/ARC" group-title="Canais | Filmes e Séries",MEGAPIX [SD]
 http://cdc55.cc:80/live/7125938483/5158/335.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount Channel [FHD]" tvg-logo="http://lgfp.one/NOI4" group-title="Canais | Filmes e Séries",Paramount Channel [FHD]
+http://cdc55.cc:80/live/7125938483/5158/300930.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount Channel [HD]" tvg-logo="http://lgfp.one/NOI5" group-title="Canais | Filmes e Séries",Paramount Channel [HD]
+http://cdc55.cc:80/live/7125938483/5158/300931.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount Channel [SD]" tvg-logo="http://lgfp.one/NOI6" group-title="Canais | Filmes e Séries",Paramount Channel [SD]
+http://cdc55.cc:80/live/7125938483/5158/300932.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Run: Time Cine Ação [HD]" tvg-logo="http://lgfp.one/RBB0" group-title="Canais | Filmes e Séries",Run: Time Cine Ação [HD]
 http://cdc55.cc:80/live/7125938483/5158/347179.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Run: Time Cine Espanto [HD]" tvg-logo="http://lgfp.one/RBA9" group-title="Canais | Filmes e Séries",Run: Time Cine Espanto [HD]
@@ -571,6 +1079,8 @@ http://cdc55.cc:80/live/7125938483/5158/360385.ts
 http://cdc55.cc:80/live/7125938483/5158/364750.ts
 #EXTINF:-1 tvg-id="PlayTV(src09).br" tvg-name="Play TV [HD]" tvg-logo="http://lgfp.one/SBR3" group-title="Canais | Abertos",Play TV [HD]
 http://cdc55.cc:80/live/7125938483/5158/371311.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Adesso tv [HD]" tvg-logo="http://lgfp.one/SMS6" group-title="Canais | Abertos",Adesso tv [HD]
+http://cdc55.cc:80/live/7125938483/5158/379589.ts
 #EXTINF:-1 tvg-id="AMC(src05).br" tvg-name="AMC [FHD] LEG" tvg-logo="" group-title="Canais | Legendados",AMC [FHD] LEG
 http://cdc55.cc:80/live/7125938483/5158/331695.ts
 #EXTINF:-1 tvg-id="São.Paulo/SP..E!.HD.br" tvg-name="E! [HD] LEG" tvg-logo="http://lgfp.one/AIX" group-title="Canais | Legendados",E! [HD] LEG
@@ -1151,6 +1661,8 @@ http://cdc55.cc:80/live/7125938483/5158/371453.ts
 http://cdc55.cc:80/live/7125938483/5158/371454.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FIGHT BOX [HD]" tvg-logo="" group-title="Canais | Esportes",FIGHT BOX [HD]
 http://cdc55.cc:80/live/7125938483/5158/375051.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XSPORTS YT [HD]" tvg-logo="" group-title="Canais | Esportes",XSPORTS YT [HD]
+http://cdc55.cc:80/live/7125938483/5158/379592.ts
 #EXTINF:-1 tvg-id="Bis(src05).br" tvg-name="BIS [FHD]" tvg-logo="http://lgfp.one/ONP" group-title="Canais | Art & Music",BIS [FHD]
 http://cdc55.cc:80/live/7125938483/5158/5.ts
 #EXTINF:-1 tvg-id="Bis(src05).br" tvg-name="BIS [FHD][H265]" tvg-logo="http://lgfp.one/ONP" group-title="Canais | Art & Music",BIS [FHD][H265]
@@ -1243,18 +1755,14 @@ http://cdc55.cc:80/live/7125938483/5158/376878.ts
 http://cdc55.cc:80/live/7125938483/5158/376879.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BJJ STAR [HD]" tvg-logo="http://lgfp.one/OOI7" group-title="Canais | Jogos & Eventos",BJJ STAR [HD]
 http://cdc55.cc:80/live/7125938483/5158/127310.ts
-#EXTINF:-1 tvg-id="CazeTV2(Portuguese).br" tvg-name="Caze TV 2 [HD]" tvg-logo="http://lgfp.one/VMB" group-title="Canais | Jogos & Eventos",Caze TV 2 [HD]
+#EXTINF:-1 tvg-id="CazeTV2(Portuguese).br" tvg-name="Caze TV 2 [HD] [1]" tvg-logo="http://lgfp.one/VMB" group-title="Canais | Jogos & Eventos",Caze TV 2 [HD] [1]
 http://cdc55.cc:80/live/7125938483/5158/300315.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Caze TV 1 [HD]" tvg-logo="http://lgfp.one/VMB" group-title="Canais | Jogos & Eventos",Caze TV 1 [HD]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Caze TV 1 [HD] [1]" tvg-logo="http://lgfp.one/VMB" group-title="Canais | Jogos & Eventos",Caze TV 1 [HD] [1]
 http://cdc55.cc:80/live/7125938483/5158/300314.ts
-#EXTINF:-1 tvg-id="CazeTV3(Portuguese).br" tvg-name="Caze TV 3 [HD]" tvg-logo="http://lgfp.one/VMB" group-title="Canais | Jogos & Eventos",Caze TV 3 [HD]
+#EXTINF:-1 tvg-id="CazeTV3(Portuguese).br" tvg-name="Caze TV 3 [HD] [1]" tvg-logo="http://lgfp.one/VMB" group-title="Canais | Jogos & Eventos",Caze TV 3 [HD] [1]
 http://cdc55.cc:80/live/7125938483/5158/300316.ts
-#EXTINF:-1 tvg-id="CazeTV4(Portuguese).br" tvg-name="Caze TV 4 [HD]" tvg-logo="http://lgfp.one/VMB" group-title="Canais | Jogos & Eventos",Caze TV 4 [HD]
+#EXTINF:-1 tvg-id="CazeTV4(Portuguese).br" tvg-name="Caze TV 4 [HD] [1]" tvg-logo="http://lgfp.one/VMB" group-title="Canais | Jogos & Eventos",Caze TV 4 [HD] [1]
 http://cdc55.cc:80/live/7125938483/5158/300317.ts
-#EXTINF:-1 tvg-id="CazeTV(Portuguese).br" tvg-name="CAZE TV [FHD]" tvg-logo="http://lgfp.one/VMB" group-title="Canais | Jogos & Eventos",CAZE TV [FHD]
-http://cdc55.cc:80/live/7125938483/5158/55346.ts
-#EXTINF:-1 tvg-id="CazeTV(Portuguese).br" tvg-name="CAZE TV [HD]" tvg-logo="http://lgfp.one/JYX8" group-title="Canais | Jogos & Eventos",CAZE TV [HD]
-http://cdc55.cc:80/live/7125938483/5158/134082.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eventos Netflix [FHD]" tvg-logo="http://lgfp.one/PYV5" group-title="Canais | Jogos & Eventos",Eventos Netflix [FHD]
 http://cdc55.cc:80/live/7125938483/5158/319469.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FCF TV 1 [FHD]" tvg-logo="http://lgfp.one/AON1" group-title="Canais | Jogos & Eventos",FCF TV 1 [FHD]
@@ -1345,6 +1853,18 @@ http://cdc55.cc:80/live/7125938483/5158/375012.ts
 http://cdc55.cc:80/live/7125938483/5158/375048.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVE ES (JOGO 2)" tvg-logo="http://lgfp.one/SEU1" group-title="Canais | Jogos & Eventos",TVE ES (JOGO 2)
 http://cdc55.cc:80/live/7125938483/5158/375050.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CAZE TV [HD] [2]" tvg-logo="http://lgfp.one/VMB" group-title="Canais | Jogos & Eventos",CAZE TV [HD] [2]
+http://cdc55.cc:80/live/7125938483/5158/379576.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CAZE TV [FHD] [2]" tvg-logo="http://lgfp.one/VMB" group-title="Canais | Jogos & Eventos",CAZE TV [FHD] [2]
+http://cdc55.cc:80/live/7125938483/5158/379577.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CAZE TV 2 [HD] [3]" tvg-logo="http://lgfp.one/VMB" group-title="Canais | Jogos & Eventos",CAZE TV 2 [HD] [3]
+http://cdc55.cc:80/live/7125938483/5158/379578.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CAZE TV 1 [HD] [3]" tvg-logo="http://lgfp.one/VMB" group-title="Canais | Jogos & Eventos",CAZE TV 1 [HD] [3]
+http://cdc55.cc:80/live/7125938483/5158/379579.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CAZE TV 3 [HD] [3]" tvg-logo="http://lgfp.one/VMB" group-title="Canais | Jogos & Eventos",CAZE TV 3 [HD] [3]
+http://cdc55.cc:80/live/7125938483/5158/379580.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CAZE TV 4 [HD] [3]" tvg-logo="http://lgfp.one/VMB" group-title="Canais | Jogos & Eventos",CAZE TV 4 [HD] [3]
+http://cdc55.cc:80/live/7125938483/5158/379581.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VOLLEY 01 [HD]" tvg-logo="http://lgfp.one/PHD0" group-title="Canais | Jogos & Eventos",VOLLEY 01 [HD]
 http://cdc55.cc:80/live/7125938483/5158/317732.ts
 #EXTINF:-1 tvg-id="São.Paulo/SP..Boa.Vontade.TV.br" tvg-name="BOA VONTADE [FHD]" tvg-logo="http://lgfp.one/QEA7" group-title="Canais | Religiosos",BOA VONTADE [FHD]
@@ -1687,6 +2207,8 @@ http://cdc55.cc:80/live/7125938483/5158/376697.ts
 http://cdc55.cc:80/live/7125938483/5158/376698.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY+ 13 [HD]" tvg-logo="http://lgfp.one/ORS0" group-title="Canais | Disney Plus",DISNEY+ 13 [HD]
 http://cdc55.cc:80/live/7125938483/5158/376699.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY plus 9 [HD]" tvg-logo="http://lgfp.one/NOK6" group-title="Canais | Disney Plus",DISNEY plus 9 [HD]
+http://cdc55.cc:80/live/7125938483/5158/379590.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FORMULA 1 TV TEMPORADA 2025" tvg-logo="http://lgfp.one/PLG6" group-title="Canais | Formula 1",FORMULA 1 TV TEMPORADA 2025
 http://cdc55.cc:80/live/7125938483/5158/319468.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fórmula 1 TV [FHD]" tvg-logo="http://lgfp.one/VPK" group-title="Canais | Formula 1",Fórmula 1 TV [FHD]
@@ -2633,12 +3155,6 @@ http://cdc55.cc:80/live/7125938483/5158/300934.ts
 http://cdc55.cc:80/live/7125938483/5158/300935.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount+ 04 [FHD]" tvg-logo="http://lgfp.one/NOJ0" group-title="Canais | Paramount +",Paramount+ 04 [FHD]
 http://cdc55.cc:80/live/7125938483/5158/300936.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount Channel [FHD]" tvg-logo="http://lgfp.one/NOI4" group-title="Canais | Paramount +",Paramount Channel [FHD]
-http://cdc55.cc:80/live/7125938483/5158/300930.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount Channel [HD]" tvg-logo="http://lgfp.one/NOI5" group-title="Canais | Paramount +",Paramount Channel [HD]
-http://cdc55.cc:80/live/7125938483/5158/300931.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount Channel [SD]" tvg-logo="http://lgfp.one/NOI6" group-title="Canais | Paramount +",Paramount Channel [SD]
-http://cdc55.cc:80/live/7125938483/5158/300932.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount+ PLTF 01 [FHD]" tvg-logo="http://lgfp.one/NOJ1" group-title="Canais | Paramount +",Paramount+ PLTF 01 [FHD]
 http://cdc55.cc:80/live/7125938483/5158/300937.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount+ PLTF 02 [FHD]" tvg-logo="http://lgfp.one/NOJ2" group-title="Canais | Paramount +",Paramount+ PLTF 02 [FHD]
@@ -2649,6 +3165,8 @@ http://cdc55.cc:80/live/7125938483/5158/300939.ts
 http://cdc55.cc:80/live/7125938483/5158/375003.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount+ 06 [FHD]" tvg-logo="http://lgfp.one/NOI7" group-title="Canais | Paramount +",Paramount+ 06 [FHD]
 http://cdc55.cc:80/live/7125938483/5158/375004.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount+ 01 [HD][2]" tvg-logo="http://lgfp.one/NOI7" group-title="Canais | Paramount +",Paramount+ 01 [HD][2]
+http://cdc55.cc:80/live/7125938483/5158/379544.ts
 #EXTINF:-1 tvg-id="PREMIERE2(src09).br" tvg-name="PREMIERE 2 [FHD]" tvg-logo="http://lgfp.one/AXJ" group-title="Canais | Premiere",PREMIERE 2 [FHD]
 http://cdc55.cc:80/live/7125938483/5158/525.ts
 #EXTINF:-1 tvg-id="PREMIERE2(src09).br" tvg-name="PREMIERE 2 [FHD][H265]" tvg-logo="http://lgfp.one/VSX" group-title="Canais | Premiere",PREMIERE 2 [FHD][H265]
@@ -3067,6 +3585,10 @@ http://cdc55.cc:80/live/7125938483/5158/371450.ts
 http://cdc55.cc:80/live/7125938483/5158/371451.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BR: SBT Cuiaba MT [FHD]" tvg-logo="http://lgfp.one/SGW6" group-title="Canais | SBT",BR: SBT Cuiaba MT [FHD]
 http://cdc55.cc:80/live/7125938483/5158/376883.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT Sergipe -Tv Aperiper [HD]" tvg-logo="http://lgfp.one/SMS5" group-title="Canais | SBT",SBT Sergipe -Tv Aperiper [HD]
+http://cdc55.cc:80/live/7125938483/5158/379588.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT CUIABA MT [HD]" tvg-logo="http://lgfp.one/SMS7" group-title="Canais | SBT",SBT CUIABA MT [HD]
+http://cdc55.cc:80/live/7125938483/5158/379591.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT+ NOVELAS [HD]" tvg-logo="http://lgfp.one/DPQ0" group-title="Canais | SBT+",SBT+ NOVELAS [HD]
 http://cdc55.cc:80/live/7125938483/5158/239441.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT+ RAIZ" tvg-logo="http://lgfp.one/QCF6" group-title="Canais | SBT+",SBT+ RAIZ
@@ -3273,23 +3795,3 @@ http://cdc55.cc:80/live/7125938483/5158/351954.ts
 http://cdc55.cc:80/live/7125938483/5158/376611.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Core Suporte" tvg-logo="http://lgfp.one/NWW8" group-title="Suporte Core",Core Suporte
 http://cdc55.cc:80/live/7125938483/5158/305474.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="21:30 - Palmeiras x Grêmio [FHD]" tvg-logo="http://lgfp.one/OWJ4" group-title="Canais | Jogos do Dia",21:30 - Palmeiras x Grêmio [FHD]
-http://cdc55.cc:80/live/7125938483/5158/312856.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="21:30 - Palmeiras x Grêmio [HD]" tvg-logo="http://lgfp.one/OWJ3" group-title="Canais | Jogos do Dia",21:30 - Palmeiras x Grêmio [HD]
-http://cdc55.cc:80/live/7125938483/5158/312855.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="21:30 - RB Bragantino x Flamengo [FHD]" tvg-logo="http://lgfp.one/OWJ2.png" group-title="Canais | Jogos do Dia",21:30 - RB Bragantino x Flamengo [FHD]
-http://cdc55.cc:80/live/7125938483/5158/312854.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="21:30 - RB Bragantino x Flamengo [HD]" tvg-logo="http://lgfp.one/OWJ1.png" group-title="Canais | Jogos do Dia",21:30 - RB Bragantino x Flamengo [HD]
-http://cdc55.cc:80/live/7125938483/5158/312853.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="19:00 - Santos x Remo [FHD]" tvg-logo="http://lgfp.one/OWJ0.png" group-title="Canais | Jogos do Dia",19:00 - Santos x Remo [FHD]
-http://cdc55.cc:80/live/7125938483/5158/312852.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="19:00 - Santos x Remo [HD]" tvg-logo="http://lgfp.one/OWI9.png" group-title="Canais | Jogos do Dia",19:00 - Santos x Remo [HD]
-http://cdc55.cc:80/live/7125938483/5158/312851.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="19:00 - Chapecoense x AtléticoMG [FHD]" tvg-logo="http://lgfp.one/OWI8" group-title="Canais | Jogos do Dia",19:00 - Chapecoense x AtléticoMG [FHD]
-http://cdc55.cc:80/live/7125938483/5158/312850.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="19:00 - Chapecoense x AtléticoMG [HD]" tvg-logo="http://lgfp.one/OWI7" group-title="Canais | Jogos do Dia",19:00 - Chapecoense x AtléticoMG [HD]
-http://cdc55.cc:80/live/7125938483/5158/312849.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="19:00 - São Bernardo FC x OperárioPR [FHD]" tvg-logo="http://lgfp.one/OWI6.png" group-title="Canais | Jogos do Dia",19:00 - São Bernardo FC x OperárioPR [FHD]
-http://cdc55.cc:80/live/7125938483/5158/312848.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="19:00 - São Bernardo FC x OperárioPR [HD]" tvg-logo="http://lgfp.one/OWI5.png" group-title="Canais | Jogos do Dia",19:00 - São Bernardo FC x OperárioPR [HD]
-http://cdc55.cc:80/live/7125938483/5158/312847.ts
