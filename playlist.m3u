@@ -423,6 +423,8 @@ http://cdc55.cc:80/live/7125938483/5158/357760.ts
 http://cdc55.cc:80/live/7125938483/5158/357903.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PlutoTV Cine sucesso [HD]" tvg-logo="" group-title="Canais | Filmes e Séries",PlutoTV Cine sucesso [HD]
 http://cdc55.cc:80/live/7125938483/5158/364974.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony One Emoções [HD]" tvg-logo="http://lgfp.one/SPW0" group-title="Canais | Filmes e Séries",Sony One Emoções [HD]
+http://cdc55.cc:80/live/7125938483/5158/381436.ts
 #EXTINF:-1 tvg-id="AmazonSat(src09).br" tvg-name="Amazon SAT [FHD]" tvg-logo="http://lgfp.one/QPV6" group-title="Canais | Abertos",Amazon SAT [FHD]
 http://cdc55.cc:80/live/7125938483/5158/342856.ts
 #EXTINF:-1 tvg-id="CanaldoBoi(src05).br" tvg-name="CANAL DO BOI [FHD]" tvg-logo="http://lgfp.one/JZA2" group-title="Canais | Abertos",CANAL DO BOI [FHD]
@@ -579,6 +581,8 @@ http://cdc55.cc:80/live/7125938483/5158/364750.ts
 http://cdc55.cc:80/live/7125938483/5158/371311.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Adesso tv [HD]" tvg-logo="http://lgfp.one/SMS6" group-title="Canais | Abertos",Adesso tv [HD]
 http://cdc55.cc:80/live/7125938483/5158/379589.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RedeTV! Pantanal MT [SD]" tvg-logo="http://lgfp.one/SPV9" group-title="Canais | Abertos",RedeTV! Pantanal MT [SD]
+http://cdc55.cc:80/live/7125938483/5158/381435.ts
 #EXTINF:-1 tvg-id="AMC(src05).br" tvg-name="AMC [FHD] LEG" tvg-logo="" group-title="Canais | Legendados",AMC [FHD] LEG
 http://cdc55.cc:80/live/7125938483/5158/331695.ts
 #EXTINF:-1 tvg-id="São.Paulo/SP..E!.HD.br" tvg-name="E! [HD] LEG" tvg-logo="http://lgfp.one/AIX" group-title="Canais | Legendados",E! [HD] LEG
@@ -1473,6 +1477,8 @@ http://cdc55.cc:80/live/7125938483/5158/364971.ts
 http://cdc55.cc:80/live/7125938483/5158/371452.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Adesso tv [HD]" tvg-logo="" group-title="Canais | Religiosos",Adesso tv [HD]
 http://cdc55.cc:80/live/7125938483/5158/375001.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Mundo Maior [HD]" tvg-logo="https://tvmundomaior.com.br/wp-content/uploads/2018/12/logo_rede_boa_nova-1.png" group-title="Canais | Religiosos",TV Mundo Maior [HD]
+http://cdc55.cc:80/live/7125938483/5158/381434.ts
 #EXTINF:-1 tvg-id="CNNBRASIL(src09).br" tvg-name="BR: CNN Brasil 4K" tvg-logo="http://lgfp.one/NNR2" group-title="Canais | 4K",BR: CNN Brasil 4K
 http://cdc55.cc:80/live/7125938483/5158/300461.ts
 #EXTINF:-1 tvg-id="JovemPanNews(src05).br" tvg-name="BR: Jovem Pan News 4K" tvg-logo="http://lgfp.one/NNS3" group-title="Canais | 4K",BR: Jovem Pan News 4K
@@ -3089,6 +3095,8 @@ http://cdc55.cc:80/live/7125938483/5158/376883.ts
 http://cdc55.cc:80/live/7125938483/5158/379588.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT CUIABA MT [HD]" tvg-logo="http://lgfp.one/SMS7" group-title="Canais | SBT",SBT CUIABA MT [HD]
 http://cdc55.cc:80/live/7125938483/5158/379591.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT Campo Grande MS [HD]" tvg-logo="http://lgfp.one/SPW1" group-title="Canais | SBT",SBT Campo Grande MS [HD]
+http://cdc55.cc:80/live/7125938483/5158/381437.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT+ NOVELAS [HD]" tvg-logo="http://lgfp.one/DPQ0" group-title="Canais | SBT+",SBT+ NOVELAS [HD]
 http://cdc55.cc:80/live/7125938483/5158/239441.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT+ RAIZ" tvg-logo="http://lgfp.one/QCF6" group-title="Canais | SBT+",SBT+ RAIZ
@@ -3295,11 +3303,59 @@ http://cdc55.cc:80/live/7125938483/5158/351954.ts
 http://cdc55.cc:80/live/7125938483/5158/376611.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Core Suporte" tvg-logo="http://lgfp.one/NWW8" group-title="Suporte Core",Core Suporte
 http://cdc55.cc:80/live/7125938483/5158/305474.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="20:30 - Criciúma x BotafogoSP [FHD]" tvg-logo="http://lgfp.one/OWJ4" group-title="Canais | Jogos do Dia",20:30 - Criciúma x BotafogoSP [FHD]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="20:30 - Ceará x Náutico [FHD]" tvg-logo="http://lgfp.one/OWJ4" group-title="Canais | Jogos do Dia",20:30 - Ceará x Náutico [FHD]
 http://cdc55.cc:80/live/7125938483/5158/312856.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="20:30 - Criciúma x BotafogoSP [HD]" tvg-logo="http://lgfp.one/OWJ3" group-title="Canais | Jogos do Dia",20:30 - Criciúma x BotafogoSP [HD]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="20:30 - Ceará x Náutico [HD]" tvg-logo="http://lgfp.one/OWJ3" group-title="Canais | Jogos do Dia",20:30 - Ceará x Náutico [HD]
 http://cdc55.cc:80/live/7125938483/5158/312855.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="18:00 - Peru x Uruguai [FHD]" tvg-logo="http://lgfp.one/OWJ2.png" group-title="Canais | Jogos do Dia",18:00 - Peru x Uruguai [FHD]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="20:30 - Internacional x Grêmio [FHD]" tvg-logo="http://lgfp.one/OWJ2" group-title="Canais | Jogos do Dia",20:30 - Internacional x Grêmio [FHD]
 http://cdc55.cc:80/live/7125938483/5158/312854.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="18:00 - Peru x Uruguai [HD]" tvg-logo="http://lgfp.one/OWJ1.png" group-title="Canais | Jogos do Dia",18:00 - Peru x Uruguai [HD]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="20:30 - Internacional x Grêmio [HD]" tvg-logo="http://lgfp.one/OWJ1" group-title="Canais | Jogos do Dia",20:30 - Internacional x Grêmio [HD]
 http://cdc55.cc:80/live/7125938483/5158/312853.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="20:00 - Santos x AtléticoMG [FHD]" tvg-logo="http://lgfp.one/OWJ0" group-title="Canais | Jogos do Dia",20:00 - Santos x AtléticoMG [FHD]
+http://cdc55.cc:80/live/7125938483/5158/312852.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="20:00 - Santos x AtléticoMG [HD]" tvg-logo="http://lgfp.one/OWI9" group-title="Canais | Jogos do Dia",20:00 - Santos x AtléticoMG [HD]
+http://cdc55.cc:80/live/7125938483/5158/312851.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="20:00 - Ferroviária x BotafogoPB [FHD]" tvg-logo="http://lgfp.one/OWI8" group-title="Canais | Jogos do Dia",20:00 - Ferroviária x BotafogoPB [FHD]
+http://cdc55.cc:80/live/7125938483/5158/312850.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="20:00 - Ferroviária x BotafogoPB [HD]" tvg-logo="http://lgfp.one/OWI7" group-title="Canais | Jogos do Dia",20:00 - Ferroviária x BotafogoPB [HD]
+http://cdc55.cc:80/live/7125938483/5158/312849.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="20:00 - BarraSC x Maranhão [FHD]" tvg-logo="http://lgfp.one/OWI6.png" group-title="Canais | Jogos do Dia",20:00 - BarraSC x Maranhão [FHD]
+http://cdc55.cc:80/live/7125938483/5158/312848.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="20:00 - BarraSC x Maranhão [HD]" tvg-logo="http://lgfp.one/OWI5.png" group-title="Canais | Jogos do Dia",20:00 - BarraSC x Maranhão [HD]
+http://cdc55.cc:80/live/7125938483/5158/312847.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="18:30 - Mirassol x Bahia [FHD]" tvg-logo="http://lgfp.one/OWI4.png" group-title="Canais | Jogos do Dia",18:30 - Mirassol x Bahia [FHD]
+http://cdc55.cc:80/live/7125938483/5158/312846.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="18:30 - Mirassol x Bahia [HD]" tvg-logo="http://lgfp.one/OWI3.png" group-title="Canais | Jogos do Dia",18:30 - Mirassol x Bahia [HD]
+http://cdc55.cc:80/live/7125938483/5158/312845.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="18:00 - Ponte Preta x Vila Nova [FHD]" tvg-logo="http://lgfp.one/OWI2.png" group-title="Canais | Jogos do Dia",18:00 - Ponte Preta x Vila Nova [FHD]
+http://cdc55.cc:80/live/7125938483/5158/312844.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="18:00 - Ponte Preta x Vila Nova [HD]" tvg-logo="http://lgfp.one/OWI1.png" group-title="Canais | Jogos do Dia",18:00 - Ponte Preta x Vila Nova [HD]
+http://cdc55.cc:80/live/7125938483/5158/312843.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="18:00 - Sport x Avaí [FHD]" tvg-logo="http://lgfp.one/OWI0" group-title="Canais | Jogos do Dia",18:00 - Sport x Avaí [FHD]
+http://cdc55.cc:80/live/7125938483/5158/312842.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="18:00 - Sport x Avaí [HD]" tvg-logo="http://lgfp.one/OWH9" group-title="Canais | Jogos do Dia",18:00 - Sport x Avaí [HD]
+http://cdc55.cc:80/live/7125938483/5158/312841.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="17:00 - Floresta x Santa Cruz [FHD]" tvg-logo="http://lgfp.one/OWH8.png" group-title="Canais | Jogos do Dia",17:00 - Floresta x Santa Cruz [FHD]
+http://cdc55.cc:80/live/7125938483/5158/312840.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="17:00 - Floresta x Santa Cruz [HD]" tvg-logo="http://lgfp.one/OWH7.png" group-title="Canais | Jogos do Dia",17:00 - Floresta x Santa Cruz [HD]
+http://cdc55.cc:80/live/7125938483/5158/312839.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="16:30 - Remo x Vasco da Gama [FHD]" tvg-logo="http://lgfp.one/OWH6.png" group-title="Canais | Jogos do Dia",16:30 - Remo x Vasco da Gama [FHD]
+http://cdc55.cc:80/live/7125938483/5158/312838.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="16:30 - Remo x Vasco da Gama [HD]" tvg-logo="http://lgfp.one/OWH5.png" group-title="Canais | Jogos do Dia",16:30 - Remo x Vasco da Gama [HD]
+http://cdc55.cc:80/live/7125938483/5158/312837.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="16:30 - Vitória x São Paulo [FHD]" tvg-logo="http://lgfp.one/OWH4" group-title="Canais | Jogos do Dia",16:30 - Vitória x São Paulo [FHD]
+http://cdc55.cc:80/live/7125938483/5158/312836.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="16:30 - Vitória x São Paulo [HD]" tvg-logo="http://lgfp.one/OWH3" group-title="Canais | Jogos do Dia",16:30 - Vitória x São Paulo [HD]
+http://cdc55.cc:80/live/7125938483/5158/312835.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="16:00 - Juventude x Goiás [FHD]" tvg-logo="http://lgfp.one/OWH2" group-title="Canais | Jogos do Dia",16:00 - Juventude x Goiás [FHD]
+http://cdc55.cc:80/live/7125938483/5158/312834.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="16:00 - Juventude x Goiás [HD]" tvg-logo="http://lgfp.one/OWH1" group-title="Canais | Jogos do Dia",16:00 - Juventude x Goiás [HD]
+http://cdc55.cc:80/live/7125938483/5158/312833.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="15:00 - America x PortuguesaRJ [FHD]" tvg-logo="http://lgfp.one/OWH0.png" group-title="Canais | Jogos do Dia",15:00 - America x PortuguesaRJ [FHD]
+http://cdc55.cc:80/live/7125938483/5158/312832.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="15:00 - America x PortuguesaRJ [HD]" tvg-logo="http://lgfp.one/OWG9.png" group-title="Canais | Jogos do Dia",15:00 - America x PortuguesaRJ [HD]
+http://cdc55.cc:80/live/7125938483/5158/312831.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="15:00 - JuventusSP x São JoséSP [FHD]" tvg-logo="http://lgfp.one/OWG8.png" group-title="Canais | Jogos do Dia",15:00 - JuventusSP x São JoséSP [FHD]
+http://cdc55.cc:80/live/7125938483/5158/312830.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="15:00 - JuventusSP x São JoséSP [HD]" tvg-logo="http://lgfp.one/OWG7.png" group-title="Canais | Jogos do Dia",15:00 - JuventusSP x São JoséSP [HD]
+http://cdc55.cc:80/live/7125938483/5158/312829.ts
