@@ -3299,15 +3299,17 @@ http://cdc55.cc:80/live/7125938483/5158/351952.ts
 http://cdc55.cc:80/live/7125938483/5158/351953.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 1" tvg-logo="http://lgfp.one/RFW7" group-title="Canais | BBB 2026",BBB CAM 1
 http://cdc55.cc:80/live/7125938483/5158/351954.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TR: S SPORT HD TV" tvg-logo="" group-title="Canais |  Turquia",TR: S SPORT HD TV
-http://cdc55.cc:80/live/7125938483/5158/376611.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Core Suporte" tvg-logo="http://lgfp.one/NWW8" group-title="Suporte Core",Core Suporte
 http://cdc55.cc:80/live/7125938483/5158/305474.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="20:00 - Figueirense x Maringá [FHD]" tvg-logo="http://lgfp.one/OWJ4.png" group-title="Canais | Jogos do Dia",20:00 - Figueirense x Maringá [FHD]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="23:00 - Ind. del Valle x Universidad Central [FHD]" tvg-logo="http://lgfp.one/OWJ4.png" group-title="Canais | Jogos do Dia",23:00 - Ind. del Valle x Universidad Central [FHD]
 http://cdc55.cc:80/live/7125938483/5158/312856.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="20:00 - Figueirense x Maringá [HD]" tvg-logo="http://lgfp.one/OWJ3.png" group-title="Canais | Jogos do Dia",20:00 - Figueirense x Maringá [HD]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="23:00 - Ind. del Valle x Universidad Central [HD]" tvg-logo="http://lgfp.one/OWJ3.png" group-title="Canais | Jogos do Dia",23:00 - Ind. del Valle x Universidad Central [HD]
 http://cdc55.cc:80/live/7125938483/5158/312855.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="15:00 - AlHilal x AlSadd [FHD]" tvg-logo="http://lgfp.one/OWJ2.png" group-title="Canais | Jogos do Dia",15:00 - AlHilal x AlSadd [FHD]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="23:00 - Millonarios x Boston River [FHD]" tvg-logo="http://lgfp.one/OWJ2.png" group-title="Canais | Jogos do Dia",23:00 - Millonarios x Boston River [FHD]
 http://cdc55.cc:80/live/7125938483/5158/312854.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="15:00 - AlHilal x AlSadd [HD]" tvg-logo="http://lgfp.one/OWJ1.png" group-title="Canais | Jogos do Dia",15:00 - AlHilal x AlSadd [HD]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="23:00 - Millonarios x Boston River [HD]" tvg-logo="http://lgfp.one/OWJ1.png" group-title="Canais | Jogos do Dia",23:00 - Millonarios x Boston River [HD]
 http://cdc55.cc:80/live/7125938483/5158/312853.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="23:00 - América de Cali x Alianza Atlético [FHD]" tvg-logo="http://lgfp.one/OWJ0" group-title="Canais | Jogos do Dia",23:00 - América de Cali x Alianza Atlético [FHD]
+http://cdc55.cc:80/live/7125938483/5158/312852.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="23:00 - América de Cali x Alianza Atlético [HD]" tvg-logo="http://lgfp.one/OWI9" group-title="Canais | Jogos do Dia",23:00 - América de Cali x Alianza Atlético [HD]
+http://cdc55.cc:80/live/7125938483/5158/312851.ts
