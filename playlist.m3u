@@ -3301,7 +3301,15 @@ http://cdc55.cc:80/live/7125938483/5158/351953.ts
 http://cdc55.cc:80/live/7125938483/5158/351954.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Core Suporte" tvg-logo="http://lgfp.one/NWW8" group-title="Suporte Core",Core Suporte
 http://cdc55.cc:80/live/7125938483/5158/305474.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="15:00 - Machida Zelvia x AlIttihad [FHD]" tvg-logo="http://lgfp.one/OWJ4.png" group-title="Canais | Jogos do Dia",15:00 - Machida Zelvia x AlIttihad [FHD]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="15:30 - Blumenau x Azuriz [FHD]" tvg-logo="http://lgfp.one/OWJ4.png" group-title="Canais | Jogos do Dia",15:30 - Blumenau x Azuriz [FHD]
 http://cdc55.cc:80/live/7125938483/5158/312856.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="15:00 - Machida Zelvia x AlIttihad [HD]" tvg-logo="http://lgfp.one/OWJ3.png" group-title="Canais | Jogos do Dia",15:00 - Machida Zelvia x AlIttihad [HD]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="15:30 - Blumenau x Azuriz [HD]" tvg-logo="http://lgfp.one/OWJ3.png" group-title="Canais | Jogos do Dia",15:30 - Blumenau x Azuriz [HD]
 http://cdc55.cc:80/live/7125938483/5158/312855.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="15:00 - AmericaRJ x Portuguesa [FHD]" tvg-logo="http://lgfp.one/OWJ2.png" group-title="Canais | Jogos do Dia",15:00 - AmericaRJ x Portuguesa [FHD]
+http://cdc55.cc:80/live/7125938483/5158/312854.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="15:00 - AmericaRJ x Portuguesa [HD]" tvg-logo="http://lgfp.one/OWJ1.png" group-title="Canais | Jogos do Dia",15:00 - AmericaRJ x Portuguesa [HD]
+http://cdc55.cc:80/live/7125938483/5158/312853.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="15:00 - Lagarto x Retrô [FHD]" tvg-logo="http://lgfp.one/OWJ0.png" group-title="Canais | Jogos do Dia",15:00 - Lagarto x Retrô [FHD]
+http://cdc55.cc:80/live/7125938483/5158/312852.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="15:00 - Lagarto x Retrô [HD]" tvg-logo="http://lgfp.one/OWI9.png" group-title="Canais | Jogos do Dia",15:00 - Lagarto x Retrô [HD]
+http://cdc55.cc:80/live/7125938483/5158/312851.ts
