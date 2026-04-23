@@ -1559,9 +1559,9 @@ http://cdc55.cc:80/live/7125938483/5158/338238.ts
 http://cdc55.cc:80/live/7125938483/5158/393.ts
 #EXTINF:-1 tvg-id="RPCCuritiba(src09).br" tvg-name="GLOBO CURITIBA [SD]" tvg-logo="http://lgfp.one/AUD" group-title="Canais | Globo Capital",GLOBO CURITIBA [SD]
 http://cdc55.cc:80/live/7125938483/5158/428.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO MINAS [FHD]" tvg-logo="http://lgfp.one/ARZ" group-title="Canais | Globo Capital",GLOBO MINAS [FHD]
+#EXTINF:-1 tvg-id="Globo Minas HD" tvg-name="GLOBO MINAS [FHD]" tvg-logo="http://lgfp.one/ARZ" group-title="Canais | Globo Capital",GLOBO MINAS [FHD]
 http://cdc55.cc:80/live/7125938483/5158/362.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO MINAS [FHD][H265]" tvg-logo="http://lgfp.one/ARZ" group-title="Canais | Globo Capital",GLOBO MINAS [FHD][H265]
+#EXTINF:-1 tvg-id="Globo Minas HD" tvg-name="GLOBO MINAS [FHD][H265]" tvg-logo="http://lgfp.one/ARZ" group-title="Canais | Globo Capital",GLOBO MINAS [FHD][H265]
 http://cdc55.cc:80/live/7125938483/5158/333102.ts
 #EXTINF:-1 tvg-id="Globo Minas HD" tvg-name="GLOBO MINAS [HD]" tvg-logo="http://lgfp.one/ASU" group-title="Canais | Globo Capital",GLOBO MINAS [HD]
 http://cdc55.cc:80/live/7125938483/5158/388.ts
@@ -3069,3 +3069,19 @@ http://cdc55.cc:80/live/7125938483/5158/351953.ts
 http://cdc55.cc:80/live/7125938483/5158/351954.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Core Suporte" tvg-logo="http://lgfp.one/NWW8" group-title="Suporte Core",Core Suporte
 http://cdc55.cc:80/live/7125938483/5158/305474.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="21:30 - Operário Ferroviário x Fluminense [FHD]" tvg-logo="http://lgfp.one/OWJ4.png" group-title="Canais | Jogos do Dia",21:30 - Operário Ferroviário x Fluminense [FHD]
+http://cdc55.cc:80/live/7125938483/5158/312856.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="21:30 - Operário Ferroviário x Fluminense [HD]" tvg-logo="http://lgfp.one/OWJ3.png" group-title="Canais | Jogos do Dia",21:30 - Operário Ferroviário x Fluminense [HD]
+http://cdc55.cc:80/live/7125938483/5158/312855.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="21:30 - AthleticoPR x AtléticoGO [FHD]" tvg-logo="http://lgfp.one/OWJ2" group-title="Canais | Jogos do Dia",21:30 - AthleticoPR x AtléticoGO [FHD]
+http://cdc55.cc:80/live/7125938483/5158/312854.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="21:30 - AthleticoPR x AtléticoGO [HD]" tvg-logo="http://lgfp.one/OWJ1" group-title="Canais | Jogos do Dia",21:30 - AthleticoPR x AtléticoGO [HD]
+http://cdc55.cc:80/live/7125938483/5158/312853.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="19:30 - Palmeiras x Jacuipense [FHD]" tvg-logo="http://lgfp.one/OWJ0.png" group-title="Canais | Jogos do Dia",19:30 - Palmeiras x Jacuipense [FHD]
+http://cdc55.cc:80/live/7125938483/5158/312852.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="19:30 - Palmeiras x Jacuipense [HD]" tvg-logo="http://lgfp.one/OWI9.png" group-title="Canais | Jogos do Dia",19:30 - Palmeiras x Jacuipense [HD]
+http://cdc55.cc:80/live/7125938483/5158/312851.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="19:00 - AtléticoMG x Ceará [FHD]" tvg-logo="http://lgfp.one/OWI8" group-title="Canais | Jogos do Dia",19:00 - AtléticoMG x Ceará [FHD]
+http://cdc55.cc:80/live/7125938483/5158/312850.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="19:00 - AtléticoMG x Ceará [HD]" tvg-logo="http://lgfp.one/OWI7" group-title="Canais | Jogos do Dia",19:00 - AtléticoMG x Ceará [HD]
+http://cdc55.cc:80/live/7125938483/5158/312849.ts
