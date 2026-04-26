@@ -149,6 +149,10 @@ http://cdc55.cc:80/live/7125938483/5158/364751.ts
 http://cdc55.cc:80/live/7125938483/5158/370138.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV URBAN MOVIES [HD]" tvg-logo="http://lgfp.one/SBS5" group-title="Canais | Variedades",TV URBAN MOVIES [HD]
 http://cdc55.cc:80/live/7125938483/5158/371449.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MasterChef Brasil [HD]" tvg-logo="http://lgfp.one/QBT9" group-title="Canais | Variedades",MasterChef Brasil [HD]
+http://cdc55.cc:80/live/7125938483/5158/331288.ts
+#EXTINF:-1 tvg-id="GloboplayNovelas(src09).br" tvg-name="GLOBOPLAY NOVELAS [HD]" tvg-logo="http://lgfp.one/QBU2" group-title="Canais | Variedades",GLOBOPLAY NOVELAS [HD]
+http://cdc55.cc:80/live/7125938483/5158/331293.ts
 #EXTINF:-1 tvg-id="AdultSwim(src09).br" tvg-name="ADULT SWIM [FHD]" tvg-logo="http://lgfp.one/ARX4" group-title="Canais | Filmes e Séries",ADULT SWIM [FHD]
 http://cdc55.cc:80/live/7125938483/5158/199851.ts
 #EXTINF:-1 tvg-id="AdultSwim(src09).br" tvg-name="ADULT SWIM [FHD][H265]" tvg-logo="http://lgfp.one/ARX0" group-title="Canais | Filmes e Séries",ADULT SWIM [FHD][H265]
@@ -351,6 +355,14 @@ http://cdc55.cc:80/live/7125938483/5158/357903.ts
 http://cdc55.cc:80/live/7125938483/5158/364974.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony One Emoções [HD]" tvg-logo="http://lgfp.one/SPW0" group-title="Canais | Filmes e Séries",Sony One Emoções [HD]
 http://cdc55.cc:80/live/7125938483/5158/381436.ts
+#EXTINF:-1 tvg-id="Sony(src09).br" tvg-name="SONY CHANNEL [FHD]" tvg-logo="http://lgfp.one/AOX" group-title="Canais | Filmes e Séries",SONY CHANNEL [FHD]
+http://cdc55.cc:80/live/7125938483/5158/274.ts
+#EXTINF:-1 tvg-id="Cinemax(src09).br" tvg-name="CINEMAX [FHD]" tvg-logo="http://lgfp.one/AOY" group-title="Canais | Filmes e Séries",CINEMAX [FHD]
+http://cdc55.cc:80/live/7125938483/5158/275.ts
+#EXTINF:-1 tvg-id="AXN(src05).br" tvg-name="AXN [FHD]" tvg-logo="http://lgfp.one/APR" group-title="Canais | Filmes e Séries",AXN [FHD]
+http://cdc55.cc:80/live/7125938483/5158/295.ts
+#EXTINF:-1 tvg-id="WarnerChannel(src05).br" tvg-name="WARNER CHANNEL [FHD]" tvg-logo="http://lgfp.one/APT" group-title="Canais | Filmes e Séries",WARNER CHANNEL [FHD]
+http://cdc55.cc:80/live/7125938483/5158/297.ts
 #EXTINF:-1 tvg-id="AmazonSat(src09).br" tvg-name="Amazon SAT [FHD]" tvg-logo="http://lgfp.one/QPV6" group-title="Canais | Abertos",Amazon SAT [FHD]
 http://cdc55.cc:80/live/7125938483/5158/342856.ts
 #EXTINF:-1 tvg-id="CanaldoBoi(src05).br" tvg-name="CANAL DO BOI [FHD]" tvg-logo="http://lgfp.one/JZA2" group-title="Canais | Abertos",CANAL DO BOI [FHD]
@@ -725,6 +737,8 @@ http://cdc55.cc:80/live/7125938483/5158/175.ts
 http://cdc55.cc:80/live/7125938483/5158/190.ts
 #EXTINF:-1 tvg-id="InvestigacaoDiscovery(src09).br" tvg-name="INVESTIGACAO DISCOVERY [SD]" tvg-logo="http://lgfp.one/AMK" group-title="Canais | Documentários",INVESTIGACAO DISCOVERY [SD]
 http://cdc55.cc:80/live/7125938483/5158/205.ts
+#EXTINF:-1 tvg-id="InvestigacaoDiscovery(src09).br" tvg-name="DISCOVERY CHANNEL [FHD][H265]" tvg-logo="http://lgfp.one/WJX" group-title="Canais | Documentários",DISCOVERY CHANNEL [FHD][H265]
+http://cdc55.cc:80/live/7125938483/5158/30260.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Apple TV 01 [HD]" tvg-logo="http://lgfp.one/OMN7" group-title="Canais | Apple TV",Apple TV 01 [HD]
 http://cdc55.cc:80/live/7125938483/5158/300146.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Apple TV 02 [HD]" tvg-logo="http://lgfp.one/OMN8" group-title="Canais | Apple TV",Apple TV 02 [HD]
@@ -805,6 +819,12 @@ http://cdc55.cc:80/live/7125938483/5158/360384.ts
 http://cdc55.cc:80/live/7125938483/5158/364752.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Band Recife [HD]" tvg-logo="http://lgfp.one/SGW5" group-title="Canais | Band",Band Recife [HD]
 http://cdc55.cc:80/live/7125938483/5158/376880.ts
+#EXTINF:-1 tvg-id="BandSaoPaulo(src09).br" tvg-name="BAND SP [FHD]" tvg-logo="http://lgfp.one/VVH" group-title="Canais | Band",BAND SP [FHD]
+http://cdc55.cc:80/live/7125938483/5158/113585.ts
+#EXTINF:-1 tvg-id="BandSaoPaulo(src09).br" tvg-name="BAND SP [HD]" tvg-logo="http://lgfp.one/VVG" group-title="Canais | Band",BAND SP [HD]
+http://cdc55.cc:80/live/7125938483/5158/113584.ts
+#EXTINF:-1 tvg-id="BandRioGrandedoSul(src09).br" tvg-name="Band RS [FHD]" tvg-logo="http://lgfp.one/MXP6" group-title="Canais | Band",Band RS [FHD]
+http://cdc55.cc:80/live/7125938483/5158/286928.ts
 #EXTINF:-1 tvg-id="BandNews(src05).br" tvg-name="BAND NEWS [FHD][H265]" tvg-logo="http://lgfp.one/VNA" group-title="Canais | Notícias",BAND NEWS [FHD][H265]
 http://cdc55.cc:80/live/7125938483/5158/30195.ts
 #EXTINF:-1 tvg-id="BandNews(src05).br" tvg-name="BAND NEWS [HD]" tvg-logo="http://lgfp.one/AXA" group-title="Canais | Notícias",BAND NEWS [HD]
@@ -879,6 +899,14 @@ http://cdc55.cc:80/live/7125938483/5158/348080.ts
 http://cdc55.cc:80/live/7125938483/5158/375046.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TIMES BRASIL [HD]" tvg-logo="http://lgfp.one/SEU0" group-title="Canais | Notícias",TIMES BRASIL [HD]
 http://cdc55.cc:80/live/7125938483/5158/375047.ts
+#EXTINF:-1 tvg-id="JovemPanNews(src05).br" tvg-name="JOVEM PAN NEWS [HD]" tvg-logo="http://lgfp.one/VPD" group-title="Canais | Notícias",JOVEM PAN NEWS [HD]
+http://cdc55.cc:80/live/7125938483/5158/98165.ts
+#EXTINF:-1 tvg-id="BandNews(src05).br" tvg-name="BAND NEWS [FHD]" tvg-logo="http://lgfp.one/AWW" group-title="Canais | Notícias",BAND NEWS [FHD]
+http://cdc55.cc:80/live/7125938483/5158/510.ts
+#EXTINF:-1 tvg-id="GLOBONEWS(src09).br" tvg-name="GLOBO NEWS [FHD]" tvg-logo="http://lgfp.one/AWY" group-title="Canais | Notícias",GLOBO NEWS [FHD]
+http://cdc55.cc:80/live/7125938483/5158/512.ts
+#EXTINF:-1 tvg-id="GLOBONEWS(src09).br" tvg-name="GLOBO NEWS [HD]" tvg-logo="http://lgfp.one/AXB" group-title="Canais | Notícias",GLOBO NEWS [HD]
+http://cdc55.cc:80/live/7125938483/5158/516.ts
 #EXTINF:-1 tvg-id="BandSports(src05).br" tvg-name="BAND SPORTS [FHD][H265]" tvg-logo="http://lgfp.one/VSW" group-title="Canais | Esportes",BAND SPORTS [FHD][H265]
 http://cdc55.cc:80/live/7125938483/5158/30275.ts
 #EXTINF:-1 tvg-id="BandSports(src05).br" tvg-name="BAND SPORTS [HD]" tvg-logo="http://lgfp.one/AOG" group-title="Canais | Esportes",BAND SPORTS [HD]
@@ -1241,6 +1269,8 @@ http://cdc55.cc:80/live/7125938483/5158/371452.ts
 http://cdc55.cc:80/live/7125938483/5158/375001.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Mundo Maior [HD]" tvg-logo="https://tvmundomaior.com.br/wp-content/uploads/2018/12/logo_rede_boa_nova-1.png" group-title="Canais | Religiosos",TV Mundo Maior [HD]
 http://cdc55.cc:80/live/7125938483/5158/381434.ts
+#EXTINF:-1 tvg-id="RedeVida(src05).br" tvg-name="REDE VIDA [HD]" tvg-logo="http://lgfp.one/AYC" group-title="Canais | Religiosos",REDE VIDA [HD]
+http://cdc55.cc:80/live/7125938483/5158/547.ts
 #EXTINF:-1 tvg-id="CNNBRASIL(src09).br" tvg-name="BR: CNN Brasil 4K" tvg-logo="http://lgfp.one/NNR2" group-title="Canais | 4K",BR: CNN Brasil 4K
 http://cdc55.cc:80/live/7125938483/5158/300461.ts
 #EXTINF:-1 tvg-id="JovemPanNews(src05).br" tvg-name="BR: Jovem Pan News 4K" tvg-logo="http://lgfp.one/NNS3" group-title="Canais | 4K",BR: Jovem Pan News 4K
@@ -1461,6 +1491,8 @@ http://cdc55.cc:80/live/7125938483/5158/376698.ts
 http://cdc55.cc:80/live/7125938483/5158/376699.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY plus 9 [HD]" tvg-logo="http://lgfp.one/NOK6" group-title="Canais | Disney Plus",DISNEY plus 9 [HD]
 http://cdc55.cc:80/live/7125938483/5158/379590.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY+ 02 [FHD]" tvg-logo="http://lgfp.one/NOJ5" group-title="Canais | Disney Plus",DISNEY+ 02 [FHD]
+http://cdc55.cc:80/live/7125938483/5158/300941.ts
 #EXTINF:-1 tvg-id="ESPN.2.br" tvg-name="ESPN 2 [FHD][H265]" tvg-logo="http://lgfp.one/WKE" group-title="Canais | ESPN",ESPN 2 [FHD][H265]
 http://cdc55.cc:80/live/7125938483/5158/30281.ts
 #EXTINF:-1 tvg-id="ESPN.2.br" tvg-name="ESPN 2 [HD]" tvg-logo="http://lgfp.one/AOL" group-title="Canais | ESPN",ESPN 2 [HD]
@@ -1505,6 +1537,12 @@ http://cdc55.cc:80/live/7125938483/5158/251.ts
 http://cdc55.cc:80/live/7125938483/5158/330701.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 6 [FHD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1280px-ESPN_6_logo.svg.png" group-title="Canais | ESPN",ESPN 6 [FHD]
 http://cdc55.cc:80/live/7125938483/5158/356966.ts
+#EXTINF:-1 tvg-id="ESPN FHD H.265" tvg-name="ESPN 1 [FHD][H265]" tvg-logo="http://lgfp.one/WKD" group-title="Canais | ESPN",ESPN 1 [FHD][H265]
+http://cdc55.cc:80/live/7125938483/5158/30280.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..ESPN.4.HD.br" tvg-name="ESPN 4 [FHD]" tvg-logo="http://lgfp.one/AOF" group-title="Canais | ESPN",ESPN 4 [FHD]
+http://cdc55.cc:80/live/7125938483/5158/255.ts
+#EXTINF:-1 tvg-id="ESPN FHD" tvg-name="ESPN 1 [FHD]" tvg-logo="http://lgfp.one/AOA" group-title="Canais | ESPN",ESPN 1 [FHD]
+http://cdc55.cc:80/live/7125938483/5158/250.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FORMULA 1 TV TEMPORADA 2025" tvg-logo="http://lgfp.one/PLG6" group-title="Canais | Formula 1",FORMULA 1 TV TEMPORADA 2025
 http://cdc55.cc:80/live/7125938483/5158/319468.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fórmula 1 TV [FHD]" tvg-logo="http://lgfp.one/VPK" group-title="Canais | Formula 1",Fórmula 1 TV [FHD]
@@ -1543,6 +1581,22 @@ http://cdc55.cc:80/live/7125938483/5158/376608.ts
 http://cdc55.cc:80/live/7125938483/5158/376609.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Globo NOW [HD]" tvg-logo="http://linesource.cc:8080/live/UtkYlFatmn/O70iMJPyHx/2376.ts" group-title="Canais | Globo Capital",Globo NOW [HD]
 http://cdc55.cc:80/live/7125938483/5158/376610.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO MINAS [FHD][H265]" tvg-logo="http://lgfp.one/ARZ" group-title="Canais | Globo Capital",GLOBO MINAS [FHD][H265]
+http://cdc55.cc:80/live/7125938483/5158/333102.ts
+#EXTINF:-1 tvg-id="GloboRJ(src09).br" tvg-name="GLOBO RJ [FHD][H265]" tvg-logo="http://lgfp.one/VCK" group-title="Canais | Globo Capital",GLOBO RJ [FHD][H265]
+http://cdc55.cc:80/live/7125938483/5158/338201.ts
+#EXTINF:-1 tvg-id="RPCCuritiba(src09).br" tvg-name="GLOBO CURITIBA [FHD][H265]" tvg-logo="http://lgfp.one/ARS" group-title="Canais | Globo Capital",GLOBO CURITIBA [FHD][H265]
+http://cdc55.cc:80/live/7125938483/5158/338238.ts
+#EXTINF:-1 tvg-id="GloboRJ(src09).br" tvg-name="GLOBO RJ [FHD]" tvg-logo="http://lgfp.one/VCK" group-title="Canais | Globo Capital",GLOBO RJ [FHD]
+http://cdc55.cc:80/live/7125938483/5158/352.ts
+#EXTINF:-1 tvg-id="GloboSP(src09).br" tvg-name="GLOBO SP [FHD][H265]" tvg-logo="http://lgfp.one/VDL" group-title="Canais | Globo Capital",GLOBO SP [FHD][H265]
+http://cdc55.cc:80/live/7125938483/5158/30205.ts
+#EXTINF:-1 tvg-id="GloboSP(src09).br" tvg-name="GLOBO SP [FHD]" tvg-logo="http://lgfp.one/ART" group-title="Canais | Globo Capital",GLOBO SP [FHD]
+http://cdc55.cc:80/live/7125938483/5158/354.ts
+#EXTINF:-1 tvg-id="RPCCuritiba(src09).br" tvg-name="GLOBO CURITIBA [FHD]" tvg-logo="http://lgfp.one/ARS" group-title="Canais | Globo Capital",GLOBO CURITIBA [FHD]
+http://cdc55.cc:80/live/7125938483/5158/353.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO MINAS [FHD]" tvg-logo="http://lgfp.one/ARZ" group-title="Canais | Globo Capital",GLOBO MINAS [FHD]
+http://cdc55.cc:80/live/7125938483/5158/362.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO INTEGRACAO ARAXA [HD]" tvg-logo="http://lgfp.one/VEF" group-title="Canais | Globo Sudeste",GLOBO INTEGRACAO ARAXA [HD]
 http://cdc55.cc:80/live/7125938483/5158/43835.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO INTEGRACAO ARAXA [SD]" tvg-logo="http://lgfp.one/VGD" group-title="Canais | Globo Sudeste",GLOBO INTEGRACAO ARAXA [SD]
@@ -1701,6 +1755,14 @@ http://cdc55.cc:80/live/7125938483/5158/357524.ts
 http://cdc55.cc:80/live/7125938483/5158/358700.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO TV GAZETA SUL ES [SD]" tvg-logo="http://lgfp.one/ASI" group-title="Canais | Globo Sudeste",GLOBO TV GAZETA SUL ES [SD]
 http://cdc55.cc:80/live/7125938483/5158/364747.ts
+#EXTINF:-1 tvg-id="Globo Eptv Campinas FHD" tvg-name="GLOBO TV EPTV CAMPINAS [FHD]" tvg-logo="http://lgfp.one/ARY" group-title="Canais | Globo Sudeste",GLOBO TV EPTV CAMPINAS [FHD]
+http://cdc55.cc:80/live/7125938483/5158/361.ts
+#EXTINF:-1 tvg-id="Globo Bauru HD" tvg-name="GLOBO TV TEM BAURU [HD]" tvg-logo="http://lgfp.one/VFQ" group-title="Canais | Globo Sudeste",GLOBO TV TEM BAURU [HD]
+http://cdc55.cc:80/live/7125938483/5158/69090.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO TV TRIBUNA SANTOS [HD]" tvg-logo="http://lgfp.one/VES" group-title="Canais | Globo Sudeste",GLOBO TV TRIBUNA SANTOS [HD]
+http://cdc55.cc:80/live/7125938483/5158/56125.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO INTEGRACAO ARAXA [FHD]" tvg-logo="http://lgfp.one/VEN" group-title="Canais | Globo Sudeste",GLOBO INTEGRACAO ARAXA [FHD]
+http://cdc55.cc:80/live/7125938483/5158/43847.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO InterTv Cabo Frio [HD]" tvg-logo="http://lgfp.one/QCG2" group-title="Canais | Globo Nordeste",GLOBO InterTv Cabo Frio [HD]
 http://cdc55.cc:80/live/7125938483/5158/331702.ts
 #EXTINF:-1 tvg-id="GloboNatal(src09).br" tvg-name="GLOBO INTERTV CABUGI NATAL [HD]" tvg-logo="http://lgfp.one/VDD" group-title="Canais | Globo Nordeste",GLOBO INTERTV CABUGI NATAL [HD]
@@ -1835,6 +1897,10 @@ http://cdc55.cc:80/live/7125938483/5158/357892.ts
 http://cdc55.cc:80/live/7125938483/5158/358698.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Globo Bahia Santa Cruz [FHD]" tvg-logo="http://lgfp.one/ROI7" group-title="Canais | Globo Nordeste",Globo Bahia Santa Cruz [FHD]
 http://cdc55.cc:80/live/7125938483/5158/364973.ts
+#EXTINF:-1 tvg-id="TVVerdesMares(src09).br" tvg-name="GLOBO VERDE MARES [HD]" tvg-logo="http://lgfp.one/QEB6" group-title="Canais | Globo Nordeste",GLOBO VERDE MARES [HD]
+http://cdc55.cc:80/live/7125938483/5158/333837.ts
+#EXTINF:-1 tvg-id="GloboNatal(src09).br" tvg-name="GLOBO INTERTV CABUGI NATAL [FHD]" tvg-logo="http://lgfp.one/VER" group-title="Canais | Globo Nordeste",GLOBO INTERTV CABUGI NATAL [FHD]
+http://cdc55.cc:80/live/7125938483/5158/43856.ts
 #EXTINF:-1 tvg-id="Globo NSC TV Blumenau FHD" tvg-name="GLOBO NSC TV BLUMENAU [FHD]" tvg-logo="http://lgfp.one/ASL" group-title="Canais | Globo Sul",GLOBO NSC TV BLUMENAU [FHD]
 http://cdc55.cc:80/live/7125938483/5158/376.ts
 #EXTINF:-1 tvg-id="Globo NSC TV Blumenau HD" tvg-name="GLOBO NSC TV BLUMENAU [HD]" tvg-logo="http://lgfp.one/ATQ" group-title="Canais | Globo Sul",GLOBO NSC TV BLUMENAU [HD]
@@ -1987,6 +2053,14 @@ http://cdc55.cc:80/live/7125938483/5158/364753.ts
 http://cdc55.cc:80/live/7125938483/5158/364754.ts
 #EXTINF:-1 tvg-id="GloboRBSTVPoa(src09).br" tvg-name="Globo RBS TV POA [SD]" tvg-logo="http://lgfp.one/RUU5" group-title="Canais | Globo Sul",Globo RBS TV POA [SD]
 http://cdc55.cc:80/live/7125938483/5158/364755.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO JOAÇABA [FHD]" tvg-logo="" group-title="Canais | Globo Sul",GLOBO JOAÇABA [FHD]
+http://cdc55.cc:80/live/7125938483/5158/333839.ts
+#EXTINF:-1 tvg-id="RPCMaringa(src09).br" tvg-name="GLOBO TV RPC MARINGA [FHD]" tvg-logo="http://lgfp.one/ARR" group-title="Canais | Globo Sul",GLOBO TV RPC MARINGA [FHD]
+http://cdc55.cc:80/live/7125938483/5158/351.ts
+#EXTINF:-1 tvg-id="Globo RBS TV Caxias do Sul SD" tvg-name="GLOBO RBS TV CAXIAS DO SUL [SD]" tvg-logo="http://lgfp.one/AUS" group-title="Canais | Globo Sul",GLOBO RBS TV CAXIAS DO SUL [SD]
+http://cdc55.cc:80/live/7125938483/5158/448.ts
+#EXTINF:-1 tvg-id="Globo Rbs Tv Porto Alegre SD" tvg-name="GLOBO TV RBS PORTO ALEGRE [SD]" tvg-logo="http://lgfp.one/VDV" group-title="Canais | Globo Sul",GLOBO TV RBS PORTO ALEGRE [SD]
+http://cdc55.cc:80/live/7125938483/5158/34013.ts
 #EXTINF:-1 tvg-id="TVBoaVista(src09).br" tvg-name="GLOBO REDE AMAZONICA BOA VISTA [FHD]" tvg-logo="http://lgfp.one/VEV" group-title="Canais | Globo Norte",GLOBO REDE AMAZONICA BOA VISTA [FHD]
 http://cdc55.cc:80/live/7125938483/5158/56128.ts
 #EXTINF:-1 tvg-id="TVBoaVista(src09).br" tvg-name="GLOBO REDE AMAZONICA BOA VISTA [HD]" tvg-logo="http://lgfp.one/VEW" group-title="Canais | Globo Norte",GLOBO REDE AMAZONICA BOA VISTA [HD]
@@ -2211,6 +2285,8 @@ http://cdc55.cc:80/live/7125938483/5158/30240.ts
 http://cdc55.cc:80/live/7125938483/5158/478.ts
 #EXTINF:-1 tvg-id="HBOXtreme(src09).br" tvg-name="HBO XTREME [SD]" tvg-logo="http://lgfp.one/AVR" group-title="Canais | HBO",HBO XTREME [SD]
 http://cdc55.cc:80/live/7125938483/5158/329272.ts
+#EXTINF:-1 tvg-id="HBOFamily(src05).br" tvg-name="HBO FAMILY [FHD]" tvg-logo="http://lgfp.one/AVE" group-title="Canais | HBO",HBO FAMILY [FHD]
+http://cdc55.cc:80/live/7125938483/5158/464.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Max 1 [FHD]" tvg-logo="http://lgfp.one/BJU8" group-title="Canais | HBO Max",HBO Max 1 [FHD]
 http://cdc55.cc:80/live/7125938483/5158/195782.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Max 1 [HD]" tvg-logo="http://lgfp.one/OOF" group-title="Canais | HBO Max",HBO Max 1 [HD]
@@ -2381,6 +2457,10 @@ http://cdc55.cc:80/live/7125938483/5158/251762.ts
 http://cdc55.cc:80/live/7125938483/5158/356561.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA Brasil HD" tvg-logo="http://lgfp.one/RVA3" group-title="Canais | NBA",NBA Brasil HD
 http://cdc55.cc:80/live/7125938483/5158/365543.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA League Pass 1 [FHD]" tvg-logo="http://lgfp.one/DPG9" group-title="Canais | NBA",NBA League Pass 1 [FHD]
+http://cdc55.cc:80/live/7125938483/5158/232637.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA League Pass 2 [FHD]" tvg-logo="http://lgfp.one/DPH0" group-title="Canais | NBA",NBA League Pass 2 [FHD]
+http://cdc55.cc:80/live/7125938483/5158/232638.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount+ 01 [FHD]" tvg-logo="http://lgfp.one/NOI7" group-title="Canais | Paramount +",Paramount+ 01 [FHD]
 http://cdc55.cc:80/live/7125938483/5158/300933.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount+ 02 [FHD]" tvg-logo="http://lgfp.one/NOI8" group-title="Canais | Paramount +",Paramount+ 02 [FHD]
@@ -2477,6 +2557,8 @@ http://cdc55.cc:80/live/7125938483/5158/208973.ts
 http://cdc55.cc:80/live/7125938483/5158/208971.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Prime Video 4 [FHD]" tvg-logo="http://lgfp.one/DPF1" group-title="Canais | Amazon Prime Video",Prime Video 4 [FHD]
 http://cdc55.cc:80/live/7125938483/5158/208968.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Prime Video 5 [FHD]" tvg-logo="http://lgfp.one/DPF7" group-title="Canais | Amazon Prime Video",Prime Video 5 [FHD]
+http://cdc55.cc:80/live/7125938483/5158/210171.ts
 #EXTINF:-1 tvg-id="RECORDBahia(Portuguese).br" tvg-name="RECORDTV BA [FHD]" tvg-logo="http://lgfp.one/JZA4" group-title="Canais | Record",RECORDTV BA [FHD]
 http://cdc55.cc:80/live/7125938483/5158/199616.ts
 #EXTINF:-1 tvg-id="RECORDBahia(Portuguese).br" tvg-name="RECORDTV BA [HD]" tvg-logo="http://lgfp.one/AHF" group-title="Canais | Record",RECORDTV BA [HD]
@@ -2673,6 +2755,12 @@ http://cdc55.cc:80/live/7125938483/5158/364743.ts
 http://cdc55.cc:80/live/7125938483/5158/364744.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECORDTV MATO GROSSO [HD]" tvg-logo="http://lgfp.one/SBR2" group-title="Canais | Record",RECORDTV MATO GROSSO [HD]
 http://cdc55.cc:80/live/7125938483/5158/371310.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Record.HD.br" tvg-name="RECORDTV SP [FHD]" tvg-logo="http://lgfp.one/AGQ" group-title="Canais | Record",RECORDTV SP [FHD]
+http://cdc55.cc:80/live/7125938483/5158/45.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RecordTV Alagoas [HD]" tvg-logo="http://lgfp.one/AHT" group-title="Canais | Record",RecordTV Alagoas [HD]
+http://cdc55.cc:80/live/7125938483/5158/347187.ts
+#EXTINF:-1 tvg-id="RECORDRio(Portuguese).br" tvg-name="RECORDTV RJ [FHD]" tvg-logo="http://lgfp.one/VBD" group-title="Canais | Record",RECORDTV RJ [FHD]
+http://cdc55.cc:80/live/7125938483/5158/50880.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT Alagoas [HD]" tvg-logo="http://lgfp.one/REF4" group-title="Canais | SBT",SBT Alagoas [HD]
 http://cdc55.cc:80/live/7125938483/5158/347185.ts
 #EXTINF:-1 tvg-id="TVAlterosa(src09).br" tvg-name="SBT Alterosa [FHD]" tvg-logo="http://lgfp.one/NRK5" group-title="Canais | SBT",SBT Alterosa [FHD]
@@ -2827,6 +2915,16 @@ http://cdc55.cc:80/live/7125938483/5158/364546.ts
 http://cdc55.cc:80/live/7125938483/5158/376353.ts
 #EXTINF:-1 tvg-id="SporTV4(Portuguese).br" tvg-name="SporTV 4 [SD]" tvg-logo="http://lgfp.one/AYI" group-title="Canais | SporTV",SporTV 4 [SD]
 http://cdc55.cc:80/live/7125938483/5158/376354.ts
+#EXTINF:-1 tvg-id="SPORTV2(src09).br" tvg-name="SPORTV 2 [FHD]" tvg-logo="http://lgfp.one/AYH" group-title="Canais | SporTV",SPORTV 2 [FHD]
+http://cdc55.cc:80/live/7125938483/5158/553.ts
+#EXTINF:-1 tvg-id="SPORTV(src09).br" tvg-name="SPORTV [FHD]" tvg-logo="http://lgfp.one/AYI" group-title="Canais | SporTV",SPORTV [FHD]
+http://cdc55.cc:80/live/7125938483/5158/555.ts
+#EXTINF:-1 tvg-id="SPORTV2(src09).br" tvg-name="SPORTV 2 [HD]" tvg-logo="http://lgfp.one/AYK" group-title="Canais | SporTV",SPORTV 2 [HD]
+http://cdc55.cc:80/live/7125938483/5158/557.ts
+#EXTINF:-1 tvg-id="SPORTV2(src09).br" tvg-name="SPORTV 2 [SD]" tvg-logo="http://lgfp.one/AYN" group-title="Canais | SporTV",SPORTV 2 [SD]
+http://cdc55.cc:80/live/7125938483/5158/560.ts
+#EXTINF:-1 tvg-id="SPORTV2(src09).br" tvg-name="SPORTV 2 [FHD][H265]" tvg-logo="http://lgfp.one/WHV" group-title="Canais | SporTV",SPORTV 2 [FHD][H265]
+http://cdc55.cc:80/live/7125938483/5158/30291.ts
 #EXTINF:-1 tvg-id="SportyNet(src09).br" tvg-name="SPORTYNET 1 [HD]" tvg-logo="http://lgfp.one/OOK2" group-title="Canais | SportyNET",SPORTYNET 1 [HD]
 http://cdc55.cc:80/live/7125938483/5158/283780.ts
 #EXTINF:-1 tvg-id="SportyNet(src09).br" tvg-name="SPORTYNET 2 [HD]" tvg-logo="http://lgfp.one/OOJ2" group-title="Canais | SportyNET",SPORTYNET 2 [HD]
@@ -2873,6 +2971,20 @@ http://cdc55.cc:80/live/7125938483/5158/30247.ts
 http://cdc55.cc:80/live/7125938483/5158/571.ts
 #EXTINF:-1 tvg-id="TelecineTouch(src05).br" tvg-name="TELECINE TOUCH [SD]" tvg-logo="http://lgfp.one/AZE" group-title="Canais | Telecine",TELECINE TOUCH [SD]
 http://cdc55.cc:80/live/7125938483/5158/577.ts
+#EXTINF:-1 tvg-id="TelecineAction(src09).br" tvg-name="TELECINE ACTION [FHD]" tvg-logo="http://lgfp.one/AYP" group-title="Canais | Telecine",TELECINE ACTION [FHD]
+http://cdc55.cc:80/live/7125938483/5158/562.ts
+#EXTINF:-1 tvg-id="TelecineFun(src09).br" tvg-name="TELECINE FUN [FHD]" tvg-logo="http://lgfp.one/AYQ" group-title="Canais | Telecine",TELECINE FUN [FHD]
+http://cdc55.cc:80/live/7125938483/5158/563.ts
+#EXTINF:-1 tvg-id="TelecinePipoca(src05).br" tvg-name="TELECINE PIPOCA [FHD]" tvg-logo="http://lgfp.one/AYR" group-title="Canais | Telecine",TELECINE PIPOCA [FHD]
+http://cdc55.cc:80/live/7125938483/5158/564.ts
+#EXTINF:-1 tvg-id="TelecinePremium(src09).br" tvg-name="TELECINE PREMIUM [FHD]" tvg-logo="http://lgfp.one/AYS" group-title="Canais | Telecine",TELECINE PREMIUM [FHD]
+http://cdc55.cc:80/live/7125938483/5158/565.ts
+#EXTINF:-1 tvg-id="TelecineTouch(src05).br" tvg-name="TELECINE TOUCH [FHD]" tvg-logo="http://lgfp.one/AYT" group-title="Canais | Telecine",TELECINE TOUCH [FHD]
+http://cdc55.cc:80/live/7125938483/5158/566.ts
+#EXTINF:-1 tvg-id="TelecineCult(src05).br" tvg-name="TELECINE CULT [FHD]" tvg-logo="http://lgfp.one/AYU" group-title="Canais | Telecine",TELECINE CULT [FHD]
+http://cdc55.cc:80/live/7125938483/5158/567.ts
+#EXTINF:-1 tvg-id="TelecineAction(src09).br" tvg-name="TELECINE ACTION [HD]" tvg-logo="http://lgfp.one/AYV" group-title="Canais | Telecine",TELECINE ACTION [HD]
+http://cdc55.cc:80/live/7125938483/5158/568.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Copinha 01" tvg-logo="http://lgfp.one/REF6" group-title="Canais | Copinhas e Estaduais  2026",Copinha 01
 http://cdc55.cc:80/live/7125938483/5158/350294.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Copinha 02" tvg-logo="http://lgfp.one/REF7" group-title="Canais | Copinhas e Estaduais  2026",Copinha 02
@@ -2931,3 +3043,47 @@ http://cdc55.cc:80/live/7125938483/5158/376876.ts
 http://cdc55.cc:80/live/7125938483/5158/376877.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Core Suporte" tvg-logo="http://lgfp.one/NWW8" group-title="Suporte Core",Core Suporte
 http://cdc55.cc:80/live/7125938483/5158/305474.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="21:00 - São Paulo x Mirassol [FHD]" tvg-logo="http://lgfp.one/OWJ4" group-title="Canais | Jogos do Dia",21:00 - São Paulo x Mirassol [FHD]
+http://cdc55.cc:80/live/7125938483/5158/312856.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="21:00 - São Paulo x Mirassol [HD]" tvg-logo="http://lgfp.one/OWJ3" group-title="Canais | Jogos do Dia",21:00 - São Paulo x Mirassol [HD]
+http://cdc55.cc:80/live/7125938483/5158/312855.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="21:00 - Juventude x Londrina [FHD]" tvg-logo="http://lgfp.one/OWJ2.png" group-title="Canais | Jogos do Dia",21:00 - Juventude x Londrina [FHD]
+http://cdc55.cc:80/live/7125938483/5158/312854.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="21:00 - Juventude x Londrina [HD]" tvg-logo="http://lgfp.one/OWJ1.png" group-title="Canais | Jogos do Dia",21:00 - Juventude x Londrina [HD]
+http://cdc55.cc:80/live/7125938483/5158/312853.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="20:30 - Sport Recife x Novorizontino [FHD]" tvg-logo="http://lgfp.one/OWJ0.png" group-title="Canais | Jogos do Dia",20:30 - Sport Recife x Novorizontino [FHD]
+http://cdc55.cc:80/live/7125938483/5158/312852.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="20:30 - Sport Recife x Novorizontino [HD]" tvg-logo="http://lgfp.one/OWI9.png" group-title="Canais | Jogos do Dia",20:30 - Sport Recife x Novorizontino [HD]
+http://cdc55.cc:80/live/7125938483/5158/312851.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="19:30 - Maranhão x Volta Redonda [FHD]" tvg-logo="http://lgfp.one/OWI8.png" group-title="Canais | Jogos do Dia",19:30 - Maranhão x Volta Redonda [FHD]
+http://cdc55.cc:80/live/7125938483/5158/312850.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="19:30 - Maranhão x Volta Redonda [HD]" tvg-logo="http://lgfp.one/OWI7.png" group-title="Canais | Jogos do Dia",19:30 - Maranhão x Volta Redonda [HD]
+http://cdc55.cc:80/live/7125938483/5158/312849.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="19:30 - BotafogoPB x León [FHD]" tvg-logo="http://lgfp.one/OWI6" group-title="Canais | Jogos do Dia",19:30 - BotafogoPB x León [FHD]
+http://cdc55.cc:80/live/7125938483/5158/312848.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="19:30 - BotafogoPB x León [HD]" tvg-logo="http://lgfp.one/OWI5" group-title="Canais | Jogos do Dia",19:30 - BotafogoPB x León [HD]
+http://cdc55.cc:80/live/7125938483/5158/312847.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="18:30 - Botafogo x Internacional [FHD]" tvg-logo="http://lgfp.one/OWI4.png" group-title="Canais | Jogos do Dia",18:30 - Botafogo x Internacional [FHD]
+http://cdc55.cc:80/live/7125938483/5158/312846.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="18:30 - Botafogo x Internacional [HD]" tvg-logo="http://lgfp.one/OWI3.png" group-title="Canais | Jogos do Dia",18:30 - Botafogo x Internacional [HD]
+http://cdc55.cc:80/live/7125938483/5158/312845.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="18:30 - Bahia x Santos [FHD]" tvg-logo="http://lgfp.one/OWI2.png" group-title="Canais | Jogos do Dia",18:30 - Bahia x Santos [FHD]
+http://cdc55.cc:80/live/7125938483/5158/312844.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="18:30 - Bahia x Santos [HD]" tvg-logo="http://lgfp.one/OWI1.png" group-title="Canais | Jogos do Dia",18:30 - Bahia x Santos [HD]
+http://cdc55.cc:80/live/7125938483/5158/312843.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="18:30 - Remo x Cruzeiro [FHD]" tvg-logo="http://lgfp.one/OWI0.png" group-title="Canais | Jogos do Dia",18:30 - Remo x Cruzeiro [FHD]
+http://cdc55.cc:80/live/7125938483/5158/312842.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="18:30 - Remo x Cruzeiro [HD]" tvg-logo="http://lgfp.one/OWH9.png" group-title="Canais | Jogos do Dia",18:30 - Remo x Cruzeiro [HD]
+http://cdc55.cc:80/live/7125938483/5158/312841.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="17:00 - Itabaiana x Paysandu [FHD]" tvg-logo="http://lgfp.one/OWH8.png" group-title="Canais | Jogos do Dia",17:00 - Itabaiana x Paysandu [FHD]
+http://cdc55.cc:80/live/7125938483/5158/312840.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="17:00 - Itabaiana x Paysandu [HD]" tvg-logo="http://lgfp.one/OWH7.png" group-title="Canais | Jogos do Dia",17:00 - Itabaiana x Paysandu [HD]
+http://cdc55.cc:80/live/7125938483/5158/312839.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="17:00 - Brusque x Confiança [FHD]" tvg-logo="http://lgfp.one/OWH6.png" group-title="Canais | Jogos do Dia",17:00 - Brusque x Confiança [FHD]
+http://cdc55.cc:80/live/7125938483/5158/312838.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="17:00 - Brusque x Confiança [HD]" tvg-logo="http://lgfp.one/OWH5.png" group-title="Canais | Jogos do Dia",17:00 - Brusque x Confiança [HD]
+http://cdc55.cc:80/live/7125938483/5158/312837.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="13:15 - AlAhli Saudi x Machida Zelvia [FHD]" tvg-logo="http://lgfp.one/OWH4.png" group-title="Canais | Jogos do Dia",13:15 - AlAhli Saudi x Machida Zelvia [FHD]
+http://cdc55.cc:80/live/7125938483/5158/312836.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="13:15 - AlAhli Saudi x Machida Zelvia [HD]" tvg-logo="http://lgfp.one/OWH3.png" group-title="Canais | Jogos do Dia",13:15 - AlAhli Saudi x Machida Zelvia [HD]
+http://cdc55.cc:80/live/7125938483/5158/312835.ts
