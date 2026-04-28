@@ -3039,61 +3039,33 @@ http://cdc55.cc:80/live/7125938483/5158/30247.ts
 http://cdc55.cc:80/live/7125938483/5158/571.ts
 #EXTINF:-1 tvg-id="TelecineTouch(src05).br" tvg-name="TELECINE TOUCH [SD]" tvg-logo="http://lgfp.one/AZE" group-title="Canais | Telecine",TELECINE TOUCH [SD]
 http://cdc55.cc:80/live/7125938483/5158/577.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Casa do Patrão | Multicam 1" tvg-logo="http://lgfp.one/SWV3" group-title="Canais | Casa do Patrão",Casa do Patrão | Multicam 1
+http://cdc55.cc:80/live/7125938483/5158/385857.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Casa do patrão | Piscina" tvg-logo="http://lgfp.one/SWV6" group-title="Canais | Casa do Patrão",Casa do patrão | Piscina
+http://cdc55.cc:80/live/7125938483/5158/385960.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Casa do patrão | Casa Convivência" tvg-logo="http://lgfp.one/SWV7" group-title="Canais | Casa do Patrão",Casa do patrão | Casa Convivência
+http://cdc55.cc:80/live/7125938483/5158/385961.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Casa do patrão | Quarto dos Parças" tvg-logo="http://lgfp.one/SWV8" group-title="Canais | Casa do Patrão",Casa do patrão | Quarto dos Parças
+http://cdc55.cc:80/live/7125938483/5158/385962.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Casa do patrão | Suíte do patrão" tvg-logo="http://lgfp.one/SWV9" group-title="Canais | Casa do Patrão",Casa do patrão | Suíte do patrão
+http://cdc55.cc:80/live/7125938483/5158/385963.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Casa do patrão | Quarto coletivo (Casa trampo)" tvg-logo="http://lgfp.one/SWW0" group-title="Canais | Casa do Patrão",Casa do patrão | Quarto coletivo (Casa trampo)
+http://cdc55.cc:80/live/7125938483/5158/385964.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Casa do patrão | Sala e Cozinha (Casa Trampo)" tvg-logo="http://lgfp.one/SWW1" group-title="Canais | Casa do Patrão",Casa do patrão | Sala e Cozinha (Casa Trampo)
+http://cdc55.cc:80/live/7125938483/5158/385965.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Casa do patrão | Multicam 2" tvg-logo="http://lgfp.one/SWW2" group-title="Canais | Casa do Patrão",Casa do patrão | Multicam 2
+http://cdc55.cc:80/live/7125938483/5158/385966.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Core Suporte" tvg-logo="http://lgfp.one/NWW8" group-title="Suporte Core",Core Suporte
 http://cdc55.cc:80/live/7125938483/5158/305474.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="20:30 - Fluminense x Chapecoense [FHD]" tvg-logo="http://lgfp.one/OWJ4.png" group-title="Canais | Jogos do Dia",20:30 - Fluminense x Chapecoense [FHD]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="23:00 - Sporting Cristal x Junior [FHD]" tvg-logo="http://lgfp.one/OWJ4.png" group-title="Canais | Jogos do Dia",23:00 - Sporting Cristal x Junior [FHD]
 http://cdc55.cc:80/live/7125938483/5158/312856.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="20:30 - Fluminense x Chapecoense [HD]" tvg-logo="http://lgfp.one/OWJ3.png" group-title="Canais | Jogos do Dia",20:30 - Fluminense x Chapecoense [HD]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="23:00 - Sporting Cristal x Junior [HD]" tvg-logo="http://lgfp.one/OWJ3.png" group-title="Canais | Jogos do Dia",23:00 - Sporting Cristal x Junior [HD]
 http://cdc55.cc:80/live/7125938483/5158/312855.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="20:30 - AtléticoMG x Flamengo [FHD]" tvg-logo="http://lgfp.one/OWJ2" group-title="Canais | Jogos do Dia",20:30 - AtléticoMG x Flamengo [FHD]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="23:00 - Tolima x Coquimbo Unido [FHD]" tvg-logo="http://lgfp.one/OWJ2.png" group-title="Canais | Jogos do Dia",23:00 - Tolima x Coquimbo Unido [FHD]
 http://cdc55.cc:80/live/7125938483/5158/312854.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="20:30 - AtléticoMG x Flamengo [HD]" tvg-logo="http://lgfp.one/OWJ1" group-title="Canais | Jogos do Dia",20:30 - AtléticoMG x Flamengo [HD]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="23:00 - Tolima x Coquimbo Unido [HD]" tvg-logo="http://lgfp.one/OWJ1.png" group-title="Canais | Jogos do Dia",23:00 - Tolima x Coquimbo Unido [HD]
 http://cdc55.cc:80/live/7125938483/5158/312853.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="20:30 - Criciúma x CRB [FHD]" tvg-logo="http://lgfp.one/OWJ0" group-title="Canais | Jogos do Dia",20:30 - Criciúma x CRB [FHD]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="23:00 - O’Higgins x Boston River [FHD]" tvg-logo="http://lgfp.one/OWJ0.png" group-title="Canais | Jogos do Dia",23:00 - O’Higgins x Boston River [FHD]
 http://cdc55.cc:80/live/7125938483/5158/312852.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="20:30 - Criciúma x CRB [HD]" tvg-logo="http://lgfp.one/OWI9" group-title="Canais | Jogos do Dia",20:30 - Criciúma x CRB [HD]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="23:00 - O’Higgins x Boston River [HD]" tvg-logo="http://lgfp.one/OWI9.png" group-title="Canais | Jogos do Dia",23:00 - O’Higgins x Boston River [HD]
 http://cdc55.cc:80/live/7125938483/5158/312851.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="20:30 - AtléticoGO x Avaí [FHD]" tvg-logo="http://lgfp.one/OWI8" group-title="Canais | Jogos do Dia",20:30 - AtléticoGO x Avaí [FHD]
-http://cdc55.cc:80/live/7125938483/5158/312850.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="20:30 - AtléticoGO x Avaí [HD]" tvg-logo="http://lgfp.one/OWI7" group-title="Canais | Jogos do Dia",20:30 - AtléticoGO x Avaí [HD]
-http://cdc55.cc:80/live/7125938483/5158/312849.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="19:00 - Ituano x Maringá [FHD]" tvg-logo="http://lgfp.one/OWI4.png" group-title="Canais | Jogos do Dia",19:00 - Ituano x Maringá [FHD]
-http://cdc55.cc:80/live/7125938483/5158/312846.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="19:00 - Ituano x Maringá [HD]" tvg-logo="http://lgfp.one/OWI3.png" group-title="Canais | Jogos do Dia",19:00 - Ituano x Maringá [HD]
-http://cdc55.cc:80/live/7125938483/5158/312845.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="18:30 - RB Bragantino x Palmeiras [FHD]" tvg-logo="http://lgfp.one/OWI2.png" group-title="Canais | Jogos do Dia",18:30 - RB Bragantino x Palmeiras [FHD]
-http://cdc55.cc:80/live/7125938483/5158/312844.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="18:30 - RB Bragantino x Palmeiras [HD]" tvg-logo="http://lgfp.one/OWI1.png" group-title="Canais | Jogos do Dia",18:30 - RB Bragantino x Palmeiras [HD]
-http://cdc55.cc:80/live/7125938483/5158/312843.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="18:30 - AthleticoPR x Vitória [FHD]" tvg-logo="http://lgfp.one/OWI0" group-title="Canais | Jogos do Dia",18:30 - AthleticoPR x Vitória [FHD]
-http://cdc55.cc:80/live/7125938483/5158/312842.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="18:30 - AthleticoPR x Vitória [HD]" tvg-logo="http://lgfp.one/OWH9" group-title="Canais | Jogos do Dia",18:30 - AthleticoPR x Vitória [HD]
-http://cdc55.cc:80/live/7125938483/5158/312841.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="18:00 - OperárioPR x Fortaleza [FHD]" tvg-logo="http://lgfp.one/OWH8.png" group-title="Canais | Jogos do Dia",18:00 - OperárioPR x Fortaleza [FHD]
-http://cdc55.cc:80/live/7125938483/5158/312840.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="18:00 - OperárioPR x Fortaleza [HD]" tvg-logo="http://lgfp.one/OWH7.png" group-title="Canais | Jogos do Dia",18:00 - OperárioPR x Fortaleza [HD]
-http://cdc55.cc:80/live/7125938483/5158/312839.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="18:00 - Ceará x Vila Nova [FHD]" tvg-logo="http://lgfp.one/OWH6" group-title="Canais | Jogos do Dia",18:00 - Ceará x Vila Nova [FHD]
-http://cdc55.cc:80/live/7125938483/5158/312838.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="18:00 - Ceará x Vila Nova [HD]" tvg-logo="http://lgfp.one/OWH5" group-title="Canais | Jogos do Dia",18:00 - Ceará x Vila Nova [HD]
-http://cdc55.cc:80/live/7125938483/5158/312837.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="17:00 - Anápolis x Figueirense [FHD]" tvg-logo="http://lgfp.one/OWH4.png" group-title="Canais | Jogos do Dia",17:00 - Anápolis x Figueirense [FHD]
-http://cdc55.cc:80/live/7125938483/5158/312836.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="17:00 - Anápolis x Figueirense [HD]" tvg-logo="http://lgfp.one/OWH3.png" group-title="Canais | Jogos do Dia",17:00 - Anápolis x Figueirense [HD]
-http://cdc55.cc:80/live/7125938483/5158/312835.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="17:00 - BarraSC x Inter de Limeira [FHD]" tvg-logo="http://lgfp.one/OWH2.png" group-title="Canais | Jogos do Dia",17:00 - BarraSC x Inter de Limeira [FHD]
-http://cdc55.cc:80/live/7125938483/5158/312834.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="17:00 - BarraSC x Inter de Limeira [HD]" tvg-logo="http://lgfp.one/OWH1.png" group-title="Canais | Jogos do Dia",17:00 - BarraSC x Inter de Limeira [HD]
-http://cdc55.cc:80/live/7125938483/5158/312833.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="16:00 - Corinthians x Vasco da Gama [FHD]" tvg-logo="http://lgfp.one/OWH0.png" group-title="Canais | Jogos do Dia",16:00 - Corinthians x Vasco da Gama [FHD]
-http://cdc55.cc:80/live/7125938483/5158/312832.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="16:00 - Corinthians x Vasco da Gama [HD]" tvg-logo="http://lgfp.one/OWG9.png" group-title="Canais | Jogos do Dia",16:00 - Corinthians x Vasco da Gama [HD]
-http://cdc55.cc:80/live/7125938483/5158/312831.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="16:00 - Grêmio x Coritiba [FHD]" tvg-logo="http://lgfp.one/OWG8" group-title="Canais | Jogos do Dia",16:00 - Grêmio x Coritiba [FHD]
-http://cdc55.cc:80/live/7125938483/5158/312830.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="16:00 - Grêmio x Coritiba [HD]" tvg-logo="http://lgfp.one/OWG7" group-title="Canais | Jogos do Dia",16:00 - Grêmio x Coritiba [HD]
-http://cdc55.cc:80/live/7125938483/5158/312829.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="16:00 - São Bernardo x Goiás [FHD]" tvg-logo="http://lgfp.one/OWG6" group-title="Canais | Jogos do Dia",16:00 - São Bernardo x Goiás [FHD]
-http://cdc55.cc:80/live/7125938483/5158/312828.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="16:00 - São Bernardo x Goiás [HD]" tvg-logo="http://lgfp.one/OWG5" group-title="Canais | Jogos do Dia",16:00 - São Bernardo x Goiás [HD]
-http://cdc55.cc:80/live/7125938483/5158/312827.ts
