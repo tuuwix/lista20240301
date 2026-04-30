@@ -1063,8 +1063,6 @@ http://cdc55.cc:80/live/7125938483/5158/379592.ts
 http://cdc55.cc:80/live/7125938483/5158/322392.ts
 #EXTINF:-1 tvg-id="Xsports(src09).br" tvg-name="Xsports [HD]" tvg-logo="http://lgfp.one/PRM8" group-title="Canais | Esportes",Xsports [HD]
 http://cdc55.cc:80/live/7125938483/5158/322391.ts
-#EXTINF:-1 tvg-id="Xsports(src09).br" tvg-name="Xsports [SD]" tvg-logo="http://lgfp.one/PRM9" group-title="Canais | Esportes",Xsports [SD]
-http://cdc55.cc:80/live/7125938483/5158/329737.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zapping Sports 2 [HD]" tvg-logo="http://lgfp.one/OOL5" group-title="Canais | Esportes",Zapping Sports 2 [HD]
 http://cdc55.cc:80/live/7125938483/5158/273617.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zapping Sports [HD]" tvg-logo="http://lgfp.one/OOL4" group-title="Canais | Esportes",Zapping Sports [HD]
@@ -3041,31 +3039,27 @@ http://cdc55.cc:80/live/7125938483/5158/571.ts
 http://cdc55.cc:80/live/7125938483/5158/577.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Casa do Patrão | Multicam 1" tvg-logo="http://lgfp.one/SWV3" group-title="Canais | Casa do Patrão",Casa do Patrão | Multicam 1
 http://cdc55.cc:80/live/7125938483/5158/385857.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Casa do patrão | Multicam 2" tvg-logo="http://lgfp.one/SWW2" group-title="Canais | Casa do Patrão",Casa do patrão | Multicam 2
+http://cdc55.cc:80/live/7125938483/5158/385966.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Casa do patrão | Piscina" tvg-logo="http://lgfp.one/SWV6" group-title="Canais | Casa do Patrão",Casa do patrão | Piscina
 http://cdc55.cc:80/live/7125938483/5158/385960.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Casa do patrão | Casa Convivência" tvg-logo="http://lgfp.one/SWV7" group-title="Canais | Casa do Patrão",Casa do patrão | Casa Convivência
 http://cdc55.cc:80/live/7125938483/5158/385961.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Casa do patrão | Quarto dos Parças" tvg-logo="http://lgfp.one/SWV8" group-title="Canais | Casa do Patrão",Casa do patrão | Quarto dos Parças
-http://cdc55.cc:80/live/7125938483/5158/385962.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Casa do patrão | Suíte do patrão" tvg-logo="http://lgfp.one/SWV9" group-title="Canais | Casa do Patrão",Casa do patrão | Suíte do patrão
 http://cdc55.cc:80/live/7125938483/5158/385963.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Casa do patrão | Quarto dos Parças" tvg-logo="http://lgfp.one/SWV8" group-title="Canais | Casa do Patrão",Casa do patrão | Quarto dos Parças
+http://cdc55.cc:80/live/7125938483/5158/385962.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Casa do patrão | Quarto coletivo (Casa trampo)" tvg-logo="http://lgfp.one/SWW0" group-title="Canais | Casa do Patrão",Casa do patrão | Quarto coletivo (Casa trampo)
 http://cdc55.cc:80/live/7125938483/5158/385964.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Casa do patrão | Sala e Cozinha (Casa Trampo)" tvg-logo="http://lgfp.one/SWW1" group-title="Canais | Casa do Patrão",Casa do patrão | Sala e Cozinha (Casa Trampo)
 http://cdc55.cc:80/live/7125938483/5158/385965.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Casa do patrão | Multicam 2" tvg-logo="http://lgfp.one/SWW2" group-title="Canais | Casa do Patrão",Casa do patrão | Multicam 2
-http://cdc55.cc:80/live/7125938483/5158/385966.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Core Suporte" tvg-logo="http://lgfp.one/NWW8" group-title="Suporte Core",Core Suporte
 http://cdc55.cc:80/live/7125938483/5158/305474.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="23:00 - Sporting Cristal x Junior [FHD]" tvg-logo="http://lgfp.one/OWJ4.png" group-title="Canais | Jogos do Dia",23:00 - Sporting Cristal x Junior [FHD]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="23:00 - Independiente Medellín x Cusco FC [FHD]" tvg-logo="http://lgfp.one/OWJ4" group-title="Canais | Jogos do Dia",23:00 - Independiente Medellín x Cusco FC [FHD]
 http://cdc55.cc:80/live/7125938483/5158/312856.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="23:00 - Sporting Cristal x Junior [HD]" tvg-logo="http://lgfp.one/OWJ3.png" group-title="Canais | Jogos do Dia",23:00 - Sporting Cristal x Junior [HD]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="23:00 - Independiente Medellín x Cusco FC [HD]" tvg-logo="http://lgfp.one/OWJ3" group-title="Canais | Jogos do Dia",23:00 - Independiente Medellín x Cusco FC [HD]
 http://cdc55.cc:80/live/7125938483/5158/312855.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="23:00 - Tolima x Coquimbo Unido [FHD]" tvg-logo="http://lgfp.one/OWJ2.png" group-title="Canais | Jogos do Dia",23:00 - Tolima x Coquimbo Unido [FHD]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="23:00 - Alianza Atlético x Macará [FHD]" tvg-logo="http://lgfp.one/OWJ2.png" group-title="Canais | Jogos do Dia",23:00 - Alianza Atlético x Macará [FHD]
 http://cdc55.cc:80/live/7125938483/5158/312854.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="23:00 - Tolima x Coquimbo Unido [HD]" tvg-logo="http://lgfp.one/OWJ1.png" group-title="Canais | Jogos do Dia",23:00 - Tolima x Coquimbo Unido [HD]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="23:00 - Alianza Atlético x Macará [HD]" tvg-logo="http://lgfp.one/OWJ1.png" group-title="Canais | Jogos do Dia",23:00 - Alianza Atlético x Macará [HD]
 http://cdc55.cc:80/live/7125938483/5158/312853.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="23:00 - O’Higgins x Boston River [FHD]" tvg-logo="http://lgfp.one/OWJ0.png" group-title="Canais | Jogos do Dia",23:00 - O’Higgins x Boston River [FHD]
-http://cdc55.cc:80/live/7125938483/5158/312852.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="23:00 - O’Higgins x Boston River [HD]" tvg-logo="http://lgfp.one/OWI9.png" group-title="Canais | Jogos do Dia",23:00 - O’Higgins x Boston River [HD]
-http://cdc55.cc:80/live/7125938483/5158/312851.ts
