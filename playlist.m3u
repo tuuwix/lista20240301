@@ -369,6 +369,8 @@ http://cdd11.com/live/7125938483/5158/375001.ts
 http://cdd11.com/live/7125938483/5158/333825.ts
 #EXTINF:-1 group-title="Canais | Religiosos" tvg-logo="http://lgfp.one/NRK4" tvg-id="cancao.nova.br",Canção Nova [FHD]
 http://cdd11.com/live/7125938483/5158/295990.ts
+#EXTINF:-1 group-title="Canais | Religiosos" tvg-logo="http://lgfp.one/VPV" tvg-id="",Canção Nova [HD]
+http://cdd11.com/live/7125938483/5158/388542.ts
 #EXTINF:-1 group-title="Canais | Religiosos" tvg-logo="http://lgfp.one/AYG" tvg-id="Cancao Nova SD",Canção Nova [SD]
 http://cdd11.com/live/7125938483/5158/552.ts
 #EXTINF:-1 group-title="Canais | Religiosos" tvg-logo="http://lgfp.one/QCY2" tvg-id="",IGREJA CRISTA MARANATA [FHD]
@@ -453,8 +455,6 @@ http://cdd11.com/live/7125938483/5158/53333.ts
 http://cdd11.com/live/7125938483/5158/329726.ts
 #EXTINF:-1 group-title="Canais | Religiosos" tvg-logo="http://lgfp.one/VPW" tvg-id="Universal TV",TV Universal (IURD)
 http://cdd11.com/live/7125938483/5158/53286.ts
-#EXTINF:-1 group-title="Canais | Religiosos" tvg-logo="http://lgfp.one/VPV" tvg-id="",Canção Nova [HD]
-http://cdd11.com/live/7125938483/5158/388542.ts
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://lgfp.one/SMS6" tvg-id="",Adesso tv [HD]
 http://cdd11.com/live/7125938483/5158/379589.ts
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://lgfp.one/QPV6" tvg-id="",Amazon SAT [FHD]
@@ -1437,6 +1437,22 @@ http://cdd11.com/live/7125938483/5158/246835.ts
 http://cdd11.com/live/7125938483/5158/246834.ts
 #EXTINF:-1 group-title="Canais | GOAT" tvg-logo="http://lgfp.one/ORP2" tvg-id="",Canal Goat [SD]
 http://cdd11.com/live/7125938483/5158/246833.ts
+#EXTINF:-1 group-title="Canais | Casa do Patrão" tvg-logo="http://lgfp.one/SWV7" tvg-id="",Casa do patrão | Casa Convivência
+http://cdd11.com/live/7125938483/5158/385961.ts
+#EXTINF:-1 group-title="Canais | Casa do Patrão" tvg-logo="http://lgfp.one/SWV3" tvg-id="",Casa do Patrão | Multicam 1
+http://cdd11.com/live/7125938483/5158/385857.ts
+#EXTINF:-1 group-title="Canais | Casa do Patrão" tvg-logo="http://lgfp.one/SWW2" tvg-id="",Casa do patrão | Multicam 2
+http://cdd11.com/live/7125938483/5158/385966.ts
+#EXTINF:-1 group-title="Canais | Casa do Patrão" tvg-logo="http://lgfp.one/SWV6" tvg-id="",Casa do patrão | Piscina
+http://cdd11.com/live/7125938483/5158/385960.ts
+#EXTINF:-1 group-title="Canais | Casa do Patrão" tvg-logo="http://lgfp.one/SWW0" tvg-id="",Casa do patrão | Quarto coletivo (Casa trampo)
+http://cdd11.com/live/7125938483/5158/385964.ts
+#EXTINF:-1 group-title="Canais | Casa do Patrão" tvg-logo="http://lgfp.one/SWV8" tvg-id="",Casa do patrão | Quarto dos Parças
+http://cdd11.com/live/7125938483/5158/385962.ts
+#EXTINF:-1 group-title="Canais | Casa do Patrão" tvg-logo="http://lgfp.one/SWW1" tvg-id="",Casa do patrão | Sala e Cozinha (Casa Trampo)
+http://cdd11.com/live/7125938483/5158/385965.ts
+#EXTINF:-1 group-title="Canais | Casa do Patrão" tvg-logo="http://lgfp.one/SWV9" tvg-id="",Casa do patrão | Suíte do patrão
+http://cdd11.com/live/7125938483/5158/385963.ts
 #EXTINF:-1 group-title="Canais | DAZN" tvg-logo="http://lgfp.one/XQU" tvg-id="",DAZN 01 [FHD]
 http://cdd11.com/live/7125938483/5158/132327.ts
 #EXTINF:-1 group-title="Canais | DAZN" tvg-logo="http://lgfp.one/XQT" tvg-id="",DAZN 01 [HD]
@@ -2981,153 +2997,45 @@ http://cdd11.com/live/7125938483/5158/30247.ts
 http://cdd11.com/live/7125938483/5158/571.ts
 #EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://lgfp.one/AZE" tvg-id="São.Paulo/SP..Telecine.Touch.HD.³.br",TELECINE TOUCH [SD]
 http://cdd11.com/live/7125938483/5158/577.ts
-#EXTINF:-1 group-title="Canais | Casa do Patrão" tvg-logo="http://lgfp.one/SWV3" tvg-id="",Casa do Patrão | Multicam 1
-http://cdd11.com/live/7125938483/5158/385857.ts
-#EXTINF:-1 group-title="Canais | Casa do Patrão" tvg-logo="http://lgfp.one/SWW2" tvg-id="",Casa do patrão | Multicam 2
-http://cdd11.com/live/7125938483/5158/385966.ts
-#EXTINF:-1 group-title="Canais | Casa do Patrão" tvg-logo="http://lgfp.one/SWV6" tvg-id="",Casa do patrão | Piscina
-http://cdd11.com/live/7125938483/5158/385960.ts
-#EXTINF:-1 group-title="Canais | Casa do Patrão" tvg-logo="http://lgfp.one/SWV7" tvg-id="",Casa do patrão | Casa Convivência
-http://cdd11.com/live/7125938483/5158/385961.ts
-#EXTINF:-1 group-title="Canais | Casa do Patrão" tvg-logo="http://lgfp.one/SWV9" tvg-id="",Casa do patrão | Suíte do patrão
-http://cdd11.com/live/7125938483/5158/385963.ts
-#EXTINF:-1 group-title="Canais | Casa do Patrão" tvg-logo="http://lgfp.one/SWV8" tvg-id="",Casa do patrão | Quarto dos Parças
-http://cdd11.com/live/7125938483/5158/385962.ts
-#EXTINF:-1 group-title="Canais | Casa do Patrão" tvg-logo="http://lgfp.one/SWW0" tvg-id="",Casa do patrão | Quarto coletivo (Casa trampo)
-http://cdd11.com/live/7125938483/5158/385964.ts
-#EXTINF:-1 group-title="Canais | Casa do Patrão" tvg-logo="http://lgfp.one/SWW1" tvg-id="",Casa do patrão | Sala e Cozinha (Casa Trampo)
-http://cdd11.com/live/7125938483/5158/385965.ts
 #EXTINF:-1 group-title="Suporte Core" tvg-logo="http://lgfp.one/NWW8" tvg-id="",Core Suporte
 http://cdd11.com/live/7125938483/5158/305474.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWJ4.png" tvg-id="",20:30 - Vasco da Gama x Red Bull Bragantino [FHD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",20:00 - Carlos Barbosa x FantasmasBOL [FHD]
 http://cdd11.com/live/7125938483/5158/312856.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWJ3.png" tvg-id="",20:30 - Vasco da Gama x Red Bull Bragantino [HD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",20:00 - Carlos Barbosa x FantasmasBOL [HD]
 http://cdd11.com/live/7125938483/5158/312855.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",20:30 - Operário Ferroviário x Criciúma [FHD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",20:00 - Coritiba x Bahia [FHD]
 http://cdd11.com/live/7125938483/5158/312854.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",20:30 - Operário Ferroviário x Criciúma [HD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",20:00 - Coritiba x Bahia [HD]
 http://cdd11.com/live/7125938483/5158/312853.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",20:00 - Peñarol x Carlos Barbosa [FHD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",20:00 - Paysandu x Floresta [FHD]
 http://cdd11.com/live/7125938483/5158/312852.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",20:00 - Peñarol x Carlos Barbosa [HD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",20:00 - Paysandu x Floresta [HD]
 http://cdd11.com/live/7125938483/5158/312851.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",19:00 - Avaí x Goiás [FHD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",20:00 - Ituano x BotafogoPB [FHD]
 http://cdd11.com/live/7125938483/5158/312850.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",19:00 - Avaí x Goiás [HD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",20:00 - Ituano x BotafogoPB [HD]
 http://cdd11.com/live/7125938483/5158/312849.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWI6.png" tvg-id="",19:00 - Volta Redonda x Ypiranga [FHD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",19:00 - BotafogoSP x Athletic [FHD]
 http://cdd11.com/live/7125938483/5158/312848.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWI5.png" tvg-id="",19:00 - Volta Redonda x Ypiranga [HD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",19:00 - BotafogoSP x Athletic [HD]
 http://cdd11.com/live/7125938483/5158/312847.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",18:30 - Corinthians x AtléticoMG [FHD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",18:00 - Boca Juniors x Peñarol [FHD]
 http://cdd11.com/live/7125938483/5158/312846.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",18:30 - Corinthians x AtléticoMG [HD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",18:00 - Boca Juniors x Peñarol [HD]
 http://cdd11.com/live/7125938483/5158/312845.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",18:30 - AméricaMG x Vila Nova [FHD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",16:00 - CentaurosVEN x Divino Niño [FHD]
 http://cdd11.com/live/7125938483/5158/312844.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",18:30 - AméricaMG x Vila Nova [HD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",16:00 - CentaurosVEN x Divino Niño [HD]
 http://cdd11.com/live/7125938483/5158/312843.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWI0.png" tvg-id="",18:00 - FantasmasBOL x Boca Juniors [FHD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",14:00 - Panta WalonPER x Magnus [FHD]
 http://cdd11.com/live/7125938483/5158/312842.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWH9.png" tvg-id="",18:00 - FantasmasBOL x Boca Juniors [HD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",14:00 - Panta WalonPER x Magnus [HD]
 http://cdd11.com/live/7125938483/5158/312841.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWH8.png" tvg-id="",18:00 - São JoséRS x Marcílio Dias [FHD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",12:00 - Cerro Porteño x ColoColo [FHD]
 http://cdd11.com/live/7125938483/5158/312840.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWH7.png" tvg-id="",18:00 - São JoséRS x Marcílio Dias [HD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",12:00 - Cerro Porteño x ColoColo [HD]
 http://cdd11.com/live/7125938483/5158/312839.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWH6.png" tvg-id="",18:00 - Confiança x Figueirense [FHD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",10:00 - Deportivo LyonCOL x Nacional [FHD]
 http://cdd11.com/live/7125938483/5158/312838.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWH5.png" tvg-id="",18:00 - Confiança x Figueirense [HD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",10:00 - Deportivo LyonCOL x Nacional [HD]
 http://cdd11.com/live/7125938483/5158/312837.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",17:00 - Sampaio Corrêa x Moto Club [FHD]
-http://cdd11.com/live/7125938483/5158/312836.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",17:00 - Sampaio Corrêa x Moto Club [HD]
-http://cdd11.com/live/7125938483/5158/312835.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWH2.png" tvg-id="",16:30 - CRB x Ponte Preta [FHD]
-http://cdd11.com/live/7125938483/5158/312834.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWH1.png" tvg-id="",16:30 - CRB x Ponte Preta [HD]
-http://cdd11.com/live/7125938483/5158/312833.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",16:30 - Amazonas x Ferroviária [FHD]
-http://cdd11.com/live/7125938483/5158/312832.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",16:30 - Amazonas x Ferroviária [HD]
-http://cdd11.com/live/7125938483/5158/312831.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWG8.png" tvg-id="",16:30 - Brusque x Anápolis [FHD]
-http://cdd11.com/live/7125938483/5158/312830.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWG7.png" tvg-id="",16:30 - Brusque x Anápolis [HD]
-http://cdd11.com/live/7125938483/5158/312829.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWG6.png" tvg-id="",16:30 - Inter de Limeira x Itabaiana [FHD]
-http://cdd11.com/live/7125938483/5158/312828.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWG5.png" tvg-id="",16:30 - Inter de Limeira x Itabaiana [HD]
-http://cdd11.com/live/7125938483/5158/312827.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWG4.png" tvg-id="",16:00 - CentaurosVEN x Panta WalonPER [FHD]
-http://cdd11.com/live/7125938483/5158/312826.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWG3.png" tvg-id="",16:00 - CentaurosVEN x Panta WalonPER [HD]
-http://cdd11.com/live/7125938483/5158/312825.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWG2.png" tvg-id="",16:00 - Brasiliense x Inhumas [FHD]
-http://cdd11.com/live/7125938483/5158/312824.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWG1.png" tvg-id="",16:00 - Brasiliense x Inhumas [HD]
-http://cdd11.com/live/7125938483/5158/312823.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWG0.png" tvg-id="",16:00 - Rio BrancoES x VitóriaES [FHD]
-http://cdd11.com/live/7125938483/5158/312822.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWF9.png" tvg-id="",16:00 - Rio BrancoES x VitóriaES [HD]
-http://cdd11.com/live/7125938483/5158/312821.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWF8.png" tvg-id="",16:00 - ABC x América de Natal [FHD]
-http://cdd11.com/live/7125938483/5158/312820.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWF7.png" tvg-id="",16:00 - ABC x América de Natal [HD]
-http://cdd11.com/live/7125938483/5158/312819.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWF6.png" tvg-id="",16:00 - CRAC x Uberlândia [FHD]
-http://cdd11.com/live/7125938483/5158/312818.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWF5.png" tvg-id="",16:00 - CRAC x Uberlândia [HD]
-http://cdd11.com/live/7125938483/5158/312817.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWF4.png" tvg-id="",16:00 - São Joseense x Brasil de Pelotas [FHD]
-http://cdd11.com/live/7125938483/5158/312816.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWF3.png" tvg-id="",16:00 - São Joseense x Brasil de Pelotas [HD]
-http://cdd11.com/live/7125938483/5158/312815.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWF2.png" tvg-id="",16:00 - FAR Rabat x Mamelodi Sundowns [FHD]
-http://cdd11.com/live/7125938483/5158/312814.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWF1.png" tvg-id="",16:00 - FAR Rabat x Mamelodi Sundowns [HD]
-http://cdd11.com/live/7125938483/5158/312813.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWF0.png" tvg-id="",16:00 - Cruzeiro x Chapecoense [FHD]
-http://cdd11.com/live/7125938483/5158/312812.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWE9.png" tvg-id="",16:00 - Cruzeiro x Chapecoense [HD]
-http://cdd11.com/live/7125938483/5158/312811.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWE8.png" tvg-id="",16:00 - Remo x Athletico Paranaense [FHD]
-http://cdd11.com/live/7125938483/5158/312810.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWE7.png" tvg-id="",16:00 - Remo x Athletico Paranaense [HD]
-http://cdd11.com/live/7125938483/5158/312809.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",16:00 - AtléticoGO x São Bernardo [FHD]
-http://cdd11.com/live/7125938483/5158/312808.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",16:00 - AtléticoGO x São Bernardo [HD]
-http://cdd11.com/live/7125938483/5158/312807.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWE4.png" tvg-id="",15:30 - Oratório x Tuna Luso [FHD]
-http://cdd11.com/live/7125938483/5158/312806.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWE3.png" tvg-id="",15:30 - Oratório x Tuna Luso [HD]
-http://cdd11.com/live/7125938483/5158/312805.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWE2.png" tvg-id="",15:30 - Patriotas x Paranavaí [FHD]
-http://cdd11.com/live/7125938483/5158/312804.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWE1.png" tvg-id="",15:30 - Patriotas x Paranavaí [HD]
-http://cdd11.com/live/7125938483/5158/312803.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWE0.png" tvg-id="",15:00 - JuventusSC x Hercílio Luz [FHD]
-http://cdd11.com/live/7125938483/5158/312802.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWD9.png" tvg-id="",15:00 - JuventusSC x Hercílio Luz [HD]
-http://cdd11.com/live/7125938483/5158/312801.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWD8.png" tvg-id="",15:00 - Tubarão x Caravaggio [FHD]
-http://cdd11.com/live/7125938483/5158/312800.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWD7.png" tvg-id="",15:00 - Tubarão x Caravaggio [HD]
-http://cdd11.com/live/7125938483/5158/312799.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWD6.png" tvg-id="",15:00 - Guarany de Bagé x Cascavel [FHD]
-http://cdd11.com/live/7125938483/5158/312798.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWD5.png" tvg-id="",15:00 - Guarany de Bagé x Cascavel [HD]
-http://cdd11.com/live/7125938483/5158/312797.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWD4.png" tvg-id="",14:00 - Magnus x Dinivo NiñoEQU [FHD]
-http://cdd11.com/live/7125938483/5158/312796.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWD3.png" tvg-id="",14:00 - Magnus x Dinivo NiñoEQU [HD]
-http://cdd11.com/live/7125938483/5158/312795.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",12:00 - Cerro Porteño x Deportivo LyonCOL [FHD]
-http://cdd11.com/live/7125938483/5158/312794.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",12:00 - Cerro Porteño x Deportivo LyonCOL [HD]
-http://cdd11.com/live/7125938483/5158/312793.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWD0.png" tvg-id="",10:00 - Nacional x ColoColo [FHD]
-http://cdd11.com/live/7125938483/5158/312792.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWC9.png" tvg-id="",10:00 - Nacional x ColoColo [HD]
-http://cdd11.com/live/7125938483/5158/312791.ts
