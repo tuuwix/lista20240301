@@ -621,7 +621,7 @@ http://cdd11.com/live/7125938483/5158/30260.ts
 http://cdd11.com/live/7125938483/5158/181.ts
 #EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://lgfp.one/WJK" tvg-id="Discovery Channel SD [Alter]",DISCOVERY CHANNEL [SD]
 http://cdd11.com/live/7125938483/5158/196.ts
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://lgfp.one/ALC" tvg-id="435408",DISCOVERY HOME & HEALTH [FHD]
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://lgfp.one/ALC" tvg-id="417184",DISCOVERY HOME & HEALTH [FHD]
 http://cdd11.com/live/7125938483/5158/168.ts
 #EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://lgfp.one/VYU" tvg-id="São.Paulo/SP..Discovery.Home.and.Health.HD.br",DISCOVERY HOME & HEALTH [HD]
 http://cdd11.com/live/7125938483/5158/183.ts
@@ -2835,7 +2835,7 @@ http://cdd11.com/live/7125938483/5158/330473.ts
 http://cdd11.com/live/7125938483/5158/330474.ts
 #EXTINF:-1 group-title="Canais | Record" tvg-logo="http://lgfp.one/VBD" tvg-id="Record RJ HD [Alter]",RECORDTV RJ [FHD]
 http://cdd11.com/live/7125938483/5158/50880.ts
-#EXTINF:-1 group-title="Canais | Record" tvg-logo="http://lgfp.one/AHB" tvg-id="Record RJ HD [Alter]",RECORDTV RJ [HD]
+#EXTINF:-1 group-title="Canais | Record" tvg-logo="http://lgfp.one/AHB" tvg-id="Record RJ HD",RECORDTV RJ [HD]
 http://cdd11.com/live/7125938483/5158/57.ts
 #EXTINF:-1 group-title="Canais | Record" tvg-logo="http://lgfp.one/AHT" tvg-id="Record RJ SD",RECORDTV RJ [SD]
 http://cdd11.com/live/7125938483/5158/76.ts
@@ -3387,31 +3387,7 @@ http://cdd11.com/live/7125938483/5158/392285.ts
 http://cdd11.com/live/7125938483/5158/392286.ts
 #EXTINF:-1 group-title="Suporte Core" tvg-logo="http://lgfp.one/NWW8" tvg-id="",Core Suporte
 http://cdd11.com/live/7125938483/5158/305474.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",21:30 - Cruzeiro x Barcelona de Guayaquil [FHD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",21:00 - Juventude x AméricaMG [FHD]
 http://cdd11.com/live/7125938483/5158/312856.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",21:30 - Cruzeiro x Barcelona de Guayaquil [HD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",21:00 - Juventude x AméricaMG [HD]
 http://cdd11.com/live/7125938483/5158/312855.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",21:30 - Boca Juniors x Universidad Católica [FHD]
-http://cdd11.com/live/7125938483/5158/312854.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",21:30 - Boca Juniors x Universidad Católica [HD]
-http://cdd11.com/live/7125938483/5158/312853.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",21:30 - América de Cali x Macará [FHD]
-http://cdd11.com/live/7125938483/5158/312852.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",21:30 - América de Cali x Macará [HD]
-http://cdd11.com/live/7125938483/5158/312851.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",21:30 - Tigre x Alianza Atlético [FHD]
-http://cdd11.com/live/7125938483/5158/312850.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",21:30 - Tigre x Alianza Atlético [HD]
-http://cdd11.com/live/7125938483/5158/312849.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",19:00 - Palmeiras x Junior Barranquilla [FHD]
-http://cdd11.com/live/7125938483/5158/312848.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",19:00 - Palmeiras x Junior Barranquilla [HD]
-http://cdd11.com/live/7125938483/5158/312847.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",19:00 - Cerro Porteño x Sporting Cristal [FHD]
-http://cdd11.com/live/7125938483/5158/312846.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",19:00 - Cerro Porteño x Sporting Cristal [HD]
-http://cdd11.com/live/7125938483/5158/312845.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",15:45 - Irlanda x Catar [FHD]
-http://cdd11.com/live/7125938483/5158/312844.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",15:45 - Irlanda x Catar [HD]
-http://cdd11.com/live/7125938483/5158/312843.ts
