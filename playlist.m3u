@@ -455,6 +455,8 @@ http://cdd11.com/live/7125938483/5158/53333.ts
 http://cdd11.com/live/7125938483/5158/329726.ts
 #EXTINF:-1 group-title="Canais | Religiosos" tvg-logo="http://lgfp.one/VPW" tvg-id="Universal TV",TV Universal (IURD)
 http://cdd11.com/live/7125938483/5158/53286.ts
+#EXTINF:-1 group-title="Canais | Religiosos" tvg-logo="http://lgfp.one/UJO6" tvg-id="",TV PADRE CICERO [HD]
+http://cdd11.com/live/7125938483/5158/407766.ts
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://lgfp.one/SMS6" tvg-id="",Adesso tv [HD]
 http://cdd11.com/live/7125938483/5158/379589.ts
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://lgfp.one/QPV6" tvg-id="",Amazon SAT [FHD]
@@ -783,6 +785,10 @@ http://cdd11.com/live/7125938483/5158/123579.ts
 http://cdd11.com/live/7125938483/5158/113588.ts
 #EXTINF:-1 group-title="Canais | Band" tvg-logo="http://lgfp.one/ROS2" tvg-id="523315",Band [SD]
 http://cdd11.com/live/7125938483/5158/358082.ts
+#EXTINF:-1 group-title="Canais | Band" tvg-logo="http://lgfp.one/QCC6" tvg-id="",BAND CEARA [FHD]
+http://cdd11.com/live/7125938483/5158/407758.ts
+#EXTINF:-1 group-title="Canais | Band" tvg-logo="http://lgfp.one/QCC6" tvg-id="",BAND CEARA [SD]
+http://cdd11.com/live/7125938483/5158/407759.ts
 #EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://lgfp.one/AWW" tvg-id="São.Paulo/SP..Band.News.HD.br",BAND NEWS [FHD]
 http://cdd11.com/live/7125938483/5158/510.ts
 #EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://lgfp.one/VNA" tvg-id="São.Paulo/SP..Band.News.HD.br",BAND NEWS [FHD][H265]
@@ -1215,6 +1221,8 @@ http://cdd11.com/live/7125938483/5158/148.ts
 http://cdd11.com/live/7125938483/5158/161.ts
 #EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://lgfp.one/WIZ" tvg-id="São.Paulo/SP..TV.Rá.Tim.Bum.br",TV-RA-TIM-BUM [FHD][H265]
 http://cdd11.com/live/7125938483/5158/30265.ts
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://lgfp.one/UJO2" tvg-id="",Zoomoo [FHD]
+http://cdd11.com/live/7125938483/5158/407762.ts
 #EXTINF:-1 group-title="Canais | Copinhas e Estaduais  2026" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/12/Campeonato_Brasileiro_S%C3%A9rie_D_logo.png" tvg-id="",BR: Brasileirão Série D 01 [HD]
 http://cdd11.com/live/7125938483/5158/376873.ts
 #EXTINF:-1 group-title="Canais | Copinhas e Estaduais  2026" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/12/Campeonato_Brasileiro_S%C3%A9rie_D_logo.png" tvg-id="",BR: Brasileirão Série D 02 [HD]
@@ -2125,6 +2133,16 @@ http://cdd11.com/live/7125938483/5158/43843.ts
 http://cdd11.com/live/7125938483/5158/43830.ts
 #EXTINF:-1 group-title="Canais | Globo Sul" tvg-logo="http://lgfp.one/VGF" tvg-id="Globo RPC TV Paranavai SD",GLOBO TV RPC PARANAVAI [SD]
 http://cdd11.com/live/7125938483/5158/121126.ts
+#EXTINF:-1 group-title="Canais | Globo Sul" tvg-logo="http://lgfp.one/QBX6" tvg-id="",Globo RPC TV Londrina [FHD]
+http://cdd11.com/live/7125938483/5158/407760.ts
+#EXTINF:-1 group-title="Canais | Globo Sul" tvg-logo="http://lgfp.one/QBX6" tvg-id="",Globo RPC TV Londrina [SD]
+http://cdd11.com/live/7125938483/5158/407761.ts
+#EXTINF:-1 group-title="Canais | Globo Sul" tvg-logo="http://lgfp.one/UJO3" tvg-id="",Globo RBS TV Santa Cruz do Sul [SD]
+http://cdd11.com/live/7125938483/5158/407763.ts
+#EXTINF:-1 group-title="Canais | Globo Sul" tvg-logo="http://lgfp.one/UJO4" tvg-id="",Globo RBS TV Santa Cruz do Sul [HD]
+http://cdd11.com/live/7125938483/5158/407764.ts
+#EXTINF:-1 group-title="Canais | Globo Sul" tvg-logo="http://lgfp.one/UJO5" tvg-id="",Globo RBS TV Santa Cruz do Sul [FHD]
+http://cdd11.com/live/7125938483/5158/407765.ts
 #EXTINF:-1 group-title="Canais | Globo Norte" tvg-logo="http://lgfp.one/RER1" tvg-id="",Globo Rede Amazonas Arquemes [FHD]
 http://cdd11.com/live/7125938483/5158/353999.ts
 #EXTINF:-1 group-title="Canais | Globo Norte" tvg-logo="http://lgfp.one/RER1" tvg-id="",Globo Rede Amazonas Arquemes [HD]
@@ -2837,6 +2855,10 @@ http://cdd11.com/live/7125938483/5158/321927.ts
 http://cdd11.com/live/7125938483/5158/358393.ts
 #EXTINF:-1 group-title="Canais | Record" tvg-logo="http://lgfp.one/QBX8" tvg-id="",SBT VTV Santos Campinas [SD]
 http://cdd11.com/live/7125938483/5158/353897.ts
+#EXTINF:-1 group-title="Canais | Record" tvg-logo="http://lgfp.one/AGQ" tvg-id="",RECORDTV SP [FHD][H265]
+http://cdd11.com/live/7125938483/5158/407767.ts
+#EXTINF:-1 group-title="Canais | Record" tvg-logo="http://lgfp.one/QBZ5" tvg-id="",RECORDTV GOIANIA [FHD][H265]
+http://cdd11.com/live/7125938483/5158/407768.ts
 #EXTINF:-1 group-title="Canais | SBT" tvg-logo="http://lgfp.one/REF4" tvg-id="",SBT Alagoas [HD]
 http://cdd11.com/live/7125938483/5158/347185.ts
 #EXTINF:-1 group-title="Canais | SBT" tvg-logo="http://lgfp.one/RNA2" tvg-id="",SBT Allamanda RO [HD]
@@ -3069,19 +3091,19 @@ http://cdd11.com/live/7125938483/5158/571.ts
 http://cdd11.com/live/7125938483/5158/577.ts
 #EXTINF:-1 group-title="Suporte Core" tvg-logo="http://lgfp.one/NWW8" tvg-id="",Core Suporte
 http://cdd11.com/live/7125938483/5158/305474.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",22:00 - México x Equador [FHD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWJ4" tvg-id="",22:00 - México x Equador [FHD]
 http://cdd11.com/live/7125938483/5158/312856.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",22:00 - México x Equador [HD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWJ3" tvg-id="",22:00 - México x Equador [HD]
 http://cdd11.com/live/7125938483/5158/312855.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",20:00 - BotafogoSP x CRB [FHD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWJ2" tvg-id="",20:00 - BotafogoSP x CRB [FHD]
 http://cdd11.com/live/7125938483/5158/312854.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",20:00 - BotafogoSP x CRB [HD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWJ1" tvg-id="",20:00 - BotafogoSP x CRB [HD]
 http://cdd11.com/live/7125938483/5158/312853.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",18:00 - França x Suécia [FHD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWJ0" tvg-id="",18:00 - França x Suécia [FHD]
 http://cdd11.com/live/7125938483/5158/312852.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",18:00 - França x Suécia [HD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWI9" tvg-id="",18:00 - França x Suécia [HD]
 http://cdd11.com/live/7125938483/5158/312851.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",14:00 - Costa do Marfim x Noruega [FHD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWI8" tvg-id="",14:00 - Costa do Marfim x Noruega [FHD]
 http://cdd11.com/live/7125938483/5158/312850.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",14:00 - Costa do Marfim x Noruega [HD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWI7" tvg-id="",14:00 - Costa do Marfim x Noruega [HD]
 http://cdd11.com/live/7125938483/5158/312849.ts
