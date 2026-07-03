@@ -1167,8 +1167,6 @@ http://cdd11.com/live/7125938483/5158/30269.ts
 http://cdd11.com/live/7125938483/5158/140.ts
 #EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://lgfp.one/AKN" tvg-id="São.Paulo/SP..Discovery.Kids.HD.³.br",DISCOVERY KIDS [SD]
 http://cdd11.com/live/7125938483/5158/152.ts
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://lgfp.one/RNC6" tvg-id="",DreamWorks [HD]
-http://cdd11.com/live/7125938483/5158/356726.ts
 #EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://lgfp.one/WJI" tvg-id="São.Paulo/SP..ZooMoo.HD.br",DumDum [FHD]
 http://cdd11.com/live/7125938483/5158/108988.ts
 #EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://lgfp.one/WJI" tvg-id="São.Paulo/SP..ZooMoo.HD.br",DumDum [FHD][H265]
@@ -1783,7 +1781,7 @@ http://cdd11.com/live/7125938483/5158/388.ts
 http://cdd11.com/live/7125938483/5158/423.ts
 #EXTINF:-1 group-title="Canais | Globo Capital" tvg-logo="http://97j91.xyz/images/logos/eccf7d732d94464e73dab755d7fe8bbb.png" tvg-id="",Globo Nacional [FHD]
 http://cdd11.com/live/7125938483/5158/360389.ts
-#EXTINF:-1 group-title="Canais | Globo Capital" tvg-logo="http://linesource.cc:8080/live/UtkYlFatmn/O70iMJPyHx/2376.ts" tvg-id="",Globo NOW [HD]
+#EXTINF:-1 group-title="Canais | Globo Capital" tvg-logo="http://lgfp.one/UKV8" tvg-id="",Globo NOW [HD]
 http://cdd11.com/live/7125938483/5158/376610.ts
 #EXTINF:-1 group-title="Canais | Globo Capital" tvg-logo="http://lgfp.one/VCK" tvg-id="Globo RJ FHD",GLOBO RJ [FHD]
 http://cdd11.com/live/7125938483/5158/352.ts
@@ -2985,7 +2983,7 @@ http://cdd11.com/live/7125938483/5158/331330.ts
 http://cdd11.com/live/7125938483/5158/353893.ts
 #EXTINF:-1 group-title="Canais | SBT" tvg-logo="http://lgfp.one/QBX8" tvg-id="",SBT VTV Santos Campinas [HD]
 http://cdd11.com/live/7125938483/5158/353896.ts
-#EXTINF:-1 group-title="Canais | SBT" tvg-logo="http://linesource.cc:8080/live/UtkYlFatmn/O70iMJPyHx/8676.ts" tvg-id="",SBT [HD]
+#EXTINF:-1 group-title="Canais | SBT" tvg-logo="http://lgfp.one/ROV5" tvg-id="",SBT [HD]
 http://cdd11.com/live/7125938483/5158/358387.ts
 #EXTINF:-1 group-title="Canais | SBT" tvg-logo="http://lgfp.one/ROV5" tvg-id="",SBT [SD]
 http://cdd11.com/live/7125938483/5158/358386.ts
@@ -3093,19 +3091,19 @@ http://cdd11.com/live/7125938483/5158/571.ts
 http://cdd11.com/live/7125938483/5158/577.ts
 #EXTINF:-1 group-title="Suporte Core" tvg-logo="http://lgfp.one/NWW8" tvg-id="",Core Suporte
 http://cdd11.com/live/7125938483/5158/305474.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",21:00 - Fortaleza x Ponte Preta [FHD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",22:00 - Colômbia x Gana [FHD]
 http://cdd11.com/live/7125938483/5158/312856.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",21:00 - Fortaleza x Ponte Preta [HD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",22:00 - Colômbia x Gana [HD]
 http://cdd11.com/live/7125938483/5158/312855.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",20:00 - Portugal x Croácia [FHD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",19:00 - Argentina x Cabo Verde [FHD]
 http://cdd11.com/live/7125938483/5158/312854.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",20:00 - Portugal x Croácia [HD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",19:00 - Argentina x Cabo Verde [HD]
 http://cdd11.com/live/7125938483/5158/312853.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",20:00 - Cuiabá x AméricaMG [FHD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",15:00 - Austrália x Egito [FHD]
 http://cdd11.com/live/7125938483/5158/312852.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",20:00 - Cuiabá x AméricaMG [HD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",15:00 - Austrália x Egito [HD]
 http://cdd11.com/live/7125938483/5158/312851.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",16:00 - Espanha x Áustria [FHD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",00:00 - Suíça x Argélia [FHD]
 http://cdd11.com/live/7125938483/5158/312850.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",16:00 - Espanha x Áustria [HD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",00:00 - Suíça x Argélia [HD]
 http://cdd11.com/live/7125938483/5158/312849.ts
