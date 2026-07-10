@@ -301,12 +301,6 @@ http://cdd11.com/live/7125938483/5158/30194.ts
 http://cdd11.com/live/7125938483/5158/112.ts
 #EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://lgfp.one/AJK" tvg-id="São.Paulo/SP..Modo.viagem.HD.br",MODO VIAGEM [SD]
 http://cdd11.com/live/7125938483/5158/121.ts
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://lgfp.one/ROV0" tvg-id="",MTV Catfish [HD]
-http://cdd11.com/live/7125938483/5158/358379.ts
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://lgfp.one/ROC6" tvg-id="",MTV Dating [HD]
-http://cdd11.com/live/7125938483/5158/357671.ts
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/MTV_Live.svg" tvg-id="",MTV Reality [HD]
-http://cdd11.com/live/7125938483/5158/358080.ts
 #EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://lgfp.one/AJN" tvg-id="São.Paulo/SP..Polishop.TV.br",POLISHOP TV [SD]
 http://cdd11.com/live/7125938483/5158/124.ts
 #EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://lgfp.one/AJN" tvg-id="",Polishop [HD]
@@ -361,8 +355,6 @@ http://cdd11.com/live/7125938483/5158/30298.ts
 http://cdd11.com/live/7125938483/5158/114.ts
 #EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://lgfp.one/AJM" tvg-id="Viva SD",VIVA [SD]
 http://cdd11.com/live/7125938483/5158/123.ts
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="" tvg-id="",MTV: Tinder apresenta mtv beika sapo
-http://cdd11.com/live/7125938483/5158/409971.ts
 #EXTINF:-1 group-title="Canais | Religiosos" tvg-logo="" tvg-id="",Adesso tv [HD]
 http://cdd11.com/live/7125938483/5158/375001.ts
 #EXTINF:-1 group-title="Canais | Religiosos" tvg-logo="http://lgfp.one/QEA7" tvg-id="São.Paulo/SP..Boa.Vontade.TV.br",BOA VONTADE [FHD]
@@ -3093,7 +3085,19 @@ http://cdd11.com/live/7125938483/5158/571.ts
 http://cdd11.com/live/7125938483/5158/577.ts
 #EXTINF:-1 group-title="Suporte Core" tvg-logo="http://lgfp.one/NWW8" tvg-id="",Core Suporte
 http://cdd11.com/live/7125938483/5158/305474.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",17:00 - França x Marrocos [FHD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",20:00 - Sport Recife x BotafogoSP [FHD]
 http://cdd11.com/live/7125938483/5158/312856.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",17:00 - França x Marrocos [HD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",20:00 - Sport Recife x BotafogoSP [HD]
 http://cdd11.com/live/7125938483/5158/312855.ts
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",19:00 - Juventude x Vila Nova [FHD]
+http://cdd11.com/live/7125938483/5158/312854.ts
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",19:00 - Juventude x Vila Nova [HD]
+http://cdd11.com/live/7125938483/5158/312853.ts
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",16:00 - Espanha x Bélgica [FHD]
+http://cdd11.com/live/7125938483/5158/312852.ts
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",16:00 - Espanha x Bélgica [HD]
+http://cdd11.com/live/7125938483/5158/312851.ts
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",13:00 - Ajax x AEK Larnaca [FHD]
+http://cdd11.com/live/7125938483/5158/312850.ts
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",13:00 - Ajax x AEK Larnaca [HD]
+http://cdd11.com/live/7125938483/5158/312849.ts
