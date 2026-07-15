@@ -11,7 +11,7 @@ http://cdd11.com/live/7125938483/5158/324.ts
 http://cdd11.com/live/7125938483/5158/199851.ts
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://lgfp.one/ARX0" tvg-id="Adult.Swim.HD.br",ADULT SWIM [FHD][H265]
 http://cdd11.com/live/7125938483/5158/199847.ts
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://lgfp.one/ARX3" tvg-id="ADSM",ADULT SWIM [HD]
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://lgfp.one/ARX3" tvg-id="Example",ADULT SWIM [HD]
 http://cdd11.com/live/7125938483/5158/199850.ts
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://lgfp.one/ARX2" tvg-id="Adult.Swim.HD.br",ADULT SWIM [SD]
 http://cdd11.com/live/7125938483/5158/199849.ts
@@ -27,7 +27,7 @@ http://cdd11.com/live/7125938483/5158/325.ts
 http://cdd11.com/live/7125938483/5158/295.ts
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://lgfp.one/WGX" tvg-id="AXN FHD H.265",AXN [FHD][H265]
 http://cdd11.com/live/7125938483/5158/30206.ts
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://lgfp.one/APX" tvg-id="São.Paulo/SP..AXN.HD.³.br",AXN [HD]
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://lgfp.one/APX" tvg-id="AXN HD [Alter]",AXN [HD]
 http://cdd11.com/live/7125938483/5158/301.ts
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://lgfp.one/AQT" tvg-id="AXN SD",AXN [SD]
 http://cdd11.com/live/7125938483/5158/326.ts
@@ -79,11 +79,11 @@ http://cdd11.com/live/7125938483/5158/30218.ts
 http://cdd11.com/live/7125938483/5158/310.ts
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://lgfp.one/ARC" tvg-id="Megapix SD [Alter]",MEGAPIX [SD]
 http://cdd11.com/live/7125938483/5158/335.ts
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://lgfp.one/NOI4" tvg-id="",Paramount Channel [FHD]
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://lgfp.one/NOI4" tvg-id="Paramount FHD",Paramount Channel [FHD]
 http://cdd11.com/live/7125938483/5158/300930.ts
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://lgfp.one/NOI5" tvg-id="",Paramount Channel [HD]
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://lgfp.one/NOI5" tvg-id="Paramount HD",Paramount Channel [HD]
 http://cdd11.com/live/7125938483/5158/300931.ts
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://lgfp.one/NOI6" tvg-id="",Paramount Channel [SD]
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://lgfp.one/NOI6" tvg-id="Paramount SD",Paramount Channel [SD]
 http://cdd11.com/live/7125938483/5158/300932.ts
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="" tvg-id="",Playpoca Filmes [HD]
 http://cdd11.com/live/7125938483/5158/357758.ts
@@ -107,15 +107,15 @@ http://cdd11.com/live/7125938483/5158/356717.ts
 http://cdd11.com/live/7125938483/5158/356679.ts
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://lgfp.one/RMY5" tvg-id="",Run: Time TV & Filmes [HD]
 http://cdd11.com/live/7125938483/5158/356719.ts
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://lgfp.one/AOX" tvg-id="São.Paulo/SP..Sony.br",SONY CHANNEL [FHD]
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://lgfp.one/AOX" tvg-id="Canal Sony HD [Alter]",SONY CHANNEL [FHD]
 http://cdd11.com/live/7125938483/5158/274.ts
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://lgfp.one/WJN" tvg-id="São.Paulo/SP..Sony.HD.³.br",SONY CHANNEL [FHD][H265]
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://lgfp.one/WJN" tvg-id="Canal Sony FHD H.265",SONY CHANNEL [FHD][H265]
 http://cdd11.com/live/7125938483/5158/30216.ts
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://lgfp.one/APY" tvg-id="São.Paulo/SP..Sony.HD.³.br",SONY CHANNEL [HD]
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://lgfp.one/APY" tvg-id="Canal Sony FHD",SONY CHANNEL [HD]
 http://cdd11.com/live/7125938483/5158/302.ts
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://lgfp.one/AQU" tvg-id="Canal Sony HD",SONY CHANNEL [SD]
 http://cdd11.com/live/7125938483/5158/327.ts
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://lgfp.one/QEB4" tvg-id="",Sony movies [HD]
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://lgfp.one/QEB4" tvg-id="Sony.Movies.Brazil.br",Sony movies [HD]
 http://cdd11.com/live/7125938483/5158/333832.ts
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://lgfp.one/ROJ9" tvg-id="",Sony One Classics [HD]
 http://cdd11.com/live/7125938483/5158/357903.ts
@@ -165,17 +165,17 @@ http://cdd11.com/live/7125938483/5158/148424.ts
 http://cdd11.com/live/7125938483/5158/148422.ts
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://lgfp.one/AAKS" tvg-id="São.Paulo/SP..Tnt.novelas.br",TNT NOVELAS [SD]
 http://cdd11.com/live/7125938483/5158/148423.ts
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://lgfp.one/APL" tvg-id="São.Paulo/SP..TNT.SÉRIES.HD.br",TNT SERIES [FHD]
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://lgfp.one/APL" tvg-id="TNT Series HD [Alter]",TNT SERIES [FHD]
 http://cdd11.com/live/7125938483/5158/288.ts
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://lgfp.one/WHH" tvg-id="FRANCE.24.HD.br",TNT SERIES [FHD][H265]
 http://cdd11.com/live/7125938483/5158/30225.ts
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://lgfp.one/AQL" tvg-id="FRANCE.24.HD.br",TNT SERIES [HD]
 http://cdd11.com/live/7125938483/5158/316.ts
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://lgfp.one/ARI" tvg-id="São.Paulo/SP..TNT.SÉRIES.HD.br",TNT SERIES [SD]
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://lgfp.one/ARI" tvg-id="TNTSerie.br",TNT SERIES [SD]
 http://cdd11.com/live/7125938483/5158/342.ts
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://lgfp.one/APK" tvg-id="São.Paulo/SP..TNT.br",TNT [FHD]
 http://cdd11.com/live/7125938483/5158/287.ts
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://lgfp.one/WHG" tvg-id="São.Paulo/SP..Mega.TV.br",TNT [FHD][H265]
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://lgfp.one/WHG" tvg-id="TNT FHD H.265",TNT [FHD][H265]
 http://cdd11.com/live/7125938483/5158/30224.ts
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://lgfp.one/AQK" tvg-id="São.Paulo/SP..TNT.HD.³.br",TNT [HD]
 http://cdd11.com/live/7125938483/5158/315.ts
@@ -185,7 +185,7 @@ http://cdd11.com/live/7125938483/5158/341.ts
 http://cdd11.com/live/7125938483/5158/290.ts
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://lgfp.one/WJQ" tvg-id="523349",UNIVERSAL CHANNEL [FHD][H265]
 http://cdd11.com/live/7125938483/5158/30230.ts
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://lgfp.one/AQM" tvg-id="",UNIVERSAL CHANNEL [HD]
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://lgfp.one/AQM" tvg-id="Universal Channel FHD",UNIVERSAL CHANNEL [HD]
 http://cdd11.com/live/7125938483/5158/317.ts
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://lgfp.one/ARJ" tvg-id="Universal Channel SD [Alter]",UNIVERSAL CHANNEL [SD]
 http://cdd11.com/live/7125938483/5158/343.ts
@@ -201,13 +201,13 @@ http://cdd11.com/live/7125938483/5158/316230.ts
 http://cdd11.com/live/7125938483/5158/316228.ts
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://lgfp.one/PDG8" tvg-id="",USA [SD]
 http://cdd11.com/live/7125938483/5158/316229.ts
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://lgfp.one/APT" tvg-id="São.Paulo/SP..Warner.Channel.br",WARNER CHANNEL [FHD]
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://lgfp.one/APT" tvg-id="Warner Channel FHD [Alter]",WARNER CHANNEL [FHD]
 http://cdd11.com/live/7125938483/5158/297.ts
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://lgfp.one/WJP" tvg-id="São.Paulo/SP..Warner.Channel.br",WARNER CHANNEL [FHD][H265]
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://lgfp.one/WJP" tvg-id="Warner Channel FHD H.265",WARNER CHANNEL [FHD][H265]
 http://cdd11.com/live/7125938483/5158/30226.ts
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://lgfp.one/AQN" tvg-id="São.Paulo/SP..Warner.Channel.br",WARNER CHANNEL [HD]
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://lgfp.one/AQN" tvg-id="Warner Channel HD [Alter]",WARNER CHANNEL [HD]
 http://cdd11.com/live/7125938483/5158/319.ts
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://lgfp.one/ARL" tvg-id="São.Paulo/SP..Warner.Channel.br",WARNER CHANNEL [SD]
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://lgfp.one/ARL" tvg-id="Warner Channel SD",WARNER CHANNEL [SD]
 http://cdd11.com/live/7125938483/5158/345.ts
 #EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://lgfp.one/QBT6" tvg-id="",Acelerados [HD]
 http://cdd11.com/live/7125938483/5158/331284.ts
@@ -755,7 +755,7 @@ http://cdd11.com/live/7125938483/5158/357890.ts
 http://cdd11.com/live/7125938483/5158/113585.ts
 #EXTINF:-1 group-title="Canais | Band" tvg-logo="http://lgfp.one/VVG" tvg-id="Band SP HD [Alter]",BAND SP [HD]
 http://cdd11.com/live/7125938483/5158/113584.ts
-#EXTINF:-1 group-title="Canais | Band" tvg-logo="http://lgfp.one/VVF" tvg-id="São.Paulo/SP..Band.br",BAND SP [SD]
+#EXTINF:-1 group-title="Canais | Band" tvg-logo="http://lgfp.one/VVF" tvg-id="Band SP SD",BAND SP [SD]
 http://cdd11.com/live/7125938483/5158/113583.ts
 #EXTINF:-1 group-title="Canais | Band" tvg-logo="http://lgfp.one/QCC5" tvg-id="band.vale.br",BAND TAUBATÉ [HD]
 http://cdd11.com/live/7125938483/5158/331660.ts
@@ -783,13 +783,13 @@ http://cdd11.com/live/7125938483/5158/358082.ts
 http://cdd11.com/live/7125938483/5158/407758.ts
 #EXTINF:-1 group-title="Canais | Band" tvg-logo="http://lgfp.one/QCC6" tvg-id="",BAND CEARA [SD]
 http://cdd11.com/live/7125938483/5158/407759.ts
-#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://lgfp.one/AWW" tvg-id="São.Paulo/SP..Band.News.HD.br",BAND NEWS [FHD]
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://lgfp.one/AWW" tvg-id="Band News FHD",BAND NEWS [FHD]
 http://cdd11.com/live/7125938483/5158/510.ts
-#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://lgfp.one/VNA" tvg-id="São.Paulo/SP..Band.News.HD.br",BAND NEWS [FHD][H265]
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://lgfp.one/VNA" tvg-id="Band News FHD H.265",BAND NEWS [FHD][H265]
 http://cdd11.com/live/7125938483/5158/30195.ts
-#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://lgfp.one/AXA" tvg-id="São.Paulo/SP..Band.News.HD.br",BAND NEWS [HD]
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://lgfp.one/AXA" tvg-id="Band News HD [Alter]",BAND NEWS [HD]
 http://cdd11.com/live/7125938483/5158/514.ts
-#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://lgfp.one/VMV" tvg-id="São.Paulo/SP..Band.News.HD.br",BAND NEWS [SD]
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://lgfp.one/VMV" tvg-id="Band News SD",BAND NEWS [SD]
 http://cdd11.com/live/7125938483/5158/520.ts
 #EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://lgfp.one/DPL6" tvg-id="",BM&C [FHD]
 http://cdd11.com/live/7125938483/5158/234097.ts
@@ -821,23 +821,23 @@ http://cdd11.com/live/7125938483/5158/251746.ts
 http://cdd11.com/live/7125938483/5158/249503.ts
 #EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://lgfp.one/EGO9" tvg-id="CNN Brasil SD [Alter]",CNN Brasil Money [SD]
 http://cdd11.com/live/7125938483/5158/251745.ts
-#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://lgfp.one/AWZ" tvg-id="São.Paulo/SP..CNN.Brasil.br",CNN BRASIL [FHD]
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://lgfp.one/AWZ" tvg-id="CNN Brasil FHD",CNN BRASIL [FHD]
 http://cdd11.com/live/7125938483/5158/513.ts
-#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://lgfp.one/VND" tvg-id="São.Paulo/SP..CNN.Brasil.br",CNN BRASIL [FHD][H265]
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://lgfp.one/VND" tvg-id="CNN Brasil FHD [Alter]",CNN BRASIL [FHD][H265]
 http://cdd11.com/live/7125938483/5158/30198.ts
-#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://lgfp.one/AXC" tvg-id="São.Paulo/SP..CNN.Brasil.HD.br",CNN BRASIL [HD]
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://lgfp.one/AXC" tvg-id="CNN Brasil HD",CNN BRASIL [HD]
 http://cdd11.com/live/7125938483/5158/517.ts
-#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://lgfp.one/AXH" tvg-id="São.Paulo/SP..CNN.Brasil.HD.br",CNN BRASIL [SD]
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://lgfp.one/AXH" tvg-id="CNN Brasil SD",CNN BRASIL [SD]
 http://cdd11.com/live/7125938483/5158/523.ts
-#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://lgfp.one/VNS" tvg-id="São.Paulo/SP..CNN.International.br",CNN INTERNACIONAL [HD]
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://lgfp.one/VNS" tvg-id="CNN Internacional SD",CNN INTERNACIONAL [HD]
 http://cdd11.com/live/7125938483/5158/69087.ts
-#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://lgfp.one/AWY" tvg-id="São.Paulo/SP..GloboNews.br",GLOBO NEWS [FHD]
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://lgfp.one/AWY" tvg-id="Globo News FHD",GLOBO NEWS [FHD]
 http://cdd11.com/live/7125938483/5158/512.ts
-#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://lgfp.one/VNB" tvg-id="São.Paulo/SP..GloboNews.br",GLOBO NEWS [FHD][H265]
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://lgfp.one/VNB" tvg-id="Globo News FHD H.265",GLOBO NEWS [FHD][H265]
 http://cdd11.com/live/7125938483/5158/30196.ts
-#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://lgfp.one/AXB" tvg-id="São.Paulo/SP..GloboNews.br",GLOBO NEWS [HD]
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://lgfp.one/AXB" tvg-id="Globo News HD",GLOBO NEWS [HD]
 http://cdd11.com/live/7125938483/5158/516.ts
-#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://lgfp.one/AXG" tvg-id="São.Paulo/SP..GloboNews.br",GLOBO NEWS [SD]
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://lgfp.one/AXG" tvg-id="Globo News SD",GLOBO NEWS [SD]
 http://cdd11.com/live/7125938483/5158/522.ts
 #EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://lgfp.one/VPE" tvg-id="Jovem.Pan.News.br",JOVEM PAN NEWS [FHD]
 http://cdd11.com/live/7125938483/5158/98166.ts
@@ -847,13 +847,13 @@ http://cdd11.com/live/7125938483/5158/98167.ts
 http://cdd11.com/live/7125938483/5158/98165.ts
 #EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://lgfp.one/VPC" tvg-id="Jovem.Pan.News.br",JOVEM PAN NEWS [SD]
 http://cdd11.com/live/7125938483/5158/98128.ts
-#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://lgfp.one/AWX" tvg-id="São.Paulo/SP..Record.News..br",RECORD NEWS [FHD]
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://lgfp.one/AWX" tvg-id="Record News HD",RECORD NEWS [FHD]
 http://cdd11.com/live/7125938483/5158/511.ts
-#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://lgfp.one/VNC" tvg-id="São.Paulo/SP..Record.News..br",RECORD NEWS [FHD][H265]
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://lgfp.one/VNC" tvg-id="Record News HD [Alter]",RECORD NEWS [FHD][H265]
 http://cdd11.com/live/7125938483/5158/30197.ts
-#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://lgfp.one/VMU" tvg-id="São.Paulo/SP..Record.News..br",RECORD NEWS [HD]
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://lgfp.one/VMU" tvg-id="Record News HD",RECORD NEWS [HD]
 http://cdd11.com/live/7125938483/5158/515.ts
-#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://lgfp.one/AXF" tvg-id="São.Paulo/SP..Record.News..br",RECORD NEWS [SD]
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://lgfp.one/AXF" tvg-id="Record News SD",RECORD NEWS [SD]
 http://cdd11.com/live/7125938483/5158/521.ts
 #EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://lgfp.one/RCL8" tvg-id="",SBT NEWS [FHD]
 http://cdd11.com/live/7125938483/5158/348108.ts
@@ -1455,19 +1455,19 @@ http://cdd11.com/live/7125938483/5158/300951.ts
 http://cdd11.com/live/7125938483/5158/300952.ts
 #EXTINF:-1 group-title="Canais | Disney Plus" tvg-logo="http://lgfp.one/NOK6" tvg-id="",DISNEY+ 9 [HD]
 http://cdd11.com/live/7125938483/5158/340202.ts
-#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://lgfp.one/AIX" tvg-id="São.Paulo/SP..E!.HD.br",E! [HD] LEG
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://lgfp.one/AIX" tvg-id="E! Entertainment Television HD",E! [HD] LEG
 http://cdd11.com/live/7125938483/5158/331684.ts
-#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://lgfp.one/QAX4" tvg-id="tnt.br",TNT [FHD] LEG
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://lgfp.one/QAX4" tvg-id="TNT FHD",TNT [FHD] LEG
 http://cdd11.com/live/7125938483/5158/330665.ts
-#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://lgfp.one/QAX8" tvg-id="warner.br",Warner Channel [FHD] LEG
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://lgfp.one/QAX8" tvg-id="Warner Channel FHD [Alter]",Warner Channel [FHD] LEG
 http://cdd11.com/live/7125938483/5158/330669.ts
-#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://lgfp.one/WID" tvg-id="São.Paulo/SP..AXN.HD.³.br",AXN [FHD] LEG
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://lgfp.one/WID" tvg-id="Axn.br",AXN [FHD] LEG
 http://cdd11.com/live/7125938483/5158/122939.ts
-#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://lgfp.one/WIB" tvg-id="São.Paulo/SP..AXN.HD.³.br",AXN [HD] LEG
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://lgfp.one/WIB" tvg-id="AXN HD",AXN [HD] LEG
 http://cdd11.com/live/7125938483/5158/122933.ts
-#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://lgfp.one/WIC" tvg-id="São.Paulo/SP..AXN.HD.³.br",AXN [SD] LEG
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://lgfp.one/WIC" tvg-id="AXN HD",AXN [SD] LEG
 http://cdd11.com/live/7125938483/5158/122934.ts
-#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://lgfp.one/AIX" tvg-id="426145",E! [FHD] LEG
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://lgfp.one/AIX" tvg-id="E! Entertainment Television FHD",E! [FHD] LEG
 http://cdd11.com/live/7125938483/5158/331683.ts
 #EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://lgfp.one/VWN" tvg-id="São.Paulo/SP..HBO.MUNDI.HD.br",HBO MUNDI [FHD] LEG
 http://cdd11.com/live/7125938483/5158/123557.ts
@@ -1509,9 +1509,9 @@ http://cdd11.com/live/7125938483/5158/123510.ts
 http://cdd11.com/live/7125938483/5158/123511.ts
 #EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://lgfp.one/RNC1" tvg-id="",My Time Movie [HD] Leg
 http://cdd11.com/live/7125938483/5158/356716.ts
-#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://lgfp.one/JYX3" tvg-id="São.Paulo/SP..Sony.br",SONY CHANNEL [FHD] LEG
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://lgfp.one/JYX3" tvg-id="Canal Sony FHD",SONY CHANNEL [FHD] LEG
 http://cdd11.com/live/7125938483/5158/130685.ts
-#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://lgfp.one/JYN4" tvg-id="São.Paulo/SP..Sony.br",SONY CHANNEL [HD] LEG
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://lgfp.one/JYN4" tvg-id="Canal Sony HD",SONY CHANNEL [HD] LEG
 http://cdd11.com/live/7125938483/5158/123518.ts
 #EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://lgfp.one/JYN5" tvg-id="Canal Sony SD [Alter]",SONY CHANNEL [SD] LEG
 http://cdd11.com/live/7125938483/5158/123519.ts
@@ -1521,19 +1521,19 @@ http://cdd11.com/live/7125938483/5158/169116.ts
 http://cdd11.com/live/7125938483/5158/123512.ts
 #EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://lgfp.one/WIO" tvg-id="São.Paulo/SP..Space.HD.³.br",SPACE [SD] LEG
 http://cdd11.com/live/7125938483/5158/123513.ts
-#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://lgfp.one/VWK" tvg-id="São.Paulo/SP..Telecine.Cult.br",TELECINE CULT [FHD] LEG
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://lgfp.one/VWK" tvg-id="Telecine Cult HD",TELECINE CULT [FHD] LEG
 http://cdd11.com/live/7125938483/5158/123553.ts
-#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://lgfp.one/VWI" tvg-id="São.Paulo/SP..Telecine.Touch.HD.³.br",TELECINE TOUCH [FHD] LEG
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://lgfp.one/VWI" tvg-id="Telecine Touch FHD [Alter]",TELECINE TOUCH [FHD] LEG
 http://cdd11.com/live/7125938483/5158/123551.ts
-#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://lgfp.one/VWB" tvg-id="São.Paulo/SP..Telecine.Touch.HD.³.br",TELECINE TOUCH [HD] LEG
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://lgfp.one/VWB" tvg-id="Telecine Touch HD",TELECINE TOUCH [HD] LEG
 http://cdd11.com/live/7125938483/5158/123502.ts
-#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://lgfp.one/VWC" tvg-id="São.Paulo/SP..Telecine.Touch.HD.³.br",TELECINE TOUCH [SD] LEG
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://lgfp.one/VWC" tvg-id="Telecine Touch SD",TELECINE TOUCH [SD] LEG
 http://cdd11.com/live/7125938483/5158/123503.ts
-#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://lgfp.one/QAX5" tvg-id="São.Paulo/SP..TNT.SÉRIES.HD.br",TNT Series [FHD] LEG
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://lgfp.one/QAX5" tvg-id="TNT Series FHD [Alter]",TNT Series [FHD] LEG
 http://cdd11.com/live/7125938483/5158/330666.ts
-#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://lgfp.one/WIP" tvg-id="São.Paulo/SP..TNT.SÉRIES.HD.br",TNT SERIES [HD] LEG
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://lgfp.one/WIP" tvg-id="TNT Series HD",TNT SERIES [HD] LEG
 http://cdd11.com/live/7125938483/5158/123514.ts
-#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://lgfp.one/WIQ" tvg-id="São.Paulo/SP..TNT.SÉRIES.HD.br",TNT SERIES [SD] LEG
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://lgfp.one/WIQ" tvg-id="TNT Series SD",TNT SERIES [SD] LEG
 http://cdd11.com/live/7125938483/5158/123515.ts
 #EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://lgfp.one/WIF" tvg-id="São.Paulo/SP..TNT.HD.³.br",TNT [HD] LEG
 http://cdd11.com/live/7125938483/5158/123504.ts
@@ -1543,27 +1543,27 @@ http://cdd11.com/live/7125938483/5158/123505.ts
 http://cdd11.com/live/7125938483/5158/331688.ts
 #EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://lgfp.one/QCF1" tvg-id="São.Paulo/SP...Universal.TV.HD.br",UNIVERSAL TV [HD] LEG
 http://cdd11.com/live/7125938483/5158/331689.ts
-#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://lgfp.one/JYN2" tvg-id="São.Paulo/SP..Warner.Channel.HD.br",WARNER [HD] LEG
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://lgfp.one/JYN2" tvg-id="Warner Channel HD",WARNER [HD] LEG
 http://cdd11.com/live/7125938483/5158/123516.ts
-#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://lgfp.one/JYN3" tvg-id="São.Paulo/SP..Warner.Channel.HD.br",WARNER [SD] LEG
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://lgfp.one/JYN3" tvg-id="Warner Channel SD",WARNER [SD] LEG
 http://cdd11.com/live/7125938483/5158/123517.ts
-#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://lgfp.one/UJE8" tvg-id="",Telecine Action [FHD] [LEG]
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://lgfp.one/UJE8" tvg-id="Telecine Action HD",Telecine Action [FHD] [LEG]
 http://cdd11.com/live/7125938483/5158/406949.ts
-#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://lgfp.one/UJE9" tvg-id="",Telecine Action [HD] [LEG]
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://lgfp.one/UJE9" tvg-id="Telecine Action HD",Telecine Action [HD] [LEG]
 http://cdd11.com/live/7125938483/5158/406950.ts
-#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://lgfp.one/VWK" tvg-id="",Telecine Cult [HD] [LEG]
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://lgfp.one/VWK" tvg-id="Telecine Cult HD",Telecine Cult [HD] [LEG]
 http://cdd11.com/live/7125938483/5158/406951.ts
-#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://lgfp.one/AYQ" tvg-id="",Telecine Fun [FHD] [LEG]
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://lgfp.one/AYQ" tvg-id="Telecine Fun HD",Telecine Fun [FHD] [LEG]
 http://cdd11.com/live/7125938483/5158/406952.ts
-#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://lgfp.one/AYQ" tvg-id="",Telecine Fun [HD] [LEG]
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://lgfp.one/AYQ" tvg-id="Telecine Fun HD",Telecine Fun [HD] [LEG]
 http://cdd11.com/live/7125938483/5158/406953.ts
-#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://lgfp.one/AYR" tvg-id="",Telecine Pipoca [FHD] [LEG]
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://lgfp.one/AYR" tvg-id="Telecine Pipoca FHD [Alter]",Telecine Pipoca [FHD] [LEG]
 http://cdd11.com/live/7125938483/5158/406954.ts
-#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://lgfp.one/AYR" tvg-id="",Telecine Pipoca [HD] [LEG]
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://lgfp.one/AYR" tvg-id="Telecine Pipoca HD",Telecine Pipoca [HD] [LEG]
 http://cdd11.com/live/7125938483/5158/406955.ts
-#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="" tvg-id="",Telecine Premium [FHD][LEG]
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="" tvg-id="Telecine Premium FHD [Alter]",Telecine Premium [FHD][LEG]
 http://cdd11.com/live/7125938483/5158/406956.ts
-#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="" tvg-id="",Telecine Premium [HD] [LEG]
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="" tvg-id="Telecine Premium FHD [Alter]",Telecine Premium [HD] [LEG]
 http://cdd11.com/live/7125938483/5158/406957.ts
 #EXTINF:-1 group-title="Canais | ESPN" tvg-logo="http://lgfp.one/AOA" tvg-id="ESPN FHD",ESPN 1 [FHD]
 http://cdd11.com/live/7125938483/5158/250.ts
@@ -3085,11 +3085,11 @@ http://cdd11.com/live/7125938483/5158/571.ts
 http://cdd11.com/live/7125938483/5158/577.ts
 #EXTINF:-1 group-title="Suporte Core" tvg-logo="http://lgfp.one/NWW8" tvg-id="",Core Suporte
 http://cdd11.com/live/7125938483/5158/305474.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",16:00 - França x Espanha [FHD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",16:00 - Inglaterra x Argentina [FHD]
 http://cdd11.com/live/7125938483/5158/312856.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",16:00 - França x Espanha [HD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",16:00 - Inglaterra x Argentina [HD]
 http://cdd11.com/live/7125938483/5158/312855.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",14:00 - FC Gyor x Vikingur [FHD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",12:00 - Ajax x Bochum [FHD]
 http://cdd11.com/live/7125938483/5158/312854.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",14:00 - FC Gyor x Vikingur [HD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",12:00 - Ajax x Bochum [HD]
 http://cdd11.com/live/7125938483/5158/312853.ts
