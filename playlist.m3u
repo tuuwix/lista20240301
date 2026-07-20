@@ -2953,12 +2953,8 @@ http://cdd11.com/live/7125938483/5158/55.ts
 http://cdd11.com/live/7125938483/5158/174142.ts
 #EXTINF:-1 group-title="Canais | SBT" tvg-logo="http://lgfp.one/QAU7" tvg-id="tv.tambau.br",SBT TAMBAU PB [FHD]
 http://cdd11.com/live/7125938483/5158/330634.ts
-#EXTINF:-1 group-title="Canais | SBT" tvg-logo="http://lgfp.one/QBX8" tvg-id="",SBT Thathi Vale [FHD]
-http://cdd11.com/live/7125938483/5158/353898.ts
 #EXTINF:-1 group-title="Canais | SBT" tvg-logo="http://lgfp.one/QBX8" tvg-id="",SBT Thathi Vale [HD]
 http://cdd11.com/live/7125938483/5158/353899.ts
-#EXTINF:-1 group-title="Canais | SBT" tvg-logo="http://lgfp.one/QBX8" tvg-id="",SBT Thathi Vale [SD]
-http://cdd11.com/live/7125938483/5158/355086.ts
 #EXTINF:-1 group-title="Canais | SBT" tvg-logo="http://lgfp.one/RNA0" tvg-id="",SBT TO [HD]
 http://cdd11.com/live/7125938483/5158/356694.ts
 #EXTINF:-1 group-title="Canais | SBT" tvg-logo="http://lgfp.one/RMZ2" tvg-id="",SBT Tribuna ES [HD]
@@ -3087,15 +3083,15 @@ http://cdd11.com/live/7125938483/5158/571.ts
 http://cdd11.com/live/7125938483/5158/577.ts
 #EXTINF:-1 group-title="Suporte Core" tvg-logo="http://lgfp.one/NWW8" tvg-id="",Core Suporte
 http://cdd11.com/live/7125938483/5158/305474.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",16:00 - Espanha x Argentina [FHD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWJ4" tvg-id="",16:00 - Espanha x Argentina [FHD]
 http://cdd11.com/live/7125938483/5158/312856.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",16:00 - Espanha x Argentina [HD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWJ3" tvg-id="",16:00 - Espanha x Argentina [HD]
 http://cdd11.com/live/7125938483/5158/312855.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",11:00 - Osasco Sporting x Juventus da Mooca [FHD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWJ2" tvg-id="",11:00 - Osasco Sporting x Juventus da Mooca [FHD]
 http://cdd11.com/live/7125938483/5158/312854.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",11:00 - Osasco Sporting x Juventus da Mooca [HD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWJ1" tvg-id="",11:00 - Osasco Sporting x Juventus da Mooca [HD]
 http://cdd11.com/live/7125938483/5158/312853.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",10:00 - EC São Bernardo x Santo André [FHD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWJ0" tvg-id="",10:00 - EC São Bernardo x Santo André [FHD]
 http://cdd11.com/live/7125938483/5158/312852.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",10:00 - EC São Bernardo x Santo André [HD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWI9" tvg-id="",10:00 - EC São Bernardo x Santo André [HD]
 http://cdd11.com/live/7125938483/5158/312851.ts
