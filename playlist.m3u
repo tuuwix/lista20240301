@@ -1309,22 +1309,6 @@ http://cdd11.com/live/7125938483/5158/246835.ts
 http://cdd11.com/live/7125938483/5158/246834.ts
 #EXTINF:-1 group-title="Canais | GOAT" tvg-logo="http://lgfp.one/ORP2" tvg-id="",Canal Goat [SD]
 http://cdd11.com/live/7125938483/5158/246833.ts
-#EXTINF:-1 group-title="Canais | Casa do Patrão" tvg-logo="http://lgfp.one/SWV7" tvg-id="",Casa do patrão | Casa Convivência
-http://cdd11.com/live/7125938483/5158/385961.ts
-#EXTINF:-1 group-title="Canais | Casa do Patrão" tvg-logo="http://lgfp.one/SWV3" tvg-id="",Casa do Patrão | Multicam 1
-http://cdd11.com/live/7125938483/5158/385857.ts
-#EXTINF:-1 group-title="Canais | Casa do Patrão" tvg-logo="http://lgfp.one/SWW2" tvg-id="",Casa do patrão | Multicam 2
-http://cdd11.com/live/7125938483/5158/385966.ts
-#EXTINF:-1 group-title="Canais | Casa do Patrão" tvg-logo="http://lgfp.one/SWV6" tvg-id="",Casa do patrão | Piscina
-http://cdd11.com/live/7125938483/5158/385960.ts
-#EXTINF:-1 group-title="Canais | Casa do Patrão" tvg-logo="http://lgfp.one/SWW0" tvg-id="",Casa do patrão | Quarto coletivo (Casa trampo)
-http://cdd11.com/live/7125938483/5158/385964.ts
-#EXTINF:-1 group-title="Canais | Casa do Patrão" tvg-logo="http://lgfp.one/SWV8" tvg-id="",Casa do patrão | Quarto dos Parças
-http://cdd11.com/live/7125938483/5158/385962.ts
-#EXTINF:-1 group-title="Canais | Casa do Patrão" tvg-logo="http://lgfp.one/SWW1" tvg-id="",Casa do patrão | Sala e Cozinha (Casa Trampo)
-http://cdd11.com/live/7125938483/5158/385965.ts
-#EXTINF:-1 group-title="Canais | Casa do Patrão" tvg-logo="http://lgfp.one/SWV9" tvg-id="",Casa do patrão | Suíte do patrão
-http://cdd11.com/live/7125938483/5158/385963.ts
 #EXTINF:-1 group-title="Canais | CazeTV" tvg-logo="http://lgfp.one/VMB" tvg-id="",Caze TV 1 [HD] [1]
 http://cdd11.com/live/7125938483/5158/300314.ts
 #EXTINF:-1 group-title="Canais | CazeTV" tvg-logo="http://lgfp.one/VMB" tvg-id="",CAZE TV 1 [HD] [3]
@@ -3033,7 +3017,7 @@ http://cdd11.com/live/7125938483/5158/356680.ts
 http://cdd11.com/live/7125938483/5158/375049.ts
 #EXTINF:-1 group-title="Canais | SportyNET" tvg-logo="http://lgfp.one/OOK2" tvg-id="",SPORTYNET 7
 http://cdd11.com/live/7125938483/5158/400831.ts
-#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://lgfp.one/AYP" tvg-id="São.Paulo/SP..Telecine.Action.HD.³.br",TELECINE ACTION [FHD]
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://lgfp.one/AYP" tvg-id="Telecine Action HD",TELECINE ACTION [FHD]
 http://cdd11.com/live/7125938483/5158/562.ts
 #EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://lgfp.one/VSQ" tvg-id="523346",TELECINE ACTION [FHD][H265]
 http://cdd11.com/live/7125938483/5158/30242.ts
@@ -3059,7 +3043,7 @@ http://cdd11.com/live/7125938483/5158/570.ts
 http://cdd11.com/live/7125938483/5158/576.ts
 #EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://lgfp.one/AYR" tvg-id="Telecine Pipoca FHD",TELECINE PIPOCA [FHD]
 http://cdd11.com/live/7125938483/5158/564.ts
-#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://lgfp.one/VST" tvg-id="São.Paulo/SP..Telecine.Pipoca.HD.³.br",TELECINE PIPOCA [FHD][H265]
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://lgfp.one/VST" tvg-id="Telecine Pipoca SD",TELECINE PIPOCA [FHD][H265]
 http://cdd11.com/live/7125938483/5158/30245.ts
 #EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://lgfp.one/AYZ" tvg-id="Telecine Pipoca HD [Alter]",TELECINE PIPOCA [HD]
 http://cdd11.com/live/7125938483/5158/572.ts
@@ -3073,25 +3057,45 @@ http://cdd11.com/live/7125938483/5158/30246.ts
 http://cdd11.com/live/7125938483/5158/573.ts
 #EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://lgfp.one/AZG" tvg-id="Telecine Premium SD",TELECINE PREMIUM [SD]
 http://cdd11.com/live/7125938483/5158/579.ts
-#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://lgfp.one/AYT" tvg-id="426159",TELECINE TOUCH [FHD]
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://lgfp.one/AYT" tvg-id="Telecine Touch SD",TELECINE TOUCH [FHD]
 http://cdd11.com/live/7125938483/5158/566.ts
 #EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://lgfp.one/VSV" tvg-id="Telecine Touch FHD H.265",TELECINE TOUCH [FHD][H265]
 http://cdd11.com/live/7125938483/5158/30247.ts
 #EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://lgfp.one/AYY" tvg-id="Telecine Touch HD",TELECINE TOUCH [HD]
 http://cdd11.com/live/7125938483/5158/571.ts
-#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://lgfp.one/AZE" tvg-id="São.Paulo/SP..Telecine.Touch.HD.³.br",TELECINE TOUCH [SD]
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://lgfp.one/AZE" tvg-id="Telecine Touch SD",TELECINE TOUCH [SD]
 http://cdd11.com/live/7125938483/5158/577.ts
 #EXTINF:-1 group-title="Suporte Core" tvg-logo="http://lgfp.one/NWW8" tvg-id="",Core Suporte
 http://cdd11.com/live/7125938483/5158/305474.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWJ4" tvg-id="",16:00 - Espanha x Argentina [FHD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",21:35 - Vila Nova x Fortaleza [FHD]
 http://cdd11.com/live/7125938483/5158/312856.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWJ3" tvg-id="",16:00 - Espanha x Argentina [HD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",21:35 - Vila Nova x Fortaleza [HD]
 http://cdd11.com/live/7125938483/5158/312855.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWJ2" tvg-id="",11:00 - Osasco Sporting x Juventus da Mooca [FHD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",21:30 - UCV x Santos [FHD]
 http://cdd11.com/live/7125938483/5158/312854.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWJ1" tvg-id="",11:00 - Osasco Sporting x Juventus da Mooca [HD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",21:30 - UCV x Santos [HD]
 http://cdd11.com/live/7125938483/5158/312853.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWJ0" tvg-id="",10:00 - EC São Bernardo x Santo André [FHD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",19:30 - AtléticoMG x Bahia [FHD]
 http://cdd11.com/live/7125938483/5158/312852.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWI9" tvg-id="",10:00 - EC São Bernardo x Santo André [HD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",19:30 - AtléticoMG x Bahia [HD]
 http://cdd11.com/live/7125938483/5158/312851.ts
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",19:30 - Novorizontino x Criciúma [FHD]
+http://cdd11.com/live/7125938483/5158/312850.ts
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",19:30 - Novorizontino x Criciúma [HD]
+http://cdd11.com/live/7125938483/5158/312849.ts
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",19:30 - Avaí x AméricaMG [FHD]
+http://cdd11.com/live/7125938483/5158/312848.ts
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",19:30 - Avaí x AméricaMG [HD]
+http://cdd11.com/live/7125938483/5158/312847.ts
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",19:00 - Nacional x Tigre [FHD]
+http://cdd11.com/live/7125938483/5158/312846.ts
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",19:00 - Nacional x Tigre [HD]
+http://cdd11.com/live/7125938483/5158/312845.ts
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",15:30 - Sturm Graz x Heart of Midlothian [FHD]
+http://cdd11.com/live/7125938483/5158/312844.ts
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",15:30 - Sturm Graz x Heart of Midlothian [HD]
+http://cdd11.com/live/7125938483/5158/312843.ts
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",13:00 - AraratArmenia x Shamrock Rovers [FHD]
+http://cdd11.com/live/7125938483/5158/312842.ts
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",13:00 - AraratArmenia x Shamrock Rovers [HD]
+http://cdd11.com/live/7125938483/5158/312841.ts
