@@ -2567,7 +2567,7 @@ http://cdd11.com/live/7125938483/5158/355092.ts
 http://cdd11.com/live/7125938483/5158/330633.ts
 #EXTINF:-1 group-title="Canais | Record" tvg-logo="http://lgfp.one/QAU6" tvg-id="",RecordTV Correio PB [SD]
 http://cdd11.com/live/7125938483/5158/355093.ts
-#EXTINF:-1 group-title="Canais | Record" tvg-logo="http://lgfp.one/AHE" tvg-id="Record DF SD",RECORDTV DF [HD]
+#EXTINF:-1 group-title="Canais | Record" tvg-logo="http://lgfp.one/AHE" tvg-id="Record DF HD",RECORDTV DF [HD]
 http://cdd11.com/live/7125938483/5158/60.ts
 #EXTINF:-1 group-title="Canais | Record" tvg-logo="http://lgfp.one/VBK" tvg-id="record.goias.br",RECORDTV GO [FHD]
 http://cdd11.com/live/7125938483/5158/120717.ts
@@ -2949,47 +2949,31 @@ http://cdd11.com/live/7125938483/5158/571.ts
 http://cdd11.com/live/7125938483/5158/577.ts
 #EXTINF:-1 group-title="Suporte Core" tvg-logo="http://lgfp.one/NWW8" tvg-id="",Core Suporte
 http://cdd11.com/live/7125938483/5158/305474.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWJ4" tvg-id="",21:30 - Lanús x Cienciano [FHD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWJ4" tvg-id="",21:30 - Boca Juniors x O’Higgins [FHD]
 http://cdd11.com/live/7125938483/5158/312856.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWJ3" tvg-id="",21:30 - Lanús x Cienciano [HD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWJ3" tvg-id="",21:30 - Boca Juniors x O’Higgins [HD]
 http://cdd11.com/live/7125938483/5158/312855.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWJ2" tvg-id="",21:30 - Sporting Cristal x Red Bull Bragantino [FHD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWJ2" tvg-id="",21:30 - BotafogoSP x Juventude [FHD]
 http://cdd11.com/live/7125938483/5158/312854.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWJ1" tvg-id="",21:30 - Sporting Cristal x Red Bull Bragantino [HD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWJ1" tvg-id="",21:30 - BotafogoSP x Juventude [HD]
 http://cdd11.com/live/7125938483/5158/312853.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWJ0" tvg-id="",21:30 - São Paulo x Athletico [FHD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWJ0" tvg-id="",20:30 - Cuiabá x AtléticoGO [FHD]
 http://cdd11.com/live/7125938483/5158/312852.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWI9" tvg-id="",21:30 - São Paulo x Athletico [HD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWI9" tvg-id="",20:30 - Cuiabá x AtléticoGO [HD]
 http://cdd11.com/live/7125938483/5158/312851.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWI8" tvg-id="",21:30 - Chapecoense x Flamengo [FHD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWI8" tvg-id="",19:30 - Botafogo x Vitória [FHD]
 http://cdd11.com/live/7125938483/5158/312850.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWI7" tvg-id="",21:30 - Chapecoense x Flamengo [HD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWI7" tvg-id="",19:30 - Botafogo x Vitória [HD]
 http://cdd11.com/live/7125938483/5158/312849.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWI6" tvg-id="",21:30 - Internacional x Cruzeiro [FHD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWI6" tvg-id="",19:30 - Corinthians x Remo [FHD]
 http://cdd11.com/live/7125938483/5158/312848.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWI5" tvg-id="",21:30 - Internacional x Cruzeiro [HD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWI5" tvg-id="",19:30 - Corinthians x Remo [HD]
 http://cdd11.com/live/7125938483/5158/312847.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWI4" tvg-id="",21:30 - Náutico x Londrina [FHD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWI4" tvg-id="",19:30 - Athletic x São Bernardo [FHD]
 http://cdd11.com/live/7125938483/5158/312846.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWI3" tvg-id="",21:30 - Náutico x Londrina [HD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWI3" tvg-id="",19:30 - Athletic x São Bernardo [HD]
 http://cdd11.com/live/7125938483/5158/312845.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWI2" tvg-id="",20:30 - Goiás x Sport Recife [FHD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWI2" tvg-id="",19:00 - Bolívar x Grêmio [FHD]
 http://cdd11.com/live/7125938483/5158/312844.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWI1" tvg-id="",20:30 - Goiás x Sport Recife [HD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWI1" tvg-id="",19:00 - Bolívar x Grêmio [HD]
 http://cdd11.com/live/7125938483/5158/312843.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWI0" tvg-id="",19:30 - Coritiba x Palmeiras [FHD]
-http://cdd11.com/live/7125938483/5158/312842.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWH9" tvg-id="",19:30 - Coritiba x Palmeiras [HD]
-http://cdd11.com/live/7125938483/5158/312841.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWH8" tvg-id="",19:30 - Ceará x CRB [FHD]
-http://cdd11.com/live/7125938483/5158/312840.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWH7" tvg-id="",19:30 - Ceará x CRB [HD]
-http://cdd11.com/live/7125938483/5158/312839.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWH6" tvg-id="",19:30 - Operário Ferroviário x Ponte Preta [FHD]
-http://cdd11.com/live/7125938483/5158/312838.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWH5" tvg-id="",19:30 - Operário Ferroviário x Ponte Preta [HD]
-http://cdd11.com/live/7125938483/5158/312837.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWH2" tvg-id="",19:00 - Independiente Medellín x Vasco da Gama [FHD]
-http://cdd11.com/live/7125938483/5158/312834.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWH1" tvg-id="",19:00 - Independiente Medellín x Vasco da Gama [HD]
-http://cdd11.com/live/7125938483/5158/312833.ts
