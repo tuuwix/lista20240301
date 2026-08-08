@@ -2525,9 +2525,9 @@ http://cdd11.com/live/7125938483/5158/356704.ts
 http://cdd11.com/live/7125938483/5158/358697.ts
 #EXTINF:-1 group-title="Canais | Record" tvg-logo="http://lgfp.one/AHT" tvg-id="tv.pajucara.hd.record.br",RecordTV Alagoas [HD]
 http://cdd11.com/live/7125938483/5158/347187.ts
-#EXTINF:-1 group-title="Canais | Record" tvg-logo="http://lgfp.one/JZA4" tvg-id="Record BA HD",RECORDTV BA [FHD]
+#EXTINF:-1 group-title="Canais | Record" tvg-logo="http://lgfp.one/JZA4" tvg-id="record.tv.bahia.br",RECORDTV BA [FHD]
 http://cdd11.com/live/7125938483/5158/199616.ts
-#EXTINF:-1 group-title="Canais | Record" tvg-logo="http://lgfp.one/AHF" tvg-id="Record BA HD",RECORDTV BA [HD]
+#EXTINF:-1 group-title="Canais | Record" tvg-logo="http://lgfp.one/AHF" tvg-id="record.tv.bahia.br",RECORDTV BA [HD]
 http://cdd11.com/live/7125938483/5158/61.ts
 #EXTINF:-1 group-title="Canais | Record" tvg-logo="http://lgfp.one/QCB8" tvg-id="record.tv.cabralia.br",Recordtv Bahia (TV Cabralia) [FHD]
 http://cdd11.com/live/7125938483/5158/331648.ts
@@ -2565,7 +2565,7 @@ http://cdd11.com/live/7125938483/5158/355092.ts
 http://cdd11.com/live/7125938483/5158/330633.ts
 #EXTINF:-1 group-title="Canais | Record" tvg-logo="http://lgfp.one/UWG7" tvg-id="",RecordTV Correio PB [SD]
 http://cdd11.com/live/7125938483/5158/355093.ts
-#EXTINF:-1 group-title="Canais | Record" tvg-logo="http://lgfp.one/AHE" tvg-id="Record DF HD",RECORDTV DF [HD]
+#EXTINF:-1 group-title="Canais | Record" tvg-logo="http://lgfp.one/AHE" tvg-id="record.brasilia.br",RECORDTV DF [HD]
 http://cdd11.com/live/7125938483/5158/60.ts
 #EXTINF:-1 group-title="Canais | Record" tvg-logo="http://lgfp.one/VBK" tvg-id="record.tv.goias.br",RECORDTV GO [FHD]
 http://cdd11.com/live/7125938483/5158/120717.ts
@@ -2947,11 +2947,11 @@ http://cdd11.com/live/7125938483/5158/571.ts
 http://cdd11.com/live/7125938483/5158/577.ts
 #EXTINF:-1 group-title="Suporte Core" tvg-logo="http://lgfp.one/NWW8" tvg-id="",Core Suporte
 http://cdd11.com/live/7125938483/5158/305474.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWJ4" tvg-id="",20:00 - Corinthians x Internacional [FHD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWJ4" tvg-id="",20:30 - Ceará x Ponte Preta [FHD]
 http://cdd11.com/live/7125938483/5158/312856.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWJ3" tvg-id="",20:00 - Corinthians x Internacional [HD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWJ3" tvg-id="",20:30 - Ceará x Ponte Preta [HD]
 http://cdd11.com/live/7125938483/5158/312855.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWJ2" tvg-id="",20:00 - Vitória x AthleticoPR [FHD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWJ2" tvg-id="",19:30 - OperárioPR x São Bernardo [FHD]
 http://cdd11.com/live/7125938483/5158/312854.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWJ1" tvg-id="",20:00 - Vitória x AthleticoPR [HD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="http://lgfp.one/OWJ1" tvg-id="",19:30 - OperárioPR x São Bernardo [HD]
 http://cdd11.com/live/7125938483/5158/312853.ts
