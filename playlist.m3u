@@ -2737,8 +2737,6 @@ http://cdd11.com/live/7125938483/5158/273618.ts
 http://cdd11.com/live/7125938483/5158/333098.ts
 #EXTINF:-1 group-title="Canais | SBT" tvg-logo="http://lgfp.one/SGW6" tvg-id="sbt.belem.br",SBT BELÉM Pará [FHD]
 http://cdd11.com/live/7125938483/5158/371451.ts
-#EXTINF:-1 group-title="Canais | SBT" tvg-logo="http://lgfp.one/RMZ2" tvg-id="sbt.brasilia.br",SBT Brasilia [FHD]
-http://cdd11.com/live/7125938483/5158/340201.ts
 #EXTINF:-1 group-title="Canais | SBT" tvg-logo="http://lgfp.one/RMZ2" tvg-id="sbt.brasilia.br",SBT BSB [HD]
 http://cdd11.com/live/7125938483/5158/331653.ts
 #EXTINF:-1 group-title="Canais | SBT" tvg-logo="http://lgfp.one/SGW6" tvg-id="sbt.ms.br",SBT Campo Grande MS [HD]
@@ -2847,6 +2845,8 @@ http://cdd11.com/live/7125938483/5158/353896.ts
 http://cdd11.com/live/7125938483/5158/358387.ts
 #EXTINF:-1 group-title="Canais | SBT" tvg-logo="http://lgfp.one/SGW6" tvg-id="sbt.br",SBT [SD]
 http://cdd11.com/live/7125938483/5158/358386.ts
+#EXTINF:-1 group-title="Canais | SBT" tvg-logo="http://lgfp.one/SGW6" tvg-id="",SBT BRASILIA [FHD]
+http://cdd11.com/live/7125938483/5158/439469.ts
 #EXTINF:-1 group-title="Canais | SporTV" tvg-logo="http://lgfp.one/AYH" tvg-id="São.Paulo/SP..SporTV.2.br",SPORTV 2 [FHD]
 http://cdd11.com/live/7125938483/5158/553.ts
 #EXTINF:-1 group-title="Canais | SporTV" tvg-logo="http://lgfp.one/WHV" tvg-id="São.Paulo/SP..SporTV.2.br",SPORTV 2 [FHD][H265]
@@ -2945,7 +2945,15 @@ http://cdd11.com/live/7125938483/5158/571.ts
 http://cdd11.com/live/7125938483/5158/577.ts
 #EXTINF:-1 group-title="Suporte Core" tvg-logo="http://lgfp.one/NWW8" tvg-id="",Core Suporte
 http://cdd11.com/live/7125938483/5158/305474.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",21:30 - Flamengo x Estudiantes [FHD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",21:00 - Sport x Criciúma [FHD]
 http://cdd11.com/live/7125938483/5158/312856.ts
-#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",21:30 - Flamengo x Estudiantes [HD]
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",21:00 - Sport x Criciúma [HD]
 http://cdd11.com/live/7125938483/5158/312855.ts
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",20:00 - Cruzeiro x Remo [FHD]
+http://cdd11.com/live/7125938483/5158/312854.ts
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",20:00 - Cruzeiro x Remo [HD]
+http://cdd11.com/live/7125938483/5158/312853.ts
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",19:30 - Operário x Athletic-MG [FHD]
+http://cdd11.com/live/7125938483/5158/312852.ts
+#EXTINF:-1 group-title="Canais | Jogos do Dia" tvg-logo="https://yt3.googleusercontent.com/OKQQ3T6Osx6C8s4w2AGNdz7P1TKLBe37hRM09FtQJjRVL0SQEfchLeyF3Lg3tmorq3vYJiU-wu8=s900-c-k-c0x00ffffff-no-rj" tvg-id="",19:30 - Operário x Athletic-MG [HD]
+http://cdd11.com/live/7125938483/5158/312851.ts
